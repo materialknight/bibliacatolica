@@ -1,13 +1,29 @@
 #!/bin/bash
 
-#* Regularización de comillas:
+#* Regularización de comillas y de tres puntos:
 
-sed -i -E -e 's/[“”«»]/"/g' "$1"
+sed -i -E \
+   -e 's/[“”]/"/g' \
+   -e 's/[«»]/*/g' \
+   -e "s/[‘’]/'/g" \
+   -e 's/…/.../g' \
+   "$1"
+
+# sed -i -E \
+#    -e 's/[“”«»]/"/g' \
+#    -e "s/[‘’]/'/g" \
+#    -e 's/…/.../g' \
+#    "$1"
+
+#* El texto entre 2 asteriscos nunca debería terminar en coma ni en dos puntos. En tales casos, el siguente código mueve el signo de puntuación afuera del texto inter-asteriscal. Por ejemplo: *"Término a definir":* -> *"Término a definir"*:
+
+sed -i -E \
+   -e 's/\*([A-Za-záéíóúüñÁÉÍÓÚÜÑ" ]+)([:,])\*/*\1*\2/g' \
+   "$1"
 
 #* El código a continuación reemplaza las abreviaturas por el nombre completo (Gn. -> Génesis), y los nombres alternativos, por el nombre usual (I Paralipómenos -> Crónicas).
 
 #* Libros sin abreviatura: Rut, Judit, Job, Eclesiastés, Cantar de los Cantares
-
 
 #* Libros con nombres alternativos:
 #*    I Reyes -> 1 Samuel
