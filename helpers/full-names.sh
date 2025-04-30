@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# (Jon. 4)
 #* Regularización de comillas y de tres puntos:
 
 sed -i -E \
@@ -39,7 +39,10 @@ sed -i -E \
    -e 's/\bGn\. ([0-9]+,)/Génesis \1/g' \
    -e 's/\bEx\. ([0-9]+,)/Éxodo \1/g' \
    -e 's/\bLv\. ([0-9]+,)/Levítico \1/g' \
+   \
    -e 's/\bNúm\. ([0-9]+,)/Números \1/g' \
+   -e 's/\bNm\. ([0-9]+,)/Números \1/g' \
+   \
    -e 's/\bDt\. ([0-9]+,)/Deuteronomio \1/g' \
    -e 's/\bJos\. ([0-9]+,)/Josué \1/g' \
    -e 's/\bJc\. ([0-9]+,)/Jueces \1/g' \
@@ -151,14 +154,18 @@ sed -i -E \
    -e 's/\b2 Ts\. ([0-9]+,)/2 Tesalonicenses \1/g' \
    -e 's/\bII Tesalonicenses ([0-9]+,)/2 Tesalonicenses \1/g' \
    \
+   -e 's/\b1 Tm\. ([0-9]+,)/1 Timoteo \1/g' \
    -e 's/\b1 Tim\. ([0-9]+,)/1 Timoteo \1/g' \
    -e 's/\bI Tim\. ([0-9]+,)/1 Timoteo \1/g' \
    -e 's/\bI Timoteo ([0-9]+,)/1 Timoteo \1/g' \
    \
+   -e 's/\b2 Tm\. ([0-9]+,)/2 Timoteo \1/g' \
    -e 's/\bII Tim\. ([0-9]+,)/2 Timoteo \1/g' \
    -e 's/\bII Timoteo ([0-9]+,)/2 Timoteo \1/g' \
    \
    -e 's/\bTit\. ([0-9]+,)/Tito \1/g' \
+   -e 's/\bTt\. ([0-9]+,)/Tito \1/g' \
+   \
    -e 's/\bFlm\. ([0-9]+)/Filemón \1/g' \
    -e 's/\bHb\. ([0-9]+,)/Hebreos \1/g' \
    \

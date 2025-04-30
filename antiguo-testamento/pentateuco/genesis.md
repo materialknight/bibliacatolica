@@ -3,6 +3,11 @@ layout: page
 title: Génesis
 permalink: /genesis
 ---
+<!--* LO PRIMERO: CORRER helpers/full-names.sh EN LOS COMENTARIOS Y book.sh EN EL TEXTO BÍBLICO -->
+<!--* INTERMEDIO: TRANSFORMAR LAS NOTAS -->
+<!--* INTERMEDIO: TRANSFORMAR LAS REFERENCIAS A NOTAS AL MISMO TIEMPO QUE EL VERSÍCULO QUE LLEVAN A LA PAR -->
+<!--* LO ÚLTIMO: TRANSFORMAR LOS VERSÍCULOS -->
+
 <!--* To transform isolated references -->
  <!-- (\d+), (\d+) -->
  <!-- [$1, $2](#c$1-v$2) -->
@@ -3349,7 +3354,7 @@ Cuando José tenía diez y siete años, apacentaba con sus hermanos los rebaños
 
 #### Jacob bendice a sus hijos
 
-[1](#c49-v1){:#c49-v1} [[410]](#n-410){:#rn-410} Llamó Jacob a sus hijos, y dijo "Reuníos, y os haré conocer las cosas que os han de suceder en los días postreros:
+[1](#c49-v1){:#c49-v1} [[410]](#n-410){:#rn-410} Llamó Jacob a sus hijos, y dijo: "Reuníos, y os haré conocer las cosas que os han de suceder en los días postreros:
 
 [2](#c49-v2){:#c49-v2} Reuníos y oíd, hijos de Jacob, escuchad a Israel, vuestro padre.
 
