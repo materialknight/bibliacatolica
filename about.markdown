@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Info
-permalink: /info/
+permalink: /info
 ---
 
 Este sitio es una versión en línea de la Sagrada Biblia, traducida y comentada por Monseñor Juan Straubinger. Para esta versión en línea, me he basado en estas 3 versiones anteriores (con cuyos editores estoy muy agradecido):
