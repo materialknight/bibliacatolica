@@ -29,10 +29,12 @@ He corregido los errores ortográficos y referenciales que he hallado (que han s
 
 Si encuentras:
 
-- Algún error ortográfico.
-- Alguna referencia cruzada incorrecta (es decir: a un pasaje que no existe o que no tiene nada que ver con el comentario, como en los 2 errores de arriba).
-- Alguna referencia cruzada que no sea un enlace en el que puedas hacer clic para ir al pasaje correspondiente.
-- Algún enlace que lleve al pasaje incorrecto.
+- Un error ortográfico.
+- Una referencia cruzada incorrecta (es decir: a un pasaje que no existe o que no tiene nada que ver con el comentario, como en los 2 errores de arriba).
+- Una referencia cruzada que no sea un enlace en el que puedas hacer clic para ir al pasaje correspondiente.
+- Un enlace que lleve al pasaje incorrecto.
+- Un versículo que falte, que esté repetido, o con el texto incorrecto.
+- Una oración incoherente en algún comentario.
 {:.square}
 
 Por favor ayúdame a mejorar este sitio reportando el error (te lo agradezco de antemano); para ello puedes escribirme al correo que está en el pie de página, o [dar click aquí para ir al repositorio de GitHub de este sitio](https://github.com/materialknight/bibliacatolica), y ahí puedes enviarme una propuesta (*issue*) o corregir el error tú mismo y enviarme una solicitud de incorporación de cambios (*pull request*).

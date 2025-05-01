@@ -140,6 +140,7 @@ sed -i -E \
    \
    -e 's/\bGa\. ([0-9]+,)/Gálatas \1/g' \
    -e 's/\bGal\. ([0-9]+,)/Gálatas \1/g' \
+   -e 's/\bGál\. ([0-9]+,)/Gálatas \1/g' \
    \
    -e 's/\bEf\. ([0-9]+,)/Efesios \1/g' \
    \
