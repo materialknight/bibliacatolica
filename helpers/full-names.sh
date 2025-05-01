@@ -179,7 +179,9 @@ sed -i -E \
    -e 's/\bII Pedro ([0-9]+,)/2 Pedro \1/g' \
    \
    -e 's/\bJud\. ([0-9]+)/Judas \1/g' \
+   \
    -e 's/\bAp\. ([0-9]+,)/Apocalipsis \1/g' \
+   -e 's/\bApoc\. ([0-9]+,)/Apocalipsis \1/g' \
    "$1"
 
 #* Los libros de 1 solo capítulo (Abdías, Filemón, 2 Juan, 3 Juan, Judas) se citan diferente, sin el capítulo, por lo que no hay coma que separe el capítulo del versículo, como sí hay en las referencias a otros libros, por lo tanto, las regex arriba que buscan referencias de estos libros no llevan la coma final que sí llevan las demás; esa coma final se incluye en las demás regex simplemente para que sean más rígidas, reduciendo así la probabilidad de que este script reemplace texto que no debe.

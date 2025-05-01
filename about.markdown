@@ -21,7 +21,7 @@ Me propuse que esta versión fuese más fácil de leer y navegar, con las siguie
 - El número de cada capítulo y versículo es un enlace a sí mismo, para que puedas copiarlo, y así compartir más fácilmente algún pasaje en particular.
 {:.square}
 
-He corregido los errores ortográficos y referenciales que he hallado en las versiones anteriores, de las cuales la última listada es la más correcta. Por ejemplo, las 3 tienen estos 2 errores:
+He corregido los errores ortográficos y referenciales que he hallado (que han sido pocos) en las versiones anteriores, de las cuales la última listada es la más correcta (y la más completa, ya que tiene más comentarios). Por ejemplo, las 3 tienen estos 2 errores:
 
 - En el comentario a Génesis [35, 29](genesis#c35-v29) (comentario [[317]](genesis#n-317)), se nos dice que Isaac era "muy amante de sus padres (26, 67)". El problema es que no existe Génesis 26, 67 (el capítulo [26](genesis#c26) termina en el versículo [35](genesis#c26-v35)). La referencia correcta es Génesis [24, 67](genesis#c24-v67); donde dice que Isaac sufrió mucho por la muerte de su madre Sara, pero halló consuelo en el amor de su esposa Rebeca.
 - En el comentario a Génesis [36, 20](genesis#c36-v20) (comentario [[320]](genesis#n-320)), se nos dice sobre los horreos: "En Seír fueron exterminados por los idumeos (Deuteronomio 2, 12 y [**20**](deuteronomio#c2-v20))", pero la referencia correcta es Deuteronomio 2, 12 y [**22**](deuteronomio#c2-v22).

@@ -1,0 +1,47 @@
+1. Correr helpers/full-names.sh en los comentarios, y book.sh en el texto bíblico.
+2. Editar el texto de las notas.
+3. Corregir el número de las notas y de sus referencias.
+4. Transformar las notas.
+5. Transformar las referencias.
+6. Transformar los versículos.
+
+---
+Regex para transformar notas en libros de 1 capítulo ("[1] 1." => "[[1]](#rn-1){:#n-1} [1](#v1)"):
+\[(\d+)\] (\d+)( s\.| ss\.)?\.?
+[[$1]](#rn-$1){:#n-$1} [$2](#v$2)$3
+
+Regex para transformar notas en libros de más de 1 capítulo ("[1] 1." => "[[1]](#rn-1){:#n-1} [1, 1](#c1-v1)"):
+\[(\d+)\] (\d+)( s\.| ss\.)?\.?
+[[$1]](#rn-$1){:#n-$1} [?, $2](#c?-v$2)$3
+---
+Regex para transformar referencias:
+\[(\d+)\]
+[[$1]](#n-$1){:#rn-$1}
+---
+Regex para transformar versículos en libros de 1 capítulo:
+(\d+)([A-Za-z])
+\n\n[$1](#v$1){:#v$1} $2
+
+Regex para transformar versículos en libros de más de 1 capítulo:
+(\d+)([A-Za-z])
+\n\n[$1](#c?-v$1){:#c?-v$1} $2
+---
+
+
+<!-- Para los capítulos: -->
+<!-- (Génesis \d+) -->
+<!-- ### $1 -->
+
+<!-- Para los subtítulos: -->
+<!-- ^([A-Za-záéíóúüñÁÉÍÓÚÜÑ"\. ]+)$ -->
+<!-- #### $1 -->
+
+<!-- ^([IV]+\. .+) -->
+<!-- ## $1 -->
+
+<!-- Para hallar comillas dobles anidadas dentro de otras dobles -->
+<!-- ".+(").+(").+" -->
+
+<!--* To transform isolated references -->
+ <!-- (\d+), (\d+) -->
+ <!-- [$1, $2](#c$1-v$2) -->

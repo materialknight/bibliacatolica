@@ -3,14 +3,6 @@ layout: page
 title: Carta del apóstol san Judas
 permalink: /judas
 ---
-<!--* LO PRIMERO: CORRER helpers/full-names.sh EN LOS COMENTARIOS Y book.sh EN EL TEXTO BÍBLICO -->
-<!--* INTERMEDIO: TRANSFORMAR LAS NOTAS -->
-<!--* INTERMEDIO: TRANSFORMAR LAS REFERENCIAS A NOTAS AL MISMO TIEMPO QUE EL VERSÍCULO QUE LLEVAN A LA PAR -->
-<!--* LO ÚLTIMO: TRANSFORMAR LOS VERSÍCULOS -->
-
-<!--* Regex para transformar "[1] 1." en "[[1]](#rn-1){:#n-1} [1](#v1)" en la sección de los comentarios de libros de un solo capítulo -->
-<!--\[(\d+)\] (\d+)( s\.| ss\.)\.?-->
-<!--[[$1]](#rn-$1){:#n-$1} [$2](#v$2)$3-->
 
 <input type="button" popovertarget="toc" value="Tabla de Contenido">
 

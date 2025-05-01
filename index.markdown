@@ -117,7 +117,7 @@ Traducida y explicada por Monseñor Juan Straubinger.
    17. [Tito](/tito)
    18. [Filemón](/filemon)
    19. [Hebreos](/hebreos)
-4. {:.sublist-title} ### [Epístolas Católicas](/epistolas-catolicas)
+4. {:.sublist-title} ### Epístolas Católicas
    1. [Carta de Santiago](/santiago)
    2. {:.sublist-title} #### [Cartas de San Pedro](/cartas-de-san-pedro)
       1. [1 Pedro](/1-pedro)
