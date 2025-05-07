@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Génesis
-permalink: /genesis
+title: Intros de Otro Autor
+permalink: /intros-de-otro-autor
 ---
 
 <input type="button" popovertarget="toc" value="Tabla de Contenido">
@@ -35,3 +35,11 @@ La fe de Israel en el Dios creador encontró su máxima expresión literaria en 
 Pero el relato del origen del universo sirve de prólogo a lo que constituye el principal centro de interés de los once primeros capítulos del Génesis, a saber, el drama de la condición humana en el mundo. Los diversos personajes que se van sucediendo, Adán y Eva, Caín y sus descendientes, los pueblos que intentan edificar la torre de Babel, representan arquetípicamente a la humanidad entera que pretende ocupar el puesto de Dios, constituyéndose así en norma última de su propia conducta. Esta pretensión, en lugar de convertir al hombre en dueño de su destino, hizo entrar en el mundo el sufrimiento y la muerte, rompió los lazos fraternales entre los hombres y provocó la dispersión de los pueblos. En el marco de esta historia, Dios va a realizar su designio de salvación.
 
 Para describir este drama, los autores inspirados no recurrieron a formulaciones abstractas. Lo hicieron por medio de una serie de relatos convenientemente ordenados, de hondo contenido simbólico, que llevan la impronta del tiempo y de la cultura en que fueron escritos. Por eso, al leer estos textos, es imprescindible distinguir entre la verdad revelada por Dios, que mantiene su valor y actualidad permanente, y su expresión literaria concreta, que refleja el fondo cultural común a todos los pueblos del Antiguo Oriente.
+
+## Introducción (a Judas)
+
+La **Carta de san Judas** es uno de los escritos más extraños del Nuevo Testamento, porque se opone a ciertos errores que actualmente no resultan del todo claro. En ella se previene a los fieles contra los falsos doctores que corrompían la fe en Jesucristo y pervertían las costumbres cristianas, y se los exhorta a mantener intacta la enseñanza recibida de los Apóstoles.
+
+Esa exhortación se apoya principalmente en ejemplos tomados del Antiguo Testamento (vv. [5](#v5)-16). Este hecho, y la mención de algunas tradiciones contenidas en los escritos apócrifos del Judaísmo, que el autor supone conocidas de sus lectores, hacen pensar que los destinatarios de la Carta eran en buena parte judíos convertidos al Cristianismo. Sin embargo, había también entre ellos algunos convertidos del paganismo que, por su mismo origen, estaban más expuestos al libertinaje moral propiciado por los falsos doctores. La dureza de las amenazas se explica por la gravedad del peligro y por el estilo literario de este escrito, en el que sin duda se inspira la segunda Carta de Pedro.
+
+En cuanto al lugar y fecha de composición de esta Carta, es verosímil que la misma haya sido escrita en Palestina o en Siria, entre los años 70 y 80, cuando ya habían desaparecido los representantes de la primera generación cristiana (v. [17](#v17)). Sin embargo, su autor la atribuye a "Judas", identificado como "hermano de Santiago" (v. [1](#v1)), el pariente de Jesús, que presidía la comunidad de Jerusalén (Gálatas [1, 19](galatas#c1-v19)).

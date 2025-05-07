@@ -1,5 +1,5 @@
 #!/bin/bash
-# (Jon. 4)
+
 #* Regularización de comillas y de tres puntos:
 
 sed -i -E \
@@ -9,21 +9,53 @@ sed -i -E \
    -e 's/…/.../g' \
    "$1"
 
-# sed -i -E \
-#    -e 's/[“”«»]/"/g' \
-#    -e "s/[‘’]/'/g" \
-#    -e 's/…/.../g' \
-#    "$1"
-
 #* El texto entre 2 asteriscos nunca debería terminar en coma ni en dos puntos. En tales casos, el siguente código mueve el signo de puntuación afuera del texto inter-asteriscal. Por ejemplo: *"Término a definir":* -> *"Término a definir"*:
 
 sed -i -E \
    -e 's/\*([A-Za-záéíóúüñÁÉÍÓÚÜÑ" ]+)([:,])\*/*\1*\2/g' \
    "$1"
 
+#* Regularizaciones:
+#* "y ss." -> "ss."
+#* "versículo 19" -> "v. 19"
+#* "versículos 19 ss." -> "vv. 19 ss."
+#* "capítulo 20" -> "cap. 20"
+#* "capítulos 21 s." -> "caps. 21 s."
+
+sed -i -E \
+   -e 's/y ss\./ss\./g' \
+   -e 's/versículo ([0-9]+)/v. \1/g' \
+   -e 's/versículos ([0-9]+)/vv. \1/g' \
+   -e 's/capítulo ([0-9]+)/cap. \1/g' \
+   -e 's/capítulos ([0-9]+)/caps. \1/g' \
+   "$1"
+
+#* Conversión en hipervínculos de algunos pasajes aislados (que no indican libro pero sí capítulo) precedidos por "(V/v)éase" o "(C/c)f." o entre paréntesis (reemplácese manualmente "book" por el libro correcto):
+
+sed -i -E \
+   -e 's/(Cf\.|cf\.|Véase|véase) ([0-9]+), ([0-9]+)/\1 [\2, \3](#c\2-v\3)/g' \
+   -e 's/\(([0-9]+), ([0-9]+)([0-9 s\.\-]*)\)/([\1, \2](book#c\1-v\2)\3)/g' \
+   "$1"
+
+#* Conversión de versículos precedidos de v(v). Reemplácese manualmente "?" por el número de capítulo:
+
+sed -i -E \
+   -e 's/\bv\. ([0-9]+)/v. [\1](#c?-v\1)/g' \
+   -e 's/\bvv\. ([0-9]+)([0-9 s\.\-]*), ([0-9]+)([0-9 s\.\-]*) y ([0-9]+)([0-9 s\.\-]*)/vv. [\1](#c?-v\1)\2, [\3](#c?-v\3)\4 y [\5](#c?-v\5)\6/g' \
+   -e 's/\bvv\. ([0-9]+)([0-9 s\.\-]*) y ([0-9]+)([0-9 s\.\-]*)/vv. [\1](#c?-v\1)\2 y [\3](#c?-v\3)\4/g' \
+   -e 's/\bvv\. ([0-9]+)([0-9 s\.\-]*)/vv. [\1](#c?-v\1)\2/g' \
+   "$1"
+
+#* Conversión de capítulos aislados (que no indican libro)
+# TODO: caps. 16, 17 y 18
+
+sed -i -E \
+   -e 's/cap.//g'
+
+
 #* El código a continuación reemplaza las abreviaturas por el nombre completo (Gn. -> Génesis), y los nombres alternativos, por el nombre usual (I Paralipómenos -> Crónicas).
 
-#* Libros sin abreviatura: Rut, Judit, Job, Eclesiastés, Cantar de los Cantares
+#* Libros sin abreviatura: Rut, Judit, Job, Eclesiastés.
 
 #* Libros con nombres alternativos:
 #*    I Reyes -> 1 Samuel
@@ -33,7 +65,7 @@ sed -i -E \
 #*    I Paralipómenos -> 1 Crónicas
 #*    II Paralipómenos -> 2 Crónicas
 
-#* En los 2 comandos sed de abajo, las referencias a 1 Juan, 2 Juan y 3 Juan (las epístolas) se procesan antes que las de Juan (el evangelio), porque si las referencias a Juan se procesaran primero, "1 Juan 2, 1" se convertiría incorrectamente en "1 Juan [2, 1](juan#c2-v1)".
+#* Las abreviaturas de 1 Juan, 2 Juan y 3 Juan (las epístolas) deben procesarse antes que la de Juan (el evangelio):
 
 sed -i -E \
    -e 's/\bGn\. ([0-9]+,)/Génesis \1/g' \
@@ -78,6 +110,7 @@ sed -i -E \
    \
    -e 's/\bSal\. ([0-9]+,)/Salmo \1/g' \
    -e 's/\bPr\. ([0-9]+,)/Proverbios \1/g' \
+   -e 's/\bCant\. ([0-9]+,)/Cantar de los Cantares \1/g' \
    -e 's/\bSb\. ([0-9]+,)/Sabiduría \1/g' \
    \
    -e 's/\bEclo\. ([0-9]+,)/Eclesiástico \1/g' \
@@ -185,9 +218,31 @@ sed -i -E \
    -e 's/\bApoc\. ([0-9]+,)/Apocalipsis \1/g' \
    "$1"
 
+#* Remoción de "versículo(s)" y "v(v)." de los libros de 1 solo libro.
+
+ONE_CHAPTER_BOOKS='Abdías|Filemón|2 Juan|3 Juan|Judas'
+
+sed -i -E \
+   -e "s/\b(${ONE_CHAPTER_BOOKS}),? (v+\.|versículos?)/\1/g" \
+   "$1"
+
+#* Remoción de "cap(s)."
+
+
+MANY_CHAPTERS_BOOKS='Génesis|Éxodo|Levítico|Números|Deuteronomio|Josué|Jueces|1 Samuel|2 Samuel|1 Reyes|2 Reyes|1 Crónicas|2 Crónicas|Esdras|Nehemías|Tobías|Ester|1 Macabeos|2 Macabeos|Salmos|Proverbios|Cantar de los Cantares|Sabiduría|Eclesiástico|Isaías|Jeremías|Lamentaciones|Baruc|Ezequiel|Daniel|Oseas|Joel|Amós|Jonás|Miqueas|Nahúm|Habacuc|Sofonías|Ageo|Zacarías|Malaquías|Mateo|Marcos|Lucas|1 Juan|Juan|Hechos|Romanos|1 Corintios|2 Corintios|Gálatas|Efesios|Filipenses|Colosenses|1 Tesalonicenses|2 Tesalonicenses|1 Timoteo|2 Timoteo|Tito|Hebreos|Santiago|1 Pedro|2 Pedro|Apocalipsis|Rut|Judit|Job|Eclesiastés'
+
+sed -i -E \
+   -e "s/\b(${MANY_CHAPTERS_BOOKS})[, caps]+\./\1/g" \
+   -e "s/\b(${MANY_CHAPTERS_BOOKS})[, caps]+\./\1/g" \
+
+declare -A BOOK_MAP_A=([Génesis]='genesis' [Éxodo]='exodo' [Levítico]='levitico' [Números]='numeros' [Deuteronomio]='deuteronomio' [Josué]='josue' [Jueces]='jueces' [1 Samuel]='1-samuel' [2 Samuel]='2-samuel' [1 Reyes]='1-reyes' [2 Reyes]='2-reyes' [1 Crónicas]='1-cronicas' [2 Crónicas]='2-cronicas' [Esdras]='esdras' [Nehemías]='nehemias' [Tobías]='tobias' [Ester]='ester' [1 Macabeos]='1-macabeos' [2 Macabeos]='2-macabeos' [Salmos]='salmos' [Proverbios]='proverbios' [Cantar de los Cantares]='cantar-de-los-cantares' [Sabiduría]='sabiduria' [Eclesiástico]='eclesiastico' [Isaías]='isaias' [Jeremías]='jeremias' [Lamentaciones]='lamentaciones' [Baruc]='baruc' [Ezequiel]='ezequiel' [Daniel]='daniel' [Oseas]='oseas' [Joel]='joel' [Amós]='amos' [Jonás]='jonas' [Miqueas]='miqueas' [Nahúm]='nahum' [Habacuc]='habacuc' [Sofonías]='sofonias' [Ageo]='ageo' [Zacarías]='zacarias' [Malaquías]='malaquias' [Mateo]='mateo' [Marcos]='marcos' [Lucas]='lucas' [1 Juan]='1-juan' [Juan]='juan' [Hechos]='hechos' [Romanos]='romanos' [1 Corintios]='1-corintios' [2 Corintios]='2-corintios' [Gálatas]='galatas' [Efesios]='efesios' [Filipenses]='filipenses' [Colosenses]='colosenses' [1 Tesalonicenses]='1-tesalonicenses' [2 Tesalonicenses]='2-tesalonicenses' [1 Timoteo]='1-timoteo' [2 Timoteo]='2-timoteo' [Tito]='tito' [Hebreos]='hebreos' [Santiago]='santiago' [1 Pedro]='1-pedro' [2 Pedro]='2-pedro' [Apocalipsis]='apocalipsis' [Rut]='rut' [Judit]='judit' [Job]='job' [Eclesiastés]='eclesiastes')
+
+
 #* Los libros de 1 solo capítulo (Abdías, Filemón, 2 Juan, 3 Juan, Judas) se citan diferente, sin el capítulo, por lo que no hay coma que separe el capítulo del versículo, como sí hay en las referencias a otros libros, por lo tanto, las regex arriba que buscan referencias de estos libros no llevan la coma final que sí llevan las demás; esa coma final se incluye en las demás regex simplemente para que sean más rígidas, reduciendo así la probabilidad de que este script reemplace texto que no debe.
 
 #* Consecuentemente, los regex abajo que corresponden a los libros de 1 solo capítulo, no incluyen la parte del capítulo en el link generado.
+
+#* Las referencias a 1 Juan, 2 Juan y 3 Juan (las epístolas) deben procesarse antes que las de Juan (el evangelio):
 
 sed -i -E \
    -e 's/Génesis ([0-9]+), ([0-9]+)([0-9 s\.\-]*); ([0-9]+), ([0-9]+)([0-9 s\.\-]*); ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/Génesis [\1, \2](genesis#c\1-v\2)\3; [\4, \5](genesis#c\4-v\5)\6; [\7, \8](genesis#c\7-v\8)\9/g' \
@@ -500,10 +555,6 @@ echo '¡Hecho!'
 #    \
 
 #* El argumento de este script debe ser un libro bíblico en construcción, que solo tenga la introducción y las notas explicativas (sin el texto bíblico, para anular la posibilidad de que este script lo modifique), excepto si el libro tiene título alternativo, en cuyo caso no debe tener tampoco la introducción (pues la introducción explica el nombre alternativo, así que las ocurrencias de este en ella no deben reemplazarse).
-
-#! Cambiar manualmente: Marc., 1, 44; 7, 10; 10, 5; cuerpo de moises nota
-
-#* Para normalizar comillas: « »
 
 #* Regex útiles:
 
