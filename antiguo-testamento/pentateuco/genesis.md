@@ -12,11 +12,11 @@ permalink: /genesis
 {:toc}
 </div>
 
-## I. Desde la Creación del mundo hasta el Diluvio
+## I. Desde la creación del mundo hasta el diluvio
 
 ### Génesis [1](#c1) {#c1}
 
-#### Creación del cielo y de la tierra.
+#### Creación del cielo y de la tierra
 
 [1](#c1-v1){:#c1-v1} [[1]](#n-1){:#rn-1} Al principio creó Dios el cielo y la tierra.
 
@@ -68,7 +68,7 @@ permalink: /genesis
 
 [25](#c1-v25){:#c1-v25} Hizo, pues, Dios las bestias salvajes según su especie, y los animales domésticos según su especie, y todo reptil de la tierra según su especie. Y vio Dios que estaba bien.
 
-#### La creación del hombre.
+#### La creación del hombre
 
 [26](#c1-v26){:#c1-v26} [[14]](#n-14){:#rn-14} Después dijo Dios: "Hagamos al hombre a imagen nuestra, según nuestra semejanza; y domine sobre los peces del mar y las aves del cielo, sobre las bestias domésticas, y sobre toda la tierra y todo reptil que se mueve sobre la tierra".
 
@@ -326,7 +326,7 @@ permalink: /genesis
 
 [32](#c5-v32){:#c5-v32} Noé tenía quinientos años, cuando engendró a Sem, Cam y Jafet.
 
-## II. Desde el Diluvio hasta Abraham
+## II. Desde el diluvio hasta Abraham
 
 ### Génesis [6](#c6) {#c6}
 

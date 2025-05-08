@@ -9,7 +9,14 @@ sed -i -E \
    -e 's/…/.../g' \
    "$1"
 
-#* Encabezados:
+#* Formateo de las referencias a los comentarios, y de los versículos:
+
+sed -i -E \
+   -e 's/([^0-9 ])(\[[0-9]+\])/\1 \2/g' \
+   -e 's/(\[[0-9]+\])([^:;,.])/\1 \2/g' \
+   -e 's/ \[([0-9]+)\]/ [[\1]](#n-\1){:#rn-\1}/g' \
+   -e 's/ ?([0-9]+)([A-Za-zÁÉÍÓÚÑáéíóúñ\[])/\n\n[\1](#c?-v\1){:#c?-v\1} \2/g' \
+   "$1"
 
 MANY_CHAPTERS_BOOKS='Génesis|Éxodo|Levítico|Números|Deuteronomio|Josué|Jueces|1 Samuel|2 Samuel|1 Reyes|2 Reyes|1 Crónicas|2 Crónicas|Esdras|Nehemías|Tobías|Ester|1 Macabeos|2 Macabeos|Salmos|Proverbios|Cantar de los Cantares|Sabiduría|Eclesiástico|Isaías|Jeremías|Lamentaciones|Baruc|Ezequiel|Daniel|Oseas|Joel|Amós|Jonás|Miqueas|Nahúm|Habacuc|Sofonías|Ageo|Zacarías|Malaquías|Mateo|Marcos|Lucas|1 Juan|Juan|Hechos|Romanos|1 Corintios|2 Corintios|Gálatas|Efesios|Filipenses|Colosenses|1 Tesalonicenses|2 Tesalonicenses|1 Timoteo|2 Timoteo|Tito|Hebreos|Santiago|1 Pedro|2 Pedro|Apocalipsis|Rut|Judit|Job|Eclesiastés'
 
@@ -25,11 +32,10 @@ then
       SED_SCRIPTS+=("-e" "s/^${UPPERCASE_BOOK} ([0-9]+)/### ${BOOK_MAP_B[${UPPERCASE_BOOK}]} [\1](#c\1) {#c\1}/g")
    done
 
-   echo "hit if"
-
    sed -i -E \
-      -e 's/^([IVX]+\.)/## \1/g' \
+      -e 's/^([IVX]+\.) (.+)/## \1 \L\u\2/g' \
       "${SED_SCRIPTS[@]}" \
+      -e 's/^[A-Za-zÁÉÍÓÚÑáéíóúñ].+/#### &/g' \
       "$1"
 
 else
@@ -39,14 +45,17 @@ else
       SED_SCRIPTS+=("-e" "s/^${UPPERCASE_BOOK} ([0-9]+)/## ${BOOK_MAP_B[${UPPERCASE_BOOK}]} [\1](#c\1) {#c\1}/g")
    done
 
-   echo "hit else"
-
    sed -i -E \
       "${SED_SCRIPTS[@]}" \
+      -e 's/^[A-Za-zÁÉÍÓÚÑáéíóúñ].+/### &/g' \
       "$1"
 
 fi
 
-echo '¡Hecho!'
 
-# Génesis [1](#c1) {#c1}
+   # -e 's/([A-Za-zÁÉÍÓÚÑáéíóúñ])(\[[0-9]+\])/\1 [/g' \
+   # -e 's/([A-Za-zÁÉÍÓÚÑáéíóúñ])\[/\1 [/g' \
+
+
+# [[17]](#n-17){:#rn-17}
+echo '¡Hecho!'
