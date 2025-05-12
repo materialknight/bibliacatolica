@@ -1,3 +1,9 @@
+Libros ya revisados manualmente:
+
+
+
+
+Workflow:
 1. Correr helpers/full-names.sh en los comentarios, y book.sh en el texto bíblico.
 2. Editar el texto de las notas.
 3. Corregir el número de las notas y de sus referencias.

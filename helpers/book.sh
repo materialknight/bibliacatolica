@@ -2,60 +2,134 @@
 
 #* Regularización de comillas y de tres puntos:
 
-sed -i -E \
+sed --in-place \
    -e 's/[“”]/"/g' \
    -e 's/[«»]/*/g' \
    -e "s/[‘’]/'/g" \
    -e 's/…/.../g' \
    "$1"
 
-#* Formateo de las referencias a los comentarios, y de los versículos:
+#* Colecta de referencias a notas:
 
-sed -i -E \
-   -e 's/([^0-9 ])(\[[0-9]+\])/\1 \2/g' \
-   -e 's/(\[[0-9]+\])([^:;,.])/\1 \2/g' \
-   -e 's/ \[([0-9]+)\]/ [[\1]](#n-\1){:#rn-\1}/g' \
-   -e 's/ ?([0-9]+)([A-Za-zÁÉÍÓÚÑáéíóúñ\[])/\n\n[\1](#c?-v\1){:#c?-v\1} \2/g' \
+matches="$(
+   grep --perl-regexp --only-matching -- \
+   '(?<=[^ ]\[)[0-9]+(?=\])|(?<=\[)[0-9]+(?=\][^ ])' \
+   "$1"
+)"
+
+matches=($(echo "$matches"))
+
+#* Detección de inconsistencias en la numeración de las referencias a notas, y formación del script sed de su renumeración:
+
+sed_scripts=()
+ref_num="${matches[0]}"
+new_num=1
+
+for match in "${matches[@]}"
+do
+   if (( match != ref_num ))
+   then
+      echo 'Error en la numeración de las referencias a notas!'
+      echo "La referencia: $match"
+      echo "debería ser: $ref_num"
+      echo "Desháganse los cambios (Ctrl + Z), corríjase manualmente el error, y vuélvase a correr este script."
+      exit 1
+   fi
+
+   sed_scripts+=('-e' "s/\[$match\]/[[$new_num]](#n-$new_num){:#rn-$new_num}/g")
+   (( ++ ref_num ))
+   (( ++ new_num ))
+done
+
+echo "Total de referencias: ${#matches[@]}"
+echo "Rango: ${matches[1]} - ${matches[-1]}"
+
+#* Renumeración:
+
+sed --in-place "${sed_scripts[@]}" -- "$1"
+
+#* Espaciado alrededor de las referencias a notas:
+
+sed --in-place --regexp-extended \
+   -e 's/([^0-9 ])(\[\[[0-9]+\]\])/\1 \2/g' \
+   -e 's/(rn-[0-9]+\})([^:;,. ])/\1 \2/g' \
    "$1"
 
-MANY_CHAPTERS_BOOKS='Génesis|Éxodo|Levítico|Números|Deuteronomio|Josué|Jueces|1 Samuel|2 Samuel|1 Reyes|2 Reyes|1 Crónicas|2 Crónicas|Esdras|Nehemías|Tobías|Ester|1 Macabeos|2 Macabeos|Salmos|Proverbios|Cantar de los Cantares|Sabiduría|Eclesiástico|Isaías|Jeremías|Lamentaciones|Baruc|Ezequiel|Daniel|Oseas|Joel|Amós|Jonás|Miqueas|Nahúm|Habacuc|Sofonías|Ageo|Zacarías|Malaquías|Mateo|Marcos|Lucas|1 Juan|Juan|Hechos|Romanos|1 Corintios|2 Corintios|Gálatas|Efesios|Filipenses|Colosenses|1 Tesalonicenses|2 Tesalonicenses|1 Timoteo|2 Timoteo|Tito|Hebreos|Santiago|1 Pedro|2 Pedro|Apocalipsis|Rut|Judit|Job|Eclesiastés'
+#* Formateo de los versículos:
 
-declare -A BOOK_MAP_B=([GÉNESIS]='Génesis' [ÉXODO]='Éxodo' [LEVÍTICO]='Levítico' [NÚMEROS]='Números' [DEUTERONOMIO]='Deuteronomio' [JOSUÉ]='Josué' [JUECES]='Jueces' [1 SAMUEL]='1 Samuel' [2 SAMUEL]='2 Samuel' [1 REYES]='1 Reyes' [2 REYES]='2 Reyes' [1 CRÓNICAS]='1 Crónicas' [2 CRÓNICAS]='2 Crónicas' [ESDRAS]='Esdras' [NEHEMÍAS]='Nehemías' [TOBÍAS]='Tobías' [ESTER]='Ester' [1 MACABEOS]='1 Macabeos' [2 MACABEOS]='2 Macabeos' [SALMOS]='Salmos' [PROVERBIOS]='Proverbios' [CANTAR DE LOS CANTARES]='Cantar de los Cantares' [SABIDURÍA]='Sabiduría' [ECLESIÁSTICO]='Eclesiástico' [ISAÍAS]='Isaías' [JEREMÍAS]='Jeremías' [LAMENTACIONES]='Lamentaciones' [BARUC]='Baruc' [EZEQUIEL]='Ezequiel' [DANIEL]='Daniel' [OSEAS]='Oseas' [JOEL]='Joel' [AMÓS]='Amós' [JONÁS]='Jonás' [MIQUEAS]='Miqueas' [NAHÚM]='Nahúm' [HABACUC]='Habacuc' [SOFONÍAS]='Sofonías' [AGEO]='Ageo' [ZACARÍAS]='Zacarías' [MALAQUÍAS]='Malaquías' [MATEO]='Mateo' [MARCOS]='Marcos' [LUCAS]='Lucas' [1 JUAN]='1 Juan' [JUAN]='Juan' [HECHOS]='Hechos' [ROMANOS]='Romanos' [1 CORINTIOS]='1 Corintios' [2 CORINTIOS]='2 Corintios' [GÁLATAS]='Gálatas' [EFESIOS]='Efesios' [FILIPENSES]='Filipenses' [COLOSENSES]='Colosenses' [1 TESALONICENSES]='1 Tesalonicenses' [2 TESALONICENSES]='2 Tesalonicenses' [1 TIMOTEO]='1 Timoteo' [2 TIMOTEO]='2 Timoteo' [TITO]='Tito' [HEBREOS]='Hebreos' [SANTIAGO]='Santiago' [1 PEDRO]='1 Pedro' [2 PEDRO]='2 Pedro' [APOCALIPSIS]='Apocalipsis' [RUT]='Rut' [JUDIT]='Judit' [JOB]='Job' [ECLESIASTÉS]='Eclesiastés')
+sed --in-place --regexp-extended \
+   -e 's/^([0-9]+)([^ ])/[\1](#c?-v\1){:#c?-v\1} \2/g' \
+   -e 's/ ([0-9]+)([^ ])/\n\n[\1](#c?-v\1){:#c?-v\1} \2/g' \
+   "$1"
 
-SED_SCRIPTS=()
+#* Formateo de los epígrafes y encabezados de cada capítulo:
+
+declare -A book_map_B=([GÉNESIS]='Génesis' [ÉXODO]='Éxodo' [LEVÍTICO]='Levítico' [NÚMEROS]='Números' [DEUTERONOMIO]='Deuteronomio' [JOSUÉ]='Josué' [JUECES]='Jueces' [1 SAMUEL]='1 Samuel' [2 SAMUEL]='2 Samuel' [1 REYES]='1 Reyes' [2 REYES]='2 Reyes' [1 CRÓNICAS]='1 Crónicas' [2 CRÓNICAS]='2 Crónicas' [ESDRAS]='Esdras' [NEHEMÍAS]='Nehemías' [TOBÍAS]='Tobías' [ESTER]='Ester' [1 MACABEOS]='1 Macabeos' [2 MACABEOS]='2 Macabeos' [SALMOS]='Salmos' [PROVERBIOS]='Proverbios' [CANTAR DE LOS CANTARES]='Cantar de los Cantares' [SABIDURÍA]='Sabiduría' [ECLESIÁSTICO]='Eclesiástico' [ISAÍAS]='Isaías' [JEREMÍAS]='Jeremías' [LAMENTACIONES]='Lamentaciones' [BARUC]='Baruc' [EZEQUIEL]='Ezequiel' [DANIEL]='Daniel' [OSEAS]='Oseas' [JOEL]='Joel' [AMÓS]='Amós' [JONÁS]='Jonás' [MIQUEAS]='Miqueas' [NAHÚM]='Nahúm' [HABACUC]='Habacuc' [SOFONÍAS]='Sofonías' [AGEO]='Ageo' [ZACARÍAS]='Zacarías' [MALAQUÍAS]='Malaquías' [MATEO]='Mateo' [MARCOS]='Marcos' [LUCAS]='Lucas' [1 JUAN]='1 Juan' [JUAN]='Juan' [HECHOS]='Hechos' [ROMANOS]='Romanos' [1 CORINTIOS]='1 Corintios' [2 CORINTIOS]='2 Corintios' [GÁLATAS]='Gálatas' [EFESIOS]='Efesios' [FILIPENSES]='Filipenses' [COLOSENSES]='Colosenses' [1 TESALONICENSES]='1 Tesalonicenses' [2 TESALONICENSES]='2 Tesalonicenses' [1 TIMOTEO]='1 Timoteo' [2 TIMOTEO]='2 Timoteo' [TITO]='Tito' [HEBREOS]='Hebreos' [SANTIAGO]='Santiago' [1 PEDRO]='1 Pedro' [2 PEDRO]='2 Pedro' [APOCALIPSIS]='Apocalipsis' [RUT]='Rut' [JUDIT]='Judit' [JOB]='Job' [ECLESIASTÉS]='Eclesiastés')
+
+unset sed_scripts
+sed_scripts=()
 
 if grep -q '^[IVX]' "$1"
 then
-
-   for UPPERCASE_BOOK in "${!BOOK_MAP_B[@]}"
+   for uppercase_book in "${!book_map_B[@]}"
    do
-      SED_SCRIPTS+=("-e" "s/^${UPPERCASE_BOOK} ([0-9]+)/### ${BOOK_MAP_B[${UPPERCASE_BOOK}]} [\1](#c\1) {#c\1}/g")
+      sed_scripts+=('-e' "s/^${uppercase_book} ([0-9]+)/### ${book_map_B[${uppercase_book}]} [\1](#c\1) {#c\1}\n/g")
    done
 
-   sed -i -E \
-      -e 's/^([IVX]+\.) (.+)/## \1 \L\u\2/g' \
-      "${SED_SCRIPTS[@]}" \
-      -e 's/^[A-Za-zÁÉÍÓÚÑáéíóúñ].+/#### &/g' \
+   sed --in-place --regexp-extended \
+      -e 's/^([IVX]+\.) (.+)/## \1 \L\u\2\n/g' \
+      "${sed_scripts[@]}" \
+      -e 's/^[A-Za-zÁÉÍÓÚÑáéíóúñ].+/#### &\n/g' \
       "$1"
-
 else
-
-   for UPPERCASE_BOOK in "${!BOOK_MAP_B[@]}"
+   for uppercase_book in "${!book_map_B[@]}"
    do
-      SED_SCRIPTS+=("-e" "s/^${UPPERCASE_BOOK} ([0-9]+)/## ${BOOK_MAP_B[${UPPERCASE_BOOK}]} [\1](#c\1) {#c\1}/g")
+      sed_scripts+=("-e" "s/^${uppercase_book} ([0-9]+)/## ${book_map_B[${uppercase_book}]} [\1](#c\1) {#c\1}\n/g")
    done
 
-   sed -i -E \
-      "${SED_SCRIPTS[@]}" \
-      -e 's/^[A-Za-zÁÉÍÓÚÑáéíóúñ].+/### &/g' \
+   sed --in-place --regexp-extended \
+      "${sed_scripts[@]}" \
+      -e 's/^[A-Za-zÁÉÍÓÚÑáéíóúñ].+/### &\n/g' \
       "$1"
-
 fi
 
+#* Detección de inconsistencias en la numeración de los versículos:
 
-   # -e 's/([A-Za-zÁÉÍÓÚÑáéíóúñ])(\[[0-9]+\])/\1 [/g' \
-   # -e 's/([A-Za-zÁÉÍÓÚÑáéíóúñ])\[/\1 [/g' \
+unset matches sed_scripts
 
+matches="$(
+   grep --perl-regexp --only-matching -- \
+   '^\[[0-9]+(?=\]\(#)' \
+   "$1"
+)"
 
-# [[17]](#n-17){:#rn-17}
-echo '¡Hecho!'
+matches=($(echo "$matches"))
+
+sed_scripts=()
+verse_num=1
+
+for match in "${matches[@]}"
+do
+   match="${match/#\[}"
+
+   if (( match != verse_num ))
+   then
+      verse_num=1
+
+      if (( match != verse_num ))
+      then
+         echo 'Error en la numeración de los versículos!'
+         echo "El versículo: $match"
+         echo "debería ser: $verse_num"
+         echo "Desháganse los cambios (Ctrl + Z), corríjase manualmente el error, y vuélvase a correr este script."
+         exit 1
+      fi
+   fi
+
+   # sed_scripts+=('-e' "s/^$match/[$match](#c?-v$match){:#c?-v$match}/g")
+   (( ++ verse_num ))
+done
+
+#* Formateo de los versículos:
+
+# sed --in-place "${sed_scripts[@]}" -- "$1"
