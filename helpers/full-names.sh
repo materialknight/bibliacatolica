@@ -263,7 +263,7 @@ do
 
       sed_scripts+=('-e' "s/$book ([0-9]+), ([0-9]+)([0-9 s\.\-]*); ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/$book [\1, \2](${many_chapters_books[$book]}#c\1-v\2)\3; [\4, \5](${many_chapters_books[$book]}#c\4-v\5)\6/g")
 
-      sed_scripts+=("s/$book ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/$book [\1, \2](${many_chapters_books[$book]}#c\1-v\2)\3/g")
+      sed_scripts+=('-e' "s/$book ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/$book [\1, \2](${many_chapters_books[$book]}#c\1-v\2)\3/g")
    fi
 done
 
@@ -293,7 +293,7 @@ sed --in-place --regexp-extended \
 #* Colecta de notas explicativas:
 
 matches="$(
-   grep --extended-regexp --only-matching -- \
+   grep --extended-regexp --only-matching \
    '^[[0-9]+]' \
    "$1"
 )"
@@ -305,7 +305,7 @@ matches=($(echo "$matches"))
 unset sed_scripts
 declare -a sed_scripts
 
-ref_num="${matches[0]}"
+ref_num="${matches[0]//[\[\]]}"
 new_num=1
 
 for match in "${matches[@]}"
@@ -327,8 +327,10 @@ do
 done
 
 echo "Total de notas: ${#matches[@]}"
-echo "Rango: ${matches[1]} - ${matches[-1]}"
-echo "#* Rango: ${matches[1]} - ${matches[-1]}" >> "$1"
+echo "Rango original: ${matches[1]} - ${matches[-1]}"
+
+echo "<!--* Total de notas: ${#matches[@]} -->" >> "$1"
+echo "<!--* Rango original de notas: ${matches[1]} - ${matches[-1]} -->" >> "$1"
 
 #* Renumeración:
 

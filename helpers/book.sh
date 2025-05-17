@@ -43,7 +43,9 @@ done
 
 echo "Total de referencias: ${#matches[@]}"
 echo "Rango: ${matches[1]} - ${matches[-1]}"
-echo "#* Rango: ${matches[1]} - ${matches[-1]}" >> "$1"
+
+echo "<!--* Total de referencias: ${#matches[@]} -->" >> "$1"
+echo "<!--* Rango original de referencias: ${matches[1]} - ${matches[-1]} -->" >> "$1"
 
 #* Renumeración:
 
