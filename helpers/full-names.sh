@@ -252,8 +252,13 @@ unset sed_scripts
 declare -a sed_scripts
 
 sed_scripts+=('-e' 's/1 Juan ([0-9]+), ([0-9]+)([0-9 s\.\-]*); ([0-9]+), ([0-9]+)([0-9 s\.\-]*); ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/1 Juan [\1, \2](1-juan#c\1-v\2)\3; [\4, \5](1-juan#c\4-v\5)\6; [\7, \8](1-juan#c\7-v\8)\9/g')
+
 sed_scripts+=('-e' 's/1 Juan ([0-9]+), ([0-9]+)([0-9 s\.\-]*); ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/1 Juan [\1, \2](1-juan#c\1-v\2)\3; [\4, \5](1-juan#c\4-v\5)\6/g')
+
 sed_scripts+=('-e' 's/1 Juan ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/1 Juan [\1, \2](1-juan#c\1-v\2)\3/g')
+
+sed_scripts+=('-e' 's/Salmo ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/Salmo [\1, \2](salmos#c\1-v\2)\3/g')
+
 
 for book in "${!many_chapters_books[@]}"
 do
@@ -321,7 +326,7 @@ do
       exit 1
    fi
 
-   sed_scripts+=('-e' "s/\[$match_num\] ([0-9]+)/[[$new_num]](#rn-$new_num){:#n-$new_num} [?, \1](#c?-v\1)/g")
+   sed_scripts+=('-e' "s/\[$match_num\] ([0-9]+)\./[[$new_num]](#rn-$new_num){:#n-$new_num} [?, \1](#c?-v\1)/g")
    (( ++ ref_num ))
    (( ++ new_num ))
 done
