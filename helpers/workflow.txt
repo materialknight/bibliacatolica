@@ -1,7 +1,7 @@
 Libros ya revisados manualmente:
 
-
-
+Pentateuco: Génesis
+Epístolas Católicas: 3 Juan, Judas
 
 Workflow:
 1. Correr helpers/full-names.sh en los comentarios, y book.sh en el texto bíblico.
