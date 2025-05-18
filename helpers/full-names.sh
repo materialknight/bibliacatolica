@@ -334,9 +334,6 @@ done
 echo "Total de notas: ${#matches[@]}"
 echo "Rango original: ${matches[1]} - ${matches[-1]}"
 
-echo "<!--* Total de notas: ${#matches[@]} -->" >> "$1"
-echo "<!--* Rango original de notas: ${matches[1]} - ${matches[-1]} -->" >> "$1"
-
 #* Renumeración:
 
 sed --in-place --regexp-extended \

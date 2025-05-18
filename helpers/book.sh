@@ -42,10 +42,7 @@ do
 done
 
 echo "Total de referencias: ${#matches[@]}"
-echo "Rango: ${matches[1]} - ${matches[-1]}"
-
-echo "<!--* Total de referencias: ${#matches[@]} -->" >> "$1"
-echo "<!--* Rango original de referencias: ${matches[1]} - ${matches[-1]} -->" >> "$1"
+echo "Rango original de referencias: ${matches[1]} - ${matches[-1]}"
 
 #* Renumeración:
 
@@ -82,7 +79,7 @@ then
    sed --in-place --regexp-extended \
       -e 's/^([IVX]+\.) (.+)/## \1 \L\u\2\n/g' \
       "${sed_scripts[@]}" \
-      -e 's/^[A-Za-zÁÉÍÓÚÑáéíóúñ].+/#### &\n/g' \
+      -e '14,$ s/^[A-Za-zÁÉÍÓÚÑáéíóúñ].+/#### &\n/g' \
       "$1"
 else
    for uppercase_book in "${!book_map_C[@]}"
@@ -92,7 +89,7 @@ else
 
    sed --in-place --regexp-extended \
       "${sed_scripts[@]}" \
-      -e 's/^[A-Za-zÁÉÍÓÚÑáéíóúñ].+/### &\n/g' \
+      -e '14,$ s/^[A-Za-zÁÉÍÓÚÑáéíóúñ].+/### &\n/g' \
       "$1"
 fi
 
