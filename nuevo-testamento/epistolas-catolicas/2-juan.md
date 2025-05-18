@@ -64,7 +64,7 @@ Como observan los comentadores, esta carta, no obstante tales precauciones que h
 
 [[8]](#rn-8){:#n-8} [9](#v9) El atenerse con fe viva a la enseñanza que Cristo predicó y confió a sus apóstoles (Juan [7, 16](juan#c7-v16); [18, 19](juan#c18-v19); cf. [8, 31](juan#c8-v31); 1 Juan [2, 22](1-juan#c2-v22)-23) implica la incorporación a Cristo y al Padre. El herético, al contrario, es el que quiere ir más adelante: probablemente el gnóstico, que se separa de esa fe tradicional so pretexto de elevarse a una ciencia más sublime (Bonsirven) o "de una gnosis privilegiada" (Pirot). Véase la nota introductoria.
 
-[[9]](#rn-9){:#n-9} [10](#v10) **Esta doctrina**: la recibida de Cristo (v. [6](#v6)) sin las desviaciones que señaló en los vv. [7](#v7) y [9](#v9). Tal conducta, según aquí se nos enseña, no es falta de caridad sino prudencia (v. [8](#v8)) y respeto por la fe. El que recibe a los que hacen profesión de mala doctrina se hace cómplice de ella (v. [11](#v11)). Cf. 1 Corintios [5, 9](1-corintios#c5-v9); Efesios [5, 10](efesios#c5-v10) ss.; 2 Tesalonicenses [3, 6](2-tesalonicenses#c3-v6) y 14; Tito [3, 10](tito#c3-v10).
+[[9]](#rn-9){:#n-9} [10](#v10) **Esta doctrina**: la recibida de Cristo (v. [6](#v6)) sin las desviaciones que señaló en los vv. [7](#v7) y [9](#v9). Tal conducta, según aquí se nos enseña, no es falta de caridad sino prudencia (v. [8](#v8)) y respeto por la fe. El que recibe a los que hacen profesión de mala doctrina se hace cómplice de ella (v. [11](#v11)). Cf. 1 Corintios [5, 9](1-corintios#c5-v9); Efesios [5, 10](efesios#c5-v10) ss.; 2 Tesalonicenses [3, 6](2-tesalonicenses#c3-v6) y [14](2-tesalonicenses#c3-v14); Tito [3, 10](tito#c3-v10).
 
 [[10]](#rn-10){:#n-10} [12](#v12) Cf. 1 Juan [1, 4](1-juan#c1-v4) y nota.
 
