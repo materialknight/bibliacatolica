@@ -225,7 +225,7 @@ sed -i -E \
 
 #* Remoción de "versículo(s)" y "v(v)." de los libros de 1 solo capítulo.
 
-declare -A one_chapter_books=([Abdías]='abdias' [Filemón]=filemon [2 Juan]='2-juan' [3 Juan]='3-juan' [Judas]='Judas')
+declare -A one_chapter_books=([Abdías]='abdias' [Filemón]=filemon [2 Juan]='2-juan' [3 Juan]='3-juan' [Judas]='judas')
 
 one_chap_books="$(IFS='|'; echo "${!one_chapter_books[*]}")"
 
