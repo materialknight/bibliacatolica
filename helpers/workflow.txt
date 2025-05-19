@@ -1,7 +1,7 @@
 Libros ya revisados manualmente:
 
 Pentateuco: Génesis
-Libros Proféticos: Abdías
+Libros Proféticos: Abdías, Ageo
 Epístolas Paulinas: Intro, Filemón
 Epístolas Católicas: 2 Juan, 3 Juan, Judas
 

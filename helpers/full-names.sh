@@ -69,7 +69,9 @@ sed -i -E \
 sed -i -E \
    -e 's/\bGn\. ([0-9]+,)/Génesis \1/g' \
    -e 's/\bEx\. ([0-9]+,)/Éxodo \1/g' \
+   \
    -e 's/\bLv\. ([0-9]+,)/Levítico \1/g' \
+   -e 's/\bLev\. ([0-9]+,)/Levítico \1/g' \
    \
    -e 's/\bNúm\. ([0-9]+,)/Números \1/g' \
    -e 's/\bNm\. ([0-9]+,)/Números \1/g' \
@@ -79,15 +81,19 @@ sed -i -E \
    -e 's/\bJc\. ([0-9]+,)/Jueces \1/g' \
    \
    -e 's/\b1 Sam\. ([0-9]+,)/1 Samuel \1/g' \
+   -e 's/\bI Rey\. ([0-9]+,)/1 Samuel \1/g' \
    -e 's/\bI Reyes ([0-9]+,)/1 Samuel \1/g' \
    \
    -e 's/\b2 Sam\. ([0-9]+,)/2 Samuel \1/g' \
+   -e 's/\bII Rey\. ([0-9]+,)/2 Samuel \1/g' \
    -e 's/\bII Reyes ([0-9]+,)/2 Samuel \1/g' \
    \
    -e 's/\b1 R\. ([0-9]+,)/1 Reyes \1/g' \
+   -e 's/\bIII Rey\. ([0-9]+,)/1 Reyes \1/g' \
    -e 's/\bIII Reyes ([0-9]+,)/1 Reyes \1/g' \
    \
    -e 's/\b2 R\. ([0-9]+,)/2 Reyes \1/g' \
+   -e 's/\bIV Rey\. ([0-9]+,)/2 Reyes \1/g' \
    -e 's/\bIV Reyes ([0-9]+,)/2 Reyes \1/g' \
    \
    -e 's/\b1 Cro\. ([0-9]+,)/1 Crónicas \1/g' \
@@ -306,6 +312,7 @@ matches="$(
 matches=($(echo "$matches"))
 
 #* Detección de inconsistencias en la numeración de las notas, y formación del script sed de su renumeración:
+#* Es normal que el código a continuación dé errores cuando "$1" es una introducción, ya que generalmente no tienen notas explicativas.
 
 unset sed_scripts
 declare -a sed_scripts
