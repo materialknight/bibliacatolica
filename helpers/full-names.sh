@@ -57,7 +57,7 @@ sed --in-place --regexp-extended \
 
 #* El código a continuación reemplaza las abreviaturas por el nombre completo (Gn. -> Génesis), y los nombres alternativos, por el nombre usual (I Paralipómenos -> Crónicas).
 
-#* Libros sin abreviatura: Rut, Judit, Job, Eclesiastés.
+#* Libros sin abreviatura: Rut, Judit, Eclesiastés.
 
 #* Libros con nombres alternativos:
 #*    I Reyes -> 1 Samuel
@@ -116,6 +116,7 @@ sed --in-place --regexp-extended \
    -e 's/\bII Mac\. ([0-9]+,)/2 Macabeos \1/g' \
    -e 's/\bII Macabeos ([0-9]+,)/2 Macabeos \1/g' \
    \
+   -e 's/\bJb\. ([0-9]+,)/Job \1/g' \
    -e 's/\bSal\. ([0-9]+,)/Salmo \1/g' \
    -e 's/\bPr\. ([0-9]+,)/Proverbios \1/g' \
    \
