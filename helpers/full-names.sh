@@ -2,7 +2,7 @@
 
 #* Regularización de comillas y de tres puntos:
 
-sed -i -E \
+sed --in-place --regexp-extended \
    -e 's/[“”]/"/g' \
    -e 's/[«»]/*/g' \
    -e "s/[‘’]/'/g" \
@@ -11,7 +11,7 @@ sed -i -E \
 
 #* El texto entre 2 asteriscos nunca debería terminar en coma ni en dos puntos. En tales casos, el siguente código mueve el signo de puntuación afuera del texto inter-asteriscal. Por ejemplo: *"Término a definir":* -> *"Término a definir"*:
 
-sed -i -E \
+sed --in-place --regexp-extended \
    -e 's/\*([A-Za-záéíóúüñÁÉÍÓÚÜÑ" ]+)([:,])\*/*\1*\2/g' \
    "$1"
 
@@ -22,7 +22,7 @@ sed -i -E \
 #* "capítulo 20" -> "cap. 20"
 #* "capítulos 21 s." -> "caps. 21 s."
 
-sed -i -E \
+sed --in-place --regexp-extended \
    -e 's/y ss\./ss\./g' \
    -e 's/versículo ([0-9]+)/v. \1/g' \
    -e 's/versículos ([0-9]+)/vv. \1/g' \
@@ -32,14 +32,17 @@ sed -i -E \
 
 #* Conversión en hipervínculos de algunos pasajes aislados (que no indican libro pero sí capítulo) precedidos por "(V/v)éase" o "(C/c)f." o entre paréntesis (reemplácese manualmente "book" por el libro correcto):
 
-sed -i -E \
-   -e 's/(Cf\.|cf\.|Véase|véase) ([0-9]+), ([0-9]+)/\1 [\2, \3](#c\2-v\3)/g' \
+sed --in-place --regexp-extended \
+   -e 's/(Cf\.|cf\.|Véase|véase) ([0-9]+), ([0-9]+)([0-9 s\.\-]*); ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/\1 [\2, \3](#c\2-v\3)\4; [\5, \6](#c\5-v\6)\7/g' \
+   -e 's/(Cf\.|cf\.|Véase|véase) ([0-9]+), ([0-9]+)([0-9 s\.\-]*) y ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/\1 [\2, \3](#c\2-v\3)\4 y [\5, \6](#c\5-v\6)\7/g' \
+   -e 's/(Cf\.|cf\.|Véase|véase) ([0-9]+), ([0-9]+)([0-9 s\.\-]*) y ([0-9]+)([0-9 s\.\-]*)([^,])/\1 [\2, \3](#c\2-v\3)\4 y [\5](#c\2-v\5)\6\7/g' \
+   -e 's/(Cf\.|cf\.|Véase|véase) ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/\1 [\2, \3](#c\2-v\3)\4/g' \
    -e 's/\(([0-9]+), ([0-9]+)([0-9 s\.\-]*)\)/([\1, \2](book#c\1-v\2)\3)/g' \
    "$1"
 
 #* Conversión de versículos precedidos de v(v). Reemplácese manualmente "?" por el número de capítulo:
 
-sed -i -E \
+sed --in-place --regexp-extended \
    -e 's/\bv\. ([0-9]+)/v. [\1](#c?-v\1)/g' \
    -e 's/\bvv\. ([0-9]+)([0-9 s\.\-]*), ([0-9]+)([0-9 s\.\-]*) y ([0-9]+)([0-9 s\.\-]*)/vv. [\1](#c?-v\1)\2, [\3](#c?-v\3)\4 y [\5](#c?-v\5)\6/g' \
    -e 's/\bvv\. ([0-9]+)([0-9 s\.\-]*) y ([0-9]+)([0-9 s\.\-]*)/vv. [\1](#c?-v\1)\2 y [\3](#c?-v\3)\4/g' \
@@ -48,7 +51,7 @@ sed -i -E \
 
 #* Remoción de coma (,) antes de "cap(s).":
 
-sed -i -E \
+sed --in-place --regexp-extended \
    -e 's/, (caps?\.)/ \1/g' \
    "$1"
 
@@ -66,7 +69,7 @@ sed -i -E \
 
 #* Las abreviaturas de 1 Juan, 2 Juan y 3 Juan (las epístolas) deben procesarse antes que la de Juan (el evangelio):
 
-sed -i -E \
+sed --in-place --regexp-extended \
    -e 's/\bGn\. ([0-9]+,)/Génesis \1/g' \
    -e 's/\bEx\. ([0-9]+,)/Éxodo \1/g' \
    \
@@ -115,7 +118,10 @@ sed -i -E \
    \
    -e 's/\bSal\. ([0-9]+,)/Salmo \1/g' \
    -e 's/\bPr\. ([0-9]+,)/Proverbios \1/g' \
+   \
    -e 's/\bCant\. ([0-9]+,)/Cantar de los Cantares \1/g' \
+   -e 's/\bCt\. ([0-9]+,)/Cantar de los Cantares \1/g' \
+   \
    -e 's/\bSb\. ([0-9]+,)/Sabiduría \1/g' \
    \
    -e 's/\bEclo\. ([0-9]+,)/Eclesiástico \1/g' \
@@ -229,7 +235,7 @@ declare -A one_chapter_books=([Abdías]='abdias' [Filemón]=filemon [2 Juan]='2-
 
 one_chap_books="$(IFS='|'; echo "${!one_chapter_books[*]}")"
 
-sed -i -E \
+sed --in-place --regexp-extended \
    -e "s/\b(${one_chap_books}),? (v+\.|versículos?)/\1/g" \
    "$1"
 
@@ -257,14 +263,21 @@ sed --in-place --regexp-extended \
 unset sed_scripts
 declare -a sed_scripts
 
+#* Los enlaces a 1 Juan se crean antes porque el string "1 Juan" es un superset de "Juan", por lo tanto, si se crearan antes los del evangelio de Juan, todos los enlaces que deberían apuntar a 1 Juan, apuntarían al evangelio de Juan.
+
 sed_scripts+=('-e' 's/1 Juan ([0-9]+), ([0-9]+)([0-9 s\.\-]*); ([0-9]+), ([0-9]+)([0-9 s\.\-]*); ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/1 Juan [\1, \2](1-juan#c\1-v\2)\3; [\4, \5](1-juan#c\4-v\5)\6; [\7, \8](1-juan#c\7-v\8)\9/g')
+
+sed_scripts+=('-e' 's/1 Juan ([0-9]+), ([0-9]+)([0-9 s\.\-]*) y ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/1 Juan [\1, \2](1-juan#c\1-v\2)\3 y [\4, \5](1-juan#c\4-v\5)\6/g')
 
 sed_scripts+=('-e' 's/1 Juan ([0-9]+), ([0-9]+)([0-9 s\.\-]*); ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/1 Juan [\1, \2](1-juan#c\1-v\2)\3; [\4, \5](1-juan#c\4-v\5)\6/g')
 
+sed_scripts+=('-e' 's/1 Juan ([0-9]+), ([0-9]+)([0-9 s\.\-]*) y ([0-9]+)([0-9 s\.\-]*)([^,])/1 Juan [\1, \2](1-juan#c\1-v\2)\3 y [\4](1-juan#c\1-v\4)\5\6/g')
+
 sed_scripts+=('-e' 's/1 Juan ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/1 Juan [\1, \2](1-juan#c\1-v\2)\3/g')
 
-sed_scripts+=('-e' 's/Salmo ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/Salmo [\1, \2](salmos#c\1-v\2)\3/g')
+#* Enlaces donde se cita un solo salmo:
 
+sed_scripts+=('-e' 's/Salmo ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/Salmo [\1, \2](salmos#c\1-v\2)\3/g')
 
 for book in "${!many_chapters_books[@]}"
 do
@@ -272,7 +285,11 @@ do
    then
       sed_scripts+=('-e' "s/$book ([0-9]+), ([0-9]+)([0-9 s\.\-]*); ([0-9]+), ([0-9]+)([0-9 s\.\-]*); ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/$book [\1, \2](${many_chapters_books[$book]}#c\1-v\2)\3; [\4, \5](${many_chapters_books[$book]}#c\4-v\5)\6; [\7, \8](${many_chapters_books[$book]}#c\7-v\8)\9/g")
 
+      sed_scripts+=('-e' "s/$book ([0-9]+), ([0-9]+)([0-9 s\.\-]*) y ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/$book [\1, \2](${many_chapters_books[$book]}#c\1-v\2)\3 y [\4, \5](${many_chapters_books[$book]}#c\4-v\5)\6/g")
+
       sed_scripts+=('-e' "s/$book ([0-9]+), ([0-9]+)([0-9 s\.\-]*); ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/$book [\1, \2](${many_chapters_books[$book]}#c\1-v\2)\3; [\4, \5](${many_chapters_books[$book]}#c\4-v\5)\6/g")
+
+      sed_scripts+=('-e' "s/$book ([0-9]+), ([0-9]+)([0-9 s\.\-]*) y ([0-9]+)([0-9 s\.\-]*)([^,])/$book [\1, \2](${many_chapters_books[$book]}#c\1-v\2)\3 y [\4](${many_chapters_books[$book]}#c\1-v\4)\5\6/g")
 
       sed_scripts+=('-e' "s/$book ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/$book [\1, \2](${many_chapters_books[$book]}#c\1-v\2)\3/g")
    fi
@@ -345,6 +362,14 @@ echo "Rango original: ${matches[1]} - ${matches[-1]}"
 
 sed --in-place --regexp-extended \
    "${sed_scripts[@]}" \
+   "$1"
+
+#* Para convertir cualquier referencia que no coincida con los casos anteriores (reemplácese manualmente "book" por el libro correcto):
+
+sed --in-place --regexp-extended \
+   -e 's/([0-9]+), ([0-9]+)([0-9 s\.\-]*); ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/[\1, \2](book#c\1-v\2)\3; [\4, \5](book#c\4-v\5)\6/g' \
+   -e 's/([0-9]+), ([0-9]+)([0-9 s\.\-]*) y ([0-9]+), ([0-9]+)([0-9 s\.\-]*)/[\1, \2](book#c\1-v\2)\3 y [\4, \5](book#c\4-v\5)\6/g' \
+   -e 's/([0-9]+), ([0-9]+)([0-9 s\.\-]*) y ([0-9]+)([0-9 s\.\-]*)([^,])/[\1, \2](book#c\1-v\2)\3 y [\4](book#c\1-v\4)\5\6/g' \
    "$1"
 
 # [[343]](#rn-343){:#n-343} [39, 9](#c39-v9) # para test
