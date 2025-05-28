@@ -4,6 +4,14 @@ title: Nuevo Testamento
 permalink: /nuevo-testamento
 ---
 
+<input type="button" popovertarget="toc" value="Tabla de Contenido">
+
+<div id="toc" markdown="1" popover>
+
+- Tabla de contenido
+{:toc}
+</div>
+
 ## Advertencias
 
 Entre las numerosas referencias a otros libros de la Sagrada Escritura, v. g. los Salmos, etc., el lector hallará citas de ciertos pasajes "y nota". Estas notas son las que el autor ha puesto en su edición completa de la Sagrada Biblia.

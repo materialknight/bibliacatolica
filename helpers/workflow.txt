@@ -1,9 +1,12 @@
 Libros ya revisados manualmente:
 
-Pentateuco: Génesis
-Libros Proféticos: Abdías, Ageo
+Pentateuco: Intro, Génesis
+Libros Históricos: (no Intro) Rut
+Libros Poéticos y Sapienciales: Intro
+Libros Proféticos: Intro, Abdías, SOFONÍAS, Ageo
+Evangelios: (no Intro)
 Epístolas Paulinas: Intro, Filemón
-Epístolas Católicas: 2 Juan, 3 Juan, Judas
+Epístolas Católicas: (no Intro) 1 Juan, 2 Juan, 3 Juan, Judas
 
 Workflow:
 1. Correr helpers/full-names.sh en los comentarios, y book.sh en el texto bíblico.
