@@ -313,7 +313,7 @@ for book in "${!many_chapters_books[@]}"
 do
    if [[ $book != '1 Juan' ]]
    then
-      sed_scripts+=('-e' "s/$book cap\. ([0-9]+)/$book cap. [\1](${many_chapters_books[$book]}#c\1)\2/g")
+      sed_scripts+=('-e' "s/$book cap\. ([0-9]+)/$book cap. [\1](${many_chapters_books[$book]}#c\1)/g")
 
       sed_scripts+=('-e' "s/$book caps\. ([0-9]+)([0-9 s\.\-]*) y ([0-9]+)([0-9 s\.\-]*)/$book caps. [\1](${many_chapters_books[$book]}#c\1)\2 y [\3](${many_chapters_books[$book]}#c\3)\4/g")
 

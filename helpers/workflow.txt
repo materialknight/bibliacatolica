@@ -3,8 +3,8 @@ Libros ya revisados manualmente:
 Pentateuco: Intro, Génesis
 Libros Históricos: (no Intro) Rut
 Libros Poéticos y Sapienciales: Intro
-Libros Proféticos: Intro, Abdías, SOFONÍAS, Ageo
-Evangelios: (no Intro)
+Libros Proféticos: Intro, Abdías, Habacuc, Sofonías, Ageo
+Evangelios: (no Intro) MARCOS
 Epístolas Paulinas: Intro, Filemón
 Epístolas Católicas: (no Intro) 1 Juan, 2 Juan, 3 Juan, Judas
 
