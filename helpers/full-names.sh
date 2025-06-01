@@ -24,8 +24,13 @@ sed --in-place --regexp-extended \
 
 sed --in-place --regexp-extended \
    -e 's/y ss\./ss\./g' \
+   \
    -e 's/versículo ([0-9]+)/v. \1/g' \
    -e 's/versículos ([0-9]+)/vv. \1/g' \
+   -e 's/vers\. ([0-9]+)([0-9 s\.\-]*) y ([0-9]+)([0-9 s\.\-]*)/vv. \1\2 y \3\4/g' \
+   -e 's/vers\. ([0-9]+)([0-9 s\.\-]+)/vv. \1\2/g' \
+   -e 's/vers\. ([0-9]+)/v. \1/g' \
+   \
    -e 's/capítulo ([0-9]+)/cap. \1/g' \
    -e 's/capítulos ([0-9]+)/caps. \1/g' \
    "$1"
@@ -43,10 +48,10 @@ sed --in-place --regexp-extended \
 #* Conversión de versículos precedidos de v(v). Reemplácese manualmente "?" por el número de capítulo:
 
 sed --in-place --regexp-extended \
-   -e 's/\bv\. ([0-9]+)/v. [\1](#c?-v\1)/g' \
-   -e 's/\bvv\. ([0-9]+)([0-9 s\.\-]*), ([0-9]+)([0-9 s\.\-]*) y ([0-9]+)([0-9 s\.\-]*)/vv. [\1](#c?-v\1)\2, [\3](#c?-v\3)\4 y [\5](#c?-v\5)\6/g' \
-   -e 's/\bvv\. ([0-9]+)([0-9 s\.\-]*) y ([0-9]+)([0-9 s\.\-]*)/vv. [\1](#c?-v\1)\2 y [\3](#c?-v\3)\4/g' \
-   -e 's/\bvv\. ([0-9]+)([0-9 s\.\-]*)/vv. [\1](#c?-v\1)\2/g' \
+   -e 's/\bv\. ([0-9]+)/v. [\1](#c??-v\1)/g' \
+   -e 's/\bvv\. ([0-9]+)([0-9 s\.\-]*), ([0-9]+)([0-9 s\.\-]*) y ([0-9]+)([0-9 s\.\-]*)/vv. [\1](#c??-v\1)\2, [\3](#c??-v\3)\4 y [\5](#c??-v\5)\6/g' \
+   -e 's/\bvv\. ([0-9]+)([0-9 s\.\-]*) y ([0-9]+)([0-9 s\.\-]*)/vv. [\1](#c??-v\1)\2 y [\3](#c??-v\3)\4/g' \
+   -e 's/\bvv\. ([0-9]+)([0-9 s\.\-]*)/vv. [\1](#c??-v\1)\2/g' \
    "$1"
 
 #* Remoción de coma (,) antes de "cap(s).":
@@ -357,7 +362,7 @@ do
       exit 1
    fi
 
-   sed_scripts+=('-e' "s/\[$match_num\] ([0-9]+)( s+\.)?\.?/[[$new_num]](#rn-$new_num){:#n-$new_num} [?, \1](#c?-v\1)\2/g")
+   sed_scripts+=('-e' "s/\[$match_num\] ([0-9]+)( s+\.)?\.?/[[$new_num]](#rn-$new_num){:#n-$new_num} [?, \1](#c??-v\1)\2/g")
    (( ++ ref_num ))
    (( ++ new_num ))
 done
@@ -380,7 +385,7 @@ sed --in-place --regexp-extended \
    "$1"
 
 # [[343]](#rn-343){:#n-343} [39, 9](#c39-v9) # para test
-# echo '[300] 34' | sed -E -e 's/\[[0-9]+\] ([0-9]+)/[[1]](#rn-1){:#n-1} [?, \1](#c?-v\1)/g' #test
+# echo '[300] 34' | sed -E -e 's/\[[0-9]+\] ([0-9]+)/[[1]](#rn-1){:#n-1} [?, \1](#c??-v\1)/g' #test
 
 # ONE_CHAPTER_BOOKS='Abdías|Filemón|2 Juan|3 Juan|Judas'
 # MANY_CHAPTERS_BOOKS='Génesis|Éxodo|Levítico|Números|Deuteronomio|Josué|Jueces|1 Samuel|2 Samuel|1 Reyes|2 Reyes|1 Crónicas|2 Crónicas|Esdras|Nehemías|Tobías|Ester|1 Macabeos|2 Macabeos|Salmos|Proverbios|Cantar de los Cantares|Sabiduría|Eclesiástico|Isaías|Jeremías|Lamentaciones|Baruc|Ezequiel|Daniel|Oseas|Joel|Amós|Jonás|Miqueas|Nahúm|Habacuc|Sofonías|Ageo|Zacarías|Malaquías|Mateo|Marcos|Lucas|1 Juan|Juan|Hechos|Romanos|1 Corintios|2 Corintios|Gálatas|Efesios|Filipenses|Colosenses|1 Tesalonicenses|2 Tesalonicenses|1 Timoteo|2 Timoteo|Tito|Hebreos|Santiago|1 Pedro|2 Pedro|Apocalipsis|Rut|Judit|Job|Eclesiastés'

@@ -55,13 +55,6 @@ sed --in-place --regexp-extended \
    -e 's/(rn-[0-9]+\})([^:;,. ])/\1 \2/g' \
    "$1"
 
-#* Formateo de los versículos:
-
-sed --in-place --regexp-extended \
-   -e 's/^([0-9]+)([^ ])/[\1](#c?-v\1){:#c?-v\1} \2/g' \
-   -e 's/ ([0-9]+)([^ ])/\n\n[\1](#c?-v\1){:#c?-v\1} \2/g' \
-   "$1"
-
 #* Formateo de los epígrafes y encabezados de cada capítulo:
 
 declare -A book_map_C=([GÉNESIS]='Génesis' [ÉXODO]='Éxodo' [LEVÍTICO]='Levítico' [NÚMEROS]='Números' [DEUTERONOMIO]='Deuteronomio' [JOSUÉ]='Josué' [JUECES]='Jueces' [1 SAMUEL]='1 Samuel' [2 SAMUEL]='2 Samuel' [1 REYES]='1 Reyes' [2 REYES]='2 Reyes' [1 CRÓNICAS]='1 Crónicas' [2 CRÓNICAS]='2 Crónicas' [ESDRAS]='Esdras' [NEHEMÍAS]='Nehemías' [TOBÍAS]='Tobías' [ESTER]='Ester' [1 MACABEOS]='1 Macabeos' [2 MACABEOS]='2 Macabeos' [SALMOS]='Salmos' [PROVERBIOS]='Proverbios' [CANTAR DE LOS CANTARES]='Cantar de los Cantares' [SABIDURÍA]='Sabiduría' [ECLESIÁSTICO]='Eclesiástico' [ISAÍAS]='Isaías' [JEREMÍAS]='Jeremías' [LAMENTACIONES]='Lamentaciones' [BARUC]='Baruc' [EZEQUIEL]='Ezequiel' [DANIEL]='Daniel' [OSEAS]='Oseas' [JOEL]='Joel' [AMÓS]='Amós' [JONÁS]='Jonás' [MIQUEAS]='Miqueas' [NAHÚM]='Nahúm' [HABACUC]='Habacuc' [SOFONÍAS]='Sofonías' [AGEO]='Ageo' [ZACARÍAS]='Zacarías' [MALAQUÍAS]='Malaquías' [MATEO]='Mateo' [MARCOS]='Marcos' [LUCAS]='Lucas' [1 JUAN]='1 Juan' [JUAN]='Juan' [HECHOS]='Hechos' [ROMANOS]='Romanos' [1 CORINTIOS]='1 Corintios' [2 CORINTIOS]='2 Corintios' [GÁLATAS]='Gálatas' [EFESIOS]='Efesios' [FILIPENSES]='Filipenses' [COLOSENSES]='Colosenses' [1 TESALONICENSES]='1 Tesalonicenses' [2 TESALONICENSES]='2 Tesalonicenses' [1 TIMOTEO]='1 Timoteo' [2 TIMOTEO]='2 Timoteo' [TITO]='Tito' [HEBREOS]='Hebreos' [SANTIAGO]='Santiago' [1 PEDRO]='1 Pedro' [2 PEDRO]='2 Pedro' [APOCALIPSIS]='Apocalipsis' [RUT]='Rut' [JUDIT]='Judit' [JOB]='Job' [ECLESIASTÉS]='Eclesiastés')
@@ -92,6 +85,13 @@ else
       -e '14,$ s/^[A-Za-zÁÉÍÓÚÑáéíóúñ].+/### &\n/g' \
       "$1"
 fi
+
+#* Formateo de los versículos:
+
+sed --in-place --regexp-extended \
+   -e 's/^([0-9]+)([^ ])/[\1](#c??-v\1){:#c??-v\1} \2/g' \
+   -e 's/ ([0-9]+)([^ ])/\n\n[\1](#c??-v\1){:#c??-v\1} \2/g' \
+   "$1"
 
 #* Detección de inconsistencias en la numeración de los versículos:
 
@@ -126,7 +126,7 @@ do
       fi
    fi
 
-   # sed_scripts+=('-e' "s/^$match/[$match](#c?-v$match){:#c?-v$match}/g")
+   # sed_scripts+=('-e' "s/^$match/[$match](#c??-v$match){:#c??-v$match}/g")
    (( ++ verse_num ))
 done
 
