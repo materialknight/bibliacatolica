@@ -362,7 +362,7 @@ do
       exit 1
    fi
 
-   sed_scripts+=('-e' "s/\[$match_num\] ([0-9]+)( s+\.)?\.?/[[$new_num]](#rn-$new_num){:#n-$new_num} [?, \1](#c??-v\1)\2/g")
+   sed_scripts+=('-e' "s/\[$match_num\] ([0-9]+)( s+\.)?\.?/[[$new_num]](#rn-$new_num){:#n-$new_num} [??, \1](#c??-v\1)\2/g")
    (( ++ ref_num ))
    (( ++ new_num ))
 done

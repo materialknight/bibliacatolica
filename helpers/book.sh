@@ -62,7 +62,7 @@ declare -A book_map_C=([GÉNESIS]='Génesis' [ÉXODO]='Éxodo' [LEVÍTICO]='Lev�
 unset sed_scripts
 sed_scripts=()
 
-if grep -q '^[IVX]' "$1"
+if grep -quiet '^[IVX]\+\.' "$1"
 then
    for uppercase_book in "${!book_map_C[@]}"
    do
@@ -72,7 +72,7 @@ then
    sed --in-place --regexp-extended \
       -e 's/^([IVX]+\.) (.+)/## \1 \L\u\2\n/g' \
       "${sed_scripts[@]}" \
-      -e '14,$ s/^[A-Za-zÁÉÍÓÚÑáéíóúñ].+/#### &\n/g' \
+      -e '14,$ s/^[A-Za-zÁÉÍÓÚÑáéíóúñ¿¡].+/#### &\n/g' \
       "$1"
 else
    for uppercase_book in "${!book_map_C[@]}"
@@ -82,7 +82,7 @@ else
 
    sed --in-place --regexp-extended \
       "${sed_scripts[@]}" \
-      -e '14,$ s/^[A-Za-zÁÉÍÓÚÑáéíóúñ].+/### &\n/g' \
+      -e '14,$ s/^[A-Za-zÁÉÍÓÚÑáéíóúñ¿¡].+/### &\n/g' \
       "$1"
 fi
 
