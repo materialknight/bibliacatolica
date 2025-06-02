@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cartas de san Juan
+title: Introducción a las cartas de san Juan
 permalink: /cartas-de-san-juan
 ---
 
@@ -12,7 +12,7 @@ permalink: /cartas-de-san-juan
 {:toc}
 </div>
 
-## Introducción
+<!-- ## Introducción -->
 
 Las tres Cartas que llevan el nombre de San Juan —una más general, importantísima, y las otras muy breves— han sido escritas por el mismo autor del cuarto Evangelio (véase su nota introductoria). Este es, dice el Oficio de San Juan, aquel discípulo que Jesús amaba (Juan [21, 7](juan#c21-v7)) y al que fueron revelados los secretos del cielo; aquel que se reclinó en la Cena sobre el pecho del Señor (Juan [21, 20](juan#c21-v20)) y que allí bebió, en la fuente del sagrado Pecho, raudales de sabiduría que encerró en su Evangelio.
 
