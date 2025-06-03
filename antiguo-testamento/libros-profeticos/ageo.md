@@ -185,7 +185,7 @@ El que vino para ser Salvador y príncipe de Israel (Miqueas [5, 2](miqueas#c5-v
 El Eclesiástico habla también de Zorobabel (y del sacerdote Jesús, hijo de Josedec) en términos ditirámbicos, lo mismo que Zacarías, y lo llama, como aquí, "anillo". Véase Eclesiástico [49, 13](eclesiastico#c49-v13); cf. Mateo [1, 12](mateo#c1-v12).
 
 <!-- Total de referencias: 21 -->
-<!-- Rango original de referencias: 9728 - 9747 -->
+<!-- Rango original de referencias: 9727 - 9747 -->
 
 <!-- Total de notas: 21 -->
-<!-- Rango original: [9728] - [9747] -->
+<!-- Rango original: [9727] - [9747] -->

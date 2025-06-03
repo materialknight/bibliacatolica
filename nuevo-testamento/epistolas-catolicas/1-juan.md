@@ -523,7 +523,7 @@ Y además de esta, que a nadie es negada para sí mismo (Santiago [1, 5](santiag
 [[70]](#rn-70){:#n-70} [5, 21](#c5-v21) Pirot hace notar que este final, aparentemente desconectado, se explica bien, tanto por el contexto cuanto por las Epístolas paulinas y el Apocalipsis (y no menos por 2 Pedro [2](2-pedro#c2) y [Judas](judas)), donde se ve que los cristianos venidos del paganismo tendían a conservar, en forma de ceremonias cultuales (1 Corintios [10, 20](1-corintios#c10-v20) s. y también Hebreos [13, 9](hebreos#c13-v9)), ciertas prácticas y aun misterios de las antiguas religiones, que los falsos doctores o anticristos toleraban sin duda y con los cuales se producía "una disimulada reinfiltración del paganismo bajo forma de sincretismo".
 
 <!-- Total de referencias: 70 -->
-<!-- Rango original de referencias: 12709 - 12777 -->
+<!-- Rango original de referencias: 12708 - 12777 -->
 
 <!-- Total de notas: 70 -->
-<!-- Rango original: [12709] - [12777] -->
+<!-- Rango original: [12708] - [12777] -->

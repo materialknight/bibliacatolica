@@ -123,7 +123,7 @@ El orientalista Delitzsch ha mostrado que el nombre de Sefarad, o nombre con esa
 ¡Con qué dichosa esperanza no hemos de formular entretanto el ruego de que llegue ese glorioso día que Él nos mandó esperarlo vigilantes (Lucas [12, 43](lucas#c12-v43) y siguientes) y levantar la cabeza ante las señales de su venida (Lucas [21, 27](lucas#c21-v27) s.) para estar con Él, no ya como en esta edad de prueba en que la cizaña estará siempre mezclada con el trigo y la fe huye de la tierra (Mateo [13, 30](mateo#c13-v30) y [39](mateo#c13-v39); Lucas [18, 8](lucas#c18-v8)), sino cuando la Iglesia consume sus Bodas (Apocalipsis [19, 6](apocalipsis#c19-v6)-9) y reine eternamente con Él! (Apocalipsis [21, 2](apocalipsis#c21-v2)).
 
 <!-- Total de referencias: 15 -->
-<!-- Rango original de referencias: 9529 - 9542 -->
+<!-- Rango original de referencias: 9528 - 9542 -->
 
 <!-- Total de notas: 15 -->
-<!-- Rango original: [9529] - [9542] -->
+<!-- Rango original: [9528] - [9542] -->

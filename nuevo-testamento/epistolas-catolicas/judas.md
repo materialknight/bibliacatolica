@@ -135,3 +135,9 @@ Algunos leen en esta primera categoría: "*a los que vacilan, convencerlos*", pe
 **En exultación**: La Vulgata añade: "en la Parusía de N. S. Jesucristo".
 
 **Salvador** se llama también al divino padre en 1 Timoteo [1, 1](1-timoteo#c1-v1); Tito [1, 3](tito#c1-v3), por ser Él la causa primera de nuestra salvación, al enviarnos a su Hijo Unigénito Jesús.
+
+<!-- Total de referencias: 18 -->
+<!-- Rango original de referencias: 12799 - 12816 -->
+
+<!-- Total de notas: 18 -->
+<!-- Rango original: [12799] - [12816] -->

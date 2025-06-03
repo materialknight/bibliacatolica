@@ -11,6 +11,8 @@ sed --in-place \
 
 #* Colecta de referencias a notas:
 
+unset matches sed_scripts ref_num new_num
+
 matches="$(
    grep --perl-regexp --only-matching -- \
    '(?<=[^ ]\[)[0-9]+(?=\])|(?<=\[)[0-9]+(?=\][^ ])' \
@@ -42,7 +44,8 @@ do
 done
 
 echo "Total de referencias: ${#matches[@]}"
-echo "Rango original de referencias: ${matches[1]} - ${matches[-1]}"
+echo "Rango original de referencias: ${matches[0]} - ${matches[-1]}"
+declare -p matches
 
 #* Renumeración:
 
@@ -62,7 +65,7 @@ declare -A book_map_C=([GÉNESIS]='Génesis' [ÉXODO]='Éxodo' [LEVÍTICO]='Lev�
 unset sed_scripts
 sed_scripts=()
 
-if grep -quiet '^[IVX]\+\.' "$1"
+if grep --quiet '^[IVX]\+\.' "$1"
 then
    for uppercase_book in "${!book_map_C[@]}"
    do

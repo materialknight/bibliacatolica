@@ -97,7 +97,7 @@ Cualquiera que haya visto, a la luz de la Sagrada Escritura, como la única amis
 [[8]](#rn-8){:#n-8} [21](#v21) **Harás todavía más**: El apóstol sabe que Filemón, por ser su hijo espiritual, no solo recibirá a Onésimo como hermano sino que también le pondrá en libertad. Cf. Éxodo [21, 1](exodo#c21-v1)-5; Deuteronomio [15, 12](deuteronomio#c15-v12)-18.
 
 <!-- Total de referencias: 8 -->
-<!-- Rango original de referencias: 12395 - 12401 -->
+<!-- Rango original de referencias: 12394 - 12401 -->
 
 <!-- Total de notas: 8 -->
-<!-- Rango original: [12395] - [12401] -->
+<!-- Rango original: [12394] - [12401] -->

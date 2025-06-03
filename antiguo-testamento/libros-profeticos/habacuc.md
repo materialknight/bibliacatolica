@@ -293,7 +293,7 @@ He aquí el pensamiento que ha de consolarnos y alegrarnos en los tiempos calami
 > El Todopoderoso, el Vencedor, es Dios quien nos hace andar sobre nuestras alturas cantando salmos y alabanzas, pues todas estas luchas nos descubren la sabiduría y la magnificencia de Dios, nuestro Padre." (Elpis)
 
 <!-- Total de referencias: 35 -->
-<!-- Rango original de referencias: 9656 - 9689 -->
+<!-- Rango original de referencias: 9655 - 9689 -->
 
 <!-- Total de notas: 35 -->
-<!-- Rango original: [9656] - [9689] -->
+<!-- Rango original: [9655] - [9689] -->

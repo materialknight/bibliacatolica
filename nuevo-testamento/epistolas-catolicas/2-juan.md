@@ -71,8 +71,8 @@ Como observan los comentadores, esta carta, no obstante tales precauciones que h
 [[11]](#rn-11){:#n-11} [13](#v13) **La Electa** (elegida), es decir, la Iglesia desde la cual escribe el autor. Cf. v. [1](#v1) y nota.
 
 <!-- Total de referencias: 11 -->
-<!-- Rango original de referencias: 12779 - 12788 -->
+<!-- Rango original de referencias: 12778 - 12788 -->
 
 <!-- Total de notas: 11 -->
-<!-- Rango original de notas: [12779] - [12788] -->
+<!-- Rango original de notas: [12778] - [12788] -->
 

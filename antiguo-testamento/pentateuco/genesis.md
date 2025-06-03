@@ -4948,3 +4948,9 @@ Cada desengaño que nos preparan los hombres nos acerca a Dios y nos invita a en
 [[437]](#rn-437){:#n-437} [50, 26](#c50-v26) **Murió a la edad de ciento diez años**. El Génesis es el libro de los ancianos ¡Qué figuras de ancianos se hallan allí! Los patriarcas Noé, Abrahán, Isaac, Jacob, José, etc.
 
 > "Os preguntaré: ¿no querríais volver a ver en sus páginas a aquellos viejos y grandes amigos de vuestra infancia, y oírles deciros cómo hay que envejecer, de qué modo se debe morir? En cuanto a mí, ese libro me recuerda los días en que nuestra buena abuela nos leía al anochecer algún capítulo en la 'Biblia de Royaumont'. Hecha la lectura, ella cerraba el libro dejando en él sus lentes para señalar la página de la próxima lección, en tanto que los niñitos maravillados de aquellos nombres, enternecidos y asombrados de aquellos relatos, la preguntaban, viéndola tan viejecita: 'Abuela, ¿y tú los viste?'" (Mons. Baunard, Le Vieillard, pág. 359)
+
+<!-- Total de referencias: 437 -->
+<!-- Rango original de referencias: 1 - 437 -->
+
+<!-- Total de notas: 437 -->
+<!-- Rango original: [1] - [437] -->

@@ -2013,7 +2013,7 @@ Los teólogos suelen distinguir entre la ciencia de Cristo como Dios y como Homb
 [[185]](#rn-185){:#n-185} [16, 20](#c16-v20) El final de este Evangelio (vv. [9](#c16-v9)-20) falta en muchos códices antiguos. Su inspiración fue definida en el Concilio Tridentino. Críticamente consta de su autenticidad.
 
 <!-- Total de referencias: 185 -->
-<!-- Rango original de referencias: 10225 - 10408 -->
+<!-- Rango original de referencias: 10224 - 10408 -->
 
 <!-- Total de notas: 185 -->
-<!-- Rango original: [10225] - [10408] -->
+<!-- Rango original: [10224] - [10408] -->

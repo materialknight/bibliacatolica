@@ -291,7 +291,7 @@ Toda la escena que viene a continuación es un poema de incomparable pureza, que
 [[30]](#rn-30){:#n-30} [4, 16](#c4-v16) Noemí es modelo de abuela como antes lo fue de suegra. En la genealogía de Jesucristo se recuerdan los nombres aquí mencionados. Cf. Mateo [1, 3](mateo#c1-v3)-6; Lucas [3, 32](lucas#c3-v32). Véase 1 Crónicas [2, 5](1-cronicas#c2-v5) y [4, 1](1-cronicas#c4-v1).
 
 <!-- Total de referencias: 30 -->
-<!-- Rango original de referencias: 1744 - 1772 -->
+<!-- Rango original de referencias: 1743 - 1772 -->
 
 <!-- Total de notas: 30 -->
-<!-- Rango original: [1744] - [1772] -->
+<!-- Rango original: [1743] - [1772] -->

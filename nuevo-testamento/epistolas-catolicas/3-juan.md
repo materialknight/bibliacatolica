@@ -81,3 +81,9 @@ Es lo que dice el Apóstol en 2 Juan [9](2-juan#v9) sobre los que van "más all�
 **La verdad misma** da testimonio en pro de Demetrio con la sana doctrina que pone en su boca. Se supone, fundadamente que él era el principal enviado de Juan, sin duda como portador de esta carta.
 
 [[10]](#rn-10){:#n-10} [15](#v15) El saludo es solamente **a los amigos** (cf. 2 Juan [2](2-juan#v2) y nota) y a cada uno en particular y sin nombrarlos "porque Diótrefes no permitiría dirigirse a la comunidad en nombre de Juan" (Pirot).
+
+<!-- Total de referencias: 10 -->
+<!-- Rango original de referencias: 12789 - 12798 -->
+
+<!-- Total de notas: 10 -->
+<!-- Rango original: [12789] - [12798] -->

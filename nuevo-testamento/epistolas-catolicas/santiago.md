@@ -469,7 +469,7 @@ Lo mismo dice la Epístola de Bernabé (19, 12). Entre los intérpretes antiguos
 [[63]](#rn-63){:#n-63} [5, 20](#c5-v20) Véase Proverbios [10, 12](proverbios#c10-v12).
 
 <!-- Total de referencias: 63 -->
-<!-- Rango original de referencias: 12544 - 12605 -->
+<!-- Rango original de referencias: 12543 - 12605 -->
 
 <!-- Total de notas: 63 -->
-<!-- Rango original: [12544] - [12605] -->
+<!-- Rango original: [12543] - [12605] -->

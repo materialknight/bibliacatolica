@@ -261,7 +261,7 @@ Fillion comenta: "Esto significa que en lo futuro ningún miembro del pueblo de 
 **Ante vuestros ojos**: es decir, de un modo manifiesto. En efecto, la libertad que aquí se anuncia solo será adquirida al precio de la muerte del Redentor (Hebreos [13, 20](hebreos#c13-v20)) y mediante su Resurrección (Hechos [3, 20](hechos#c3-v20)-26; [13, 32](hechos#c13-v32)-37 y notas).
 
 <!-- Total de referencias: 37 -->
-<!-- Rango original de referencias: 9691 - 9726 -->
+<!-- Rango original de referencias: 9690 - 9726 -->
 
 <!-- Total de notas: 37 -->
-<!-- Rango original: [9691] - [9726] -->
+<!-- Rango original: [9690] - [9726] -->

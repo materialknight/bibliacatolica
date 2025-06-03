@@ -368,7 +368,7 @@ do
 done
 
 echo "Total de notas: ${#matches[@]}"
-echo "Rango original: ${matches[1]} - ${matches[-1]}"
+echo "Rango original: ${matches[0]} - ${matches[-1]}"
 
 #* Renumeración:
 
