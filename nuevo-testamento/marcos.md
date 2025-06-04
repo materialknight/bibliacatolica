@@ -4,12 +4,20 @@ title: Evangelio según san Marcos
 permalink: /marcos
 ---
 
-<input type="button" popovertarget="toc" value="Tabla de Contenido">
+<div class="navigation">
+   <input type="button" popovertarget="toc" value="Contenido">
+   <input type="button" popovertarget="books" value="Libros">
+</div>
+
+<div id="books" markdown="1" popover>
+
+   {% include book-list.md %}
+</div>
 
 <div id="toc" markdown="1" popover>
 
-- Tabla de contenido
-{:toc}
+   - Tabla de contenido
+   {:toc}
 </div>
 
 ## Introducción
@@ -25,7 +33,6 @@ El fin que el segundo Evangelista se propone, es demostrar que Jesucristo es Hij
 El Evangelio de San Marcos, el más breve de los cuatro, presenta en forma sintética, muchos pasajes de los sinópticos, no obstante lo cual reviste singular interés, porque narra algunos episodios que le son exclusivos y también por muchos matices propios, que permiten comprender mejor los demás Evangelios.
 
 Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de Venecia, que lo tiene por patrono, venera su cuerpo en la catedral.
-
 
 ## I. San Juan Bautista
 
@@ -445,7 +452,7 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 
 [34](#c5-v34){:#c5-v34} Mas Él le dijo: "¡Hija! tu fe te ha salvado. Vete hacia la paz y queda libre de tu mal".
 
-[35](#c5-v35){:#c5-v35} Estaba todavía hablando cuando vinieron de casa del jefe de sinagoga a decirle (a este): "Tu hija ha muerto. ¿Con qué objeto incomodas mas al Maestro?".
+[35](#c5-v35){:#c5-v35} Estaba todavía hablando cuando vinieron de casa del jefe de sinagoga a decirle (a este): "Tu hija ha muerto. ¿Con qué objeto incomodas más al Maestro?".
 
 [36](#c5-v36){:#c5-v36} Mas Jesús, desoyendo lo que hablaban, dijo al jefe de sinagoga: "No temas, únicamente cree".
 
@@ -457,7 +464,7 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 
 [40](#c5-v40){:#c5-v40} y se burlaban de Él. Hizo, entonces, salir a todos, tomó consigo al padre de la niña y a la madre y a los que lo acompañaban, y entró donde estaba la niña.
 
-[41](#c5-v41){:#c5-v41} Tomó la mano de la niña y le dijo: "¡Talitha kum!", que se traduce: "¡Niñita, Yo te lo mando, levántate!" [[46]](#n-46){:#rn-46}.
+[41](#c5-v41){:#c5-v41} Tomó la mano de la niña y le dijo: "¡*Talitha kum*!", que se traduce: "¡Niñita, Yo te lo mando, levántate!" [[46]](#n-46){:#rn-46}.
 
 [42](#c5-v42){:#c5-v42} Y al instante la niña se levantó, y se puso a caminar, pues era de doce años. Y al punto quedaron todos poseídos de gran estupor.
 
@@ -991,7 +998,7 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 
 [50](#c10-v50){:#c10-v50} Y él arrojó su manto, se puso en pie de un salto y vino a Jesús.
 
-[51](#c10-v51){:#c10-v51} Tomando la palabra, Jesús le dijo: "¿Qué deseas que te haga?" El ciego le respondió: "¡Rabbuni, que yo vea!"
+[51](#c10-v51){:#c10-v51} Tomando la palabra, Jesús le dijo: "¿Qué deseas que te haga?" El ciego le respondió: "¡*Rabbuni*, que yo vea!"
 
 [52](#c10-v52){:#c10-v52} Jesús le dijo: "¡Anda! tu fe te ha sanado". Y en seguida vio, y lo fue siguiendo por el camino [[101]](#n-101){:#rn-101}.
 
@@ -1344,7 +1351,7 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 
 [35](#c14-v35){:#c14-v35} Y yendo un poco más lejos, se postró en tierra, y rogó a fin de que, si fuese posible, se alejase de Él esa hora;
 
-[36](#c14-v36){:#c14-v36} y decía: "¡Abba, Padre! ¡todo te es posible; aparta de Mí este cáliz; pero, no como Yo quiero, sino como Tú!" [[148]](#n-148){:#rn-148}.
+[36](#c14-v36){:#c14-v36} y decía: "¡*Abba*, Padre! ¡todo te es posible; aparta de Mí este cáliz; pero, no como Yo quiero, sino como Tú!" [[148]](#n-148){:#rn-148}.
 
 [37](#c14-v37){:#c14-v37} Volvió y los halló dormidos; y dijo a Pedro: "¡Simón! ¿duermes? [[149]](#n-149){:#rn-149} ¿No pudiste velar una hora?.
 
@@ -1502,7 +1509,7 @@ Murió San Marcos en Alejandría de Egipto, cuya iglesia gobernaba. La ciudad de
 
 [33](#c15-v33){:#c15-v33} Y cuando fue la hora sexta, hubo tinieblas sobre toda la tierra hasta la hora nona.
 
-[34](#c15-v34){:#c15-v34} Y a la hora nona, Jesús gritó con una voz fuerte: "Eloí, Eloí, ¿lama sabacthani?", lo que es interpretado: "Dios mío, Dios mío, ¿por qué me has abandonado?" [[171]](#n-171){:#rn-171}.
+[34](#c15-v34){:#c15-v34} Y a la hora nona, Jesús gritó con una voz fuerte: "*Eloí, Eloí, ¿lama sabacthani?*", lo que es interpretado: "Dios mío, Dios mío, ¿por qué me has abandonado?" [[171]](#n-171){:#rn-171}.
 
 [35](#c15-v35){:#c15-v35} Oyendo esto, algunos de los presentes dijeron: "¡He ahí que llama a Elías!"
 

@@ -1,10 +1,19 @@
 ---
 layout: page
-title: El Pentateuco
+title: Introducción al Pentateuco
 permalink: /pentateuco
 ---
 
-## Introducción
+<div class="navigation">
+   <input type="button" popovertarget="books" value="Libros">
+</div>
+
+<div id="books" markdown="1" popover>
+
+   {% include book-list.md %}
+</div>
+
+<!-- ## Introducción -->
 
 *El Pentateuco*, o, según lo llaman los judíos, el *Libro de la Ley* (Torah), encabeza los 73 libros de la Biblia, y constituye la magnífica puerta de la Revelación divina. Los nombres de los cinco libros del Pentateuco son: el **Génesis**, el **Éxodo**, el **Levítico**, los **Números**, el **Deuteronomio**, y su fin general es: exponer cómo Dios escogió para sí al pueblo de Israel y lo formó para la venida de Jesucristo; de modo que en realidad es Jesucristo quien aparece a través de los misteriosos destinos del pueblo escogido.
 

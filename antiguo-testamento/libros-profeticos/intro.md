@@ -1,10 +1,19 @@
 ---
 layout: page
-title: Libros Proféticos
+title: Introducción a los Libros Proféticos
 permalink: /libros-profeticos
 ---
 
-## Introducción
+<div class="navigation">
+   <input type="button" popovertarget="books" value="Libros">
+</div>
+
+<div id="books" markdown="1" popover>
+
+   {% include book-list.md %}
+</div>
+
+<!-- ## Introducción -->
 
 *Profeta* es una voz griega, y designa al que habla por otro, o sea en lugar de otro; equivale por ende, en cierto sentido, a la voz "intérprete" o "vocero". Pero poco importa el significado de la voz griega; debemos recurrir a las fuentes, a la lengua hebrea misma. En el hebreo se designa al profeta con dos nombres muy significativos: El primero es *nabí* que significa "extático", "inspirado", a saber por Dios. El otro nombre es *roéh* o *choséh* que quiere decir "el vidente", el que ve lo que Dios le muestra en forma de visiones, ensueños, etc., ambos nombres expresan la idea de que el profeta es instrumento de Dios, hombre de Dios que no ha de anunciar su propia palabra sino la que el Espíritu de Dios le sopla e inspira.
 

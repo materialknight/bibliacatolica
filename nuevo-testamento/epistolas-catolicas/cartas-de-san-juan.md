@@ -4,12 +4,13 @@ title: Introducción a las cartas de san Juan
 permalink: /cartas-de-san-juan
 ---
 
-<input type="button" popovertarget="toc" value="Tabla de Contenido">
+<div class="navigation">
+   <input type="button" popovertarget="books" value="Libros">
+</div>
 
-<div id="toc" markdown="1" popover>
+<div id="books" markdown="1" popover>
 
-- Tabla de contenido
-{:toc}
+   {% include book-list.md %}
 </div>
 
 <!-- ## Introducción -->

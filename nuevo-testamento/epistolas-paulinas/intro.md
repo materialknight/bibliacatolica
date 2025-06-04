@@ -1,10 +1,25 @@
 ---
 layout: page
-title: Epístolas Paulinas
+title: Introducción a las Epístolas Paulinas
 permalink: /epistolas-paulinas
 ---
 
-## Introducción
+<div class="navigation">
+   <input type="button" popovertarget="books" value="Libros">
+</div>
+
+<div id="books" markdown="1" popover>
+
+   {% include book-list.md %}
+</div>
+
+<div id="toc" markdown="1" popover>
+
+   - Tabla de contenido
+   {:toc}
+</div>
+
+<!-- ## Introducción -->
 
 Saulo, que después de convertido se llamó *Pablo* —esto es, "pequeño"—, nació en Tarso de Cilicia, tal vez en el mismo año que Jesús, aunque no lo conoció mientras vivía el Señor. Sus padres, judíos de la tribu de Benjamín (Romanos [11, 1](romanos#c11-v1); Filipenses [3, 5](filipenses#c3-v5)), le educaron en la afición a la Ley, entregándolo a uno de los más célebres doctores, Gamaliel, en cuya escuela el fervoroso discípulo se compenetró de las doctrinas de los escribas y fariseos, cuyos ideales defendió con sincera pasión mientras ignoraba el misterio de Cristo. No contento con su formación en las disciplinas de la Ley, aprendió también el oficio de tejedor, para ganarse la vida con sus propias manos. El Libro de los "Hechos" relata cómo, durante sus viajes apostólicos, trabajaba en eso "de día y de noche", según él mismo lo proclama varias veces como ejemplo y constancia de que no era una carga para las iglesias (véase Hechos [18, 3](hechos#c18-v3) y nota).
 

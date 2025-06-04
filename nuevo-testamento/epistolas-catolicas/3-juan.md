@@ -3,13 +3,21 @@ layout: page
 title: Tercera carta del apóstol san Juan
 permalink: /3-juan
 ---
-<!--* En otras biblias, el v. 14 está dividido en 2, terminando el libro en el v. 15 -->
-<input type="button" popovertarget="toc" value="Tabla de Contenido">
+<!--* En Strauginger y Nacar-Colunga, el v. 14 es el último, pero en Bover-Cantera y todas las demás Biblias, está dividido en 2, terminando el libro en el v. 15 -->
+<div class="navigation">
+   <input type="button" popovertarget="toc" value="Contenido">
+   <input type="button" popovertarget="books" value="Libros">
+</div>
+
+<div id="books" markdown="1" popover>
+
+   {% include book-list.md %}
+</div>
 
 <div id="toc" markdown="1" popover>
 
-- Tabla de contenido
-{:toc}
+   - Tabla de contenido
+   {:toc}
 </div>
 
 ## El apóstol alaba la caridad de Gayo

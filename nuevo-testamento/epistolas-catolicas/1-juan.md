@@ -4,12 +4,20 @@ title: Primera carta del apóstol san Juan
 permalink: /1-juan
 ---
 
-<input type="button" popovertarget="toc" value="Tabla de Contenido">
+<div class="navigation">
+   <input type="button" popovertarget="toc" value="Contenido">
+   <input type="button" popovertarget="books" value="Libros">
+</div>
+
+<div id="books" markdown="1" popover>
+
+   {% include book-list.md %}
+</div>
 
 <div id="toc" markdown="1" popover>
 
-- Tabla de contenido
-{:toc}
+   - Tabla de contenido
+   {:toc}
 </div>
 
 ## 1 Juan [1](#c1) {#c1}
