@@ -1029,6 +1029,7 @@ permalink: /romanos
 
 [27](#c16-v27){:#c16-v27} a Dios el solo Sabio, sea la gloria por Jesucristo, por los siglos de los siglos [[7]](#n-7){:#rn-7}. Amén.
 
+## Comentarios de Mons. Straubinger
 
 <!--Total de referencias: 163-->
 <!--Rango original de referencias: 11535 - 11697-->
