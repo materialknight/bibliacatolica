@@ -131,5 +131,7 @@ permalink: /2-tesalonicenses
 
 [17](#c3-v17){:#c3-v17} La gracia de nuestro Señor Jesucristo sea con todos vosotros [[16]](#n-16){:#rn-16}.
 
+## Comentarios de Mons. Straubinger
+
 <!--Total de referencias: 16-->
 <!--Rango original de referencias: 12271 - 12286-->

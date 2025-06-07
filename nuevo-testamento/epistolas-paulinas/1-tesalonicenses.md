@@ -233,6 +233,7 @@ permalink: /1-tesalonicenses
 
 [28](#c5-v28){:#c5-v28} La gracia de nuestro Señor Jesucristo sea con vosotros.
 
+## Comentarios de Mons. Straubinger
 
 <!--Total de referencias: 39-->
 <!--Rango original de referencias: 12232 - 12270-->
