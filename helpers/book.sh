@@ -45,7 +45,6 @@ done
 
 echo "Total de referencias: ${#matches[@]}"
 echo "Rango original de referencias: ${matches[0]} - ${matches[-1]}"
-declare -p matches
 
 #* Renumeración:
 
