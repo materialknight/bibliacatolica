@@ -382,6 +382,7 @@ permalink: /efesios
 
 [24](#c6-v24){:#c6-v24} La gracia sea con todos los que aman con incorruptible amor a nuestro Señor Jesucristo. Amén.
 
+## Comentarios de Mons. Straubinger
 
 <!--Total de referencias: 79-->
 <!--Rango original de referencias: 12071 - 12149-->
