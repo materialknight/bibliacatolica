@@ -242,6 +242,7 @@ permalink: /colosenses
 
 [18](#c4-v18){:#c4-v18} El saludo es de mi mano, Pablo. Acordaos de mis cadenas. La gracia sea con vosotros".
 
+## Comentarios de Mons. Straubinger
 
 <!--Total de referencias: 41-->
 <!--Rango original de referencias: 12191 - 12231-->
