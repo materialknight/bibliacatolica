@@ -1036,6 +1036,7 @@ permalink: /1-corintios
 
 [24](#c16-v24){:#c16-v24} Mi amor está con todos vosotros, en Cristo Jesús.
 
+## Comentarios de Mons. Straubinger
 
 <!--Total de referencias: 185-->
 <!--Rango original de referencias: 11698 - 11882-->

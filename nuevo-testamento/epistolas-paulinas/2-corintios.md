@@ -632,6 +632,7 @@ permalink: /2-corintios
 
 [13](#c13-v13){:#c13-v13} La gracia del Señor Jesucristo y la caridad de Dios (Padre) y la comunicación del Espíritu Santo sea con todos vosotros [[113]](#n-113){:#rn-113}.
 
+## Comentarios de Mons. Straubinger
 
 <!--Total de referencias: 113-->
 <!--Rango original de referencias: 11883 - 11995-->
