@@ -300,6 +300,7 @@ permalink: /1-timoteo
 
 [21](#c6-v21){:#c6-v21} Por profesarla algunos se han extraviado de la fe. La gracia sea con vosotros [[50]](#n-50){:#rn-50}.
 
+## Comentarios de Mons. Straubinger
 
 <!--Total de referencias: 50-->
 <!--Rango original de referencias: 12287 - 12336-->
