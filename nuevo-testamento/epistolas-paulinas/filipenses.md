@@ -260,6 +260,7 @@ permalink: /filipenses
 
 [23](#c4-v23){:#c4-v23} La gracia del Señor Jesucristo sea con vuestro espíritu. Amén.
 
+## Comentarios de Mons. Straubinger
 
 <!--Total de referencias: 41-->
 <!--Rango original de referencias: 12150 - 12190-->
