@@ -369,6 +369,7 @@ permalink: /galatas
 
 [17](#c6-v17){:#c6-v17} En adelante nadie me importune más, pues las señales de Jesús las llevo yo (hasta) en mi cuerpo. "La gracia de nuestro Señor Jesucristo sea con vuestro espíritu, hermanos. Amén [[75]](#n-75){:#rn-75}.
 
+## Comentarios de Mons. Straubinger
 
 <!--Total de referencias: 75-->
 <!--Rango original de referencias: 11996 - 12070-->
