@@ -1026,5 +1026,7 @@ En los 404 versículos del Apocalipsis se encuentran 518 citas del Antiguo Testa
 [21](#c22-v21){:#c22-v21} La gracia del Señor Jesús sea con todos los santos. Amén.
 
 
+## Comentarios de Mons. Straubinger
+
 <!--Total de referencias: 270-->
 <!--Rango original de referencias: 12817 - 13086-->
