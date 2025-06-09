@@ -21,7 +21,7 @@ permalink: /apocalipsis
 </div>
 
 
-INTRODUCCIÓN
+## Introducción
 
 Apocalipsis, esto es, Revelación de Jesucristo, se llama este misterioso Libro, porque en él domina la idea de la segunda Venida de Cristo (cf. [1, 1](#c1-v1) y [7](#c1-v7); 1 Pedro [1, 7](1-pedro#c1-v7) y [13](1-pedro#c1-v13)). Es el último de toda la Biblia y su lectura es objeto de una bienaventuranza especial y de ahí la gran veneración en que lo tuvo la Iglesia (cf. [1, 3](#c1-v3) y nota), no menos que las tremendas conminaciones que él mismo fulmina contra quien se atreva a deformar la sagrada profecía agregando o quitando a sus propias palabras (cf. [22, 18](#c22-v18)).
 
