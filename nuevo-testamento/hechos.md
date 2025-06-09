@@ -22,7 +22,7 @@ permalink: /hechos
 
 
 
-INTRODUCCIÓN
+## Introducción
 
 El libro de los Hechos no pretende narrar lo que hizo cada uno de los apóstoles, sino que toma, como lo hicieron los evangelistas, los hechos principales que el Espíritu Santo ha sugerido al autor para alimento de nuestra fe (cf. Lucas [1, 4](lucas#c1-v4); Juan [20, 31](juan#c20-v31)). Dios nos muestra aquí, con un interés histórico y dramático incomparable, lo que fue la vida y el apostolado de la Iglesia en los primeros decenios (años 30-63 del nacimiento de Cristo), y el papel que en ellos desempeñaron los Príncipes de los Apóstoles, San Pedro (cap. 1-12) y San Pablo (cap. 13-28). La parte más extensa se dedica, pues, a los viajes, trabajos y triunfos de este Apóstol de los gentiles, hasta su primer cautiverio en Roma. Con esto se detiene el autor casi inopinadamente, dando la impresión de que pensaba escribir más adelante otro tratado.
 
