@@ -5,8 +5,12 @@ Libros Históricos: (no Intro) Rut
 Libros Poéticos y Sapienciales: Intro
 Libros Proféticos: Intro, Abdías, Habacuc, Sofonías, Ageo
 Evangelios: (no Intro) Marcos
-Epístolas Paulinas: Intro, Filemón
-Epístolas Católicas: (no Intro) Santiago, Intro a cartas de Pedro, Intro a cartas de Juan, 1 Juan, 2 Juan, 3 Juan, Judas
+Epístolas Paulinas: Intro, 1 Corintios, Filemón
+Epístolas Católicas: (no Intro) Santiago, Intro a cartas de Pedro, 1 Pedro, 2 Pedro, Intro a cartas de Juan, 1 Juan, 2 Juan, 3 Juan, Judas
+
+Pendientes:
+1. Corregir puntuación, estilo y fuente de las citas.
+2. Poner en cursiva ("bastardilla") lo que en el texto bíblico está entre paréntesis.
 
 Workflow:
 1. Correr helpers/full-names.sh en los comentarios, y book.sh en el texto bíblico.
