@@ -20,9 +20,9 @@ permalink: /2-corintios
    {:toc}
 </div>
 
+## [Introducción a las Epístolas Paulinas](epistolas-paulinas)
 
-
-#### PRÓLOGO
+## PRÓLOGO
 
 ### 2 Corintios [1](#c1) {#c1}
 
