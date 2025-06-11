@@ -20,14 +20,13 @@ permalink: /1-tesalonicenses
    {:toc}
 </div>
 
+## [Introducción a las Epístolas Paulinas](epistolas-paulinas)
 
 ## 1 Tesalonicenses [1](#c1) {#c1}
 
 ### Salutación apostólica y congratulaciones
 
-[[1]](#n-1){:#rn-1}.
-
-[1](#c1-v1){:#c1-v1} Pablo y Silvano y Timoteo, a la Iglesia de los tesalonicenses, en Dios Padre y en el Señor Jesucristo: gracia a vosotros y paz.
+[1](#c1-v1){:#c1-v1} [[1]](#n-1){:#rn-1} Pablo y Silvano y Timoteo, a la Iglesia de los tesalonicenses, en Dios Padre y en el Señor Jesucristo: gracia a vosotros y paz.
 
 [2](#c1-v2){:#c1-v2} Siempre damos gracias a Dios por todos vosotros, haciendo sin cesar memoria de vosotros en nuestras oraciones.
 
@@ -91,9 +90,9 @@ permalink: /1-tesalonicenses
 
 [18](#c2-v18){:#c2-v18} Por eso quisimos ir a vosotros una y otra vez, en particular yo, Pablo, pero nos atajó Satanás [[14]](#n-14){:#rn-14}.
 
-[19](#c2-v19){:#c2-v19} Pues ¿cuál es nuestra esperanza, o gozo, o corona de gloria delante de nuestro Señor Jesucristo en su Parusía? ¿No lo sois vosotros?
+[19](#c2-v19){:#c2-v19} Pues ¿cuál es nuestra esperanza, o gozo, o corona de gloria delante de nuestro Señor Jesucristo en su Parusía? ¿No lo sois vosotros? [[15]](#n-15){:#rn-15}
 
-[20](#c2-v20){:#c2-v20} Sí, vosotros sois nuestra gloria y nuestro gozo [[15]](#n-15){:#rn-15}.
+[20](#c2-v20){:#c2-v20} Sí, vosotros sois nuestra gloria y nuestro gozo.
 
 ## 1 Tesalonicenses [3](#c3) {#c3}
 
@@ -235,5 +234,133 @@ permalink: /1-tesalonicenses
 
 ## Comentarios de Mons. Straubinger
 
+
+[[1]](#rn-1){:#n-1} [1, 1](#c1-v1) **Tesalónica** (hoy Salónica), capital de Macedonia, recibió la luz del Evangelio en el segundo viaje apostólico de S. Pablo. No pudiendo detenerse allí a causa de la sedición de los judíos, el apóstol se dirige a ellos mediante esta carta, escrita en Corinto hacia el año 52 —es decir que es la primera de todas las epístolas— para confirmarlos en los fundamentos de la fe y la vocación de la santidad, y consolarlos acerca de los muertos con los admirables anuncios que les revela sobre la resurrección y la segunda venida de Cristo.
+
+[[2]](#rn-2){:#n-2} [1, 5](#c1-v5) **En poder, y en el Espíritu Santo**: El Papa León XIII agrega a estas palabras el siguiente comentario:
+
+> "Hablan fuera de tono y neciamente quienes al tratar asuntos religiosos y proclamar los divinos preceptos no proponen casi otra cosa que razones de ciencia y prudencia humanas, fiándose más en sus propios argumentos que en los divinos" (Encíclica *Providentissimus Deus*).
+
+[[3]](#rn-3){:#n-3} [1, 6](#c1-v6) **Con gozo del Espíritu Santo**:
+
+> "El Espíritu Santo es la alegría de nuestra alma, el regocijo del corazón... el consuelo de los que lloran, el paño de lágrimas de la tristeza, el reposo del espíritu" (S. Crisóstomo).
+
+[[4]](#rn-4){:#n-4} [1, 8](#c1-v8) **No tenemos necesidad de decir palabra**: Como elocuente testimonio a esos fieles recientemente convertidos (v. [9](#c1-v9)) S. Crisóstomo da aquí esta explicación:
+
+> "Porque convertidos los discípulos en nuestros y doctores, hablaban e instruían con tanto valor y confianza a todos, que los arrastraban y convertían. No había dique capaz de contener la predicación, sino que, más vehemente que el fuego, avasallaba el orbe entero". Cf. Romanos [15, 23](romanos#c15-v23); 2 Timoteo [2, 2](2-timoteo#c2-v2).
+
+**La fe vuestra, que es para con Dios**: Fillion señala la singularidad de esta expresión y la explica así: "Vuestra fe que se dirige hacia Dios, que tiene como fin a Dios". Es decir, fe en Dios y no en los hombres, como la que el apóstol censura en 1 Corintios [1, 12](1-corintios#c1-v12) ss.
+
+[[5]](#rn-5){:#n-5} [1, 9](#c1-v9) s.
+
+> "La conversión al Cristianismo es resumida en tres puntos concretos: el abandono del culto de los ídolos, la adhesión al Dios único, que es llamado vivo y verdadero por oposición a las divinidades sin vida y sin realidad del paganismo, y la espera de la segunda venida de Jesucristo, juez futuro de los vivos y de los muertos" (Fillion). Cf. [2, 19](#c2-v19); [4, 16](#c4-v16) s.; [5, 1](#c5-v1) ss.
+
+> "Si entonces había que superar la dificultad de una religión completamente nueva y repugnante a la mentalidad pagana o judaica, amén de la hostilidad del poder político que divinizaba al César y condenaba a muerte a quien se negaba a adorarlo, hoy, después de veinte siglos de cristianismo, los obstáculos a vencer no son menores. La idolatría práctica es harto más peligrosa que la idolatría teórica y es más difícil hacer cristiano a quien ha renegado de su bautismo que convertir a un pagano o a un ignorante de buena fe" (P. J. B. Penco).
+
+[[6]](#rn-6){:#n-6} [2, 2](#c2-v2) Cf. Hechos [16, 19](hechos#c16-v19) ss. y [17, 5](hechos#c17-v5) ss.
+
+[[7]](#rn-7){:#n-7} [2, 3](#c2-v3) Defiéndese contra las calumnias que sus adversarios esparcían, y destaca, como la más clara refutación, la labor realizada con desinterés y abnegación en bien de la comunidad de Tesalónica.
+
+[[8]](#rn-8){:#n-8} [2, 4](#c2-v4) Para que nuestra predicación produzca fruto sobrenatural hemos de renunciar a la elocuencia mundana. Véase [1, 5](#c1-v5) y nota; 1 Corintios [1, 17](1-corintios#c1-v17); Gálatas [1, 10](galatas#c1-v10), etc.
+
+[[9]](#rn-9){:#n-9} [2, 7](#c2-v7) S. Pablo vive plenamente el precepto de Cristo de que el mayor sirva al menor. Cf. Mateo [20, 26](mateo#c20-v26) s.; Marcos [10, 43](marcos#c10-v43) s.; Lucas [22, 27](lucas#c22-v27); Juan [13, 12](juan#c13-v12)-17.
+
+[[10]](#rn-10){:#n-10} [2, 9](#c2-v9) El apóstol trabajaba manualmente, haciendo tiendas de campaña, para ganarse el sustento, lo que es de valorar tanto más, si pensamos en su inmensa actividad espiritual. Cf. Hechos [18, 3](hechos#c18-v3) y nota; 1 Corintios [4, 12](1-corintios#c4-v12); 2 Corintios [11, 28](2-corintios#c11-v28); 2 Tesalonicenses [3, 8](2-tesalonicenses#c3-v8); etc.
+
+[[11]](#rn-11){:#n-11} [2, 13](#c2-v13) **No como palabra de hombre**: S. Agustín, escribiendo sobre esto a S. Jerónimo, le dice:
+
+> "Con toda franqueza te confieso que solo a los Libros de la Sagrada Escritura, llamados canónicos, venero hasta creerlos infalibles. De modo que si en estos Libros veo algo que me parezca contrario a la verdad digo sin vacilar que el ejemplar está errado o que el traductor no entendió el sentido, o que yo no lo entiendo. Mas a todos los otros autores, por santo e ilustrados que puedan ser, me cuido bien de creer verdadero lo que dicen porque lo digan ellos, sino porque, con la autoridad de aquellos autores canónicos o con razones de peso, me persuaden que es conforme a la verdad. Y estoy seguro que tal es la regla que tú sigues como yo, y que no pretendes ciertamente que se lean tus libros con la misma deferencia que a los Profetas y los apóstoles, a quienes no se podría sin delito atribuir el más pequeño error" (Carta 82).
+
+En otro lugar confirma esto diciendo: "Tal soy yo con los escritos ajenos. Y así quiero que sean con los míos" (cf. [1, 8](#c1-v8); Hechos [16, 34](hechos#c16-v34); 1 Corintios [1, 12](1-corintios#c1-v12) y notas). Y consecuente con tal criterio, fulmina también este apóstrofe: "Vosotros, que creéis lo que queréis y rechazáis lo que no queréis a vosotros os creéis, y no lo que dice el Evangelio. Queréis ser la autoridad y ocupar el sitio que corresponde al Libro Santo". Cf. Juan [21, 25](juan#c21-v25) y nota.
+
+**Palabra de Dios, que es una energía**: Las palabras divinas de la Sagrada Escritura, escuchadas y leídas constantemente, meditadas día y noche, como dice el Profeta David en el Salmo primero, son de extraordinario provecho para la plenitud de nuestra vida espiritual, pues en ellas está la sustancia que Dios nos ha dado para nuestra oración. Para cada cristiano llega el peligro de que sus oraciones se conviertan en frías fórmulas, intelectuales, y si le falta entonces a la oración ese contenido espiritual de las Palabras divinas, que son espíritu y vida, cae insensiblemente en el ritualismo verbal, o sea, como dice Jesús, en el rezo a fuerza de palabras y en la alabanza que solo honra a Dios con los labios, mientras el corazón está lejos de Él (Mateo [6, 7](mateo#c6-v7) ss.; [15, 8](mateo#c15-v8)).
+
+[[12]](#rn-12){:#n-12} [2, 14](#c2-v14) ss. **De parte de nuestros compatriotas**: Parece aludir a los que vemos en Hechos [17, 5](hechos#c17-v5).
+
+**De los judíos**: cf. Hechos [6, 9](hechos#c6-v9) ss.; [8, 1](hechos#c8-v1) ss.; [9, 1](hechos#c9-v1) s. En el v. [15](#c2-v15) evoca también sus culpas anteriores, como hacía e Señor. Cf. Mateo [5, 12](mateo#c5-v12); [23, 31](mateo#c23-v31) y 37; Hechos [3, 15](hechos#c3-v15); [7, 52](hechos#c7-v52); Hebreos [11, 38](hebreos#c11-v38).
+
+[[13]](#rn-13){:#n-13} [2, 16](#c2-v16) **Hasta el colmo**:
+
+> "Mas simplemente la cólera divina llegó a su término, porque pronto va a desencadenarse completamente sobre los judíos" (Fillion).
+
+Así les sucedió, por su oposición a los designios de Dios, cuando los romanos destruyeron Jerusalén el año 70, y empezó la dispersión de Judá que duraba todavía hasta el tiempo de que habla S. Pablo en Romanos [11, 11](romanos#c11-v11)-25. Cf. Hechos [13, 50](hechos#c13-v50) s.; [14, 4](hechos#c14-v4) ss., y [18](hechos#c14-v18) ss.; [17, 5](#c17-v5) ss.
+
+[[14]](#rn-14){:#n-14} [2, 18](#c2-v18) **Satanás**, sin duda por medio de sus agentes empeñados en sofocar la expansión del Evangelio. Nada preocupa tanto al padre de la mentira (Juan [8, 44](juan#c8-v44)) y "príncipe de este mundo" (Juan [14, 30](juan#c14-v30)) como impedir la obra netamente sobrenatural de no penetración de la palabra del Evangelio en las almas, porque sabe que ella es la fuerza de Dios para salvar a los que creen (Romanos [1, 16](romanos#c1-v16)).
+
+[[15]](#rn-15){:#n-15} [2, 19](#c2-v19) Sobre la **Parusía** o segunda venida de Cristo triunfante. Cf. [1, 9](#c1-v9) y nota; [3, 13](#c3-v13); [4, 15](#c4-v15); [5, 23](#c5-v23), etc.
+
+[[16]](#rn-16){:#n-16} [3, 3](#c3-v3) Notable observación que S. Pablo aplica a sí mismo (Hechos [9, 16](hechos#c9-v16); [14, 21](hechos#c14-v21)) y que repiten también S. Pedro (1 Pedro [4, 12](1-pedro#c4-v12)) y el mismo Señor (Juan [16, 2](juan#c16-v2)) para que nadie se sorprenda. Véase 1 Corintios [4, 19](1-corintios#c4-v19); 2 Timoteo [3, 12](2-timoteo#c3-v12), etc.
+
+[[17]](#rn-17){:#n-17} [3, 6](#c3-v6) **Timoteo**, enviado por Pablo a Tesalónica, trajo buenas noticias a Corinto donde estaba el apóstol.
+
+[[18]](#rn-18){:#n-18} [3, 9](#c3-v9) La oración que sigue atestigua el amor del apóstol a sus hijos espirituales, en particular su interés por el acrecentamiento de la fe.
+
+[[19]](#rn-19){:#n-19} [3, 11](#c3-v11) S. Pablo nos enseña a cada paso a distinguir las Divinas personas en la oración.
+
+[[20]](#rn-20){:#n-20} [3, 12](#c3-v12) *La caridad fraterna*, señal característica del verdadero cristiano y de su elección (Juan [13, 35](juan#c13-v35); cf. Colosenses [4, 5](colosenses#c4-v5) y nota), debe crecer constantemente sin menguar.
+
+[[21]](#rn-21){:#n-21} [3, 13](#c3-v13) Es la advertencia que constantemente nos da Jesús de estar preparados no solo para la hora final de nuestra muerte, sino para su venida que puede ser en cualquier momento, "como la de un ladrón". Cf. [5, 2](#c5-v2) y nota; Santiago [5, 8](santiago#c5-v8).
+
+**Con todos sus santos**: Judas [14](judas#v14); 1 Corintios [5, 23](1-corintios#c5-v23) y nota.
+
+[[22]](#rn-22){:#n-22} [4, 1](#c4-v1) Informado por Timoteo sobre el estado espiritual de aquella cristiandad ([3, 6](#c3-v6)), el apóstol añade aquí sus exhortaciones sobre la santidad de vida, enseñándoles a huir la deshonestidad, la doblez y la holganza.
+
+[[23]](#rn-23){:#n-23} [4, 4](#c4-v4) Que se abstengan de la *fornicación* con aquella pureza y honestidad que corresponde a la condición de nuestro cuerpo, que debe ser templo de Dios (1 Corintios [3, 16](1-corintios#c3-v16) s.; [6, 19](1-corintios#c6-v19); 1 Pedro [3, 17](1-pedro#c3-v17)). El fin inmediato del matrimonio es la procreación de los hijos para que lo sean de Dios, y miembros de Cristo; el fin último, la gloria de Dios. Ambos fines han de guiar la vida y la conducta de los casados (Sto. Tomás).
+
+[[24]](#rn-24){:#n-24} [4, 7](#c4-v7) **Sino en santidad**: es decir, que la santidad es para todos los hijos de Dios (Cf. 1 Corintios [1, 2](1-corintios#c1-v2) y nota), y esto porque Él nos ha dado también su santo Espíritu (v. [8](#c4-v8)). Aquí, como en Romanos [5, 5](romanos#c5-v5), vemos terminantemente destruida nuestra abominable suficiencia.
+
+El mismo apóstol, por la forma de hablar, nos muestra su asombro ante la maravilla que nos está revelando. Porque según esto la santidad es un ofrecimiento de Dios que nos invita a ser santos como Él es santo (Levítico [11, 44](levitico#c11-v44); [19, 2](levitico#c19-v2); [20, 26](levitico#c20-v26); [21, 8](levitico#c21-v8); 1 Pedro [1, 15](1-pedro#c1-v15) s.; Lucas [6, 36](lucas#c6-v36) y nota).
+
+Si aceptamos, si lo deseamos con sinceridad, Él mismo nos da entonces su propio Espíritu, que es el Espíritu de santidad (Romanos [5, 5](romanos#c5-v5)), de la propia santidad de Dios. Si el sol mira a la tierra, la verá luminosa, como nosotros vemos a la luna, pero esa luz es la que le da Él, nada más que Él. Y más aún la luminosidad será tanto mayor cuanto más lisa sea la superficie que la refleja, es decir, cuanto más quitemos nuestros propios inventos para vivir y obrar según todo lo que nos viene de Él. De ahí que quien esto rechaza, no desprecia a un hombre sino a Dios.
+
+[[25]](#rn-25){:#n-25} [4, 13](#c4-v13) ss. A los primeros cristianos, más que a nosotros, les preocupaba la segunda venida de Cristo, especialmente en cuanto a la suerte de los muertos. Creían que estos, tal vez, fueran remitidos al último lugar en la resurrección o que la resurrección ya había pasado (2 Timoteo [2, 16](2-timoteo#c2-v16) ss. y nota).
+
+Contesta S. Pablo: De ninguna manera habéis de angustiaros; ellos resucitarán los primeros, y los otros justos que estén vivos serán arrebatados al encuentro de Cristo en el aire. Los Padres griegos, y de los latinos S. Jerónimo y Tertuliano, opinan que esto sucederá sin que antes sea necesaria la muerte física. Lo admiten también S. Anselmo y Sto. Tomás, etc. Véase [3, 13](#c3-v13); 1 Corintios [6, 2](1-corintios#c6-v2) s.; [15, 23](1-corintios#c15-v23) y [51](1-corintios#c15-v51); 2 Timoteo [4, 8](2-timoteo#c4-v8) y notas.
+
+[[26]](#rn-26){:#n-26} [4, 16](#c4-v16) **El Arcángel**: probablemente S. Miguel, pues es el único que en la Sagrada Escritura lleva este título. Véase Judas [9](judas#v9); Daniel [10, 13](daniel#c10-v13) y notas.
+
+Acerca de la **trompeta de Dios** cf. Zacarías [9, 14](zacarias#c9-v14), donde el mismo Dios hace sonar la trompeta.
+
+**Resucitarán primero**: cf. 1 Corintios [15, 23](1-corintios#c15-v23).
+
+[[27]](#rn-27){:#n-27} [5, 2](#c5-v2) Cf. Mateo [24, 36](mateo#c24-v36); Marcos [13, 32](marcos#c13-v32); Lucas [12, 39](lucas#c12-v39); Santiago [5, 8](santiago#c5-v8); 2 Pedro [3, 10](2-pedro#c3-v10); Apocalipsis [3, 3](apocalipsis#c3-v3); [16, 15](apocalipsis#c16-v15). El apóstol se refiere a la Parusía de Cristo, no a la muerte individual de cada uno.
+
+[[28]](#rn-28){:#n-28} [5, 3](#c5-v3) s. **Paz y seguridad** ha sido siempre, a través de toda la Biblia, el mensaje de los falsos profetas, cuyo éxito, superior al de los verdaderos, se funda precisamente en ese agradable optimismo (véase la introducción general a los Libros Proféticos). De ahí que el que ignora las profecías bíblicas fácilmente vive en la ilusión, no percibe el sentido trágico de la vida presente, ni el destino tremendo a que marchan las naciones. Véase Lucas [18, 8](lucas#c18-v8); Apocalipsis [9, 21](apocalipsis#c9-v21); [16, 9](apocalipsis#c16-v9); [19, 19](apocalipsis#c19-v19); etc. Nada más consolador que la excepción contenida en el v. [4](#c5-v4) para aquellos que viven a la luz de la Palabra divina (Salmo [118, 105](salmos#c118-v105)).
+
+[[29]](#rn-29){:#n-29} [5, 6](#c5-v6) s. **No durmamos como los demás**, en la despreocupación e indiferencia. La embriaguez señala el aturdimiento espiritual en que vive el mundo.
+
+[[30]](#rn-30){:#n-30} [5, 16](#c5-v16) **Gozaos siempre**: Este es el versículo más corto de la Biblia. No podemos quejamos de su contenido. Él resume lo que todo el divino Libro desea, ofrece y realiza, con infalible eficacia, en todo amigo que frecuenta su intimidad.
+
+[[31]](#rn-31){:#n-31} [5, 17](#c5-v17) **Orad sin cesar**: S. Agustín hace notar que esto no significa "rezad todo el día", y menos con pura oración vocal, sino mantenerse incesantemente en la presencia y el amor de Aquel cuyo culto máximo es nuestra fe, nuestro amor y nuestra esperanza. Nuestros trabajos y toda nuestra vida deben ser oración. Véase 1 Corintios [10, 31](1-corintios#c10-v31) y nota.
+
+Decía alguien, como una broma casi inocente, que sus mejores negocios los había planeado durante el Rosario. ¿No le habría valido mucho más planearlos en su escritorio? He aquí cosas que no se entienden sino a la luz del amor. Porque no es obligación visitar a un amigo ni es prohibido ocuparse de un negocio; pero si yo me pongo a pensar en el negocio durante la visita a mi amigo y desatiendo su conversación, ciertamente le daré un disgusto mucho mayor que si no hubiese ido a verlo. Y así comprobamos una vez más que lo único que Dios nos pide es que no tengamos doblez, pero esto lo exige en absoluto. De ahí que toda la Biblia nos muestra como mucho más abominable a Dios la falsa religiosidad y el fariseísmo que los extravíos de los pecadores. Cfr. Levítico [19, 19](levitico#c19-v19); Deuteronomio [22, 11](deuteronomio#c22-v11), sobre el horror de Dios a las mezclas.
+
+[[32]](#rn-32){:#n-32} [5, 18](#c5-v18) He aquí un gran secreto de espiritualidad: vivir ofreciendo el Hijo al Padre en acción de gracias por el don que nos hizo de este Hijo (Juan [3, 16](juan#c3-v16)), y recibiendo constantemente ese don por la Eucaristía y por la fe (Efesios [3, 17](efesios#c3-v17)), como el "pan supersustancial" del Padrenuestro (Mateo [6, 11](mateo#c6-v11)). Esta doble y continua actitud de recibir y entregar a Cristo, Mediador entre el Padre y nosotros y luego entre nosotros y el Padre, ha sido llamada con acierto "la respiración del alma".
+
+[[33]](#rn-33){:#n-33} [5, 19](#c5-v19) **No apaguéis el Espíritu**:
+
+> "Y si el Espíritu se apaga, ¿cuál será la consecuencia? Lo saben todos aquellos que se han encontrado en una noche oscura. Y si resulta difícil trasladarse durante la noche de una parte de la tierra a otra, ¿cómo recorrer de noche el camino que va de la tierra al cielo? ¡No sabéis cuántos demonios ocupan el intervalo, cuántas bestias salvajes, cuántos espíritus del mal se hallan apostados!
+>
+> Mientras tengamos la luz de la gracia, no pueden dañarnos; pero si la tenemos apagada, se arrojarán sobre nosotros, nos asirán y nos despojarán de cuanto llevamos. Los ladrones tienen por costumbre echar mano cuando han apagado la linterna, ven claro en estas tinieblas, en tanto que nosotros no estamos habituados a la luz de la oscuridad" (S. Crisóstomo). Cf. 1 Corintios caps. [12](1-corintios#c12) y [14](1-corintios#c14).
+
+[[34]](#rn-34){:#n-34} [5, 20](#c5-v20) **No menospreciéis las profecías**: Cf. 1 Corintios [14, 39](1-corintios#c14-v39). Hoy solemos interesarnos poco por las profecías, a las cuales la Sagrada Escritura dedica, sin embargo, gran parte de sus páginas. En el Eclesiástico ([39, 1](eclesiastico#c39-v1)) se nos muestra el estudio de las profecías como ocupación característica del que es sabio según Dios (cfr. Amós [3, 7](amos#c3-v7) ss. y notas).
+
+> "Doctrina y profecía tienen la misma íntima relación que conocimiento y deseo. Lo primero es doctrina, o sea conocimiento y fe; lo segundo es profecía, o sea esperanza y deseo vehementísimo, ambicioso anhelo de unión que quisiera estar soñando en ello a toda hora, y que con solo pensar en la felicidad esperada, nos anticipa ese gozo tanto más eficazmente cuanto mayor sea el amor. ¿Cómo podría entonces concebirse que hubiera caridad verdadera en un alma despreocupada e indiferente a las profecías?". Véase Romanos [15, 4](romanos#c15-v4) y nota.
+
+[[35]](#rn-35){:#n-35} [5, 21](#c5-v21) **Examinadlo todo**: No todo lo que parece ser bueno, lo es en efecto. Hay que examinarlo a la luz de la fe. Véase 1 Juan [4, 1](1-juan#c4-v1); Hechos [17, 11](hechos#c17-v11), donde se muestran los de Berea mejores que los tesalonicenses, porque recibían ávidamente la palabra de S. Pablo y constantemente la comprobaban con las Escrituras. El apóstol nos da así una vez más la noción del tesoro que es nuestra alma para que no la abandonemos a la opinión de cualquiera. Ciertamente, dice Clemente Alejandrino, no somos incautos cuando se trata de bienes materiales. Cf. 1 Corintios [12, 2](1-corintios#c12-v2); Efesios [4, 14](efesios#c4-v14).
+
+La Escritura nos enseña claramente a desconfiar de nosotros mismos en nuestras determinaciones, y buscar el consejo del prudente (Proverbios [12, 15](proverbios#c12-v15); [13, 10](proverbios#c13-v10); Eclesiástico [6, 35](eclesiastico#c6-v35) s., y notas), pero con la libertad del hombre espiritual (Eclesiástico [37, 17](eclesiastico#c37-v17)-19 y nota). Tal es el testimonio de la propia conciencia (Romanos [8, 16](romanos#c8-v16) y nota) que Dios da aun a los paganos (Romanos [2, 14](romanos#c2-v14)) y sin el cual el hombre no podría ser recto, pues nunca podría saber que lo era (Romanos [9, 1](romanos#c9-v1)).
+
+[[36]](#rn-36){:#n-36} [5, 22](#c5-v22) **Absteneos de toda clase de mal**: no solo de lo que en realidad lo es. De este modo cortaréis todas las ocasiones de escándalo y de murmuración (S. Basilio). Véase Eclesiástico [9, 4](eclesiastico#c9-v4) y nota.
+
+[[37]](#rn-37){:#n-37} [5, 23](#c5-v23) La caridad de S. Pablo nos desea, aun para el cuerpo, la dicha de disfrutar el misterio que nos anunció en [4, 16](#c4-v16) y en Filipenses [3, 20](filipenses#c3-v20) s. S. Ireneo, siguiendo al apóstol, distingue también en el cristiano **cuerpo**, **alma** y **espíritu**. Son tres dominios superpuestos: el del cuerpo es el animal o físico; el del alma es el psíquico (1 Corintios [2, 14](1-corintios#c2-v14) y nota); el del espíritu es el sobrenatural, único verdaderamente espiritual. Véase 1 Corintios [15, 44](1-corintios#c15-v44); Hebreos [4, 12](hebreos#c4-v12).
+
+[[38]](#rn-38){:#n-38} [5, 26](#c5-v26) **En ósculo santo**: Esta fórmula espiritual es grata a S. Pablo (Romanos [16, 16](romanos#c16-v16); 1 Corintios [16, 20](1-corintios#c16-v20); 2 Corintios [13, 12](2-corintios#c13-v12)) y a S. Pedro (1 Pedro [5, 14](1-pedro#c5-v14)). Sin duda viene de que el beso era, entre los judíos, parte de la salutación (Mateo [26, 48](mateo#c26-v48); Lucas [7, 45](lucas#c7-v45); [22, 48](lucas#c22-v48), etc.). S. Justino y otros atestiguan que pasó a los primeros cristianos, y aún lo vemos conservado en la Liturgia como señal de paz.
+
+[[39]](#rn-39){:#n-39} [5, 27](#c5-v27) **Os conjuro por el Señor**: No puede ser más apremiante el reclamo que el mismo apóstol hace de que todos lo lean. El Crisóstomo que no dejaba pasar una semana sin releer él mismo a todo San Pablo, dice que los laicos deben hacerlo aun con mayor razón que los sacerdotes, por lo mismo que son más ignorantes en materia espiritual.
+
 <!--Total de referencias: 39-->
 <!--Rango original de referencias: 12232 - 12270-->
+
+<!-- Total de notas: 39 -->
+<!-- Rango original: [12232] - [12270] -->
