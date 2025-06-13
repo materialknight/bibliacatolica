@@ -1210,15 +1210,15 @@ Este tercer Evangelio fue escrito en Roma a fines de la primera cautividad de Sa
 
 #### Parábola del amigo inoportuno
 
-[5](#c11-v5){:#c11-v5} Y les dijo: "Quien de vosotros, teniendo un amigo [[145]](#n-145){:#rn-145}, si va (este) a buscarlo a medianoche y le dice: "Amigo, necesito tres panes,
+[5](#c11-v5){:#c11-v5} Y les dijo: "Quien de vosotros, teniendo un amigo [[145]](#n-145){:#rn-145}, si va (este) a buscarlo a medianoche y le dice: 'Amigo, necesito tres panes,
 
-[6](#c11-v6){:#c11-v6} porque un amigo me ha llegado de viaje, y no tengo nada que ofrecerle",
+[6](#c11-v6){:#c11-v6} porque un amigo me ha llegado de viaje, y no tengo nada que ofrecerle',
 
-[7](#c11-v7){:#c11-v7} y si él mismo le responde de adentro: "No me incomodes, ahora mi puerta está cerrada y mis hijos están como yo en cama, no puedo levantarme para darte",
+[7](#c11-v7){:#c11-v7} y si él mismo le responde de adentro: 'No me incomodes, ahora mi puerta está cerrada y mis hijos están como yo en cama, no puedo levantarme para darte',
 
 [8](#c11-v8){:#c11-v8} os digo, que si no se levanta para darle por ser su amigo, al menos a causa de su pertinacia, se levantará para darle todo lo que le hace falta.
 
-[9](#c11-v9){:#c11-v9} Yo os digo: "Pedid y se os dará, buscad y encontraréis, golpead y se os abrirá" [[146]](#n-146){:#rn-146}.
+[9](#c11-v9){:#c11-v9} Yo os digo: 'Pedid y se os dará, buscad y encontraréis, golpead y se os abrirá' [[146]](#n-146){:#rn-146}.
 
 [10](#c11-v10){:#c11-v10} Porque todo el que pide obtiene, el que busca halla, al que golpea se le abre.
 
