@@ -138,6 +138,77 @@ permalink: /tito
 
 ## Comentarios de Mons. Straubinger
 
+[[1]](#rn-1){:#n-1} [1, 1](#c1-v1) La presente carta, contemporánea de la primera a Timoteo, fue dirigida, hacia el año 65, a **Tito** compañero apostólico de Pablo en varios viajes y más tarde obispo de la Isla de Creta. Tito, nacido de padres paganos, era "hijo querido según la fe", lo que quiere decir que el apóstol mismo lo había ganado para Cristo. La situación religiosa en la isla era muy triste: los cretenses se entregaban a muchos vicios, eran mentirosos, perezosos, inmorales; sin hablar de los herejes que allí se habían infiltrado. Por lo cual Pablo escribe aquí otra de sus Epístolas llamadas pastorales, para consolar a su hijo en la fe, dándole a la vez instrucciones para el ejercicio del ministerio episcopal.
+
+**Conforme a la piedad**: Vemos una vez más cómo el apóstol relaciona íntimamente, desde el principio, la piedad con el exacto conocimiento de la verdad, porque una cosa depende de la otra. Véase Efesios [5, 9](efesios#c5-v9) y nota; 1 Timoteo [6, 3](1-timoteo#c6-v3); 2 Timoteo [3, 16](2-timoteo#c3-v16) y notas.
+
+[[2]](#rn-2){:#n-2} [1, 2](#c1-v2) **El que no miente**: Véase 2 Timoteo [1, 12](2-timoteo#c1-v12); [3, 14](2-timoteo#c3-v14); Salmo [118, 49](salmos#c118-v49) y notas. Es este uno de los títulos que más honran a Dios, porque Él es ante todo la Verdad, la Luz (1 Timoteo [6, 16](1-timoteo#c6-v16); 1 Juan [1, 5](1-juan#c1-v5)). Así también se llamó su Hijo Jesucristo: la verdad y la luz (Juan [1, 4](juan#c1-v4), [14](juan#c1-v14) y [17](juan#c1-v17); [3, 19](juan#c3-v19), [8, 12](juan#c8-v12); [12, 35](juan#c12-v35); [14, 6](juan#c14-v6); Apocalipsis [21, 23](apocalipsis#c21-v23), etc.), es decir, lo contrario de Satanás que es el padre de la mentira (Juan [8, 44](juan#c8-v44)) y potestad de la tiniebla (Lucas [22, 53](lucas#c22-v53); Efesios [5, 11](efesios#c5-v11); [6, 12](efesios#c6-v12); Colosenses [1, 13](colosenses#c1-v13)).
+
+[[3]](#rn-3){:#n-3} [1, 3](#c1-v3) San Pablo se declara especial predicador de la esperanza cristiana ([2, 13](#c2-v13)), escondida desde los tiempos eternos (v. [2](#c1-v2)) y revelada por él (Efesios [1, 10](efesios#c1-v10); [3, 8](efesios#c3-v8) ss. y nota), que nos da a conocer sobre ella cosas antes ignoradas (1 Tesalonicenses [4, 13](1-tesalonicenses#c4-v13)-17; 1 Corintios [15, 51](1-corintios#c15-v51) ss.; 2 Tesalonicenses [2, 8](2-tesalonicenses#c2-v8), etc.). Entre los judíos se declaró también muchas veces predicador de la esperanza de Israel (Hechos [28, 20](hechos#c28-v20) y nota). Cf. Colosenses [1, 25](colosenses#c1-v25) s.; Hebreos [10, 23](hebreos#c10-v23) y notas.
+
+[[4]](#rn-4){:#n-4} [1, 5](#c1-v5) Véase 1 Timoteo [3, 1](1-timoteo#c3-v1) ss.
+
+[[5]](#rn-5){:#n-5} [1, 6](#c1-v6) Este precepto no prohíbe del todo las segundas nupcias, sino solamente para los ministros de la Iglesia. Hoy día todos los sacerdotes del rito latino viven célibes; los del rito oriental tienen la facultad de seguir la costumbre antigua tal cual aquí se describe. Véase 1 Timoteo [3, 2](1-timoteo#c3-v2).
+
+[[6]](#rn-6){:#n-6} [1, 7](#c1-v7) **El obispo**:
+
+> "Para indicar el matiz que existe entre este nombre y el de Presbítero, puede decirse que el primero es de origen cristiano y el segundo de origen hebraico (presbítero significa anciano, y los ancianos eran los jefes de las comunidades judías); que el primero expresa la naturaleza de los deberes asignados a los ministros sagrados, deberes que se resumen en la supervigilancia pastoral, en tanto que el segundo denota más bien la situación general y el carácter" (Fillion). Cf. Hechos [20, 28](hechos#c20-v28) y nota.
+
+[[7]](#rn-7){:#n-7} [1, 9](#c1-v9) s. Fillion traduce: "Fuertemente apegado a la palabra auténtica", es decir, tanto más íntimo conocedor y amante de las Sagradas Escrituras cuanto más necesita sobreponerse a los embaucadores (v. [11](#c1-v11)). Esta severidad de lenguaje contra los que deforman la doctrina es usada también por S. Judas ([12](judas#v12) s.), y por S. Pedro (2 Pedro [2, 17](2-pedro#c2-v17)). Véase [3, 9](#c3-v9) y nota.
+
+[[8]](#rn-8){:#n-8} [1, 11](#c1-v11) **Por torpe ganancia**:
+
+> "No hay cosa más detestable que un avaro; no hay cosa más inicua que el que codicia el dinero, porque vende hasta su alma" (Eclesiástico [10, 9](eclesiastico#c10-v9) s.).
+
+[[9]](#rn-9){:#n-9} [1, 12](#c1-v12) Es un verso del poeta Epiménides, natural de Creta, que vivió en el siglo VI a. C.
+
+[[10]](#rn-10){:#n-10} [1, 14](#c1-v14) Se refiere a ciertos judíos que anteponían la Ley mosaica y sus prescripciones ceremoniales a la doctrina de Jesucristo.
+
+[[11]](#rn-11){:#n-11} [1, 15](#c1-v15) **Para los limpios todo es limpio**: frase que algunos suelen citar aplicándola a la castidad o pudor, como si los que la citan pudiesen pretenderse naturalmente puros en tal materia. El apóstol habla de la pureza de la intención y quiere decir: Las cosas que Dios ha creado son limpias para los que no las usan con depravada intención. Cf. Romanos [14, 20](romanos#c14-v20); 1 Timoteo [4, 4](1-timoteo#c4-v4) ss. y nota.
+
+[[12]](#rn-12){:#n-12} [1, 16](#c1-v16) S. Pablo no se cansa de insistir sobre esta duplicidad farisaica que también señaló a Timoteo (2 Timoteo [3, 5](2-timoteo#c3-v5)).
+
+[[13]](#rn-13){:#n-13} [2, 2](#c2-v2) **Los ancianos**: No habla aquí de los presbíteros ([1, 7](#c1-v7) y nota), sino de los fieles de edad madura.
+
+[[14]](#rn-14){:#n-14} [2, 3](#c2-v3)-5. Nótese bien que el apóstol no considera a las **ancianas** como personas que no tienen valor, sino muy al contrario, como misioneras del hogar, educadoras de las hijas casadas y modelos de virtud. Consuélense, pues, las ancianas que a veces creen estar de sobra. Su campo de acción es estrecho según las apariencias, pero es muy grato a Dios porque responde a su clara Voluntad.
+
+> "Es necesario no juzgar las cosas según nuestro gusto, sino según el de Dios. Esta es la gran palabra: si somos santos según nuestra voluntad, nunca lo seremos; es preciso que lo seamos según la voluntad de Dios" (S. Francisco de Sales).
+
+[[15]](#rn-15){:#n-15} [2, 8](#c2-v8) **Para que el adversario se avergüence**: esto es, que al verte irreprensible, encuentre motivo de humillarse interiormente para su propia y saludable edificación. No se trata, pues, en manera alguna, de que busquemos hundir al adversario en la derrota humillante, faltando a la caridad para con él y moviéndolo al odio más que a la contrición, sino como decía Ozanam, de hacerle amar esa religión cuya verdad queremos demostrar, pues que el apostolado no es una cuestión de dialéctica a lo humano (1 Corintios [2, 5](1-corintios#c2-v5); Colosenses [2, 8](colosenses#c2-v8)), sino de espíritu, es decir, de rectitud interior ([3, 10](#c3-v10) s. y nota; Juan [3, 19](juan#c3-v19); [7, 17](juan#c7-v17) y nota) para recibir la semilla que es la Palabra de Dios. Véase Mateo [13, 19](mateo#c13-v19) y nota.
+
+[[16]](#rn-16){:#n-16} [2, 9](#c2-v9) Cf. Efesios [6, 5](efesios#c6-v5)-9; Colosenses [3, 22](colosenses#c3-v22)-25; 1 Timoteo [6, 1](1-timoteo#c6-v1) s., etc.
+
+[[17]](#rn-17){:#n-17} [2, 11](#c2-v11) ss. En este pasaje usado como Epístola de Navidad. S. Pablo vincula según se ve la primera venida de Jesús como Maestro (v. [11](#c2-v11) y 12) con su Parusía o segunda venida como premio (v. [13](#c2-v13)). "He aquí que vengo presto, y conmigo mi recompensa" (Apocalipsis [22, 12](apocalipsis#c22-v12)).
+
+[[18]](#rn-18){:#n-18} [2, 13](#c2-v13) **La dichosa esperanza**: Así se llama el segundo advenimiento de Cristo en gloria y majestad (2 Tesalonicenses [2, 8](2-tesalonicenses#c2-v8); 1 Timoteo [6, 14](1-timoteo#c6-v14); 2 Timoteo [1, 10](2-timoteo#c1-v10); [4, 1](2-timoteo#c4-v1); [4, 8](2-timoteo#c4-v8)). Dios y Salvador: No se refiere esta vez al Padre, sino, según el contexto, solo a Jesucristo. Así lo han interpretado los Padres griegos y latinos.
+
+[[19]](#rn-19){:#n-19} [2, 14](#c2-v14)
+
+> "El hombre, dice S. Tomás, necesitaba dos cosas en su triste estado de perdición: Necesitaba la participación a la Divinidad, y ser despojado del hombre viejo. Jesucristo nos ha dado una y otra cosa: la primera al hacernos partícipes de la naturaleza divina con su gracia, y la segunda cuando nos regenera por medio del Bautismo". Cf. Marcos [16, 16](marcos#c16-v16).
+
+**Un pueblo peculiar suyo**: Cf. Hechos [15, 17](hechos#c15-v17) y nota.
+
+[[20]](#rn-20){:#n-20} [3, 1](#c3-v1) En virtud de esta palabra, la religión cristiana es el mejor apoyo del orden social, prohibiendo las sediciones o inculcando el respeto a las autoridades, no por miedo sino por conciencia. Cf. [2, 9](#c2-v9); Romanos [13, 1](romanos#c13-v1); Efesios [2, 10](efesios#c2-v10); [6, 5](efesios#c6-v5); Colosenses [3, 22](colosenses#c3-v22); 1 Pedro [2, 18](1-pedro#c2-v18).
+
+[[21]](#rn-21){:#n-21} [3, 4](#c3-v4) ss. Es este uno de los pasajes en que S. Pablo sintetiza magistralmente la obra de las *Tres Divinas Personas* respecto a nosotros. El Padre, movido por su infinito amor, nos salva (Efesios [2, 4](efesios#c2-v4) y nota), siendo Jesucristo el Mediador entre Dios y los hombres, y el Espíritu Santo el Agente inmediato de nuestra santificación. Véase 2 Corintios [13, 13](2-corintios#c13-v13) y nota.
+
+[[22]](#rn-22){:#n-22} [3, 9](#c3-v9) Cf. 1 Timoteo [1, 4](1-timoteo#c1-v4) y nota. Sobre las genealogías de las cuales solían abusar los judíos ([1, 14](book#c1-v14)) escribe un autor moderno:
+
+> "El nieto de un criminal no pensaría en gloriarse de su familia, aunque su padre haya sido honrado. Y bien, todos somos nietos de Eva y de Adán, los grandes rebeldes que, teniendo por mentiroso al Dios que los hizo, se sublevaron contra Él de acuerdo con la serpiente. Y así pactaron libremente con Satanás, entregándose al dominio de este junto con todos nosotros sus nietos, y nosotros seguimos siendo suyos cada vez que el corazón nos aparta un instante de Jesús, pues en cuanto el sarmiento se separa del tronco deja de recibir la savia, y no estando con Él, estamos contra Él con Satanás. Tales fueron, pues, los verdaderos fundadores de la familia humana. ¡Tal fue el tronco de su árbol genealógico!
+>
+> En cuanto a los hijos de Adán y Eva, nacieron después que ambos fueron expulsados, y el mayorazgo fue Caín, que asesinó a su hermano. En este breve cuadro que podríamos multiplicar sin límites, vemos cómo el mundo no puede amar la Biblia, que contiene la Palabra de Dios, sino que la odia —como odió a Cristo (Juan [7, 7](juan#c7-v7); [15, 18](juan#c15-v18))— porque ella le recuerda sus vergüenzas para traerlo a la saludable humildad, en tanto que él se empeña en construir la Babel de la gloria humana para robarle a Dios esa gloria, lo mismo que intentó su abuelo Adán. Pero esta vez no habrá otro Mesías, sino el mismo que 'volverá después de recibido el reino' (Lucas [19, 12](lucas#c19-v12) y [15](lucas#c19-v15)), a vengar los fueros de su Padre. Y el mundo terminará en la batalla de Armagedón".
+
+S. Jerónimo aprovecha la crítica de estas vanidades para insistir sobre el valor de la lectura bíblica:
+
+> "Libremos nuestro cuerpo del pecado y se abrirá nuestra alma a la sabiduría; cultivemos nuestra inteligencia mediante la lectura de los Libros Santos: que nuestra alma encuentre allí su alimento de cada día". Véase [1, 10](#c1-v10) y nota.
+
+[[23]](#rn-23){:#n-23} [3, 10](#c3-v10) s. Sapientísima norma para el apostolado. Son los sordos que no quieren oír, tantas veces calificados por Jesús. Véase [2, 8](#c2-v8) y nota.
+
+[[24]](#rn-24){:#n-24} [3, 12](#c3-v12) **Nicópolis**: ciudad de la Grecia septentrional (Epiro); según S. Crisóstomo, sería una ciudad de Tracia. De Nicópolis escribió el apóstol probablemente esta carta a Tito, en cuyo caso el uso del "allí" en sentido de "aquí" se explicaría quizás por el estilo epistolar de la época, según el cual el que escribía se colocaba en la situación del destinatario.
+
 <!--Total de referencias: 24-->
 <!--Rango original de referencias: 12370 - 12393-->
+
+<!-- Total de notas: 24 -->
+<!-- Rango original: [12370] - [12393] -->
 
