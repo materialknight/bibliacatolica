@@ -3482,14 +3482,14 @@ Desde antiguo se ha observado la semejanza de este pasaje con Juan [1, 1](juan#c
 
 > "Hacer una cosa cuando no existía nada, es producir de la nada, es crear en el sentido filosófico de la palabra." (Ceuppens)
 
-**Dios**, en hebreo *Elohim*, es un plural que viene de Él o Eloah (=el Fuerte). Sale en el Antiguo Testamento más de 2.500 veces y tiene los siguientes significados:
+**Dios**, en hebreo *Elohim*, es un plural que viene de *El* o *Eloah* (=el Fuerte). Sale en el Antiguo Testamento más de 2.500 veces y tiene los siguientes significados:
 
 1. Dios,
 2. los falsos dioses (Éxodo [12, 12](exodo#c12-v12)),
 3. los vicarios de Dios: los ángeles, príncipes, jueces (Salmo [96, 7](salmos#c96-v7) comparar con Hebreos [1, 6](hebreos#c1-v6); Salmo [81, 6](salmos#c81-v6) comparar con Juan [10, 34](juan#c10-v34); cf. 1 Samuel [28, 13](1-samuel#c28-v13)).
 {:.lower-alpha}
 
-Elohim lleva por regla general los atributos y verbos en singular, como en este versículo (cf. también el versículo [26](#c1-v26)), lo que prueba claramente que no se trata como dicen los racionalistas, de un resto de politeísmo. Al contrario, el politeísmo es una depravación del monoteísmo primitivo, cuyas huellas se han conservado, fuera de la Biblia, hasta nuestros días, en algunos pueblos "salvajes" que viven muy retirados y sin mayor contacto con los otros. Los investigadores modernos, sobre todo la escuela antropológica del P. W. Schmidt, han descubierto en aquellos pueblos la creencia de un Dios supremo, creador de todas las cosas, muy justo y muy bueno, legislador y juez de los hombres. No hay, pues, duda, de que el politeísmo es un producto de la apostasía de la religión primitiva.
+*Elohim* lleva por regla general los atributos y verbos en singular, como en este versículo (cf. también el versículo [26](#c1-v26)), lo que prueba claramente que no se trata como dicen los racionalistas, de un resto de politeísmo. Al contrario, el politeísmo es una depravación del monoteísmo primitivo, cuyas huellas se han conservado, fuera de la Biblia, hasta nuestros días, en algunos pueblos "salvajes" que viven muy retirados y sin mayor contacto con los otros. Los investigadores modernos, sobre todo la escuela antropológica del P. W. Schmidt, han descubierto en aquellos pueblos la creencia de un Dios supremo, creador de todas las cosas, muy justo y muy bueno, legislador y juez de los hombres. No hay, pues, duda, de que el politeísmo es un producto de la apostasía de la religión primitiva.
 
 **El cielo**, incluso los ángeles (cf. El pasaje de Colosenses [11, 16](colosenses#c11-v16), citado más arriba) y **la tierra**: el orbe entero, sin excluir nada. Orígenes y San Agustín entienden por cielo las cosas espirituales, por tierra las materiales.
 
@@ -3697,7 +3697,7 @@ Solamente la doctrina de la filiación divina, que San Pablo explica particularm
 
 El diablo se dirige a Eva, aprovechando la curiosidad y flaqueza de la mujer, y su influencia sobre el marido. El hecho de que la serpiente hablase como un ser racional no extrañaba a Eva, porque antes de la caída Adán y Eva vivían como niños, y toda la naturaleza que los rodeaba era para ellos un milagro, de manera que prácticamente no atendían a la diferencia entre lo natural y lo milagroso. El P. Páramo explica este fenómeno psicológico que tan hábilmente aprovecha el diablo, citando las palabras de San Cirilo, quien dice que Eva, como acababa de salir de las manos de Dios, pudo entrar en duda de si habría algún animal más perfecto que los otros, que pudiese hablar; o si acaso le hablaba algún ángel por medio de la serpiente, sin conocer que fuese bueno o malo.
 
-Es de notar que Satanás no pronuncia el nombre de Yahvé (Señor), sino solamente el de Elohim (Dios), lo mismo que Eva en la respuesta (v. [3](#c3-v3)), mientras que en toda esta narración el nombre de Dios es Yahvé Elohim (Yahvé Dios).
+Es de notar que Satanás no pronuncia el nombre de *Yahvé* (Señor), sino solamente el de *Elohim* (Dios), lo mismo que Eva en la respuesta (v. [3](#c3-v3)), mientras que en toda esta narración el nombre de Dios es *Yahvé Elohim* (Yahvé Dios).
 
 [[37]](#rn-37){:#n-37} [3, 2](#c3-v2) s. La respuesta de Eva muestra pleno conocimiento del precepto de Dios, pero agrega: "ni lo toquéis", lo cual Dios no había dicho en [2, 17](#c2-v17).
 
