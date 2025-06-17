@@ -21,14432 +21,5689 @@ permalink: /salmos
 </div>
 
 
-INTRODUCCIÓN
 
-Se ha dicho con verdad que los Salmos —para el que les presta la debida atención a fin de llegar a entenderlos— son como un resumen de toda la Biblia: historia y profecía, doctrina y oración. En ellos habla el Espíritu Santo ("qui locutus est per prophetas") por boca de hombres, principalmente de David, y nos enseña lo que hemos de pensar, sentir y querer con respecto a Dios, a los hombres y a la naturaleza, y también nos enseña la conducta que más nos conviene observar en cada circunstancia de la vida.
 
-A veces el divino Espíritu nos habla aquí con palabras del Padre celestial; a veces con palabras del Hijo. En algunos Salmos, el mismo Padre habla con su Hijo, como nos lo revela San Pablo respecto del sublime Salmo 44 (Hebreos [1, 8](hebreos#c1-v8); Salmo [44, 7](salmos#c44-v7) s.); en otros muchos, es Jesús quien se dirige al Padre. Sorprendemos así el arcano del Amor infinito que los une, o sea los secretos más íntimos de la Trinidad, y vemos anunciados, mil años antes de la Encarnación del Verbo, los misterios de Cristo doliente (Salmos 104-106); sus pruebas Salmos 101; 117, etc.); el grandioso destino deparado a él, y a la Iglesia de Cristo (Salmos 64; 92-98), etc.
+### PRIMER LIBRO DE LOS SALMOS
 
-David es la abeja privilegiada que elabora —o mejor, por cuyo conducto el mismo Espíritu Santo elabora— la miel de la oración por excelencia, e "intercede por nosotros con gemidos inefables" (Romanos [8, 26](romanos#c8-v26)). Todo lo que pasa por las manos del Real Profeta, dice un santo comentarista, se convierte en oración: afectos y sentimientos; penas y alegrías; aventuras, caídas, persecuciones y triunfos; recuerdos de su vida o la de su pueblo (con el cual el Profeta suele identificarse), y, principalmente, visiones sobre Cristo, "sus pasiones" y "posteriores glorias" (1 Pedro [1, 10](1-pedro#c1-v10)-12). Profecías de un alcance insospechado por el mismo David; detalles asombrosos de la Pasión, revelados diez siglos antes con la precisión de un Evangelista; esplendores del triunfo del Mesías y su Reino; la plenitud de la Iglesia, del Israel de Dios: todo, todo sale de su boca y de su arpa, no ya solo al modo de un canto de ruiseñor que brota espontáneamente como en el caso del poeta clásico[4211], sino a manera de olas de un alma que vuelca, que "derrama su oración", según él mismo lo dice (Salmo [141, 3](salmos#c141-v3)), en la presencia paternal de su Dios.
 
-Por eso la belleza de los Salmos es toda pura, como la gracia de los niños, que son tanto más encantadores cuanto menos sospechan que lo son. Este espíritu de David es el que da el tono a sus cantos, de modo que la belleza fluye en ellos de suyo, como una irradiación inseparable de su perfección interior, no pudiendo imaginarse nada más opuesto a toda preocupación retórica, no obstante la estupenda riqueza de las imágenes y la armonía de su lenguaje, a veces onomatopéyico en el hebreo.
+### Salmo [1](#c1) {#c1}
 
-La oración del salmista es toda sobrenatural, Dios la produce, como miel divina, en el alma de David, para que con ella nos alimentemos (Proverbios [24, 13](proverbios#c24-v13)) y nos endulcemos (Salmo [118, 103](salmos#c118-v103)) todos nosotros. Por eso la entrega el santo rey a los levitas, que él mismo ha establecido de nuevo para el servicio del Santuario (II Paralipómenos caps. 22-26). Y no ya solo como un Benito de Nursia que funda sus monjes y los orienta especialmente hacia el culto litúrgico: porque no es una orden particular, es todo el clero lo que David organiza en la elegida nación hebrea, y él mismo elabora la oración con que había de alabar a Dios toda la Iglesia de entonces... y hoy día la Iglesia de Cristo (cf. el magnífico elogio de David en Eclesiástico 47, principalmente los vv. [9](#c??-v9), 12.) ¿Y qué digo, elabora? ¿Acaso no es él mismo quien lo reza y lo canta, y hasta lo baila en la fiesta del Arca, inundado de gozo celestial, al punto de provocar la burla irónica de su esposa la reina? A la cual él contesta, en un gesto mil veces sublime: "¡Delante de Dios que me eligió... y me mandó ser el caudillo de su pueblo Israel, bailaré yo y me humillaré más de lo que he hecho, y seré despreciable a los ojos míos!..." (2 Samuel [6, 21](2-samuel#c6-v21) s.).
+### Fruto seguro de la Palabra divina 
 
-¿Qué mucho, pues, que Dios, amando a David con una predilección que resulta excepcional aun dentro de la Escritura, pusiese en su corazón los más grandes efluvios de amor con que un alma puede y podrá jamás responder al amor divino? ¿Y cómo no había de ser esta la oración insuperable, si es la que expresa los mismos efectos que un día habían de brotar del Corazón de Cristo?
+[1](#c1-v1){:#c1-v1} [[1]](#n-1){:#rn-1} ¡Dichoso el hombre que no sigue el consejo de los malvados, ni pone el pie en el camino de los pecadores, ni entre los burladores toma asiento,
 
-Después de esta breve introducción general, pasemos a hacer algunas observaciones de orden técnico.
+[2](#c1-v2){:#c1-v2} mas tiene su deleite en la Ley del Señor, y en ella medita día y noche!
 
-Se dividen los 150 Salmos del Salterio en cinco partes o libros: I Libro, Salmos 1-40; II Libro, 41-71; III Libro, 72-88; IV Libro, 89-105; V Libro, 106-150.
+[3](#c1-v3){:#c1-v3} [[2]](#n-2){:#rn-2} Es como un árbol plantado junto a ríos de agua, que a su tiempo dará fruto y cuyas hojas no se marchitan; todo cuanto hiciere prosperará.
 
-La mayoría de los Salmos llevan un epígrafe, que se refiere o al autor, o a las circunstancias de su composición o a la manera de cantarlos. Estos epígrafes, aunque no hayan formado parte del texto primitivo, son antiquísimos; de otro modo no los pondría la versión griega de los Setenta. Según estos, el principal autor del Salterio es David; siendo atribuidos al Real Profeta, en el texto latino, 85 Salmos, 84 en el griego y 73 en el hebreo. A más de David, se mencionan como autores de Salmos: Moisés, Salomón, Asaf, Hemán, Etán y los hijos de Coré. No se puede, pues, razonablemente desestimar la tradición cristiana que llama al libro de los Salmos 'Salterio de David', porque los demás autores son tan pocos y la tradición a favor de los Salmos davídicos es tan antigua, que con toda razón se puede poner su nombre al frente de toda la colección. En particular no puede negarse el origen davídico de aquellos Salmos que se citan en los libros sagrados expresamente con el nombre de David; así, por ejemplo, los Salmos [2, 15](salmos#c2-v15), 17, 109 y otros (Decreto de la Pontificia Comisión Bíblica del 1° de mayo de 1910.)
+[4](#c1-v4){:#c1-v4} [[3]](#n-3){:#rn-3} No así los malvados, no así. Ellos son como paja que el viento desparrama.
 
-Huelga decir que el género literario de los Salmos es el poético. La poesía hebrea no cuenta con rima ni con metro en el sentido riguroso de la palabra, aunque sí con cierto ritmo silábico; mas lo que constituye su esencia, es el ritmo de los pensamientos, repitiéndose el mismo pensamiento dos y hasta tres veces. Este sistema simétrico de frases se llama 'paralelismo de los miembros'.
+[5](#c1-v5){:#c1-v5} [[4]](#n-4){:#rn-4} Por eso en el juicio no estarán en pie los malvados, ni los pecadores en la reunión de los justos.
 
-En cuanto al texto latino de los Salmos de la Vulgata (y el Breviario), hay que observar que esto no corresponde a la versión de San Jerónimo, sino a la traducción prejeronimiana tomada de los Setenta, y divulgada principalmente en las Galias, por lo cual recibió la denominación de 'Psalterium Gallicanum'. El doctor Máximo solo pudo revisar dicha versión en algunas partes, porque estaba introducida ya en la Liturgia.
+[6](#c1-v6){:#c1-v6} [[5]](#n-5){:#rn-5} Porque el camino de los justos lo cuida Yahvé, y el camino de los malvados tiene mal fin. 
 
-Recientemente, las investigaciones abnegadas de los exégetas modernos (Zorell, Knabenbauer, Miller, Peters, Wutz, Vaccari), lograron completar la obra de San Jerónimo, reconstruyendo un texto que corresponde en lo más posible al texto hebreo original.
+### Salmo [2](#c2) {#c2}
 
-El 24 de marzo de 1945 autorizó el Papa Pío XII para el rezo del Oficio Divino una nueva versión latina hecha por los Profesores del Instituto Bíblico de Roma a base de los textos originales.
+### Triunfo del Mesías Rey 
 
-La presente traducción sigue los mismos principios que la edición del Pontificio Instituto Bíblico y la completa con una crítica del texto, fundada en las mejores ediciones modernas. De esta manera los "pasajes oscuros" del Salterio han dejado de existir casi todos, y clero y laicos pueden disfrutar de las delicias que nos brinda el genio inspirado del Rey Profeta.
+[1](#c2-v1){:#c2-v1} [[6]](#n-6){:#rn-6} ¿Por qué se amotinan las gentes, y las naciones traman vanos proyectos?
 
+[2](#c2-v2){:#c2-v2} [[7]](#n-7){:#rn-7} Se han levantado los reyes de la tierra, y a una se confabulan los príncipes contra Yahvé y contra su Ungido.
 
+[3](#c2-v3){:#c2-v3} [[8]](#n-8){:#rn-8} "Rompamos (dicen) sus coyundas, y arrojemos lejos de nosotros sus ataduras."
 
+[4](#c2-v4){:#c2-v4} El que habita en los cielos ríe, el Señor se burla de ellos.
 
-PRIMER LIBRO DE LOS SALMOS
+[5](#c2-v5){:#c2-v5} [[9]](#n-9){:#rn-9} A su tiempo les hablará en su ira, y en su indignación los aterrará:
 
-SALMO 1
-Fruto seguro de la Palabra divina
+[6](#c2-v6){:#c2-v6} [[10]](#n-10){:#rn-10} "Pues bien, soy Yo quien he constituido a mi Rey sobre Sión, mi santo monte."
 
-1[4212]¡Dichoso el hombre que no sigue
+[7](#c2-v7){:#c2-v7} [[11]](#n-11){:#rn-11} ¡Yo promulgaré ese decreto de Yahvé! Él me ha dicho: "Tú eres mi Hijo, Yo mismo te he engendrado en este día.
 
-el consejo de los malvados,
+[8](#c2-v8){:#c2-v8} Pídeme y te daré en herencia las naciones, y en posesión tuya los confines de la tierra,
 
-ni pone el pie
+[9](#c2-v9){:#c2-v9} [[12]](#n-12){:#rn-12} Con cetro de hierro los gobernarás, los harás pedazos como a un vaso de alfarero."
 
-en el camino de los pecadores,
+[10](#c2-v10){:#c2-v10} [[13]](#n-13){:#rn-13} Ahora, pues, oh reyes, comprended, instruíos, vosotros que gobernáis la tierra.
 
-ni entre los burladores toma asiento,
+[11](#c2-v11){:#c2-v11} Sed siervos de Yahvé con temor y alabadle, temblando, besad sus pies,
 
-2mas tiene su deleite en la Ley del Señor,
+[12](#c2-v12){:#c2-v12} antes que se irrite y vosotros erréis el camino, pues su ira se encenderá pronto. ¡Dichoso quien haya hecho de Él su refugio! 
 
-y en ella medita día y noche!
+### Salmo [3](#c3) {#c3}
 
-3[4213]Es como un árbol
+### El eterno es mi escudo 
 
-plantado junto a ríos de agua,
+[1](#c3-v1){:#c3-v1} [[14]](#n-14){:#rn-14} Salmo de David cuando huía de su hijo Absalón.
 
-que a su tiempo dará fruto
+[2](#c3-v2){:#c3-v2} Oh Yahvé, ¡cuán numerosos son mis perseguidores! ¡Cuántos se levantan contra mí!
 
-y cuyas hojas no se marchitan;
+[3](#c3-v3){:#c3-v3} Muchos son los que dicen de mi vida: "No hay para él salvación en Dios."
 
-todo cuanto hiciere prosperará.
+[4](#c3-v4){:#c3-v4} [[15]](#n-15){:#rn-15} Pero Tú, Yahvé, eres mi escudo, Tú mi gloria, Tú quien me hace erguir la cabeza.
 
-4[4214]No así los malvados, no así.
+[5](#c3-v5){:#c3-v5} [[16]](#n-16){:#rn-16} Con mi voz invoco a Yahvé y Él me oye desde su santo monte.
 
-Ellos son como paja
+[6](#c3-v6){:#c3-v6} Me acuesto y me duermo, y despierto incólume, porque Yahvé me sostiene.
 
-que el viento desparrama.
+[7](#c3-v7){:#c3-v7} No temo a los muchos millares de gentes que en derredor se ponen contra mí.
 
-5[4215]Por eso en el juicio
+[8](#c3-v8){:#c3-v8} Levántate, Yahvé; sálvame, Dios mío, Tú que heriste en la mejilla a todos mis enemigos, y a los impíos les quebraste los dientes.
 
-no estarán en pie los malvados,
+[9](#c3-v9){:#c3-v9} [[17]](#n-17){:#rn-17} De Yahvé viene la salvación, ¡Que sea tu bendición sobre tu pueblo! 
 
-ni los pecadores en la reunión de los justos.
+### Salmo [4](#c4) {#c4}
 
-6[4216]Porque el camino de los justos
+### Para un sueño apacible. Oración vespertina 
 
-lo cuida Yahvé,
+[1](#c4-v1){:#c4-v1} [[18]](#n-18){:#rn-18} Al maestro de música. Para instrumentos de cuerda. Salmo de David.
 
-y el camino de los malvados tiene mal fin.
+[2](#c4-v2){:#c4-v2} Cuando te invoque, óyeme ¡oh Dios de mi justicia! Tú, que en la tribulación me levantaste, ten misericordia de mí, y acoge mi súplica.
 
-SALMO 2
-Triunfo del Mesías Rey
+[3](#c4-v3){:#c4-v3} [[19]](#n-19){:#rn-19} Hijos de hombres ¿hasta cuándo seréis insensatos? ¿Por qué amáis la vanidad y buscáis lo que es mentira?
 
-1[4217]¿Por qué se amotinan las gentes,
+[4](#c4-v4){:#c4-v4} [[20]](#n-20){:#rn-20} Sabed que Yahvé favorece maravillosamente al santo suyo; cuando le invoco, Yahvé me oye.
 
-y las naciones traman vanos proyectos?
+[5](#c4-v5){:#c4-v5} [[21]](#n-21){:#rn-21} Temblad, y no queráis pecar; dentro de vuestros corazones, en vuestros lechos, recapacitad y enmudeced.
 
-2[4218]Se han levantado los reyes de la tierra,
+[6](#c4-v6){:#c4-v6} [[22]](#n-22){:#rn-22} Ofreced sacrificios de justicia, y esperad en Yahvé.
 
-y a una se confabulan los príncipes
+[7](#c4-v7){:#c4-v7} [[23]](#n-23){:#rn-23} Muchos dicen: "¿Quién nos mostrará los bienes?" Alza Tú sobre nosotros la luz de tu rostro, oh Yahvé.
 
-contra Yahvé y contra su Ungido.
+[8](#c4-v8){:#c4-v8} [[24]](#n-24){:#rn-24} Tú has puesto en mi corazón mayor alegría que cuando abunda trigo y vino.
 
-3[4219] “Rompamos (dicen) sus coyundas,
+[9](#c4-v9){:#c4-v9} [[25]](#n-25){:#rn-25} Apenas me acuesto, me duermo en paz, porque Tú me das seguridad, oh Yahvé. 
 
-y arrojemos lejos de nosotros sus ataduras.”
+### Salmo [5](#c5) {#c5}
 
-4El que habita en los cielos ríe,
+### Oración al despertar 
 
-el Señor se burla de ellos.
+[1](#c5-v1){:#c5-v1} Al maestro de coro. Para flautas. Salmo de David.
 
-5[4220]A su tiempo les hablará en su ira,
+[2](#c5-v2){:#c5-v2} [[26]](#n-26){:#rn-26} Presta oído a mis palabras, oh Yahvé, atiende a mi gemido;
 
-y en su indignación los aterrará:
+[3](#c5-v3){:#c5-v3} advierte la voz de mi oración, oh Rey mío y Dios mío;
 
-6[4221] “Pues bien, soy Yo
+[4](#c5-v4){:#c5-v4} porque es a Ti a quien ruego, Yahvé. Desde la mañana va mi voz hacia Ti; temprano te presento mi oración y aguardo.
 
-quien he constituido a mi Rey
+[5](#c5-v5){:#c5-v5} [[27]](#n-27){:#rn-27} Tú no eres un Dios que se complazca en la maldad; el malvado no habita contigo,
 
-sobre Sión, mi santo monte.”
+[6](#c5-v6){:#c5-v6} ni los impíos permanecen en tu presencia. Aborreces a todos los que obran iniquidades;
 
-7[4222]¡Yo promulgaré ese decreto de Yahvé!
+[7](#c5-v7){:#c5-v7} Tú destruyes a todos los que hablan mentiras; del hombre sanguinario y doble abomina Yahvé.
 
-Él me ha dicho: “Tú eres mi Hijo,
+[8](#c5-v8){:#c5-v8} [[28]](#n-28){:#rn-28} Mas yo, por la abundancia de tu gracia, entraré en tu Casa, en tu santo Templo me postraré con reverencia, oh Yahvé.
 
-Yo mismo te he engendrado en este día.
+[9](#c5-v9){:#c5-v9} [[29]](#n-29){:#rn-29} A causa de mis enemigos condúceme en tu justicia, y allana tu camino delante de mí;
 
-8Pídeme y te daré en herencia las naciones,
+[10](#c5-v10){:#c5-v10} [[30]](#n-30){:#rn-30} porque en su boca no hay sinceridad, su corazón trama insidias, sepulcro abierto es su garganta, y adulan con sus lenguas.
 
-y en posesión tuya los confines de la tierra,
+[11](#c5-v11){:#c5-v11} [[31]](#n-31){:#rn-31} Castígalos, Dios, desbarata sus planes; arrójalos por la multitud de sus crímenes, pues su rebeldía es contra Ti.
 
-9[4223]Con cetro de hierro los gobernarás,
+[12](#c5-v12){:#c5-v12} Alégrense, empero, los que en Ti se refugian; regocíjense para siempre y gocen de tu protección, y gloríense en Ti cuantos aman tu Nombre.
 
-los harás pedazos como a un vaso de alfarero.”
+[13](#c5-v13){:#c5-v13} Pues Tú, Yahvé, bendices al justo, y lo rodeas de tu benevolencia como de un escudo. 
 
-10[4224]Ahora, pues, oh reyes, comprended,
+### Salmo [6](#c6) {#c6}
 
-instruíos, vosotros que gobernáis la tierra.
+### Oración de un penitente 
 
-11Sed siervos de Yahvé con temor y alabadle,
+[1](#c6-v1){:#c6-v1} [[32]](#n-32){:#rn-32} Al maestro de canto. Para instrumentos de cuerda. En octava. Salmo de David.
 
-temblando, besad sus pies,
+[2](#c6-v2){:#c6-v2} [[33]](#n-33){:#rn-33} Yahvé, no quieras argüirme en tu ira, ni corregirme en tu furor.
 
-12antes que se irrite y vosotros erréis el camino,
+[3](#c6-v3){:#c6-v3} Ten misericordia de mí, oh Yahvé, porque soy débil; sáname, porque hasta mis huesos se sacuden
 
-pues su ira se encenderá pronto.
+[4](#c6-v4){:#c6-v4} [[34]](#n-34){:#rn-34} y mi alma está en el colmo de la turbación; mas Tú, Yahvé ¿hasta cuándo?
 
-¡Dichoso quien haya hecho de Él su refugio!
+[5](#c6-v5){:#c6-v5} Vuélvete, oh Yahvé, libra mi alma; sálvame por tu misericordia,
 
-SALMO 3
-El eterno es mi escudo
+[6](#c6-v6){:#c6-v6} [[35]](#n-35){:#rn-35} porque en la muerte no hay quien se acuerde de Ti; ¿quién te alaba en el sepulcro?
 
-1[4225]Salmo de David cuando huía de su hijo Absalón.
+[7](#c6-v7){:#c6-v7} Me hallo extenuado de tanto gemir, cada noche inundo en llanto mi almohada, y riego con mis lágrimas el lecho.
 
-2Oh Yahvé, ¡cuán numerosos
+[8](#c6-v8){:#c6-v8} A causa de todos mis enemigos, van mis ojos apagándose de tristeza, y envejecen.
 
-son mis perseguidores!
+[9](#c6-v9){:#c6-v9} [[36]](#n-36){:#rn-36} Apartaos de mí todos los que obráis la iniquidad; pues Yahvé ha oído la voz de mi llanto.
 
-¡Cuántos se levantan contra mí!
+[10](#c6-v10){:#c6-v10} Yahvé escuchó mi demanda, Yahvé aceptó mi oración.
 
-3Muchos son los que dicen de mi vida:
+[11](#c6-v11){:#c6-v11} Mis enemigos todos quedarán sonrojados y llenos de vergüenza; huirán súbitamente confundidos. 
 
-“No hay para él salvación en Dios.”
+### Salmo [7](#c7) {#c7}
 
-4[4226]Pero Tú, Yahvé, eres mi escudo,
+### Apelación del justo al Supremo Juez 
 
-Tú mi gloria,
+[1](#c7-v1){:#c7-v1} [[37]](#n-37){:#rn-37} Lamentación que David entonó con ocasión de las palabras de Cus, hijo de Benjamín.
 
-Tú quien me hace erguir la cabeza.
+[2](#c7-v2){:#c7-v2} Yahvé, Dios mío, a Ti me acojo; líbrame de todo el que me persigue, y ponme a salvo;
 
-5[4227]Con mi voz invoco a Yahvé
+[3](#c7-v3){:#c7-v3} [[38]](#n-38){:#rn-38} no sea que arrebate mi vida, como león, y me despedace, sin que haya quien me salve.
 
-y Él me oye desde su santo monte.
+[4](#c7-v4){:#c7-v4} [[39]](#n-39){:#rn-39} Yahvé, Dios mío, si yo hice eso, si hay en mis manos iniquidad;
 
-6Me acuesto y me duermo,
+[5](#c7-v5){:#c7-v5} [[40]](#n-40){:#rn-40} si he hecho mal a mi amigo -yo, que salvé a los que me oprimían injustamente-
 
-y despierto incólume,
+[6](#c7-v6){:#c7-v6} [[41]](#n-41){:#rn-41} persígame el enemigo y apodérese de mí; aplaste mi vida en el suelo y arrastre mi honor por el fango.
 
-porque Yahvé me sostiene.
+[7](#c7-v7){:#c7-v7} [[42]](#n-42){:#rn-42} Despierta, Yahvé, en tu ira; yérguete contra la rabia de los que me oprimen. Levántate a mi favor en el juicio que tienes decretado
 
-7No temo a los muchos millares de gentes
+[8](#c7-v8){:#c7-v8} [[43]](#n-43){:#rn-43} Te rodee la congregación de los pueblos y siéntate sobre ella en lo alto.
 
-que en derredor se ponen contra mí.
+[9](#c7-v9){:#c7-v9} Yahvé va juzgar a las naciones. Hazme a mí justicia, Yahvé, según mi rectitud, y según la inocencia que hay en mí.
 
-8Levántate, Yahvé; sálvame, Dios mío,
+[10](#c7-v10){:#c7-v10} [[44]](#n-44){:#rn-44} Cese ya la malicia de los impíos y confirma Tú al justo, ¡oh justo Dios, que sondeas los corazones y las entrañas!
 
-Tú que heriste en la mejilla
+[11](#c7-v11){:#c7-v11} [[45]](#n-45){:#rn-45} Mi defensa está en Dios, que salva a los rectos de corazón.
 
-a todos mis enemigos,
+[12](#c7-v12){:#c7-v12} [[46]](#n-46){:#rn-46} Dios, justo Juez, fuerte y paciente, tiene pronta su ira cada día.
 
-y a los impíos les quebraste los dientes.
+[13](#c7-v13){:#c7-v13} Si no se convierte afilará su espada, entesará su arco y apuntará;
 
-9[4228]De Yahvé viene la salvación,
+[14](#c7-v14){:#c7-v14} tiene preparadas para ellos flechas mortales; hará de fuego sus saetas.
 
-¡Que sea tu bendición sobre tu pueblo!
+[15](#c7-v15){:#c7-v15} [[47]](#n-47){:#rn-47} Mirad al que concibió la iniquidad: quedó grávido de malicia y dio a luz la traición.
 
-SALMO 4
-Para un sueño apacible. Oración vespertina
+[16](#c7-v16){:#c7-v16} [[48]](#n-48){:#rn-48} Cavó una fosa y la ahondó, mas cayó en el hoyo que él hizo.
 
-1[4229]Al maestro de música. Para instrumentos de cuerda. Salmo de David.
+[17](#c7-v17){:#c7-v17} En su propia cabeza recaerá su malicia, y sobre su cerviz descenderá su iniquidad.
 
-2Cuando te invoque,
+[18](#c7-v18){:#c7-v18} Mas yo alabaré a Yahvé por su justicia, y cantaré salmos al Nombre de Yahvé Altísimo. 
 
-óyeme ¡oh Dios de mi justicia!
+### Salmo [8](#c8) {#c8}
 
-Tú, que en la tribulación me levantaste,
+### La gloria de Dios en la Creación 
 
-ten misericordia de mí, y acoge mi súplica.
+[1](#c8-v1){:#c8-v1} [[49]](#n-49){:#rn-49} Al maestro de coro. Sobre el ghittit (los lagares). Salmo de David.
 
-3[4230]Hijos de hombres
+[2](#c8-v2){:#c8-v2} [[50]](#n-50){:#rn-50} ¡Oh Yahvé, Señor nuestro, cuán admirable es tu Nombre en toda la tierra! Tú, cuya gloria cantan los cielos,
 
-¿hasta cuándo seréis insensatos?
+[3](#c8-v3){:#c8-v3} [[51]](#n-51){:#rn-51} te has preparado la alabanza de la boca de los pequeños y de los lactantes, para confundir a tus enemigos y hacer callar al adversario y al perseguidor.
 
-¿Por qué amáis la vanidad
+[4](#c8-v4){:#c8-v4} Cuando contemplo tus cielos, hechura de tus dedos, la luna y las estrellas que Tú pusiste en su lugar...
 
-y buscáis lo que es mentira?
+[5](#c8-v5){:#c8-v5} ¿Qué es el hombre para que Tú lo recuerdes, o el hijo del hombre para que te ocupes de él?
 
-4[4231]Sabed que Yahvé favorece
+[6](#c8-v6){:#c8-v6} [[52]](#n-52){:#rn-52} Tú lo creaste poco inferior a Dios, le ornaste de gloria y de honor.
 
-maravillosamente al santo suyo;
+[7](#c8-v7){:#c8-v7} Le diste poder sobre las obras de tus manos, y todo lo pusiste bajo sus pies:
 
-cuando le invoco, Yahvé me oye.
+[8](#c8-v8){:#c8-v8} [[53]](#n-53){:#rn-53} las ovejas y los bueyes todos, y aun las bestias salvajes,
 
-5[4232]Temblad, y no queráis pecar;
+[9](#c8-v9){:#c8-v9} las aves del cielo y los peces del mar, y cuanto surca las sendas del agua.
 
-dentro de vuestros corazones,
+[10](#c8-v10){:#c8-v10} Oh Yahvé, Señor nuestro, ¡cuán admirable es tu Nombre en toda la tierra! 
 
-en vuestros lechos, recapacitad y enmudeced.
+### Salmo [9A](#c9A) {#c9A}
 
-6[4233]Ofreced sacrificios de justicia,
+### El juicio de las naciones 
 
-y esperad en Yahvé.
+[1](#c9A-v1){:#c9A-v1} [[54]](#n-54){:#rn-54} Al maestro de coro. Sobre el tono de Muthlabbén. Salmo de David.
 
-7[4234]Muchos dicen:
+[2](#c9A-v2){:#c9A-v2} Quiero alabarte, Yahvé, con todo mi corazón, voy a cantar todas tus maravillas.
 
-“¿Quién nos mostrará los bienes?”
+[3](#c9A-v3){:#c9A-v3} En Ti me alegraré y saltaré de gozo, cantaré salmos a tu Nombre, oh Altísimo.
 
-Alza Tú sobre nosotros
+[4](#c9A-v4){:#c9A-v4} [[55]](#n-55){:#rn-55} Porque mis enemigos vuelven las espaldas, caen y perecen ante tu presencia.
 
-la luz de tu rostro, oh Yahvé.
+[5](#c9A-v5){:#c9A-v5} He aquí que Tú me has hecho justicia, y has tomado en tus manos mi causa; te has sentado, Juez justo, sobre el trono.
 
-8[4235]Tú has puesto en mi corazón mayor alegría
+[6](#c9A-v6){:#c9A-v6} [[56]](#n-56){:#rn-56} Has reprendido a los gentiles y aniquilado al impío, borrado su nombre para siempre.
 
-que cuando abunda trigo y vino.
+[7](#c9A-v7){:#c9A-v7} Los enemigos han sido aplastados, reducidos a perpetua ruina; has destruido sus ciudades, y hasta la memoria de ellas ha perecido.
 
-9[4236]Apenas me acuesto, me duermo en paz,
+[8](#c9A-v8){:#c9A-v8} He aquí que Yahvé se sienta para siempre, ha establecido su trono para juzgar.
 
-porque Tú me das seguridad, oh Yahvé.
+[9](#c9A-v9){:#c9A-v9} Él mismo juzgará el orbe con justicia, y gobernará a los pueblos con equidad.
 
-SALMO 5
-Oración al despertar
+[10](#c9A-v10){:#c9A-v10} Y será Yahvé refugio para el oprimido, refugio siempre pronto en el tiempo de la tribulación.
 
-1Al maestro de coro. Para flautas. Salmo de David.
+[11](#c9A-v11){:#c9A-v11} [[57]](#n-57){:#rn-57} Y los que conocieron tu nombre confiarán en Ti, pues Tú no abandonas, Yahvé, a los que te buscan.
 
-2[4237]Presta oído a mis palabras, oh Yahvé,
+[12](#c9A-v12){:#c9A-v12} [[58]](#n-58){:#rn-58} Cantad salmos a Yahvé, que habita en Sión, haced conocer a los pueblos sus proezas.
 
-atiende a mi gemido;
+[13](#c9A-v13){:#c9A-v13} Porque el vengador de la sangre se ha acordado de los pobres, y no ha olvidado su clamor.
 
-3advierte la voz de mi oración,
+[14](#c9A-v14){:#c9A-v14} Yahvé se apiadó de mí viendo la aflicción que me causan mis enemigos, y me ha sacado de los umbrales de la muerte,
 
-oh Rey mío y Dios mío;
+[15](#c9A-v15){:#c9A-v15} [[59]](#n-59){:#rn-59} para que anuncie todas sus alabanzas en las puertas de la hija de Sión, y me goce yo en tu salud.
 
-4porque es a Ti a quien ruego, Yahvé.
+[16](#c9A-v16){:#c9A-v16} Cayeron las naciones en la fosa que cavaron, su pie quedó preso en el lazo que escondieron.
 
-Desde la mañana va mi voz hacia Ti;
+[17](#c9A-v17){:#c9A-v17} [[60]](#n-60){:#rn-60} Yahvé se ha dado a conocer haciendo justicia; el pecador quedó enredado en las obras de sus manos.
 
-temprano te presento mi oración
+[18](#c9A-v18){:#c9A-v18} Bajen los malvados al sepulcro, todos los gentiles que se han olvidado de Dios.
 
-y aguardo.
+[19](#c9A-v19){:#c9A-v19} Porque no siempre quedará en olvido el pobre, ni siempre burlada la esperanza de los oprimidos.
 
-5[4238]Tú no eres un Dios
+[20](#c9A-v20){:#c9A-v20} [[61]](#n-61){:#rn-61} Levántate Yahvé; no prevalezca el hombre, sean juzgadas las naciones ante tu presencia.
 
-que se complazca en la maldad;
+[21](#c9A-v21){:#c9A-v21} [[62]](#n-62){:#rn-62} Arroja, Señor, sobre ellas el terror, oh Yahvé, ¡que sepan los gentiles que son hombres! 
 
-el malvado no habita contigo,
+### Salmo [9B (10) ](#c9B) {#c9B}
 
-6ni los impíos permanecen en tu presencia.
+[1](#c9B-v1){:#c9B-v1} ¿Por qué, Yahvé, te estás lejos? ¿Te escondes en el tiempo de la tribulación,
 
-Aborreces a todos
+[2](#c9B-v2){:#c9B-v2} mientras se ensoberbece el impío, y el pobre es vejado y preso en los ardides que aquel le urdió?
 
-los que obran iniquidades;
+[3](#c9B-v3){:#c9B-v3} [[63]](#n-63){:#rn-63} Porque he aquí que el inicuo se jacta de sus antojos, el expoliador blasfema despreciando a Yahvé.
 
-7Tú destruyes a todos
+[4](#c9B-v4){:#c9B-v4} En el orgullo de su mente dice el impío: "Él no tomará venganza; Dios no existe." Tal es todo su pensamiento.
 
-los que hablan mentiras;
+[5](#c9B-v5){:#c9B-v5} [[64]](#n-64){:#rn-64} Sus caminos prosperan en todo tiempo; lejos de su ánimo están tus juicios; menosprecia él a todos sus adversarios.
 
-del hombre sanguinario y doble
+[6](#c9B-v6){:#c9B-v6} En su corazón dice: "No seré conmovido; de generación en generación estaré al abrigo de la adversidad."
 
-abomina Yahvé.
+[7](#c9B-v7){:#c9B-v7} Su boca está llena de maldición, de astucia y de violencia; bajo su lengua lleva la maldad y la mentira.
 
-8[4239]Mas yo, por la abundancia de tu gracia,
+[8](#c9B-v8){:#c9B-v8} Se pone en acecho junto al poblado, en lo escondido, para matar al inocente. Sus ojos están espiando al pobre;
 
-entraré en tu Casa,
+[9](#c9B-v9){:#c9B-v9} insidia en la oscuridad como el león que desde su guarida está asechando al desvalido para atraparlo; lo arrebata y lo atrae a su red;
 
-en tu santo Templo me postraré
+[10](#c9B-v10){:#c9B-v10} se encoge, se agacha hasta el suelo, y el desdichado cae en sus garras.
 
-con reverencia, oh Yahvé.
+[11](#c9B-v11){:#c9B-v11} [[65]](#n-65){:#rn-65} Dice en su corazón: "Dios está desmemoriado, apartó su rostro, nunca ve nada."
 
-9[4240]A causa de mis enemigos
+[12](#c9B-v12){:#c9B-v12} Levántate, Yahvé Dios mío, alza tu mano; no quieras olvidarte de los afligidos.
 
-condúceme en tu justicia,
+[13](#c9B-v13){:#c9B-v13} [[66]](#n-66){:#rn-66} ¿Cómo es que el impío desprecia a Dios, diciendo en su corazón: "No tomará venganza"?
 
-y allana tu camino delante de mí;
+[14](#c9B-v14){:#c9B-v14} [[67]](#n-67){:#rn-67} Mas Tú lo estás viendo. Tú consideras el afán y la angustia, para tomarlos en tus manos. A Ti está confiado el pobre; Tú eres el protector del huérfano.
 
-10[4241]porque en su boca no hay sinceridad,
+[15](#c9B-v15){:#c9B-v15} Quebranta Tú el brazo del impío y del maligno; castigarás su malicia y no subsistirá.
 
-su corazón trama insidias,
+[16](#c9B-v16){:#c9B-v16} [[68]](#n-68){:#rn-68} Yahvé es Rey para siglos eternos; los gentiles fueron exterminados de su tierra.
 
-sepulcro abierto es su garganta,
+[17](#c9B-v17){:#c9B-v17} Ya escuchaste, Yahvé, el deseo de los humildes; confirmaste su corazón y prestaste oído,
 
-y adulan con sus lenguas.
+[18](#c9B-v18){:#c9B-v18} [[69]](#n-69){:#rn-69} para tomar en tus manos la causa del huérfano y del oprimido, a fin de que nunca más vuelva a infundir pavor el hombre de tierra. 
 
-11[4242]Castígalos, Dios,
+### Salmo [10 (11)](#c10) {#c10}
 
-desbarata sus planes;
+### No huye quien tiene a Yahvé por refugio 
 
-arrójalos por la multitud de sus crímenes,
+[1](#c10-v1){:#c10-v1} [[70]](#n-70){:#rn-70} Al maestro de coro. De David. Yo me refugio en Yahvé. ¿Cómo podéis decirme: "Huye al monte como el pájaro"?
 
-pues su rebeldía es contra Ti.
+[2](#c10-v2){:#c10-v2} Pues los malvados están entesando el arco y colocan ya su flecha en la cuerda para asaetear en la sombra a los rectos de corazón;
 
-12Alégrense, empero,
+[3](#c10-v3){:#c10-v3} [[71]](#n-71){:#rn-71} si han socavado los cimientos ¿qué puede hacer el justo?
 
-los que en Ti se refugian;
+[4](#c10-v4){:#c10-v4} Está Yahvé en su santo templo; ¡Yahvé! su trono está en el cielo; sus ojos miran, sus párpados escrutan a los hijos de los hombres.
 
-regocíjense para siempre
+[5](#c10-v5){:#c10-v5} [[72]](#n-72){:#rn-72} Yahvé examina al justo y al malvado; y al que ama la prepotencia Él lo abomina.
 
-y gocen de tu protección,
+[6](#c10-v6){:#c10-v6} [[73]](#n-73){:#rn-73} Sobre los pecadores hará llover ascuas y azufre, y viento abrasador será su porción en el cáliz.
 
-y gloríense en Ti cuantos aman tu Nombre.
+[7](#c10-v7){:#c10-v7} [[74]](#n-74){:#rn-74} Porque Yahvé es justo y ama la justicia; los rectos verán su rostro. 
 
-13Pues Tú, Yahvé, bendices al justo,
+### Salmo [11 (12)](#c11) {#c11}
 
-y lo rodeas de tu benevolencia
+### Recurso a Dios contra la corrupción dominante 
 
-como de un escudo.
+[1](#c11-v1){:#c11-v1} [[75]](#n-75){:#rn-75} Al maestro de coro. En octava. Salmo de David.
 
-SALMO 6
-Oración de un penitente
+[2](#c11-v2){:#c11-v2} Sálvame Tú, oh Yahvé, porque se acaban los justos; la fidelidad ha desaparecido de entre los hombres.
 
-1[4243]Al maestro de canto. Para instrumentos de cuerda. En octava. Salmo de David.
+[3](#c11-v3){:#c11-v3} Unos a otros se dicen mentiras; se hablan con labios fraudulentos y doblez de corazón.
 
-2[4244]Yahvé, no quieras argüirme en tu ira,
+[4](#c11-v4){:#c11-v4} Acabe Yahvé con todo labio fraudulento y con la lengua jactanciosa;
 
-ni corregirme en tu furor.
+[5](#c11-v5){:#c11-v5} [[76]](#n-76){:#rn-76} con esos que dicen: "Somos fuertes con nuestra lengua, contamos con nuestros labios; ¿quién es señor nuestro?"
 
-3Ten misericordia de mí, oh Yahvé,
+[6](#c11-v6){:#c11-v6} [[77]](#n-77){:#rn-77} "Por la aflicción de los humildes y el gemido de los pobres, me levantaré ahora mismo, dice Yahvé; pondré a salvo a aquel que lo desea."
 
-porque soy débil;
+[7](#c11-v7){:#c11-v7} [[78]](#n-78){:#rn-78} Las palabras de Yahvé son palabras sinceras; plata acrisolada, sin escorias, siete veces purificada.
 
-sáname, porque hasta mis huesos se sacuden
+[8](#c11-v8){:#c11-v8} Tú las cumplirás, oh Yahvé; nos preservarás para siempre de esta generación.
 
-4[4245]y mi alma está en el colmo de la turbación;
+[9](#c11-v9){:#c11-v9} Los malvados se pasean por todas partes, mientras Tú dejas que sea exaltado lo más vil de entre los hombres. 
 
-mas Tú, Yahvé ¿hasta cuándo?
+### Salmo [12 (13)](#c12) {#c12}
 
-5Vuélvete, oh Yahvé, libra mi alma;
+### Recurso del alma apremiada 
 
-sálvame por tu misericordia,
+[1](#c12-v1){:#c12-v1} Al maestro de coro. Salmo de David.
 
-6[4246]porque en la muerte
+[2](#c12-v2){:#c12-v2} [[79]](#n-79){:#rn-79} ¿Hasta cuándo, Yahvé? ¿Me tendrás olvidado constantemente? ¿Hasta cuándo me esconderás tu rostro?
 
-no hay quien se acuerde de Ti;
+[3](#c12-v3){:#c12-v3} ¿Hasta cuándo fatigaré mi alma con cavilaciones y mi corazón con tristezas cada día? ¿Hasta cuándo habrá de prevalecer sobre mí el enemigo?
 
-¿quién te alaba en el sepulcro?
+[4](#c12-v4){:#c12-v4} Mira y respóndeme, Yahvé, Dios mío; alumbra mis ojos para que no me duerma en la muerte,
 
-7Me hallo extenuado de tanto gemir,
+[5](#c12-v5){:#c12-v5} [[80]](#n-80){:#rn-80} y no diga el adversario: "Lo he vencido." Los que me afligen saltarían de gozo si yo cayera,
 
-cada noche inundo en llanto mi almohada,
+[6](#c12-v6){:#c12-v6} [[81]](#n-81){:#rn-81} después de haber puesto mi confianza en tu misericordia. Sea mi corazón el que se alegre por tu socorro; cante yo a Yahvé por su bondad para conmigo. 
 
-y riego con mis lágrimas el lecho.
+### Salmo [13 (14)](#c13) {#c13}
 
-8A causa de todos mis enemigos,
+### Llegará la hora para los impostores 
 
-van mis ojos apagándose de tristeza,
+[1](#c13-v1){:#c13-v1} [[82]](#n-82){:#rn-82} Al maestro de coro. De David. El insensato dice en su corazón: "No hay Dios." Se han pervertido; su conducta es abominable, ni uno solo obra bien.
 
-y envejecen.
+[2](#c13-v2){:#c13-v2} [[83]](#n-83){:#rn-83} Yahvé mira desde el cielo a los hijos de los hombres, para ver si hay quien sea inteligente y busque a Dios.
 
-9[4247]Apartaos de mí todos
+[3](#c13-v3){:#c13-v3} [[84]](#n-84){:#rn-84} Pero se han extraviado todos juntos y se han depravado. No hay uno que obre el bien, ni uno siquiera.
 
-los que obráis la iniquidad;
+[4](#c13-v4){:#c13-v4} [[85]](#n-85){:#rn-85} ¡Nunca entenderán, todos esos malhechores, que devoran a mi pueblo como quien come pan, sin acordarse de Dios para nada!
 
-pues Yahvé ha oído la voz de mi llanto.
+[5](#c13-v5){:#c13-v5} [[86]](#n-86){:#rn-86} Mas algún día temblarán de espanto, porque Dios está con la generación de los justos.
 
-10Yahvé escuchó mi demanda,
+[6](#c13-v6){:#c13-v6} Vosotros que despreciáis las ansias del desvalido, sabed que Dios es su refugio.
 
-Yahvé aceptó mi oración.
+[7](#c13-v7){:#c13-v7} [[87]](#n-87){:#rn-87} ¡Oh, venga ya de Sión la salud de Israel! Cuando cambie el Señor la suerte de su pueblo, saltarán de gozo Jacob, e Israel de alegría. 
 
-11Mis enemigos todos quedarán sonrojados
+### Salmo [14 (15)](#c14) {#c14}
 
-y llenos de vergüenza;
+### El verdadero hombre de Dios Salmo de David. 
 
-huirán súbitamente confundidos.
+[1](#c14-v1){:#c14-v1} [[88]](#n-88){:#rn-88} Yahvé, ¿quién podrá morar en tu Tabernáculo? ¿Quién habitará en tu santo monte?
 
-SALMO 7
-Apelación del justo al Supremo Juez
+[2](#c14-v2){:#c14-v2} [[89]](#n-89){:#rn-89} El que procede sin tacha y obra justicia y piensa verdad en su corazón,
 
-1[4248]Lamentación que David entonó con ocasión de las palabras de Cus, hijo de Benjamín.
+[3](#c14-v3){:#c14-v3} cuya lengua no calumnia, que no hace mal a su semejante, ni infiere injuria a su prójimo;
 
-2Yahvé, Dios mío, a Ti me acojo;
+[4](#c14-v4){:#c14-v4} [[90]](#n-90){:#rn-90} que tiene por despreciable al réprobo, y honra en cambio a los temerosos de Yahvé; que no vuelve atrás, aunque haya jurado en perjuicio propio;
 
-líbrame de todo el que me persigue,
+[5](#c14-v5){:#c14-v5} [[91]](#n-91){:#rn-91} que no presta su dinero a usura, ni recibe sobornos contra el inocente.
 
-y ponme a salvo;
+[6](#c14-v6){:#c14-v6} El que así vive no será conmovido jamás. 
 
-3[4249]no sea que arrebate mi vida,
+### Salmo [15 (16)](#c15) {#c15}
 
-como león, y me despedace,
+### El sumo bien Miktam de David. 
 
-sin que haya quien me salve.
+[1](#c15-v1){:#c15-v1} [[92]](#n-92){:#rn-92} Presérvame, oh Dios, pues me refugio en Ti;
 
-4[4250]Yahvé, Dios mío, si yo hice eso,
+[2](#c15-v2){:#c15-v2} [[93]](#n-93){:#rn-93} dije a Yahvé: "Tú eres mi Señor, no hay bien para mí fuera de Ti".
 
-si hay en mis manos iniquidad;
+[3](#c15-v3){:#c15-v3} [[94]](#n-94){:#rn-94} En cuanto a los santos e ilustres de la tierra, no pongo en ellos mi afecto.
 
-5[4251]si he hecho mal a mi amigo
+[4](#c15-v4){:#c15-v4} Multiplican sus dolores los que corren tras falsos dioses; no libaré la sangre de sus ofrendas, ni pronunciaré sus nombres con mis labios.
 
--yo, que salvé a los que me oprimían injustamente-
+[5](#c15-v5){:#c15-v5} [[95]](#n-95){:#rn-95} Yahvé es la porción de mi herencia y de mi cáliz; Tú tienes en tus manos mi suerte.
 
-6[4252]persígame el enemigo y apodérese de mí;
+[6](#c15-v6){:#c15-v6} Las cuerdas (de medir) cayeron para mí en buen lugar, y me tocó una herencia que me encanta.
 
-aplaste mi vida en el suelo
+[7](#c15-v7){:#c15-v7} [[96]](#n-96){:#rn-96} Bendeciré a Yahvé, porque me (lo) hizo entender, y aun durante la noche me (lo) enseña mi corazón.
 
-y arrastre mi honor por el fango.
+[8](#c15-v8){:#c15-v8} [[97]](#n-97){:#rn-97} Tengo siempre a Yahvé ante mis ojos, porque con Él a mi diestra no seré conmovido.
 
-7[4253]Despierta, Yahvé, en tu ira;
+[9](#c15-v9){:#c15-v9} [[98]](#n-98){:#rn-98} Por eso se alegra mi corazón y se regocija mi alma, y aun mi carne descansará segura;
 
-yérguete contra la rabia
+[10](#c15-v10){:#c15-v10} [[99]](#n-99){:#rn-99} pues Tú no dejarás a mi alma en el sepulcro, ni permitirás que tu santo experimente corrupción.
 
-de los que me oprimen.
+[11](#c15-v11){:#c15-v11} [[100]](#n-100){:#rn-100} Tú me harás conocer la senda de la vida, la plenitud del gozo a la vista de tu rostro, las eternas delicias de tu diestra. 
 
-Levántate a mi favor
+### Salmo [16 (17)](#c16) {#c16}
 
-en el juicio que tienes decretado
+### Plegaria del perseguido 
 
-8[4254]Te rodee la congregación de los pueblos
+[1](#c16-v1){:#c16-v1} [[101]](#n-101){:#rn-101} Oración de David. Escucha, oh Yahvé, una justa demanda; atiende a mi clamor; oye mi plegaria, que no brota de labios hipócritas.
 
-y siéntate sobre ella en lo alto.
+[2](#c16-v2){:#c16-v2} [[102]](#n-102){:#rn-102} Que mi sentencia venga de Ti; tus ojos ven lo que es recto.
 
-9Yahvé va juzgar a las naciones.
+[3](#c16-v3){:#c16-v3} Si escrutas mi corazón, si me visitas en la noche, si me pruebas por el fuego, no encontrarás malicia en mí.
 
-Hazme a mí justicia, Yahvé,
+[4](#c16-v4){:#c16-v4} [[103]](#n-103){:#rn-103} Que jamás mi boca se exceda a la manera de los hombres. Ateniéndome a las palabras de tus labios, he guardado los caminos de la Ley.
 
-según mi rectitud,
+[5](#c16-v5){:#c16-v5} [[104]](#n-104){:#rn-104} Firmemente se adhirieron mis pasos a tus senderos, y mis pies no han titubeado.
 
-y según la inocencia que hay en mí.
+[6](#c16-v6){:#c16-v6} Te invoco, oh Dios, porque sé que Tú responderás; inclina a mi tu oído, y oye mis palabras.
 
-10[4255]Cese ya la malicia de los impíos
+[7](#c16-v7){:#c16-v7} Ostenta tu maravillosa misericordia, oh Salvador de los que se refugian en tu diestra, contra tus enemigos.
 
-y confirma Tú al justo,
+[8](#c16-v8){:#c16-v8} [[105]](#n-105){:#rn-105} Cuídame como a la niña de tus ojos, escóndeme bajo la sombra de tus alas
 
-¡oh justo Dios, que sondeas
+[9](#c16-v9){:#c16-v9} de la vista de los impíos que me hacen violencia, de los enemigos furiosos que me rodean.
 
-los corazones y las entrañas!
+[10](#c16-v10){:#c16-v10} [[106]](#n-106){:#rn-106} Han cerrado con grasa su corazón; por su boca habla la arrogancia.
 
-11[4256]Mi defensa está en Dios,
+[11](#c16-v11){:#c16-v11} [[107]](#n-107){:#rn-107} Ahora me rodean espiando, con la mira de echarme por tierra,
 
-que salva a los rectos de corazón.
+[12](#c16-v12){:#c16-v12} cual león ávido de presa, como cachorro que asecha en su guarida.
 
-12[4257]Dios, justo Juez, fuerte y paciente,
+[13](#c16-v13){:#c16-v13} [[108]](#n-108){:#rn-108} Levántate, Yahvé, hazle frente y derríbalo, líbrame del perverso con tu espada;
 
-tiene pronta su ira cada día.
+[14](#c16-v14){:#c16-v14} y con tu mano, oh Yahvé, líbrame de estos hombres del siglo, cuya porción es esta vida, y cuyo vientre Tú llenas con tus dádivas; quedan hartos sus hijos, y dejan sobrante a los nietos.
 
-13Si no se convierte afilará su espada,
+[15](#c16-v15){:#c16-v15} [[109]](#n-109){:#rn-109} Yo, empero, con la justicia tuya llegaré a ver tu rostro; me saciaré al despertarme, con tu gloria. 
 
-entesará su arco y apuntará;
+### Salmo [17 (18)](#c17) {#c17}
 
-14tiene preparadas para ellos flechas mortales;
+### Gratitud de David 
 
-hará de fuego sus saetas.
+[1](#c17-v1){:#c17-v1} [[110]](#n-110){:#rn-110} Al maestro de coro. Del servidor de Dios, de David, el cual dirigió al Señor las palabras de este cántico en el día en que le libró de las manos de todos sus enemigos y de las de Saúl.
 
-15[4258]Mirad al que concibió la iniquidad:
+[2](#c17-v2){:#c17-v2} Y dijo: Te amo, Yahvé, fortaleza mía, mi peña, mi baluarte, mi libertador,
 
-quedó grávido de malicia
+[3](#c17-v3){:#c17-v3} [[111]](#n-111){:#rn-111} Dios mío, mi roca, mi refugio, broquel mío, cuerno de mi salud, asilo mío.
 
-y dio a luz la traición.
+[4](#c17-v4){:#c17-v4} [[112]](#n-112){:#rn-112} Invoco a Yahvé, el digno de alabanza, y quedo libre de mis enemigos.
 
-16[4259]Cavó una fosa y la ahondó,
+[5](#c17-v5){:#c17-v5} Olas de muerte me rodeaban, me alarmaban los torrentes de iniquidad;
 
-mas cayó en el hoyo que él hizo.
+[6](#c17-v6){:#c17-v6} las ataduras del sepulcro me envolvieron, se tendían a mis pies lazos mortales.
 
-17En su propia cabeza recaerá su malicia,
+[7](#c17-v7){:#c17-v7} En mi angustia invoqué a Yahvé, y clamé a mi Dios; y Él, desde su palacio, oyó mi voz; mi lamento llegó a sus oídos.
 
-y sobre su cerviz
+[8](#c17-v8){:#c17-v8} [[113]](#n-113){:#rn-113} Se estremeció la tierra y tembló; se conmovieron los cimientos de los montes y vacilaron, porque Él ardía de furor.
 
-descenderá su iniquidad.
+[9](#c17-v9){:#c17-v9} Humo salió de sus narices; de su boca, fuego devorador; y despedía carbones encendidos.
 
-18Mas yo alabaré a Yahvé por su justicia,
+[10](#c17-v10){:#c17-v10} Inclinó los cielos, y descendió con densas nubes bajo sus pies.
 
-y cantaré salmos
+[11](#c17-v11){:#c17-v11} [[114]](#n-114){:#rn-114} Subió sobre un querube y voló, y era llevado sobre las alas del viento.
 
-al Nombre de Yahvé Altísimo.
+[12](#c17-v12){:#c17-v12} Se ocultaba bajo un velo de tinieblas; aguas tenebrosas y oscuras nubes lo rodeaban como un pabellón.
 
-SALMO 8
-La gloria de Dios en la Creación
+[13](#c17-v13){:#c17-v13} Se encendieron carbones de fuego al resplandor de su rostro.
 
-1[4260]Al maestro de coro. Sobre el ghittit (los lagares). Salmo de David.
+[14](#c17-v14){:#c17-v14} [[115]](#n-115){:#rn-115} Tronó Yahvé desde el cielo, el Altísimo hizo resonar su voz;
 
-2[4261]¡Oh Yahvé, Señor nuestro,
+[15](#c17-v15){:#c17-v15} [[116]](#n-116){:#rn-116} y lanzó sus saetas y los dispersó; multiplicó sus rayos, y los puso en derrota.
 
-cuán admirable es tu Nombre
+[16](#c17-v16){:#c17-v16} Y aparecieron a la vista los lechos de los océanos; se mostraron desnudos los cimientos del orbe terráqueo, ante la amenaza de Yahvé, al resollar el soplo de su ira.
 
-en toda la tierra!
+[17](#c17-v17){:#c17-v17} [[117]](#n-117){:#rn-117} Desde lo alto extendió su brazo y me arrebató, sacándome de entre las muchas aguas;
 
-Tú, cuya gloria cantan los cielos,
+[18](#c17-v18){:#c17-v18} me libró de mi feroz enemigo, de adversarios más poderosos que yo.
 
-3[4262]te has preparado la alabanza
+[19](#c17-v19){:#c17-v19} Se echaron sobre mí en el día de mi infortunio; pero salió Yahvé en mi defensa,
 
-de la boca de los pequeños
+[20](#c17-v20){:#c17-v20} [[118]](#n-118){:#rn-118} y me trajo a la anchura; me salvó porque me ama.
 
-y de los lactantes,
+[21](#c17-v21){:#c17-v21} [[119]](#n-119){:#rn-119} Yahvé me ha retribuido conforme a mi rectitud; me remunera según la limpieza de mis manos.
 
-para confundir a tus enemigos
+[22](#c17-v22){:#c17-v22} [[120]](#n-120){:#rn-120} Porque seguí los caminos de Yahvé, y no me rebelé contra mi Dios;
 
-y hacer callar
+[23](#c17-v23){:#c17-v23} porque mantuve ante mis ojos todos sus mandamientos y nunca aparté de mí sus estatutos.
 
-al adversario y al perseguidor.
+[24](#c17-v24){:#c17-v24} Fuí íntegro para con Él, y me cuidé de mi maldad.
 
-4Cuando contemplo tus cielos,
+[25](#c17-v25){:#c17-v25} Yahvé me ha retribuido conforme a mi rectitud; según la limpieza de mis manos ante sus ojos.
 
-hechura de tus dedos,
+[26](#c17-v26){:#c17-v26} [[121]](#n-121){:#rn-121} Tú eres misericordioso con el misericordioso; con el varón recto, eres recto.
 
-la luna y las estrellas
+[27](#c17-v27){:#c17-v27} Con el sincero, eres sincero; y con el doble, te haces astuto.
 
-que Tú pusiste en su lugar...
+[28](#c17-v28){:#c17-v28} [[122]](#n-122){:#rn-122} Tú salvas al pueblo oprimido, y humillas los ojos altaneros.
 
-5¿Qué es el hombre para que Tú lo recuerdes,
+[29](#c17-v29){:#c17-v29} [[123]](#n-123){:#rn-123} Eres Tú quien mantiene encendida mi lámpara, oh Yahvé; Tú, Dios mío, disipas mis tinieblas.
 
-o el hijo del hombre
+[30](#c17-v30){:#c17-v30} Fiado en Ti embestiré a un ejército; con mi Dios saltaré murallas.
 
-para que te ocupes de él?
+[31](#c17-v31){:#c17-v31} [[124]](#n-124){:#rn-124} ¡El Dios mío!... Su conducta es perfecta, Su palabra acrisolada. Él mismo es el escudo de cuantos lo buscan como refugio.
 
-6[4263]Tú lo creaste poco inferior a Dios,
+[32](#c17-v32){:#c17-v32} [[125]](#n-125){:#rn-125} Pues ¿quién es Dios fuera de Yahvé? o ¿qué roca hay si no es el Dios nuestro?
 
-le ornaste de gloria y de honor.
+[33](#c17-v33){:#c17-v33} Aquel Dios que me ciñó de fortaleza e hizo inmaculado mi camino.
 
-7Le diste poder sobre las obras de tus manos,
+[34](#c17-v34){:#c17-v34} [[126]](#n-126){:#rn-126} El que volvió mis pies veloces como los del ciervo, y me afirmó sobre las cumbres.
 
-y todo lo pusiste bajo sus pies:
+[35](#c17-v35){:#c17-v35} El que adiestró mis manos para la pelea, y mi brazo para tender el arco de bronce.
 
-8[4264]las ovejas y los bueyes todos,
+[36](#c17-v36){:#c17-v36} Tú me diste por broquel tu auxilio, me sostuvo tu diestra; tu solicitud me ha engrandecido.
 
-y aun las bestias salvajes,
+[37](#c17-v37){:#c17-v37} [[127]](#n-127){:#rn-127} Ensanchaste el camino a mis pasos, y mis pies no flaquearon.
 
-9las aves del cielo y los peces del mar,
+[38](#c17-v38){:#c17-v38} Perseguía a mis enemigos y los alcanzaba; y no me volvía hasta desbaratarlos.
 
-y cuanto surca las sendas del agua.
+[39](#c17-v39){:#c17-v39} Los destrozaba y no podían levantarse; caían bajo mis pies.
 
-10Oh Yahvé, Señor nuestro,
+[40](#c17-v40){:#c17-v40} [[128]](#n-128){:#rn-128} Tú me revestías de valor para el combate, sujetabas a mi cetro a los que me resistían.
 
-¡cuán admirable es tu Nombre en toda la tierra!
+[41](#c17-v41){:#c17-v41} Ponías en fuga a mis enemigos, dispersabas a cuantos me aborrecían.
 
-SALMO 9A
-El juicio de las naciones
+[42](#c17-v42){:#c17-v42} Vociferaban, mas no había quien los auxiliase; (clamaban) a Yahvé mas Él no los oía.
 
-1[4265]Al maestro de coro. Sobre el tono de Muthlabbén. Salmo de David.
+[43](#c17-v43){:#c17-v43} Y yo los dispersaba como polvo que el viento dispersa; los pisoteaba como el lodo de las calles.
 
-2Quiero alabarte, Yahvé,
+[44](#c17-v44){:#c17-v44} [[129]](#n-129){:#rn-129} Me libraste de las contiendas del pueblo, me has hecho cabeza de las naciones; un pueblo que no conocía me sirve;
 
-con todo mi corazón,
+[45](#c17-v45){:#c17-v45} [[130]](#n-130){:#rn-130} con atento oído me obedecen; los extraños me adulan.
 
-voy a cantar todas tus maravillas.
+[46](#c17-v46){:#c17-v46} Los extranjeros palidecen, y abandonan, temblando, sus fortalezas.
 
-3En Ti me alegraré
+[47](#c17-v47){:#c17-v47} ¡Vive Yahvé! ¡Bendita sea mi Roca! ¡Sea ensalzado el Dios mi Salvador!
 
-y saltaré de gozo,
+[48](#c17-v48){:#c17-v48} Aquel Dios que me otorgó la venganza, que sujetó a mí las naciones;
 
-cantaré salmos a tu Nombre,
+[49](#c17-v49){:#c17-v49} que me libró de mis enemigos, que me encumbró sobre mis opositores, y me salvó de las manos del hombre violento.
 
-oh Altísimo.
+[50](#c17-v50){:#c17-v50} [[131]](#n-131){:#rn-131} Por eso te alabaré entre las naciones, oh Yahvé; cantaré himnos a tu Nombre.
 
-4[4266]Porque mis enemigos vuelven las espaldas,
+[51](#c17-v51){:#c17-v51} [[132]](#n-132){:#rn-132} Él da grandes victorias a su rey, y usa de misericordia con su ungido, con David y su linaje, por toda la eternidad. 
 
-caen y perecen ante tu presencia.
+### Salmo [18 (19)](#c18) {#c18}
 
-5He aquí que Tú me has hecho justicia,
+### Dos biblias: la naturaleza y la palabra 
 
-y has tomado en tus manos mi causa;
+[1](#c18-v1){:#c18-v1} [[133]](#n-133){:#rn-133} Al maestro de coro. Salmo de David.
 
-te has sentado, Juez justo,
+[2](#c18-v2){:#c18-v2} [[134]](#n-134){:#rn-134} Los cielos atestiguan la gloria de Dios; y el firmamento predica las obras que Él ha hecho.
 
-sobre el trono.
+[3](#c18-v3){:#c18-v3} Cada día transmite al siguiente este mensaje, y una noche lo hace conocer a la otra.
 
-6[4267]Has reprendido a los gentiles
+[4](#c18-v4){:#c18-v4} [[135]](#n-135){:#rn-135} Si bien no es la palabra, tampoco es un lenguaje cuya voz no pueda percibirse.
 
-y aniquilado al impío,
+[5](#c18-v5){:#c18-v5} Por toda la tierra se oye su sonido, y sus acentos hasta los confines del orbe. Allí le puso tienda al sol,
 
-borrado su nombre para siempre.
+[6](#c18-v6){:#c18-v6} que sale como un esposo de su tálamo, y se lanza alegremente cual gigante a recorrer su carrera.
 
-7Los enemigos han sido aplastados,
+[7](#c18-v7){:#c18-v7} [[136]](#n-136){:#rn-136} Parte desde un extremo del cielo, y su giro va hasta el otro extremo; nada puede sustraerse a su calor.
 
-reducidos a perpetua ruina;
+[8](#c18-v8){:#c18-v8} [[137]](#n-137){:#rn-137} La Ley de Yahvé es perfecta, restaura el alma. El testimonio de Yahvé es fiel, hace sabio al hombre sencillo.
 
-has destruido sus ciudades,
+[9](#c18-v9){:#c18-v9} Los preceptos de Yahvé son rectos, alegran el corazón. La enseñanza de Yahvé es clara, ilumina los ojos.
 
-y hasta la memoria de ellas ha perecido.
+[10](#c18-v10){:#c18-v10} [[138]](#n-138){:#rn-138} El temor de Yahvé es santo, permanece para siempre. Los juicios de Yahvé son la verdad, todos son la justicia misma,
 
-8He aquí que Yahvé se sienta para siempre,
+[11](#c18-v11){:#c18-v11} [[139]](#n-139){:#rn-139} más codiciables que el oro, oro abundante y finísimo; más sabrosos que la miel que destila de los panales.
 
-ha establecido su trono para juzgar.
+[12](#c18-v12){:#c18-v12} También tu siervo es iluminado por ellos, y en su observancia halla gran galardón.
 
-9Él mismo juzgará el orbe con justicia,
+[13](#c18-v13){:#c18-v13} Mas ¿quién es el que conoce sus defectos? Purifícame de los que no advierto.
 
-y gobernará a los pueblos con equidad.
+[14](#c18-v14){:#c18-v14} [[140]](#n-140){:#rn-140} Preserva a tu siervo, para que nunca domine en mí la soberbia. Entonces seré íntegro, y estaré libre del gran pecado.
 
-10Y será Yahvé refugio para el oprimido,
+[15](#c18-v15){:#c18-v15} Hallen favor ante Ti estas palabras de mi boca y los anhelos de mi corazón, oh Yahvé, Roca mía y Redentor mío. 
 
-refugio siempre pronto
+### Salmo [19 (20)](#c19) {#c19}
 
-en el tiempo de la tribulación.
+### Plegaria por el Rey 
 
-11[4268]Y los que conocieron tu nombre
+[1](#c19-v1){:#c19-v1} [[141]](#n-141){:#rn-141} Al maestro de coro. Salmo de David.
 
-confiarán en Ti,
+[2](#c19-v2){:#c19-v2} [[142]](#n-142){:#rn-142} Que Yahvé te escuche en el día de la prueba; te defienda el Nombre del Dios de Jacob.
 
-pues Tú no abandonas, Yahvé,
+[3](#c19-v3){:#c19-v3} Él te envíe su auxilio desde el santuario, y desde Sión te sostenga.
 
-a los que te buscan.
+[4](#c19-v4){:#c19-v4} Acuérdese de todas tus ofrendas y séale grato tu holocausto.
 
-12[4269]Cantad salmos a Yahvé,
+[5](#c19-v5){:#c19-v5} Te conceda lo que tu corazón anhela y confirme todos tus designios.
 
-que habita en Sión,
+[6](#c19-v6){:#c19-v6} Séanos dado ver gozosos tu victoria, y alzar el pendón en el nombre de nuestro Dios. Otorgue el Señor todas tus peticiones.
 
-haced conocer a los pueblos sus proezas.
+[7](#c19-v7){:#c19-v7} Ahora ya sé que Yahvé dará el triunfo a su ungido, respondiéndole desde su santo cielo con la potencia victoriosa de su diestra.
 
-13Porque el vengador de la sangre
+[8](#c19-v8){:#c19-v8} [[143]](#n-143){:#rn-143} Aquellos en sus carros, estos en sus caballos; mas nosotros seremos fuertes en el Nombre de [Yahvé] nuestro Dios.
 
-se ha acordado de los pobres,
+[9](#c19-v9){:#c19-v9} Ellos se doblegarán y caerán; mas nosotros estaremos erguidos, y nos mantendremos.
 
-y no ha olvidado su clamor.
+[10](#c19-v10){:#c19-v10} [[144]](#n-144){:#rn-144} Oh Yahvé, salva al rey, y escúchanos en este día en que apelamos a Ti. 
 
-14Yahvé se apiadó de mí
+### Salmo [20 (21)](#c20) {#c20}
 
-viendo la aflicción
+### Acción de gracias por la victoria del Rey 
 
-que me causan mis enemigos,
+[1](#c20-v1){:#c20-v1} [[145]](#n-145){:#rn-145} Al maestro de coro. Salmo de David.
 
-y me ha sacado
+[2](#c20-v2){:#c20-v2} Oh Yahvé, de tu poder se goza el rey, y está lleno de alegría por tu auxilio.
 
-de los umbrales de la muerte,
+[3](#c20-v3){:#c20-v3} Cumpliste el anhelo de su corazón, y no frustraste la petición de sus labios.
 
-15[4270]para que anuncie todas sus alabanzas
+[4](#c20-v4){:#c20-v4} Lo previniste con faustas bendiciones, corona de oro puro pusiste en su cabeza.
 
-en las puertas de la hija de Sión,
+[5](#c20-v5){:#c20-v5} [[146]](#n-146){:#rn-146} Te pidió la vida y le has dado días que durarán por los siglos de los siglos.
 
-y me goce yo en tu salud.
+[6](#c20-v6){:#c20-v6} [[147]](#n-147){:#rn-147} Gracias a tu socorro es grande su gloria; lo colmaste de honor y de magnificencia.
 
-16Cayeron las naciones
+[7](#c20-v7){:#c20-v7} [[148]](#n-148){:#rn-148} Porque has hecho que él sea una bendición para siempre, y lo has llenado de alegría con el gozo de tu vista.
 
-en la fosa que cavaron,
+[8](#c20-v8){:#c20-v8} Pues el rey confía en Yahvé, y merced al Altísimo no será conmovido.
 
-su pie quedó preso
+[9](#c20-v9){:#c20-v9} Descargue tu mano sobre todos tus enemigos; alcance tu diestra a los que te aborrecen.
 
-en el lazo que escondieron.
+[10](#c20-v10){:#c20-v10} [[149]](#n-149){:#rn-149} Cuando tu rostro aparezca los pondrás como en un horno encendido. El Señor los destruirá en su ira, y el fuego los devorará.
 
-17[4271]Yahvé se ha dado a conocer
+[11](#c20-v11){:#c20-v11} Quita de la tierra su descendencia, y su raza de entre los hijos de los hombres.
 
-haciendo justicia;
+[12](#c20-v12){:#c20-v12} Y si dirigen sus malas artes contra Ti y maquinan insidias, nada podrán.
 
-el pecador quedó enredado
+[13](#c20-v13){:#c20-v13} Porque Tú los pondrás en fuga al dirigir tu arco hacia su rostro.
 
-en las obras de sus manos.
+[14](#c20-v14){:#c20-v14} [[150]](#n-150){:#rn-150} Levántate, Yahvé, en tu poderío, y con salmos celebraremos tus hazañas. 
 
-18Bajen los malvados al sepulcro,
+### Salmo [21 (22)](#c21) {#c21}
 
-todos los gentiles
+### Elí, Elí, "lemá sabactani?" (Profecía sobre la Pasión de Cristo) 
 
-que se han olvidado de Dios.
+[1](#c21-v1){:#c21-v1} [[151]](#n-151){:#rn-151} Al maestro de coro. Por el pronto socorro. Salmo de David.
 
-19Porque no siempre
+[2](#c21-v2){:#c21-v2} [[152]](#n-152){:#rn-152} Dios mío, Dios mío, ¿por qué me has abandonado? Los gritos de mis pecados alejan de mí el socorro.
 
-quedará en olvido el pobre,
+[3](#c21-v3){:#c21-v3} [[153]](#n-153){:#rn-153} Dios mío, clamo de día, y no respondes; de noche también, y no te cuidas de mí.
 
-ni siempre burlada
+[4](#c21-v4){:#c21-v4} [[154]](#n-154){:#rn-154} Y Tú, sin embargo, estás en tu santa morada, ¡oh gloria de Israel!
 
-la esperanza de los oprimidos.
+[5](#c21-v5){:#c21-v5} En Ti esperaron nuestros padres; esperaron, y los libraste.
 
-20[4272]Levántate Yahvé;
+[6](#c21-v6){:#c21-v6} A Ti clamaron, y fueron salvados; en Ti confiaron, y no quedaron confundidos.
 
-no prevalezca el hombre,
+[7](#c21-v7){:#c21-v7} [[155]](#n-155){:#rn-155} Pero es que yo soy gusano, y no hombre, oprobio de los hombres y desecho de la plebe.
 
-sean juzgadas las naciones
+[8](#c21-v8){:#c21-v8} Cuantos me ven se mofan de mí, tuercen los labios y menean la cabeza:
 
-ante tu presencia.
+[9](#c21-v9){:#c21-v9} [[156]](#n-156){:#rn-156} "Confió en Yahvé: que Él lo salve; líbrelo, ya que en Él se complace."
 
-21[4273]Arroja, Señor, sobre ellas
+[10](#c21-v10){:#c21-v10} Sí, Tú eres mi sostén desde el seno materno, mi refugio desde los pechos de mi madre.
 
-el terror, oh Yahvé,
+[11](#c21-v11){:#c21-v11} A Ti fui entregado desde mi nacimiento; desde el vientre de mi madre Tú eres mi Dios.
 
-¡que sepan los gentiles que son hombres!
+[12](#c21-v12){:#c21-v12} [[157]](#n-157){:#rn-157} No estés lejos de mí, porque la tribulación está cerca, porque no hay quien socorra.
 
-SALMO 9B (10)
+[13](#c21-v13){:#c21-v13} [[158]](#n-158){:#rn-158} Me veo rodeado de muchos toros; los fuertes de Basan me cercan;
 
-1¿Por qué, Yahvé, te estás lejos?
+[14](#c21-v14){:#c21-v14} abren contra mí sus bocas, cual león rapaz y rugiente.
 
-¿Te escondes en el tiempo de la tribulación,
+[15](#c21-v15){:#c21-v15} [[159]](#n-159){:#rn-159} Soy como agua derramada, todos mis huesos se han descoyuntado; mi corazón, como cera, se diluye en mis entrañas.
 
-2mientras se ensoberbece el impío,
+[16](#c21-v16){:#c21-v16} Mi garganta se ha secado como una teja; mi lengua se pega a mi paladar, me has reducido al polvo de la muerte.
 
-y el pobre es vejado y preso
+[17](#c21-v17){:#c21-v17} [[160]](#n-160){:#rn-160} Porque me han rodeado muchos perros; una caterva de malvados me encierra; han perforado mis manos y mis pies;
 
-en los ardides que aquel le urdió?
+[18](#c21-v18){:#c21-v18} puedo contar todos mis huesos. Entretanto, ellos miran, y al verme se alegran.
 
-3[4274]Porque he aquí que el inicuo
+[19](#c21-v19){:#c21-v19} [[161]](#n-161){:#rn-161} Se reparten mis vestidos, y sobre mi túnica echan suertes.
 
-se jacta de sus antojos,
+[20](#c21-v20){:#c21-v20} [[162]](#n-162){:#rn-162} Mas Tú, Yahvé, no estés lejos de mí; sostén mío, apresúrate a socorrerme.
 
-el expoliador blasfema
+[21](#c21-v21){:#c21-v21} Libra mi alma de la espada, mi vida del poder del perro.
 
-despreciando a Yahvé.
+[22](#c21-v22){:#c21-v22} [[163]](#n-163){:#rn-163} Sálvame de la boca del león; de entre las astas de los bisontes escúchame.
 
-4En el orgullo de su mente dice el impío:
+[23](#c21-v23){:#c21-v23} [[164]](#n-164){:#rn-164} Anunciaré tu Nombre a mis hermanos, y proclamaré tu alabanza en medio de la asamblea.
 
-“Él no tomará venganza; Dios no existe.”
+[24](#c21-v24){:#c21-v24} Los que teméis a Yahvé alabadle, glorificadle, vosotros todos, linaje de Israel.
 
-Tal es todo su pensamiento.
+[25](#c21-v25){:#c21-v25} Pues no despreció ni desatendió la miseria del miserable; no escondió de él su rostro, y cuando imploró su auxilio, le escuchó.
 
-5[4275]Sus caminos prosperan en todo tiempo;
+[26](#c21-v26){:#c21-v26} [[165]](#n-165){:#rn-165} Para Ti será mi alabanza en la gran asamblea, cumpliré mis votos en presencia de los que te temen.
 
-lejos de su ánimo están tus juicios;
+[27](#c21-v27){:#c21-v27} [[166]](#n-166){:#rn-166} Los pobres comerán y se hartarán, alabarán a Yahvé los que le buscan. Sus corazones vivirán para siempre.
 
-menosprecia él a todos sus adversarios.
+[28](#c21-v28){:#c21-v28} [[167]](#n-167){:#rn-167} Recordándolo, volverán a Yahvé todos los confines de la tierra; y todas las naciones de los gentiles se postrarán ante su faz.
 
-6En su corazón dice:
+[29](#c21-v29){:#c21-v29} [[168]](#n-168){:#rn-168} Porque de Yahvé es el reino, y Él mismo gobernará a las naciones.
 
-“No seré conmovido;
+[30](#c21-v30){:#c21-v30} [[169]](#n-169){:#rn-169} A Él solo adorarán todos los que duermen bajo la tierra; ante Él se encorvará todo el que desciende al polvo, y no tiene ya vida en sí.
 
-de generación en generación
+[31](#c21-v31){:#c21-v31} [[170]](#n-170){:#rn-170} Mi descendencia le servirá a Él y hablará de Yahvé a la edad venidera.
 
-estaré al abrigo de la adversidad.”
+[32](#c21-v32){:#c21-v32} [[171]](#n-171){:#rn-171} Anunciará su justicia a un pueblo que ha de nacer: "Estas cosas ha hecho Yahvé." 
 
-7Su boca está llena de maldición,
+### Salmo [22 (23)](#c22) {#c22}
 
-de astucia y de violencia;
+### El buen Pastor 
 
-bajo su lengua lleva
+[1](#c22-v1){:#c22-v1} [[172]](#n-172){:#rn-172} Salmo de David. Yahvé es mi pastor, nada me faltará.
 
-la maldad y la mentira.
+[2](#c22-v2){:#c22-v2} Él me hace recostar en verdes prados, me conduce a manantiales que restauran,
 
-8Se pone en acecho junto al poblado,
+[3](#c22-v3){:#c22-v3} Confortando mi alma, guiándome por senderos rectos, para gloria de su Nombre.
 
-en lo escondido, para matar al inocente.
+[4](#c22-v4){:#c22-v4} [[173]](#n-173){:#rn-173} Aunque atraviese un valle de tinieblas, no temeré ningún mal, porque Tú vas conmigo. Tu bastón y tu cayado me infunden aliento.
 
-Sus ojos están espiando al pobre;
+[5](#c22-v5){:#c22-v5} [[174]](#n-174){:#rn-174} Para mí Tú dispones una mesa ante los ojos de mis enemigos. Unges con bálsamo mi cabeza; mi copa rebosa.
 
-9insidia en la oscuridad como el león
+[6](#c22-v6){:#c22-v6} [[175]](#n-175){:#rn-175} Bondad y misericordia me seguirán todos los días de mi vida; y moraré en la casa de Yahvé por días sin fin. 
 
-que desde su guarida está asechando
+### Salmo [23 (24)](#c23) {#c23}
 
-al desvalido para atraparlo;
+### Entrada del Rey de la gloria 
 
-lo arrebata y lo atrae a su red;
+[1](#c23-v1){:#c23-v1} [[176]](#n-176){:#rn-176} De David. Salmo. De Yahvé es la tierra y cuanto ella contiene; el orbe y cuantos lo habitan.
 
-10se encoge, se agacha hasta el suelo,
+[2](#c23-v2){:#c23-v2} [[177]](#n-177){:#rn-177} Porque Él la asentó sobre mares y la afirmó sobre corrientes.
 
-y el desdichado cae en sus garras.
+[3](#c23-v3){:#c23-v3} ¿Quién será digno de ascender al monte de Yahvé? y ¿quién estará en su santuario?
 
-11[4276]Dice en su corazón:
+[4](#c23-v4){:#c23-v4} [[178]](#n-178){:#rn-178} Aquel que tiene inmaculadas las manos y puro el corazón, que no inclinó su ánimo a la vanidad [ni juró con doblez];
 
-“Dios está desmemoriado,
+[5](#c23-v5){:#c23-v5} él recibirá la bendición de Yahvé, y la justicia de Dios su Salvador.
 
-apartó su rostro, nunca ve nada.”
+[6](#c23-v6){:#c23-v6} Esta es la generación de los que lo buscan, de los que buscan tu faz, (Dios de) Jacob.
 
-12Levántate, Yahvé Dios mío,
+[7](#c23-v7){:#c23-v7} [[179]](#n-179){:#rn-179} ¡Levantad, oh puertas, vuestros dinteles, y alzaos, portones antiquísimos, para que entre el Rey de la gloria!
 
-alza tu mano;
+[8](#c23-v8){:#c23-v8} ¿Quién es este Rey de la gloria? Yahvé fuerte y poderoso; Yahvé, poderoso en la batalla.
 
-no quieras olvidarte de los afligidos.
+[9](#c23-v9){:#c23-v9} ¡Levantad, oh puertas, vuestros dinteles, y alzaos, portones antiquísimos, para que entre el Rey de la gloria!
 
-13[4277]¿Cómo es que el impío desprecia a Dios,
+[10](#c23-v10){:#c23-v10} ¿Quién es este Rey de la gloria? Yahvé Dios de los ejércitos: Él mismo es el Rey de la gloria. 
 
-diciendo en su corazón:
+### Salmo [24 (25)](#c24) {#c24}
 
-“No tomará venganza”?
+### Oración para crecer en la amistad de Dios 
 
-14[4278]Mas Tú lo estás viendo.
+[1](#c24-v1){:#c24-v1} De David. A Ti, Yahvé, Dios mío, elevo mi alma;
 
-Tú consideras el afán y la angustia,
+[2](#c24-v2){:#c24-v2} en Ti confío, no sea yo confundido; no se gocen a costa mía mis enemigos.
 
-para tomarlos en tus manos.
+[3](#c24-v3){:#c24-v3} [[180]](#n-180){:#rn-180} No, ninguno que espera en Ti es confundido. Confundido queda el que locamente se aparta de Ti.
 
-A Ti está confiado el pobre;
+[4](#c24-v4){:#c24-v4} [[181]](#n-181){:#rn-181} Muéstrame tus caminos, oh Yahvé, indícame tus sendas;
 
-Tú eres el protector del huérfano.
+[5](#c24-v5){:#c24-v5} condúceme a tu verdad e instrúyeme, porque Tú eres el Dios que me salva, y estoy siempre esperándote.
 
-15Quebranta Tú el brazo del impío
+[6](#c24-v6){:#c24-v6} [[182]](#n-182){:#rn-182} Acuérdate, Yahvé, de tus misericordias, y de tus bondades de todos los tiempos.
 
-y del maligno;
+[7](#c24-v7){:#c24-v7} [[183]](#n-183){:#rn-183} No recuerdes los pecados de mi mocedad, [ni mis ofensas]; según tu benevolencia acuérdate de mí, por tu bondad, oh Yahvé.
 
-castigarás su malicia y no subsistirá.
+[8](#c24-v8){:#c24-v8} [[184]](#n-184){:#rn-184} Yahvé es benigno y es recto; por eso da a los pecadores una ley para el camino;
 
-16[4279]Yahvé es Rey para siglos eternos;
+[9](#c24-v9){:#c24-v9} [[185]](#n-185){:#rn-185} guía en la justicia a los humildes, y amaestra a los dóciles en sus vías.
 
-los gentiles fueron exterminados de su tierra.
+[10](#c24-v10){:#c24-v10} [[186]](#n-186){:#rn-186} Todos los caminos de Yahvé son misericordia y fidelidad para cuantos buscan su alianza y sus disposiciones.
 
-17Ya escuchaste, Yahvé,
+[11](#c24-v11){:#c24-v11} Por la gloria de tu Nombre, oh Yahvé, Tú perdonarás mi culpa, aunque es muy grande.
 
-el deseo de los humildes;
+[12](#c24-v12){:#c24-v12} ¿Hay algún hombre que tema a Yahvé? A ese le mostrará Él qué senda elegir;
 
-confirmaste su corazón y prestaste oído,
+[13](#c24-v13){:#c24-v13} [[187]](#n-187){:#rn-187} reposará su alma rodeada de bienes, y su descendencia poseerá la tierra.
 
-18[4280]para tomar en tus manos
+[14](#c24-v14){:#c24-v14} [[188]](#n-188){:#rn-188} Yahvé concede intimidad familiar a los que le temen; les da a conocer (las promesas de) su alianza.
 
-la causa del huérfano y del oprimido,
+[15](#c24-v15){:#c24-v15} [[189]](#n-189){:#rn-189} Mis ojos están siempre puestos en Yahvé porque Él saca mis pies del lazo.
 
-a fin de que nunca más vuelva
+[16](#c24-v16){:#c24-v16} [[190]](#n-190){:#rn-190} Mírame Tú y tenme lástima, porque soy miserable y estoy solo.
 
-a infundir pavor el hombre de tierra.
+[17](#c24-v17){:#c24-v17} [[191]](#n-191){:#rn-191} Ensancha mi corazón angustiado, sácame de mis estrecheces.
 
-SALMO 10 (11)
-No huye quien tiene a Yahvé por refugio
+[18](#c24-v18){:#c24-v18} [[192]](#n-192){:#rn-192} Mira que estoy cargado y agobiado, y perdona Tú todos mis delitos.
 
-1[4281]Al maestro de coro. De David.
+[19](#c24-v19){:#c24-v19} [[193]](#n-193){:#rn-193} Repara en mis enemigos, porque son muchos y me odian con odio feroz.
 
-Yo me refugio en Yahvé.
+[20](#c24-v20){:#c24-v20} [[194]](#n-194){:#rn-194} Cuida Tú mi alma y sálvame; no tenga yo que sonrojarme de haber acudido a Ti.
 
-¿Cómo podéis decirme:
+[21](#c24-v21){:#c24-v21} [[195]](#n-195){:#rn-195} Los íntegros y justos están unidos conmigo, porque espero en Ti.
 
-“Huye al monte como el pájaro”?
+[22](#c24-v22){:#c24-v22} [[196]](#n-196){:#rn-196} Oh Yahvé, libra a Israel de todas sus tribulaciones. 
 
-2Pues los malvados están entesando el arco
+### Salmo [25 (26)](#c25) {#c25}
 
-y colocan ya su flecha en la cuerda
+### Confianza del hombre recto 
 
-para asaetear en la sombra
+[1](#c25-v1){:#c25-v1} [[197]](#n-197){:#rn-197} De David. Hazme justicia, oh Yahvé: he procedido con integridad: y, puesta en Yahvé mi confianza, no he vacilado.
 
-a los rectos de corazón;
+[2](#c25-v2){:#c25-v2} [[198]](#n-198){:#rn-198} Escrútame, Yahvé, y sondéame; acrisola mi conciencia y mi corazón.
 
-3[4282]si han socavado los cimientos
+[3](#c25-v3){:#c25-v3} [[199]](#n-199){:#rn-199} Porque, teniendo tu bondad presente a mis ojos, anduve según tu verdad.
 
-¿qué puede hacer el justo?
+[4](#c25-v4){:#c25-v4} [[200]](#n-200){:#rn-200} No he tomado asiento con hombres inicuos, ni busqué la compañía de los que fingen;
 
-4Está Yahvé en su santo templo;
+[5](#c25-v5){:#c25-v5} aborrecí la sociedad de los malvados, y con los impíos no tuve comunicación.
 
-¡Yahvé! su trono está en el cielo;
+[6](#c25-v6){:#c25-v6} [[201]](#n-201){:#rn-201} Lavo mis manos como inocente y rodeo tu altar, oh Yahvé,
 
-sus ojos miran,
+[7](#c25-v7){:#c25-v7} [[202]](#n-202){:#rn-202} para levantar mi voz en tu alabanza y narrar todas tus maravillas.
 
-sus párpados escrutan
+[8](#c25-v8){:#c25-v8} [[203]](#n-203){:#rn-203} Amo, Yahvé, la casa de tu morada, el lugar del tabernáculo de tu gloria.
 
-a los hijos de los hombres.
+[9](#c25-v9){:#c25-v9} No quieras juntar mi alma con los pecadores, ni mi vida con los sanguinarios,
 
-5[4283]Yahvé examina al justo y al malvado;
+[10](#c25-v10){:#c25-v10} [[204]](#n-204){:#rn-204} que en sus manos tienen crimen, y cuya diestra está llena de soborno,
 
-y al que ama la prepotencia
+[11](#c25-v11){:#c25-v11} en tanto que yo he procedido con integridad; sálvame y apiádate de mí.
 
-Él lo abomina.
+[12](#c25-v12){:#c25-v12} [[205]](#n-205){:#rn-205} Ya está mi pie sobre camino llano; en las asambleas bendeciré a Yahvé. 
 
-6[4284]Sobre los pecadores
+### Salmo [26 (27)](#c26) {#c26}
 
-hará llover ascuas y azufre,
+### Espera confiada
 
-y viento abrasador
+[1](#c26-v1){:#c26-v1} [[206]](#n-206){:#rn-206} De David. Yahvé es mi luz y mi socorro; ¿a quién temeré? La defensa de mi vida es Yahvé; ¿ante quién podré temblar?
 
-será su porción en el cáliz.
+[2](#c26-v2){:#c26-v2} Cada vez que me asaltan los malignos para devorar mi carne, son ellos, mis adversarios y enemigos, quienes vacilan y caen.
 
-7[4285]Porque Yahvé es justo y ama la justicia;
+[3](#c26-v3){:#c26-v3} Si un ejército acampase contra mí, mi corazón no temería; y aunque estalle contra mí la guerra, tendré confianza.
 
-los rectos verán su rostro.
+[4](#c26-v4){:#c26-v4} [[207]](#n-207){:#rn-207} Una sola cosa he pedido a Yahvé, y esto sí lo reclamo: [habitar en la casa de Yahvé todos los días de mi vida]; contemplar la suavidad de Yahvé y meditar en su santuario.
 
-SALMO 11 (12)
-Recurso a Dios contra la corrupción dominante
+[5](#c26-v5){:#c26-v5} [[208]](#n-208){:#rn-208} Porque en el día malo Él me esconderá en su tienda; me tendrá seguro en el secreto de su tabernáculo, y me pondrá sobre una alta roca.
 
-1[4286]Al maestro de coro. En octava. Salmo de David.
+[6](#c26-v6){:#c26-v6} [[209]](#n-209){:#rn-209} Entonces mi cabeza se alzará por encima de mis enemigos en torno mío, e inmolaré en su tabernáculo sacrificios de júbilo; cantaré y entonaré salmos a Yahvé.
 
-2Sálvame Tú, oh Yahvé,
+[7](#c26-v7){:#c26-v7} Escucha, oh Yahvé, mi voz que te llama; ten misericordia de mí y atiéndeme.
 
-porque se acaban los justos;
+[8](#c26-v8){:#c26-v8} [[210]](#n-210){:#rn-210} Mi corazón sabe que Tú has dicho: "Buscadme." Y yo busco tu rostro, oh Yahvé.
 
-la fidelidad ha desaparecido
+[9](#c26-v9){:#c26-v9} No quieras esconderme tu faz, no rechaces con desdén a tu siervo. Mi socorro eres Tú; no me eches fuera, ni me desampares, oh Dios, Salvador mío.
 
-de entre los hombres.
+[10](#c26-v10){:#c26-v10} [[211]](#n-211){:#rn-211} Si mi padre y mi madre me abandonan, Yahvé me recogerá.
 
-3Unos a otros se dicen mentiras;
+[11](#c26-v11){:#c26-v11} Muéstrame, oh Yahvé, tu camino, y condúceme por la senda llana a causa de los que me están asechando.
 
-se hablan con labios fraudulentos
+[12](#c26-v12){:#c26-v12} [[212]](#n-212){:#rn-212} No me dejes entregado a la voluntad de mis enemigos, porque se han levantado contra mí falsos testigos que respiran crueldad.
 
-y doblez de corazón.
+[13](#c26-v13){:#c26-v13} [[213]](#n-213){:#rn-213} ¡Ah, si no creyera yo que veré los bienes de Yahvé en la tierra de los vivientes!
 
-4Acabe Yahvé con todo labio fraudulento
+[14](#c26-v14){:#c26-v14} [[214]](#n-214){:#rn-214} ¡Aguarda a Yahvé y ten ánimo; aliéntese tu corazón y aguarde a Yahvé! 
 
-y con la lengua jactanciosa;
 
-5[4287]con esos que dicen:
+### Salmo [27 (28)](#c27) {#c27}
 
-“Somos fuertes con nuestra lengua,
+### Oración escuchada
 
-contamos con nuestros labios;
+[1](#c27-v1){:#c27-v1} [[215]](#n-215){:#rn-215} De David. A Ti, Yahvé, clamo, roca mía, no te muestres sordo conmigo; no sea que si Tú me desoyes me asemeje yo a los que bajan al sepulcro.
 
-¿quién es señor nuestro?”
+[2](#c27-v2){:#c27-v2} [[216]](#n-216){:#rn-216} Escucha la voz de mi súplica cuando clamo a Ti, mientras levanto mis manos hacia el interior de tu Santuario.
 
-6[4288] “Por la aflicción de los humildes
+[3](#c27-v3){:#c27-v3} [[217]](#n-217){:#rn-217} No me quites de en medio con los impíos y los obradores de iniquidad, que hablan paz a su prójimo y maquinan el mal en su corazón.
 
-y el gemido de los pobres,
+[4](#c27-v4){:#c27-v4} [[218]](#n-218){:#rn-218} Retribúyeles conforme a sus obras y a la malicia de sus maquinaciones; págales según su conducta, dales su merecido.
 
-me levantaré ahora mismo, dice Yahvé;
+[5](#c27-v5){:#c27-v5} [[219]](#n-219){:#rn-219} Porque no paran mientes en los hechos de Yahvé, ni en las obras de sus manos. ¡Destrúyalos Él y no los restablezca!
 
-pondré a salvo a aquel que lo desea.”
+[6](#c27-v6){:#c27-v6} [[220]](#n-220){:#rn-220} Bendito sea Yahvé, porque oyó la voz de mi súplica.
 
-7[4289]Las palabras de Yahvé
+[7](#c27-v7){:#c27-v7} Yahvé es mi fortaleza y mi escudo; en Él confió mi corazón y fui socorrido. Por eso mi corazón salta de gozo y lo alabo con mi cántico.
 
-son palabras sinceras;
+[8](#c27-v8){:#c27-v8} [[221]](#n-221){:#rn-221} Yahvé es la fuerza de su pueblo, y el alcázar de salvación para su ungido.
 
-plata acrisolada, sin escorias,
+[9](#c27-v9){:#c27-v9} [[222]](#n-222){:#rn-222} Salva a tu pueblo y bendice a tu heredad; apaciéntalos y condúcelos para siempre. 
 
-siete veces purificada.
 
-8Tú las cumplirás, oh Yahvé;
+### Salmo [28 (29)](#c28) {#c28}
 
-nos preservarás para siempre
+### La voz de Yahvé en la tempestad del juicio 
 
-de esta generación.
+[1](#c28-v1){:#c28-v1} [[223]](#n-223){:#rn-223} Salmo de David. Dad a Yahvé, oh hijos de Dios, dad a Yahvé gloria y poderío.
 
-9Los malvados se pasean por todas partes,
+[2](#c28-v2){:#c28-v2} [[224]](#n-224){:#rn-224} Tributad a Yahvé la gloria debida a su Nombre, adorad a Yahvé en su Santuario.
 
-mientras Tú dejas que sea exaltado
+[3](#c28-v3){:#c28-v3} [[225]](#n-225){:#rn-225} ¡La voz de Yahvé sobre las aguas! Truena el Dios de la majestad, Yahvé sobre las muchas aguas.
 
-lo más vil de entre los hombres.
+[4](#c28-v4){:#c28-v4} ¡La voz de Yahvé con poderío! ¡La voz de Yahvé con majestad!
 
-SALMO 12 (13)
-Recurso del alma apremiada
+[5](#c28-v5){:#c28-v5} La voz de Yahvé troncha los cedros, Yahvé troncha los cedros del Líbano.
 
-1Al maestro de coro. Salmo de David.
+[6](#c28-v6){:#c28-v6} [[226]](#n-226){:#rn-226} Hace brincar al Líbano como un novillo, y al Schirión como cría de bisonte.
 
-2[4290]¿Hasta cuándo, Yahvé?
+[7](#c28-v7){:#c28-v7} La voz de Yahvé hace brotar llamas de fuego.
 
-¿Me tendrás olvidado constantemente?
+[8](#c28-v8){:#c28-v8} La voz de Yahvé sacude el desierto; Yahvé hace temblar el desierto de Cadés.
 
-¿Hasta cuándo me esconderás tu rostro?
+[9](#c28-v9){:#c28-v9} La voz de Yahvé retuerce los robles y arrasa las selvas, mientras en su Santuario todos dicen: ¡Gloria!
 
-3¿Hasta cuándo fatigaré
+[10](#c28-v10){:#c28-v10} [[227]](#n-227){:#rn-227} Yahvé ha puesto su trono sobre las muchas aguas, y se sentará como Rey para siempre.
 
-mi alma con cavilaciones
+[11](#c28-v11){:#c28-v11} [[228]](#n-228){:#rn-228} Yahvé dará fortaleza a su pueblo; Yahvé bendecirá a su pueblo con la paz. 
 
-y mi corazón con tristezas cada día?
+### Salmo [29 (30)](#c29) {#c29}
 
-¿Hasta cuándo habrá de prevalecer
+### Acción de gracias después de una enfermedad grave 
 
-sobre mí el enemigo?
+[1](#c29-v1){:#c29-v1} [[229]](#n-229){:#rn-229} Salmo-cántico para la dedicación de la casa de David.
 
-4Mira y respóndeme, Yahvé, Dios mío;
+[2](#c29-v2){:#c29-v2} Yo te alabo, Yahvé, porque me libraste y no dejaste que a costa mía se alegraran mis enemigos.
 
-alumbra mis ojos
+[3](#c29-v3){:#c29-v3} Yahvé, Dios mío, clamé a Ti, y me sanaste.
 
-para que no me duerma en la muerte,
+[4](#c29-v4){:#c29-v4} [[230]](#n-230){:#rn-230} Tú, Yahvé, sacaste mi vida del sepulcro; me sacaste de entre los que descienden a la fosa.
 
-5[4291]y no diga el adversario:
+[5](#c29-v5){:#c29-v5} [[231]](#n-231){:#rn-231} Cantad himnos a Yahvé vosotros sus santos, dad gracias al Nombre de Su santidad.
 
-“Lo he vencido.”
+[6](#c29-v6){:#c29-v6} [[232]](#n-232){:#rn-232} Porque su enojo dura un instante, mas su benevolencia es por toda la vida, como el llanto viene al anochecer y con la aurora vuelve la alegría.
 
-Los que me afligen
+[7](#c29-v7){:#c29-v7} [[233]](#n-233){:#rn-233} Me decía yo en mi presunción: "Nunca me pasará nada";
 
-saltarían de gozo si yo cayera,
+[8](#c29-v8){:#c29-v8} pues Tú, oh Yahvé, en tu benevolencia, me habías prestado honor y poderío; mas apenas escondiste tu rostro, quedé conturbado.
 
-6[4292]después de haber puesto
+[9](#c29-v9){:#c29-v9} Clamé a Ti, oh Yahvé, e imploré la misericordia de mi Dios:
 
-mi confianza en tu misericordia.
+[10](#c29-v10){:#c29-v10} [[234]](#n-234){:#rn-234} "¿Qué beneficio se obtendrá con mi sangre, cuando yo descienda a la fosa? ¿Acaso te alabará el polvo, o proclamará tu fidelidad?"
 
-Sea mi corazón
+[11](#c29-v11){:#c29-v11} [[235]](#n-235){:#rn-235} Me oyó Yahvé y tuvo compasión de mí; Yahvé vino en mi socorro.
 
-el que se alegre por tu socorro;
+[12](#c29-v12){:#c29-v12} Convertiste en danza mi llanto desataste mi cilicio y me ceñiste de alegría,
 
-cante yo a Yahvé
+[13](#c29-v13){:#c29-v13} para que mi alma te cante himnos sin cesar. ¡Oh Yahvé, Dios mío, te alabaré eternamente! 
 
-por su bondad para conmigo.
+### Salmo [30 (31)](#c30) {#c30}
 
-SALMO 13 (14)
-Llegará la hora para los impostores
+### Serenidad en la hora de la muerte 
 
-1[4293]Al maestro de coro. De David.
+[1](#c30-v1){:#c30-v1} [[236]](#n-236){:#rn-236} Al maestro de coro. Salmo de David.
 
-El insensato dice en su corazón:
+[2](#c30-v2){:#c30-v2} [[237]](#n-237){:#rn-237} En Ti, Yahvé, me refugio; no quede yo nunca confundido; sálvame con tu justicia.
 
-“No hay Dios.”
+[3](#c30-v3){:#c30-v3} [[238]](#n-238){:#rn-238} Inclina a mí tu oído, apresúrate a librarme. Sé para mí la roca de seguridad, la fortaleza donde me salves.
 
-Se han pervertido; su conducta es abominable,
+[4](#c30-v4){:#c30-v4} Porque Tú eres mi peña y mi baluarte, y por la gloria de tu nombre, cuidarás de mí y me conducirás.
 
-ni uno solo obra bien.
+[5](#c30-v5){:#c30-v5} Tú me sacarás de la red, que ocultamente me tendieron, porque eres mi protector.
 
-2[4294]Yahvé mira desde el cielo
+[6](#c30-v6){:#c30-v6} [[239]](#n-239){:#rn-239} En tus manos encomiendo mi espíritu. ¡Tú me redimirás, oh Yahvé, Dios fiel!
 
-a los hijos de los hombres,
+[7](#c30-v7){:#c30-v7} [[240]](#n-240){:#rn-240} Aborreces a los que dan culto a vanos ídolos, mas yo pongo mi confianza en Yahvé.
 
-para ver si hay quien sea inteligente
+[8](#c30-v8){:#c30-v8} Rebosaré de gozo y alegría por tu compasión; pues Tú ves mi miseria, y has socorrido a mi alma en sus angustias;
 
-y busque a Dios.
+[9](#c30-v9){:#c30-v9} [[241]](#n-241){:#rn-241} nunca me entregaste en manos del enemigo, sino que afianzaste mis pies en lugar espacioso.
 
-3[4295]Pero se han extraviado todos juntos
+[10](#c30-v10){:#c30-v10} [[242]](#n-242){:#rn-242} Ten piedad de mí, Yahvé, porque estoy conturbado; mis ojos decaen de tristeza, mi alma y mi cuerpo desfallecen juntamente.
 
-y se han depravado.
+[11](#c30-v11){:#c30-v11} [[243]](#n-243){:#rn-243} Porque mi vida se va acabando entre dolores y mis años entre gemidos. Mi vigor ha flaqueado en la aflicción, y se han debilitado mis huesos.
 
-No hay uno que obre el bien,
+[12](#c30-v12){:#c30-v12} [[244]](#n-244){:#rn-244} He venido a ser objeto de oprobio para todos mis enemigos, de burla para mis vecinos y de horror para mis amigos: los que me encuentran por la calle se apartan de mí;
 
-ni uno siquiera.
+[13](#c30-v13){:#c30-v13} como si hubiera muerto, se ha borrado mi recuerdo de sus corazones; he llegado a ser como una vasija rota.
 
-4[4296]¡Nunca entenderán, todos esos malhechores,
+[14](#c30-v14){:#c30-v14} Oigo el hablar malévolo de muchos, y esparcir el espanto en torno mío. Mientras a una se conjuran contra mí, han pensado en quitarme la vida.
 
-que devoran a mi pueblo
+[15](#c30-v15){:#c30-v15} Pero yo confío en Ti, Yahvé; digo: "Tú eres mi Dios."
 
-como quien come pan,
+[16](#c30-v16){:#c30-v16} [[245]](#n-245){:#rn-245} Mi destino está en tu mano; sácame del poder de mis enemigos y de mis perseguidores.
 
-sin acordarse de Dios para nada!
+[17](#c30-v17){:#c30-v17} Muestra a tu siervo tu rostro sereno; sálvame por tu misericordia.
 
-5[4297]Mas algún día temblarán de espanto,
+[18](#c30-v18){:#c30-v18} [[246]](#n-246){:#rn-246} Oh Yahvé, no tenga yo que avergonzarme por haberte invocado; avergonzados queden los impíos y reducidos al silencio del abismo.
 
-porque Dios está
+[19](#c30-v19){:#c30-v19} Enmudezcan esos labios mentirosos que, con soberbia y menosprecio, hablan inicuamente contra el justo.
 
-con la generación de los justos.
+[20](#c30-v20){:#c30-v20} [[247]](#n-247){:#rn-247} ¡Oh cuán grande, Señor, es la bondad que reservas para los que te temen, y concedes a quienquiera recurre a Ti delante de los hombres!
 
-6Vosotros que despreciáis
+[21](#c30-v21){:#c30-v21} [[248]](#n-248){:#rn-248} Tú proteges a cada uno con tu propio rostro, frente a la conspiración de los hombres; en tu tienda los escondes del azote de las lenguas.
 
-las ansias del desvalido,
+[22](#c30-v22){:#c30-v22} [[249]](#n-249){:#rn-249} Bendito sea Yahvé, porque en ciudad fuerte ha mostrado su admirable misericordia para conmigo.
 
-sabed que Dios es su refugio.
+[23](#c30-v23){:#c30-v23} [[250]](#n-250){:#rn-250} Verdad que yo, en mi perturbación, llegué a decir: "Separado estoy de tu vista"; mas Tú oíste la voz de mi súplica cuando grité hacia Ti.
 
-7[4298]¡Oh, venga ya de Sión
+[24](#c30-v24){:#c30-v24} Amad a Yahvé, todos sus santos, pues Yahvé protege a los fieles, mientras retribuye plenamente a los que obran con soberbia.
 
-la salud de Israel!
+[25](#c30-v25){:#c30-v25} [[251]](#n-251){:#rn-251} ¡Animaos y confortad vuestro corazón, todos los que esperáis en Yahvé! 
 
-Cuando cambie el Señor
+### Salmo [31 (32)](#c31) {#c31}
 
-la suerte de su pueblo,
+### Confesión 
 
-saltarán de gozo Jacob,
+[1](#c31-v1){:#c31-v1} [[252]](#n-252){:#rn-252} Maskil de David. Dichoso aquel a quien es perdonada su iniquidad, cuyo pecado es olvidado.
 
-e Israel de alegría.
+[2](#c31-v2){:#c31-v2} [[253]](#n-253){:#rn-253} Dichoso el hombre a quien Yahvé no imputa culpa y en cuyo espíritu no hay doblez.
 
-SALMO 14 (15)
-El verdadero hombre de Dios
+[3](#c31-v3){:#c31-v3} [[254]](#n-254){:#rn-254} Mientras callé se consumieron mis huesos, en medio de mis continuos gemidos.
 
-Salmo de David.
+[4](#c31-v4){:#c31-v4} Porque de día y de noche pesaba sobre mí tu mano, me revolcaba en mi miseria mientras tenía clavada la espina.
 
-1[4299]Yahvé, ¿quién podrá morar en tu Tabernáculo?
+[5](#c31-v5){:#c31-v5} [[255]](#n-255){:#rn-255} Entonces te manifesté mi delito, y no te oculté mi culpa; dije: "confesaré mi iniquidad a Yahvé" y Tú remitiste la culpa de mi pecado.
 
-¿Quién habitará en tu santo monte?
+[6](#c31-v6){:#c31-v6} [[256]](#n-256){:#rn-256} Que te invoquen todos los fieles, en el tiempo en que puedes ser hallado; aunque irrumpiera un diluvio de agua, no les alcanzará.
 
-2[4300]El que procede sin tacha
+[7](#c31-v7){:#c31-v7} Tú para mí eres un refugio que me libra de la angustia, Tú me envuelves en el gozo de mi salud.
 
-y obra justicia
+[8](#c31-v8){:#c31-v8} [[257]](#n-257){:#rn-257} "Yo te aleccionaré y te mostraré el camino que has de seguir; de ti cuidaré y fijaré sobre ti mis ojos.
 
-y piensa verdad en su corazón,
+[9](#c31-v9){:#c31-v9} [[258]](#n-258){:#rn-258} No quieras ser como el caballo o el mulo, sin entendimiento, que han de ser domados con freno y riendas para que te obedezcan."
 
-3cuya lengua no calumnia,
+[10](#c31-v10){:#c31-v10} Muchos dolores aguardan al pecador, mas al que confía en Yahvé lo defenderá la misericordia.
 
-que no hace mal a su semejante,
+[11](#c31-v11){:#c31-v11} [[259]](#n-259){:#rn-259} Alegraos en Yahvé y regocijaos, oh justos; saltad de júbilo todos los rectos de corazón. 
 
-ni infiere injuria a su prójimo;
+### Salmo [32 (33)](#c32) {#c32}
 
-4[4301]que tiene por despreciable al réprobo,
+### Himno a la providencia de Dios 
 
-y honra en cambio
+[1](#c32-v1){:#c32-v1} [[260]](#n-260){:#rn-260} Cantad, oh justos, a Yahvé, la alabanza es propia de los rectos.
 
-a los temerosos de Yahvé;
+[2](#c32-v2){:#c32-v2} [[261]](#n-261){:#rn-261} Celebrad al Señor con la cítara; con el arpa de diez cuerdas cantadle himnos.
 
-que no vuelve atrás,
+[3](#c32-v3){:#c32-v3} [[262]](#n-262){:#rn-262} Entonadle un cántico nuevo; tañed bien sonoramente.
 
-aunque haya jurado en perjuicio propio;
+[4](#c32-v4){:#c32-v4} [[263]](#n-263){:#rn-263} Porque la Palabra de Yahvé es recta, y toda su conducta es fiel.
 
-5[4302]que no presta su dinero a usura,
+[5](#c32-v5){:#c32-v5} [[264]](#n-264){:#rn-264} Él ama la misericordia y la justicia, la tierra está llena de la bondad de Yahvé.
 
-ni recibe sobornos contra el inocente.
+[6](#c32-v6){:#c32-v6} [[265]](#n-265){:#rn-265} Por la Palabra de Yahvé fueron hechos los cielos, y todo su ornato por el soplo de su boca.
 
-6El que así vive
+[7](#c32-v7){:#c32-v7} [[266]](#n-266){:#rn-266} Él junta como en un odre las aguas del mar, encierra en depósitos los abismos.
 
-no será conmovido jamás.
+[8](#c32-v8){:#c32-v8} Tema a Yahvé toda la tierra; reveréncienle todos los pobladores del orbe.
 
-SALMO 15 (16)
-El sumo bien
+[9](#c32-v9){:#c32-v9} [[267]](#n-267){:#rn-267} Porque Él habló y quedaron hechos; mandó, y tuvieron ser.
 
-Miktam de David.
+[10](#c32-v10){:#c32-v10} [[268]](#n-268){:#rn-268} Yahvé desbarata los planes de las naciones, deshace los designios de los pueblos.
 
-1[4303]Presérvame, oh Dios, pues me refugio en Ti;
+[11](#c32-v11){:#c32-v11} [[269]](#n-269){:#rn-269} Mas los planes del Señor permanecen eternamente; los designios de su corazón, de generación en generación.
 
-2[4304]dije a Yahvé: “Tú eres mi Señor,
+[12](#c32-v12){:#c32-v12} ¡Dichoso el pueblo que tiene por Dios a Yahvé, dichoso el pueblo que Él escogió para herencia suya!
 
-no hay bien para mí fuera de Ti”.
+[13](#c32-v13){:#c32-v13} Yahvé mira desde lo alto de los cielos, ve a todos los hijos de los hombres.
 
-3[4305]En cuanto a los santos
+[14](#c32-v14){:#c32-v14} Desde el lugar de su morada fija sus ojos, sobre todos los que habitan la tierra.
 
-e ilustres de la tierra,
+[15](#c32-v15){:#c32-v15} [[270]](#n-270){:#rn-270} Él, que formó el corazón de cada uno, presta atención a todas sus acciones.
 
-no pongo en ellos mi afecto.
+[16](#c32-v16){:#c32-v16} No vence el rey por un gran ejército; el guerrero no se salva por su mucha fuerza.
 
-4Multiplican sus dolores
+[17](#c32-v17){:#c32-v17} [[271]](#n-271){:#rn-271} Engañoso es el caballo para la victoria, todo su vigor no salvará al jinete.
 
-los que corren tras falsos dioses;
+[18](#c32-v18){:#c32-v18} Mas los ojos de Yahvé velan por los que le temen, por los que esperan de su misericordia,
 
-no libaré la sangre de sus ofrendas,
+[19](#c32-v19){:#c32-v19} que ha de librar sus almas de la muerte, y alimentarlos en el tiempo de hambre.
 
-ni pronunciaré sus nombres con mis labios.
+[20](#c32-v20){:#c32-v20} Nuestra alma cuenta con Yahvé; Él es nuestra ayuda y nuestro escudo.
 
-5[4306]Yahvé es la porción de mi herencia
+[21](#c32-v21){:#c32-v21} En Él se regocija nuestro corazón, y en su santo Nombre confiamos.
 
-y de mi cáliz;
+[22](#c32-v22){:#c32-v22} [[272]](#n-272){:#rn-272} Sea, Yahvé, sobre nosotros tu misericordia, según lo esperamos de Ti. 
 
-Tú tienes en tus manos mi suerte.
+### Salmo [33 (34)](#c33) {#c33}
 
-6Las cuerdas (de medir)
+### Felicidad del justo 
 
-cayeron para mí en buen lugar,
+[1](#c33-v1){:#c33-v1} [[273]](#n-273){:#rn-273} De David. Cuando fingió ante el rey Abimelec haber perdido el juicio, y este le desterró y él pudo salvarse.
 
-y me tocó una herencia que me encanta.
+[2](#c33-v2){:#c33-v2} Quiero bendecir a Yahvé en todo tiempo, tener siempre en mi boca su alabanza.
 
-7[4307]Bendeciré a Yahvé,
+[3](#c33-v3){:#c33-v3} [[274]](#n-274){:#rn-274} En Yahvé se gloría mi alma; oigan los afligidos y alégrense.
 
-porque me (lo) hizo entender,
+[4](#c33-v4){:#c33-v4} Enalteced conmigo a Yahvé, y juntos ensalcemos su Nombre.
 
-y aun durante la noche
+[5](#c33-v5){:#c33-v5} Busqué a Yahvé y Él me escuchó, y me libró de todos mis temores.
 
-me (lo) enseña mi corazón.
+[6](#c33-v6){:#c33-v6} [[275]](#n-275){:#rn-275} Miradlo a Él para que estéis radiantes de gozo, y vuestros rostros no estén cubiertos de vergüenza.
 
-8[4308]Tengo siempre a Yahvé ante mis ojos,
+[7](#c33-v7){:#c33-v7} He aquí un miserable que clamó, y Yahvé lo oyó, lo salvó de todas sus angustias.
 
-porque con Él a mi diestra no seré conmovido.
+[8](#c33-v8){:#c33-v8} El ángel de Yahvé monta guardia en torno a los temerosos de Dios y los salva.
 
-9[4309]Por eso se alegra mi corazón
+[9](#c33-v9){:#c33-v9} [[276]](#n-276){:#rn-276} Gustad y ved cuan bueno es Yahvé; dichoso el hombre que se refugia en Él.
 
-y se regocija mi alma,
+[10](#c33-v10){:#c33-v10} [[277]](#n-277){:#rn-277} Temed a Yahvé, vosotros, santos suyos; los que le temen no carecen de nada.
 
-y aun mi carne descansará segura;
+[11](#c33-v11){:#c33-v11} [[278]](#n-278){:#rn-278} Empobrecen los ricos y sufren hambre; pero a los que buscan a Yahvé no les faltará ningún bien.
 
-10[4310]pues Tú no dejarás a mi alma en el sepulcro,
+[12](#c33-v12){:#c33-v12} [[279]](#n-279){:#rn-279} Venid, hijos, escuchadme, y os enseñaré el temor de Yahvé.
 
-ni permitirás que tu santo
+[13](#c33-v13){:#c33-v13} ¿Ama alguno la vida? ¿Desea largos días para gozar del bien?
 
-experimente corrupción.
+[14](#c33-v14){:#c33-v14} Pues guarda tu lengua del mal, y tus labios de las palabras dolosas.
 
-11[4311]Tú me harás conocer la senda de la vida,
+[15](#c33-v15){:#c33-v15} Apártate del mal, y obra el bien; busca la paz, y ve en pos de ella.
 
-la plenitud del gozo a la vista de tu rostro,
+[16](#c33-v16){:#c33-v16} [[280]](#n-280){:#rn-280} Los ojos de Yahvé miran a los justos; y sus oídos están abiertos a lo que ellos piden.
 
-las eternas delicias de tu diestra.
+[17](#c33-v17){:#c33-v17} [[281]](#n-281){:#rn-281} Yahvé aparta su vista de los que obran el mal, para borrar de la tierra su memoria.
 
-SALMO 16 (17)
-Plegaria del perseguido
+[18](#c33-v18){:#c33-v18} Claman los justos y Yahvé los oye, y los saca de todas sus angustias.
 
-1[4312]Oración de David.
+[19](#c33-v19){:#c33-v19} [[282]](#n-282){:#rn-282} Yahvé está junto a los que tienen el corazón atribulado y salva a los de espíritu compungido.
 
-Escucha, oh Yahvé, una justa demanda;
+[20](#c33-v20){:#c33-v20} [[283]](#n-283){:#rn-283} Muchas son las pruebas del justo, mas de todas lo libra Yahvé.
 
-atiende a mi clamor;
+[21](#c33-v21){:#c33-v21} [[284]](#n-284){:#rn-284} Vela por cada uno de sus huesos; ni uno solo será quebrado.
 
-oye mi plegaria,
+[22](#c33-v22){:#c33-v22} [[285]](#n-285){:#rn-285} La malicia del impío lo lleva a la muerte; y los que odian al justo serán castigados.
 
-que no brota de labios hipócritas.
+[23](#c33-v23){:#c33-v23} [[286]](#n-286){:#rn-286} Yahvé redime las almas de sus siervos, y quienquiera se refugie en Él no pecará. 
 
-2[4313]Que mi sentencia venga de Ti;
+### Salmo [34 (35)](#c34) {#c34}
 
-tus ojos ven lo que es recto.
+### El abogado de los perseguidos 
 
-3Si escrutas mi corazón,
+[1](#c34-v1){:#c34-v1} [[287]](#n-287){:#rn-287} De David. Disputa mi causa, oh Yahvé, contra mis contendores; combate Tú a los que me combaten.
 
-si me visitas en la noche,
+[2](#c34-v2){:#c34-v2} [[288]](#n-288){:#rn-288} Echa mano al escudo y al broquel, y levántate en mi socorro.
 
-si me pruebas por el fuego,
+[3](#c34-v3){:#c34-v3} [[289]](#n-289){:#rn-289} Empuña la lanza, y cierra contra mis perseguidores. Dile a mi alma: "Tu salvación soy Yo."
 
-no encontrarás malicia en mí.
+[4](#c34-v4){:#c34-v4} [[290]](#n-290){:#rn-290} Queden confusos y avergonzados los que buscan mi vida. Vuelvan atrás, cubiertos de oprobio los que maquinan mi perdición.
 
-4[4314]Que jamás mi boca se exceda
+[5](#c34-v5){:#c34-v5} Sean como la paja ante el viento, acosados por el Ángel de Yahvé.
 
-a la manera de los hombres.
+[6](#c34-v6){:#c34-v6} Sea su camino obscuro y resbaloso, cuando el Ángel de Yahvé los persiga.
 
-Ateniéndome a las palabras de tus labios,
+[7](#c34-v7){:#c34-v7} [[291]](#n-291){:#rn-291} Porque sin causa me tendieron su red; y sin causa cavaron una fosa para mi vida.
 
-he guardado los caminos de la Ley.
+[8](#c34-v8){:#c34-v8} Venga sobre ellos la muerte inesperada, y préndalos la red que para mí escondieron; caigan en la fosa que ellos mismos cavaron.
 
-5[4315]Firmemente se adhirieron
+[9](#c34-v9){:#c34-v9} [[292]](#n-292){:#rn-292} Y mi alma se regocijará en Yahvé, y se alegrará de su auxilio.
 
-mis pasos a tus senderos,
+[10](#c34-v10){:#c34-v10} [[293]](#n-293){:#rn-293} Todos mis huesos dirán: ¿Quién como Tú, Yahvé, que libras del prepotente al desvalido, y al pobre y afligido de la mano del que lo despoja?
 
-y mis pies no han titubeado.
+[11](#c34-v11){:#c34-v11} [[294]](#n-294){:#rn-294} Se levantaron testigos de iniquidad; me pedían cuentas de cosas que yo ni conocía.
 
-6Te invoco, oh Dios,
+[12](#c34-v12){:#c34-v12} Por el bien me devolvían mal, para desolación de mi alma.
 
-porque sé que Tú responderás;
+[13](#c34-v13){:#c34-v13} [[295]](#n-295){:#rn-295} En tanto que yo, cuando ellos enfermaban, vestía de cilicio, me maceraba con el ayuno, y mis plegarias me golpeaban el seno.
 
-inclina a mi tu oído,
+[14](#c34-v14){:#c34-v14} Me portaba como con un amigo, como con un hermano; me encorvaba triste, como quien llora a una madre.
 
-y oye mis palabras.
+[15](#c34-v15){:#c34-v15} [[296]](#n-296){:#rn-296} Ellos, en cambio, se alegraron en mi adversidad, y se juntaron; coligados contra mí me hirieron de improviso, me laceraron sin tregua.
 
-7Ostenta tu maravillosa misericordia,
+[16](#c34-v16){:#c34-v16} [[297]](#n-297){:#rn-297} Entre impíos burladores de torta redonda, rechinaron contra mí sus dientes.
 
-oh Salvador
+[17](#c34-v17){:#c34-v17} [[298]](#n-298){:#rn-298} ¿Hasta cuándo. Señor, lo estarás viendo? libra de sus maldades mi vida, de los leones a mi único bien.
 
-de los que se refugian en tu diestra,
+[18](#c34-v18){:#c34-v18} Te daré gracias en la gran asamblea, te alabare ante un pueblo numeroso.
 
-contra tus enemigos.
+[19](#c34-v19){:#c34-v19} [[299]](#n-299){:#rn-299} No se alegren a costa mía mis injustos enemigos; no se hagan guiños de ojo los que sin causa me odian,
 
-8[4316]Cuídame como a la niña de tus ojos,
+[20](#c34-v20){:#c34-v20} porque ni siquiera hablan de paz, y planean traidoramente fraudes contra los pacíficos de la tierra.
 
-escóndeme bajo la sombra de tus alas
+[21](#c34-v21){:#c34-v21} [[300]](#n-300){:#rn-300} Ensanchan contra mí sus bocas y dicen: "aja, aja; lo hemos visto con nuestros propios ojos".
 
-9de la vista de los impíos
+[22](#c34-v22){:#c34-v22} Tú, Yahvé, sí que lo has visto; no calles, Señor, no quieras estar lejos de mí.
 
-que me hacen violencia,
+[23](#c34-v23){:#c34-v23} Despierta y vela por mi defensa, por mi causa, Dios mío y Señor mío.
 
-de los enemigos furiosos que me rodean.
+[24](#c34-v24){:#c34-v24} [[301]](#n-301){:#rn-301} Júzgame Tú según tu justicia, Yahvé, Dios mío, que no se alegren a mi costa;
 
-10[4317]Han cerrado con grasa su corazón;
+[25](#c34-v25){:#c34-v25} que no piensen en su corazón: "Hemos salido con nuestro deseo"; no digan: "Lo hemos devorado."
 
-por su boca habla la arrogancia.
+[26](#c34-v26){:#c34-v26} Confundidos sean y abochornados a una los que se gozan en mi mal. Sean cubiertos de vergüenza e ignominia los que se ensoberbecen contra mí.
 
-11[4318]Ahora me rodean espiando,
+[27](#c34-v27){:#c34-v27} Alégrense y gócense los que comparten mi causa, y digan siempre: "Grande es Yahvé que se deleita en la paz de su siervo."
 
-con la mira de echarme por tierra,
+[28](#c34-v28){:#c34-v28} [[302]](#n-302){:#rn-302} Y mi lengua proclamará tu justicia; y tu alabanza perpetuamente. 
 
-12cual león ávido de presa,
+### Salmo [35 (36)](#c35) {#c35}
 
-como cachorro que asecha en su guarida.
+### La malicia humana y la bondad divina 
 
-13[4319]Levántate, Yahvé, hazle frente y derríbalo,
+[1](#c35-v1){:#c35-v1} [[303]](#n-303){:#rn-303} Al maestro de coro. De David, siervo de Dios.
 
-líbrame del perverso con tu espada;
+[2](#c35-v2){:#c35-v2} La rebeldía instiga al impío en su corazón; a sus ojos no hay temor de Dios.
 
-14y con tu mano, oh Yahvé,
+[3](#c35-v3){:#c35-v3} Por tanto, se lisonjea en su mente de que su culpa no será hallada ni aborrecida.
 
-líbrame de estos hombres del siglo,
+[4](#c35-v4){:#c35-v4} [[304]](#n-304){:#rn-304} Las palabras de su boca son malicia y fraude, no se cuida de entender para obrar bien.
 
-cuya porción es esta vida,
+[5](#c35-v5){:#c35-v5} En su lecho medita la iniquidad; anda siempre en malos caminos. La maldad no le causa horror.
 
-y cuyo vientre Tú llenas con tus dádivas;
+[6](#c35-v6){:#c35-v6} [[305]](#n-305){:#rn-305} Yahvé, tu misericordia toca el cielo; tu fidelidad, las nubes.
 
-quedan hartos sus hijos,
+[7](#c35-v7){:#c35-v7} Tu justicia es alta como los montes de Dios; profundos como el mar, tus juicios. Tú, Yahvé, socorres al hombre y al animal.
 
-y dejan sobrante a los nietos.
+[8](#c35-v8){:#c35-v8} ¡Cuán preciosa es, oh Dios, tu largueza! los hijos de los hombres se abrigan a la sombra de tus alas.
 
-15[4320]Yo, empero, con la justicia tuya
+[9](#c35-v9){:#c35-v9} Se sacian con la abundancia de tu casa, y los embriagas en el río de tus delicias.
 
-llegaré a ver tu rostro;
+[10](#c35-v10){:#c35-v10} [[306]](#n-306){:#rn-306} Pues en Ti está la fuente de la vida, y en tu luz vemos la luz.
 
-me saciaré al despertarme, con tu gloria.
+[11](#c35-v11){:#c35-v11} [[307]](#n-307){:#rn-307} Despliega tu bondad sobre los que te conocen, y tu justicia sobre los de corazón recto.
 
-SALMO 17 (18)
-Gratitud de David
+[12](#c35-v12){:#c35-v12} No me aplaste el pie del soberbio ni me haga vacilar la mano del impío.
 
-1[4321]Al maestro de coro. Del servidor de Dios, de David, el cual dirigió al Señor las palabras de este cántico en el día en que le libró de las manos de todos sus enemigos y de las de Saúl.
+[13](#c35-v13){:#c35-v13} [[308]](#n-308){:#rn-308} He aquí derribados a los obradores de la iniquidad, caídos para no levantarse más. 
 
-2Y dijo: Te amo, Yahvé, fortaleza mía,
+### Salmo [36 (37)](#c36) {#c36}
 
-mi peña, mi baluarte, mi libertador,
+### Espejo de la Providencia 
 
-3[4322]Dios mío, mi roca, mi refugio,
+[1](#c36-v1){:#c36-v1} [[309]](#n-309){:#rn-309} De David. No te acalores a causa de los malvados, ni envidies a los que cometen la iniquidad.
 
-broquel mío, cuerno de mi salud, asilo mío.
+[2](#c36-v2){:#c36-v2} Porque muy pronto serán cortados, como el heno, y como hierba verde se secarán.
 
-4[4323]Invoco a Yahvé, el digno de alabanza,
+[3](#c36-v3){:#c36-v3} Tú, espera en Yahvé y obra el bien; permanece en la tierra y cultiva la rectitud.
 
-y quedo libre de mis enemigos.
+[4](#c36-v4){:#c36-v4} [[310]](#n-310){:#rn-310} Pon tus delicias en Yahvé, y Él te otorgará lo que tu corazón busca.
 
-5Olas de muerte me rodeaban,
+[5](#c36-v5){:#c36-v5} [[311]](#n-311){:#rn-311} Entrega a Yahvé tu camino; confíate a Él y déjale obrar.
 
-me alarmaban los torrentes de iniquidad;
+[6](#c36-v6){:#c36-v6} Él hará aparecer tu justicia como el día, y tu causa como la luz meridiana.
 
-6las ataduras del sepulcro me envolvieron,
+[7](#c36-v7){:#c36-v7} [[312]](#n-312){:#rn-312} Calla ante Yahvé y espera de Él; no te acalores a causa del que prospera en su camino, del hombre que obra torcidamente.
 
-se tendían a mis pies lazos mortales.
+[8](#c36-v8){:#c36-v8} [[313]](#n-313){:#rn-313} Depón el rencor y aplaca la ira, no te irrites: pues sería peor;
 
-7En mi angustia invoqué a Yahvé,
+[9](#c36-v9){:#c36-v9} porque los que obran mal serán exterminados, mas los que esperan en Yahvé heredarán la tierra.
 
-y clamé a mi Dios;
+[10](#c36-v10){:#c36-v10} Aguarda un poco, y el impío ya no estará; y si buscas su lugar, no lo hallarás.
 
-y Él, desde su palacio, oyó mi voz;
+[11](#c36-v11){:#c36-v11} En tanto que los mansos poseerán la tierra, y se deleitarán en abundancia de paz.
 
-mi lamento llegó a sus oídos.
+[12](#c36-v12){:#c36-v12} [[314]](#n-314){:#rn-314} El impío urde males contra el justo, y a su vista rechina los dientes;
 
-8[4324]Se estremeció la tierra y tembló;
+[13](#c36-v13){:#c36-v13} [[315]](#n-315){:#rn-315} pero Yahvé se ríe de él, porque está viendo llegar su día.
 
-se conmovieron los cimientos de los montes
+[14](#c36-v14){:#c36-v14} Los perversos desenvainan la espada y tienden su arco, para derribar al afligido y al desvalido, y trucidar a los que son rectos.
 
-y vacilaron, porque Él ardía de furor.
+[15](#c36-v15){:#c36-v15} Pero la espada se les clavará en su propio corazón, y sus arcos se romperán.
 
-9Humo salió de sus narices;
+[16](#c36-v16){:#c36-v16} [[316]](#n-316){:#rn-316} Más vale lo poco del justo que la gran opulencia de los pecadores;
 
-de su boca, fuego devorador;
+[17](#c36-v17){:#c36-v17} porque serán quebrados los brazos de los impíos, en tanto que a los justos los sostiene Yahvé.
 
-y despedía carbones encendidos.
+[18](#c36-v18){:#c36-v18} Lleva cuenta Yahvé de los días de los justos, y su herencia será eterna.
 
-10Inclinó los cielos, y descendió
+[19](#c36-v19){:#c36-v19} No se verán confundidos en tiempo de calamidad, y en los días de hambre serán saciados.
 
-con densas nubes bajo sus pies.
+[20](#c36-v20){:#c36-v20} [[317]](#n-317){:#rn-317} Mas los impíos perecerán; y los enemigos de Yahvé, los altivos ensoberbecidos en su corazón, se desvanecerán como el humo.
 
-11[4325]Subió sobre un querube y voló,
+[21](#c36-v21){:#c36-v21} [[318]](#n-318){:#rn-318} El malvado toma en préstamo y no devuelve, mas el justo es compasivo y da;
 
-y era llevado sobre las alas del viento.
+[22](#c36-v22){:#c36-v22} porque los benditos poseerán la tierra, pero los malditos serán exterminados.
 
-12Se ocultaba bajo un velo de tinieblas;
+[23](#c36-v23){:#c36-v23} [[319]](#n-319){:#rn-319} Yahvé dirige los pasos del hombre, al que le agrada Él le afirma el camino.
 
-aguas tenebrosas y oscuras nubes
+[24](#c36-v24){:#c36-v24} Aunque resbalare, no caerá postrado, porque Yahvé lo sostiene con su mano.
 
-lo rodeaban como un pabellón.
+[25](#c36-v25){:#c36-v25} [[320]](#n-320){:#rn-320} Joven fui y ahora soy viejo, mas nunca he visto al justo desamparado, ni a sus hijos mendigando el pan.
 
-13Se encendieron carbones de fuego
+[26](#c36-v26){:#c36-v26} En todo tiempo es misericordioso y presta, y su estirpe es bendecida.
 
-al resplandor de su rostro.
+[27](#c36-v27){:#c36-v27} [[321]](#n-321){:#rn-321} Huye tu del mal y haz el bien, y habitarás por siempre.
 
-14[4326]Tronó Yahvé desde el cielo,
+[28](#c36-v28){:#c36-v28} Pues Yahvé ama la justicia, y no abandona a sus santos; los impíos serán exterminados, y su descendencia perecerá.
 
-el Altísimo hizo resonar su voz;
+[29](#c36-v29){:#c36-v29} [[322]](#n-322){:#rn-322} Los justos poseerán la tierra, y habitarán en ella para siempre.
 
-15[4327]y lanzó sus saetas y los dispersó;
+[30](#c36-v30){:#c36-v30} [[323]](#n-323){:#rn-323} La boca del justo profiere sabiduría, y su lengua habla con rectitud.
 
-multiplicó sus rayos,
+[31](#c36-v31){:#c36-v31} La Ley de su Dios está en su corazón, y sus pasos no vacilan.
 
-y los puso en derrota.
+[32](#c36-v32){:#c36-v32} [[324]](#n-324){:#rn-324} El impío anda en acecho del justo, y busca cómo quitarle la vida;
 
-16Y aparecieron a la vista
+[33](#c36-v33){:#c36-v33} pero Yahvé no lo deja en sus manos, ni permite que le condenen cuando es juzgado.
 
-los lechos de los océanos;
+[34](#c36-v34){:#c36-v34} [[325]](#n-325){:#rn-325} Cuenta con Yahvé y sigue su camino; Él te conducirá a la herencia de la tierra; asistirás gozoso al exterminio de los perversos.
 
-se mostraron desnudos
+[35](#c36-v35){:#c36-v35} Vi al impío sumamente empinado y expandiéndose, como un cedro del Líbano;
 
-los cimientos del orbe terráqueo,
+[36](#c36-v36){:#c36-v36} pasé de nuevo, y ya no estaba; lo busqué, y no fue encontrado.
 
-ante la amenaza de Yahvé,
+[37](#c36-v37){:#c36-v37} [[326]](#n-326){:#rn-326} Observa al hombre íntegro y mira al que es recto, porque el hombre pacífico tendrá porvenir,
 
-al resollar el soplo de su ira.
+[38](#c36-v38){:#c36-v38} en tanto que los rebeldes todos perecerán, y la posteridad de los impíos será extirpada.
 
-17[4328]Desde lo alto extendió su brazo
+[39](#c36-v39){:#c36-v39} De Yahvé viene la salvación de los justos; Él es su fortaleza en los días aciagos.
 
-y me arrebató,
+[40](#c36-v40){:#c36-v40} [[327]](#n-327){:#rn-327} Yahvé les da ayuda y libertad; los saca de las manos de los impíos y los salva, porque a Él se acogieron. 
 
-sacándome de entre las muchas aguas;
+### Salmo [37 (38)](#c37) {#c37}
 
-18me libró de mi feroz enemigo,
+### Invocación del justo atribulado (Cristo en la Pasión) 
 
-de adversarios más poderosos que yo.
+[1](#c37-v1){:#c37-v1} [[328]](#n-328){:#rn-328} Salmo de David. Para recuerdo.
 
-19Se echaron sobre mí
+[2](#c37-v2){:#c37-v2} Yahvé, no me arguyas en tu ira, ni me castigues en tu furor.
 
-en el día de mi infortunio;
+[3](#c37-v3){:#c37-v3} [[329]](#n-329){:#rn-329} Mira que tengo clavadas tus flechas, y tu mano ha caído sobre mí.
 
-pero salió Yahvé en mi defensa,
+[4](#c37-v4){:#c37-v4} [[330]](#n-330){:#rn-330} A causa de tu indignación no hay en mi carne parte sana, ni un hueso tengo intacto, por culpa de mi pecado.
 
-20[4329]y me trajo a la anchura;
+[5](#c37-v5){:#c37-v5} Es que mis iniquidades pasan sobre mi cabeza, me aplasta el peso de su carga.
 
-me salvó porque me ama.
+[6](#c37-v6){:#c37-v6} [[331]](#n-331){:#rn-331} Mis llagas hieden y supuran, por culpa de mi insensatez.
 
-21[4330]Yahvé me ha retribuido
+[7](#c37-v7){:#c37-v7} Inclinado, encorvado hasta el extremo, en mi tristeza ando todo el día sin rumbo;
 
-conforme a mi rectitud;
+[8](#c37-v8){:#c37-v8} mis entrañas se abrasan de dolor, no queda nada sano en mi cuerpo.
 
-me remunera según la limpieza
+[9](#c37-v9){:#c37-v9} Languidezco abrumado; los gemidos de mi corazón me hacen rugir.
 
-de mis manos.
+[10](#c37-v10){:#c37-v10} Señor, a tu vista están todos mis suspiros, y mis gemidos no se te ocultan.
 
-22[4331]Porque seguí los caminos de Yahvé,
+[11](#c37-v11){:#c37-v11} Palpita fuertemente mi corazón; las fuerzas me abandonan, y aún me falta la luz de mis ojos.
 
-y no me rebelé contra mi Dios;
+[12](#c37-v12){:#c37-v12} [[332]](#n-332){:#rn-332} Mis amigos y compañeros se han apartado de mis llagas, y mis allegados se mantienen, a distancia.
 
-23porque mantuve ante mis ojos
+[13](#c37-v13){:#c37-v13} [[333]](#n-333){:#rn-333} Me tienden lazos los que atentan contra mi vida; los que buscan mi perdición hablan de amenazas y forman todo el día designios aviesos.
 
-todos sus mandamientos
+[14](#c37-v14){:#c37-v14} [[334]](#n-334){:#rn-334} Yo entretanto, como sordo, no escucho; y soy como mudo que no abre sus labios.
 
-y nunca aparté de mí sus estatutos.
+[15](#c37-v15){:#c37-v15} Me he hecho semejante a un hombre que no oye y que no tiene respuesta en su boca;
 
-24Fuí íntegro para con Él,
+[16](#c37-v16){:#c37-v16} [[335]](#n-335){:#rn-335} porque confío en Ti, oh Yahvé, Tú responderás, Señor Dios mío.
 
-y me cuidé de mi maldad.
+[17](#c37-v17){:#c37-v17} [[336]](#n-336){:#rn-336} Yo he dicho en efecto: "No se alegren a costa mía, y no se ensoberbezcan contra mí al vacilar mi pie."
 
-25Yahvé me ha retribuido
+[18](#c37-v18){:#c37-v18} [[337]](#n-337){:#rn-337} Pues me encuentro a punto de caer, y tengo siempre delante mi flaqueza,
 
-conforme a mi rectitud;
+[19](#c37-v19){:#c37-v19} [[338]](#n-338){:#rn-338} dado que confieso mi culpa y estoy lleno de turbación por mi delito;
 
-según la limpieza de mis manos
+[20](#c37-v20){:#c37-v20} en tanto que son poderosos los que injustamente me hacen guerra, y muchos los que me odian sin causa.
 
-ante sus ojos.
+[21](#c37-v21){:#c37-v21} Y los que devuelven mal por bien me hostilizan, porque me empeño en lo bueno.
 
-26[4332]Tú eres misericordioso con el misericordioso;
+[22](#c37-v22){:#c37-v22} No me abandones, oh Yahvé; Dios mío, no quieras estar lejos de mí.
 
-con el varón recto, eres recto.
+[23](#c37-v23){:#c37-v23} Apresúrate a socorrerme, Yahvé, salvación mía. 
 
-27Con el sincero, eres sincero;
+### Salmo [38 (39)](#c38) {#c38}
 
-y con el doble, te haces astuto.
+### Oración en tiempo de aflicción 
 
-28[4333]Tú salvas al pueblo oprimido,
+[1](#c38-v1){:#c38-v1} [[339]](#n-339){:#rn-339} Al maestro de coro, a Iditún. Salmo de David.
 
-y humillas los ojos altaneros.
+[2](#c38-v2){:#c38-v2} [[340]](#n-340){:#rn-340} Yo me dije: "Atenderé a mis caminos, para no pecar con mi lengua; pondré un freno a mi boca mientras el impío esté frente a mí."
 
-29[4334]Eres Tú quien mantiene
+[3](#c38-v3){:#c38-v3} [[341]](#n-341){:#rn-341} Y quedé silencioso, mudo; callé aun el bien; pero mi dolor se exasperaba.
 
-encendida mi lámpara, oh Yahvé;
+[4](#c38-v4){:#c38-v4} [[342]](#n-342){:#rn-342} El corazón ardía en mi pecho; cuando reflexionaba, el fuego se encendía; entonces solté mi lengua diciendo:
 
-Tú, Dios mío, disipas mis tinieblas.
+[5](#c38-v5){:#c38-v5} [[343]](#n-343){:#rn-343} "Hazme saber, Yahvé, cuál es mi fin, y cuál el número de mis días, para que entienda cuan caduco soy.
 
-30Fiado en Ti embestiré a un ejército;
+[6](#c38-v6){:#c38-v6} Tú diste a mis días un largo de pocos palmos, y mi vida es como nada ante Ti. Un mero soplo es todo hombre.
 
-con mi Dios saltaré murallas.
+[7](#c38-v7){:#c38-v7} [[344]](#n-344){:#rn-344} Como una sombra, pasa el mortal, y vanamente se inquieta; atesora, y no sabe quién recogerá."
 
-31[4335]¡El Dios mío!... Su conducta es perfecta,
+[8](#c38-v8){:#c38-v8} Así pues ¿qué espero yo ahora, Señor? Toda mi esperanza está en Ti.
 
-Su palabra acrisolada.
+[9](#c38-v9){:#c38-v9} Sálvame Tú de todas mis iniquidades; no me entregues al escarnio del necio.
 
-Él mismo es el escudo
+[10](#c38-v10){:#c38-v10} [[345]](#n-345){:#rn-345} Enmudezco y no abro más mi boca; porque todo lo haces Tú.
 
-de cuantos lo buscan como refugio.
+[11](#c38-v11){:#c38-v11} Solo aparta de mí tu azote, pues ante el poder de tu mano desfallezco.
 
-32[4336]Pues ¿quién es Dios fuera de Yahvé?
+[12](#c38-v12){:#c38-v12} [[346]](#n-346){:#rn-346} Tú castigas al hombre por su culpa; destruyes, como la polilla, lo que él más aprecia. En verdad, todo hombre no es más que un soplo.
 
-o ¿qué roca hay si no es el Dios nuestro?
+[13](#c38-v13){:#c38-v13} [[347]](#n-347){:#rn-347} Escucha, Yahvé, mi ruego, presta oído a mis clamores, no te hagas sordo a mis lágrimas; porque frente a Ti yo soy un peregrino, un transeúnte, como fueron todos mis padres.
 
-33Aquel Dios que me ciñó de fortaleza
+[14](#c38-v14){:#c38-v14} Deja de castigarme para que respire, antes que parta y ya no esté. 
 
-e hizo inmaculado mi camino.
+### Salmo [39 (40)](#c39) {#c39}
 
-34[4337]El que volvió mis pies veloces
+### Oblación de Cristo al Padre 
 
-como los del ciervo,
+[1](#c39-v1){:#c39-v1} [[348]](#n-348){:#rn-348} Al maestro de coro. Salmo de David.
 
-y me afirmó sobre las cumbres.
+[2](#c39-v2){:#c39-v2} Esperé en Yahvé, con esperanza sin reserva, y Él se inclinó hacia mí y escuchó mi clamor.
 
-35El que adiestró mis manos para la pelea,
+[3](#c39-v3){:#c39-v3} [[349]](#n-349){:#rn-349} Me sacó de una fosa mortal, del fango cenagoso; asentó mis pies sobre roca y dio firmeza a mis pasos.
 
-y mi brazo para tender el arco de bronce.
+[4](#c39-v4){:#c39-v4} Puso en mi boca un cántico nuevo, un himno a nuestro Dios. Muchos verán esto, y temerán y esperarán en Yahvé.
 
-36Tú me diste por broquel tu auxilio,
+[5](#c39-v5){:#c39-v5} [[350]](#n-350){:#rn-350} Dichoso el hombre que ha puesto su esperanza en Yahvé, sin volverse hacia los arrogantes y los apóstatas impostores.
 
-me sostuvo tu diestra;
+[6](#c39-v6){:#c39-v6} [[351]](#n-351){:#rn-351} Oh Yahvé, Dios mío, Tú has multiplicado tus hazañas maravillosas, y nadie puede compararse a Ti, por tus planes en favor nuestro. Yo quisiera anunciarlos y proclamarlos, pero su número excede a todo cálculo.
 
-tu solicitud me ha engrandecido.
+[7](#c39-v7){:#c39-v7} [[352]](#n-352){:#rn-352} Tú no te has complacido en sacrificio ni ofrenda, sino que me has dado oídos; holocausto y expiación por el pecado no pides.
 
-37[4338]Ensanchaste el camino a mis pasos,
+[8](#c39-v8){:#c39-v8} Entonces he dicho: "He aquí que vengo." En el rollo del libro me está prescrito
 
-y mis pies no flaquearon.
+[9](#c39-v9){:#c39-v9} hacer tu voluntad; tal es mi deleite, Dios mío, y tu Ley está en el fondo de mi corazón.
 
-38Perseguía a mis enemigos y los alcanzaba;
+[10](#c39-v10){:#c39-v10} [[353]](#n-353){:#rn-353} He proclamado tu justicia en la grande asamblea; no contuve mis labios; Tú, Yahvé, lo sabes.
 
-y no me volvía hasta desbaratarlos.
+[11](#c39-v11){:#c39-v11} [[354]](#n-354){:#rn-354} No he tenido escondida tu justicia en mi corazón, publiqué tu verdad y la salvación que de Ti viene; no oculté a la muchedumbre tu misericordia y tu fidelidad.
 
-39Los destrozaba y no podían levantarse;
+[12](#c39-v12){:#c39-v12} [[355]](#n-355){:#rn-355} Tú, Yahvé, no contengas para conmigo tus piedades; tu misericordia y tu fidelidad me guarden siempre.
 
-caían bajo mis pies.
+[13](#c39-v13){:#c39-v13} [[356]](#n-356){:#rn-356} Ahora me rodean males sin número, mis culpas se precipitan sobre mí, y no puedo soportar su vista. Son más numerosas, que los cabellos de mi cabeza, y mi corazón desmaya.
 
-40[4339]Tú me revestías de valor para el combate,
+[14](#c39-v14){:#c39-v14} Plegue a Ti, Yahvé, librarme; apresúrate, Señor, a ayudarme.
 
-sujetabas a mi cetro a los que me resistían.
+[15](#c39-v15){:#c39-v15} Confundidos sean y avergonzados todos los que buscan mi vida para perderla; retrocedan y cúbranse de ignominia los que se deleitan en mis males.
 
-41Ponías en fuga a mis enemigos,
+[16](#c39-v16){:#c39-v16} Queden aturdidos de vergüenza esos que me dicen: "aja, aja".
 
-dispersabas a cuantos me aborrecían.
+[17](#c39-v17){:#c39-v17} [[357]](#n-357){:#rn-357} Pero salten de gozo y alégrense en Ti todos los que te buscan; y los que quieren la salvación que de Ti viene digan siempre: "Grande es Yahvé."
 
-42Vociferaban,
+[18](#c39-v18){:#c39-v18} [[358]](#n-358){:#rn-358} En cuanto a mí, soy pobre y miserable; pero el Señor cuida de mí. Mi amparo y mi libertador eres Tú; ¡Dios mío, no tardes! 
 
-mas no había quien los auxiliase;
+### Salmo [40 (41)](#c40) {#c40}
 
-(clamaban) a Yahvé mas Él no los oía.
+### Defensa contra los falsos y traidores 
 
-43Y yo los dispersaba
+[1](#c40-v1){:#c40-v1} [[359]](#n-359){:#rn-359} Al maestro de coro. Salmo de David.
 
-como polvo que el viento dispersa;
+[2](#c40-v2){:#c40-v2} Dichoso el que sabe comprender al débil y al pobre; en el día aciago Yahvé lo pone a salvo.
 
-los pisoteaba como el lodo de las calles.
+[3](#c40-v3){:#c40-v3} [[360]](#n-360){:#rn-360} Yahvé cuida de él y lo hace vivir, lo hace próspero sobre la tierra, y no lo entrega a la voluntad de sus enemigos.
 
-44[4340]Me libraste de las contiendas del pueblo,
+[4](#c40-v4){:#c40-v4} [[361]](#n-361){:#rn-361} Yahvé lo conforta en el lecho del dolor, y calma sus padecimientos durante toda su enfermedad.
 
-me has hecho cabeza de las naciones;
+[5](#c40-v5){:#c40-v5} [[362]](#n-362){:#rn-362} Yo por mi parte digo: "Apiádate de mí, Yahvé, sana mi alma porque pequé contra Ti."
 
-un pueblo que no conocía me sirve;
+[6](#c40-v6){:#c40-v6} Mis enemigos hablan de mí con maldad (diciendo): "¿Cuándo morirá y perecerá su nombre?"
 
-45[4341]con atento oído me obedecen;
+[7](#c40-v7){:#c40-v7} [[363]](#n-363){:#rn-363} Y el que viene a visitarme habla con falsía; en su interior hace provisión de maledicencia, y entonces sale afuera y la desparrama.
 
-los extraños me adulan.
+[8](#c40-v8){:#c40-v8} Todos los que me odian se juntan para murmurar contra mí; imaginan de mí lo peor:
 
-46Los extranjeros palidecen,
+[9](#c40-v9){:#c40-v9} "Le ha sobrevenido una peste maligna; se acostó y no volverá a levantarse."
 
-y abandonan, temblando, sus fortalezas.
+[10](#c40-v10){:#c40-v10} [[364]](#n-364){:#rn-364} Hasta mi amigo, de quien me fiaba, que comía mi pan, ha alzado contra mí su calcañar.
 
-47¡Vive Yahvé! ¡Bendita sea mi Roca!
+[11](#c40-v11){:#c40-v11} [[365]](#n-365){:#rn-365} Mas Tú, Yahvé, apiádate de mí; levántame para que les retribuya.
 
-¡Sea ensalzado el Dios mi Salvador!
+[12](#c40-v12){:#c40-v12} En esto conoceré que me amas, si el que me odia no se huelga a costa mía,
 
-48Aquel Dios que me otorgó la venganza,
+[13](#c40-v13){:#c40-v13} [[366]](#n-366){:#rn-366} y me sustentas en mi integridad, conservándome en tu presencia para siempre.
 
-que sujetó a mí las naciones;
+[14](#c40-v14){:#c40-v14} [[367]](#n-367){:#rn-367} ¡Bendito sea Yahvé, Dios de Israel, desde la eternidad y por la eternidad! Amén, Amén.
 
-49que me libró de mis enemigos,
+### SEGUNDO LIBRO DE LOS SALMOS 
 
-que me encumbró sobre mis opositores,
+### Salmo [41 (42)](#c41) {#c41}
 
-y me salvó
+### Nostalgia de la casa de Dios 
 
-de las manos del hombre violento.
+[1](#c41-v1){:#c41-v1} [[368]](#n-368){:#rn-368} Al maestro de coro. Maskil. De los hijos de Coré.
 
-50[4342]Por eso te alabaré
+[2](#c41-v2){:#c41-v2} Como el ciervo ansía las corrientes de aguas, así mi alma suspira por Ti, oh Dios,
 
-entre las naciones, oh Yahvé;
+[3](#c41-v3){:#c41-v3} [[369]](#n-369){:#rn-369} porque mi alma tiene sed de Dios, del Dios vivo. ¿Cuándo vendré y estaré en la presencia de Dios?
 
-cantaré himnos a tu Nombre.
+[4](#c41-v4){:#c41-v4} [[370]](#n-370){:#rn-370} Mis lágrimas se han hecho mi pan de día y de noche, mientras se me dice continuamente: "¿Dónde está tu Dios?"
 
-51[4343]Él da grandes victorias a su rey,
+[5](#c41-v5){:#c41-v5} [[371]](#n-371){:#rn-371} Me acuerdo -y el recuerdo me parte el alma- de cómo caminaba yo al frente de la noble cohorte hacia la casa de Dios, entre cantares de júbilo y alabanza, en festivo cortejo.
 
-y usa de misericordia con su ungido,
+[6](#c41-v6){:#c41-v6} ¿Por qué estás afligida, alma mía, y te conturbas dentro de mí? Espera en Dios, pues aún he de alabar al que es mi salvación, mi Dios.
 
-con David y su linaje, por toda la eternidad.
+[7](#c41-v7){:#c41-v7} [[372]](#n-372){:#rn-372} Desfallece en mi interior mi alma, cuando de Ti me acuerdo; desde la lejana tierra del Jordán y del Hermón, desde la colina de Misar.
 
-SALMO 18 (19)
-Dos biblias: la naturaleza y la palabra
+[8](#c41-v8){:#c41-v8} Como, en el estruendo de tus cataratas, un abismo llama a otro abismo, así todas tus ráfagas y tus olas pasan sobre mí.
 
-1[4344]Al maestro de coro. Salmo de David.
+[9](#c41-v9){:#c41-v9} [[373]](#n-373){:#rn-373} De día gimo: "Mande Yahvé su gracia", y de noche entono un cántico, la plegaria al Dios de mi vida.
 
-2[4345]Los cielos atestiguan la gloria de Dios;
+[10](#c41-v10){:#c41-v10} Digo a Dios: "Roca mía, ¿por qué me has olvidado, por qué he de andar afligido, bajo la opresión de mis enemigos?"
 
-y el firmamento predica las obras
+[11](#c41-v11){:#c41-v11} Mis huesos se quebrantan cuando mis adversarios me hacen burla, diciendo uno y otro día: "¿Dónde está tu Dios?"
 
-que Él ha hecho.
+[12](#c41-v12){:#c41-v12} [[374]](#n-374){:#rn-374} ¿Por qué estás afligida, alma mía, y te conturbas dentro de mí? Espera en Dios, pues aún he de alabar al que es mi salvación, mi Dios. 
 
-3Cada día transmite
+### Salmo [42 (43)](#c42) {#c42}
 
-al siguiente este mensaje,
+### Continuación del anterior 
 
-y una noche lo hace conocer a la otra.
+[1](#c42-v1){:#c42-v1} [[375]](#n-375){:#rn-375} Hazme justicia, oh Dios, y aboga en mi causa contra un pueblo impío; líbrame del hombre inicuo y doble.
 
-4[4346]Si bien no es la palabra,
+[2](#c42-v2){:#c42-v2} Pues Tú, oh Dios, eres mi fortaleza; ¿por qué me desechaste? ¿por qué he de andar afligido, bajo la opresión del adversario?
 
-tampoco es un lenguaje
+[3](#c42-v3){:#c42-v3} [[376]](#n-376){:#rn-376} Envíame tu luz y tu verdad; que ellas me guíen y me conduzcan a tu santo monte, a tus tabernáculos.
 
-cuya voz no pueda percibirse.
+[4](#c42-v4){:#c42-v4} [[377]](#n-377){:#rn-377} Así llegaré al altar de Dios, al Dios que es la alegría de mi gozo; y te alabaré al son de la cítara oh Dios, Dios mío.
 
-5Por toda la tierra se oye su sonido,
+[5](#c42-v5){:#c42-v5} ¿Por qué estás afligida, alma mía, y te conturbas dentro de mí? Espera en Dios, pues aún he de alabar al que es mi salvación, mi Dios. 
 
-y sus acentos hasta los confines del orbe.
+### Salmo [43 (44)](#c43) {#c43}
 
-Allí le puso tienda al sol,
+### Apremiante súplica de Israel 
 
-6que sale como un esposo de su tálamo,
+[1](#c43-v1){:#c43-v1} [[378]](#n-378){:#rn-378} Al maestro de coro. De los hijos de Coré. Maskil.
 
-y se lanza alegremente cual gigante
+[2](#c43-v2){:#c43-v2} [[379]](#n-379){:#rn-379} Oímos, oh Dios, con nuestros oídos, nos contaron nuestros padres, los prodigios que hiciste en sus días, en los días antiguos.
 
-a recorrer su carrera.
+[3](#c43-v3){:#c43-v3} [[380]](#n-380){:#rn-380} Tú, con tu mano, expulsando pueblos gentiles, los plantaste a ellos; destruyendo naciones, a ellos los propagaste.
 
-7[4347]Parte desde un extremo del cielo,
+[4](#c43-v4){:#c43-v4} [[381]](#n-381){:#rn-381} Pues no por su espada ocuparon la tierra, ni su brazo les dio la victoria; fue tu diestra y tu brazo, y la luz de tu rostro; porque Tú los amabas.
 
-y su giro va hasta el otro extremo;
+[5](#c43-v5){:#c43-v5} Tú eres mi Rey, mi Dios, Tú, el que dio la victoria a Jacob.
 
-nada puede sustraerse a su calor.
+[6](#c43-v6){:#c43-v6} Por Ti batimos a nuestros enemigos; y en nombre tuyo hollamos a los que se levantaron contra nosotros.
 
-8[4348]La Ley de Yahvé es perfecta,
+[7](#c43-v7){:#c43-v7} Porque no en mi arco puse mi confianza, ni me salvó mi espada,
 
-restaura el alma.
+[8](#c43-v8){:#c43-v8} sino que Tú nos has salvado de nuestros adversarios, y has confundido a los que nos odian.
 
-El testimonio de Yahvé es fiel,
+[9](#c43-v9){:#c43-v9} En Dios nos gloriábamos cada día, y continuamente celebrábamos tu Nombre.
 
-hace sabio al hombre sencillo.
+[10](#c43-v10){:#c43-v10} [[382]](#n-382){:#rn-382} Pero ahora Tú nos has repelido y humillado; ya no sales, oh Dios, con nuestros ejércitos.
 
-9Los preceptos de Yahvé son rectos,
+[11](#c43-v11){:#c43-v11} Nos hiciste ceder ante nuestros enemigos, y los que nos odian nos han saqueado como han querido.
 
-alegran el corazón.
+[12](#c43-v12){:#c43-v12} Nos entregaste como ovejas destinadas al matadero, y nos desparramaste entre los gentiles.
 
-La enseñanza de Yahvé es clara,
+[13](#c43-v13){:#c43-v13} [[383]](#n-383){:#rn-383} Vendiste a tu pueblo sin precio, y no sacaste gran provecho de esa venta.
 
-ilumina los ojos.
+[14](#c43-v14){:#c43-v14} [[384]](#n-384){:#rn-384} Nos hiciste el escarnio de nuestros vecinos, la irrisión y el ludibrio de los que nos rodean.
 
-10[4349]El temor de Yahvé es santo,
+[15](#c43-v15){:#c43-v15} Nos convertiste en fábula de los gentiles, y recibimos de los pueblos meneos de cabeza.
 
-permanece para siempre.
+[16](#c43-v16){:#c43-v16} Todo el día tengo ante los ojos mi ignominia, y la confusión cubre mi rostro,
 
-Los juicios de Yahvé son la verdad,
+[17](#c43-v17){:#c43-v17} a los gritos del que me insulta y envilece, a la vista del enemigo, ávido de venganza.
 
-todos son la justicia misma,
+[18](#c43-v18){:#c43-v18} [[385]](#n-385){:#rn-385} Todo esto ha venido sobre nosotros, mas no nos hemos olvidado de Ti, ni hemos quebrantado el pacto hecho contigo.
 
-11[4350]más codiciables que el oro,
+[19](#c43-v19){:#c43-v19} No volvió atrás nuestro corazón, ni nuestro paso se apartó de tu camino,
 
-oro abundante y finísimo;
+[20](#c43-v20){:#c43-v20} [[386]](#n-386){:#rn-386} cuando nos aplastaste en un lugar de chacales y nos cubriste con sombras de muerte.
 
-más sabrosos que la miel
+[21](#c43-v21){:#c43-v21} Si nos hubiéramos olvidado del nombre de nuestro Dios, extendiendo nuestras manos a un Dios extraño,
 
-que destila de los panales.
+[22](#c43-v22){:#c43-v22} ¿no lo habría averiguado Dios, Él, que conoce los secretos del corazón?
 
-12También tu siervo
+[23](#c43-v23){:#c43-v23} [[387]](#n-387){:#rn-387} Mas por tu causa somos ahora carneados cada día, tenidos como ovejas de matadero.
 
-es iluminado por ellos,
+[24](#c43-v24){:#c43-v24} [[388]](#n-388){:#rn-388} Despierta, Señor. ¿Por qué duermes? Levántate; no nos deseches para siempre.
 
-y en su observancia
+[25](#c43-v25){:#c43-v25} ¿Por qué ocultas tu rostro? ¿Te olvidas de nuestra miseria y de nuestra opresión?
 
-halla gran galardón.
+[26](#c43-v26){:#c43-v26} Agobiada hasta el polvo está nuestra alma, y nuestro cuerpo pegado a la tierra.
 
-13Mas ¿quién es el
+[27](#c43-v27){:#c43-v27} ¡Levántate en nuestro auxilio, líbranos por tu piedad! 
 
-que conoce sus defectos?
+### Salmo [44 (45)](#c44) {#c44}
 
-Purifícame de los que no advierto.
+### Epitalamio del Rey Mesías 
 
-14[4351]Preserva a tu siervo,
+[1](#c44-v1){:#c44-v1} [[389]](#n-389){:#rn-389} Al maestro de coro. Sobre el tono de "Schoschannim" ("Las azucenas"). De los hijos de Coré. Maskil. Canto de amor.
 
-para que nunca domine
+[2](#c44-v2){:#c44-v2} De mi corazón desbordan faustas palabras, hablo de lo que hice para el rey, mi lengua es pluma de ágil escriba.
 
-en mí la soberbia.
+[3](#c44-v3){:#c44-v3} [[390]](#n-390){:#rn-390} Eres más hermoso que los hijos de los hombres; la gracia se ha derramado en tus labios, pues Dios te ha bendecido para siempre.
 
-Entonces seré íntegro,
+[4](#c44-v4){:#c44-v4} [[391]](#n-391){:#rn-391} Oh poderoso, ciñe a tu flanco tu espada en tu gloria y majestad.
 
-y estaré libre del gran pecado.
+[5](#c44-v5){:#c44-v5} [[392]](#n-392){:#rn-392} Cabalga, victorioso, por la verdad y por la justicia, y tu diestra te mostrará hazañas formidables.
 
-15Hallen favor ante Ti
+[6](#c44-v6){:#c44-v6} Agudas son tus flechas, los pueblos caerán debajo de ti; desfallecidos caerán los enemigos del rey.
 
-estas palabras de mi boca
+[7](#c44-v7){:#c44-v7} [[393]](#n-393){:#rn-393} Tu trono, oh Dios, es por los siglos y para siempre; el cetro de tu reino es vara de justicia.
 
-y los anhelos de mi corazón,
+[8](#c44-v8){:#c44-v8} [[394]](#n-394){:#rn-394} Tú amas la justicia y detestas la maldad; por esto, oh Dios, el Dios tuyo te ungió, entre todos tus semejantes, con óleo de alegría.
 
-oh Yahvé, Roca mía
+[9](#c44-v9){:#c44-v9} [[395]](#n-395){:#rn-395} Mirra y áloes y casia exhalan tus vestidos desde los palacios de marfil donde te alegraron.
 
-y Redentor mío.
+[10](#c44-v10){:#c44-v10} [[396]](#n-396){:#rn-396} Hijas de reyes vienen a tu encuentro; a tu diestra está en pie la reina, vestida de oro de Ofir.
 
-SALMO 19 (20)
-Plegaria por el Rey
+[11](#c44-v11){:#c44-v11} [[397]](#n-397){:#rn-397} Oye, hija, y considera; aplica tu oído; olvida a tu pueblo y la casa de tu padre.
 
-1[4352]Al maestro de coro. Salmo de David.
+[12](#c44-v12){:#c44-v12} [[398]](#n-398){:#rn-398} El rey se prendará de tu hermosura; Él es tu Señor: inclínate ante Él.
 
-2[4353]Que Yahvé te escuche
+[13](#c44-v13){:#c44-v13} Ante ti se inclinará la hija de Tiro con dádivas, y los más ricos de la tierra solicitarán tu favor.
 
-en el día de la prueba;
+[14](#c44-v14){:#c44-v14} [[399]](#n-399){:#rn-399} Toda hermosa entra la hija del rey, vestida de tela de oro.
 
-te defienda el Nombre
+[15](#c44-v15){:#c44-v15} [[400]](#n-400){:#rn-400} Envuelta en manto multicolor es llevada al rey; detrás de ella son introducidas a ti, las vírgenes, sus amigas;
 
-del Dios de Jacob.
+[16](#c44-v16){:#c44-v16} son conducidas alegremente y, dichosas, entran en el palacio del rey.
 
-3Él te envíe su auxilio desde el santuario,
+[17](#c44-v17){:#c44-v17} [[401]](#n-401){:#rn-401} Tus hijos ocuparán el lugar de tus padres; los establecerás príncipes sobre toda la tierra.
 
-y desde Sión te sostenga.
+[18](#c44-v18){:#c44-v18} [[402]](#n-402){:#rn-402} Haré tu nombre memorable de edad en edad; sí, los pueblos te ensalzarán por los siglos de los siglos. 
 
-4Acuérdese de todas tus ofrendas
+### Salmo [45 (46)](#c45) {#c45}
 
-y séale grato tu holocausto.
+### Alcázar es el Dios de Jacob 
 
-5Te conceda lo que tu corazón anhela
+[1](#c45-v1){:#c45-v1} [[403]](#n-403){:#rn-403} Al maestro de coro. De los hijos de Coré. Al-Alamoth (para voces de soprano). Cántico.
 
-y confirme todos tus designios.
+[2](#c45-v2){:#c45-v2} Dios es para nosotros refugio y fortaleza; mucho ha probado ser nuestro auxiliador en las tribulaciones.
 
-6Séanos dado ver gozosos tu victoria,
+[3](#c45-v3){:#c45-v3} [[404]](#n-404){:#rn-404} Por eso no tememos si la tierra vacila y los montes son precipitados al mar.
 
-y alzar el pendón
+[4](#c45-v4){:#c45-v4} [[405]](#n-405){:#rn-405} Bramen y espumen sus aguas, sacúdanse a su ímpetu los montes. Yahvé de los ejércitos está con nosotros; nuestro alcázar es el Dios de Jacob.
 
-en el nombre de nuestro Dios.
+[5](#c45-v5){:#c45-v5} [[406]](#n-406){:#rn-406} Los brazos del río alegran la ciudad de Dios, la santa morada del Altísimo.
 
-Otorgue el Señor todas tus peticiones.
+[6](#c45-v6){:#c45-v6} Dios está en medio de ella, no será conmovida; Dios la protegerá desde que apunte el día.
 
-7Ahora ya sé que Yahvé
+[7](#c45-v7){:#c45-v7} Agítanse las naciones, caen los reinos; Él hace oír su voz, la tierra tiembla.
 
-dará el triunfo a su ungido,
+[8](#c45-v8){:#c45-v8} Yahvé de los ejércitos está con nosotros; nuestro alcázar es el Dios de Jacob.
 
-respondiéndole desde su santo cielo
+[9](#c45-v9){:#c45-v9} [[407]](#n-407){:#rn-407} Venid y ved las obras de Yahvé, las maravillas que ha hecho sobre la tierra.
 
-con la potencia victoriosa de su diestra.
+[10](#c45-v10){:#c45-v10} Cómo hace cesar las guerras hasta los confines del orbe, cómo quiebra el arco y hace trizas la lanza, y echa los escudos al fuego.
 
-8[4354]Aquellos en sus carros,
+[11](#c45-v11){:#c45-v11} [[408]](#n-408){:#rn-408} "Basta ya; sabed que Yo soy Dios, sublime entre las naciones, excelso sobre la tierra."
 
-estos en sus caballos;
+[12](#c45-v12){:#c45-v12} Yahvé de los ejércitos está con nosotros; nuestro alcázar es el Dios de Jacob. 
 
-mas nosotros seremos fuertes
+### Salmo [46 (47)](#c46) {#c46}
 
-en el Nombre de [Yahvé] nuestro Dios.
+### Israel y las naciones alaban al Rey de toda la tierra 
 
-9Ellos se doblegarán y caerán;
+[1](#c46-v1){:#c46-v1} [[409]](#n-409){:#rn-409} Al maestro de coro. De los hijos de Coré. Salmo.
 
-mas nosotros estaremos erguidos,
+[2](#c46-v2){:#c46-v2} [[410]](#n-410){:#rn-410} Pueblos todos, batid palmas; aclamad a Dios con cantos de júbilo;
 
-y nos mantendremos.
+[3](#c46-v3){:#c46-v3} porque el Señor Altísimo, terrible, es el gran Rey sobre toda la tierra.
 
-10[4355]Oh Yahvé, salva al rey,
+[4](#c46-v4){:#c46-v4} [[411]](#n-411){:#rn-411} Él ha sometido los pueblos a nosotros y a nuestros pies las naciones.
 
-y escúchanos en este día
+[5](#c46-v5){:#c46-v5} [[412]](#n-412){:#rn-412} Él nos eligió nuestra heredad, gloria de Jacob, su amado.
 
-en que apelamos a Ti.
+[6](#c46-v6){:#c46-v6} Sube Dios entre voces de júbilo, Yahvé con sonido de trompeta.
 
-SALMO 20 (21)
-Acción de gracias por la victoria del Rey
+[7](#c46-v7){:#c46-v7} [[413]](#n-413){:#rn-413} Cantad a Dios, cantad; cantad a nuestro Rey, cantadle.
 
-1[4356]Al maestro de coro. Salmo de David.
+[8](#c46-v8){:#c46-v8} Porque Dios es rey sobre toda la tierra; cantadle un himno.
 
-2Oh Yahvé, de tu poder se goza el rey,
+[9](#c46-v9){:#c46-v9} Dios reina ya sobre todas las naciones; Dios se ha sentado sobre su santo trono.
 
-y está lleno de alegría por tu auxilio.
+[10](#c46-v10){:#c46-v10} [[414]](#n-414){:#rn-414} Los príncipes de los pueblos se han unido al pueblo del Dios de Abrahán, pues los poderosos de la tierra se han dado a Dios. Él domina desde lo más alto. 
 
-3Cumpliste el anhelo de su corazón,
+### Salmo [47 (48)](#c47) {#c47}
 
-y no frustraste
+### Grandezas del Señor en Sión 
 
-la petición de sus labios.
+[1](#c47-v1){:#c47-v1} [[415]](#n-415){:#rn-415} Cántico. Salmo de los hijos de Coré.
 
-4Lo previniste con faustas bendiciones,
+[2](#c47-v2){:#c47-v2} Grande es Yahvé en la ciudad de nuestro Dios, y digno de suma alabanza.
 
-corona de oro puro pusiste en su cabeza.
+[3](#c47-v3){:#c47-v3} [[416]](#n-416){:#rn-416} Su monte sagrado es gloriosa cumbre, es el gozo de toda la tierra; el monte Sión, (su) extremo norte, es la ciudad del gran Rey.
 
-5[4357]Te pidió la vida
+[4](#c47-v4){:#c47-v4} En sus fortalezas, Dios se ha mostrado baluarte seguro.
 
-y le has dado días
+[5](#c47-v5){:#c47-v5} [[417]](#n-417){:#rn-417} Pues, he aquí que los reyes se habían reunido, y acometieron a una;
 
-que durarán por los siglos de los siglos.
+[6](#c47-v6){:#c47-v6} mas apenas le vieron, se han pasmado, y aterrados han huido por doquier.
 
-6[4358]Gracias a tu socorro
+[7](#c47-v7){:#c47-v7} Los invadió allí un temblor, una angustia como de parto,
 
-es grande su gloria;
+[8](#c47-v8){:#c47-v8} [[418]](#n-418){:#rn-418} como el viento de Oriente cuando estrella las naves de Tarsis.
 
-lo colmaste de honor
+[9](#c47-v9){:#c47-v9} [[419]](#n-419){:#rn-419} Como lo habíamos oído, así lo hemos visto ahora en la ciudad de Yahvé de los ejércitos, en la ciudad de nuestro Dios: Dios la hace estable para siempre.
 
-y de magnificencia.
+[10](#c47-v10){:#c47-v10} Nos acordamos, oh Dios, de tu misericordia dentro de tu Templo.
 
-7[4359]Porque has hecho
+[11](#c47-v11){:#c47-v11} Como tu Nombre, Dios, así también tu alabanza llega hasta los confines de la tierra. Tu diestra está llena de justicia.
 
-que él sea una bendición
+[12](#c47-v12){:#c47-v12} Alégrese el monte Sión; salten de júbilo las ciudades de Judá, a causa de tus juicios.
 
-para siempre,
+[13](#c47-v13){:#c47-v13} [[420]](#n-420){:#rn-420} Recorred a Sión, circulad en rededor, contad sus torres;
 
-y lo has llenado de alegría
+[14](#c47-v14){:#c47-v14} considerad sus baluartes, examinad sus fortalezas, para que podáis referir a la generación venidera: así es de grande Dios,
 
-con el gozo de tu vista.
+[15](#c47-v15){:#c47-v15} [[421]](#n-421){:#rn-421} nuestro Dios para siempre jamás. Él mismo nos gobernará. 
 
-8Pues el rey confía en Yahvé,
+### Salmo [48 (49)](#c48) {#c48}
 
-y merced al Altísimo
+### No envidiar la opulencia de los malos 
 
-no será conmovido.
+[1](#c48-v1){:#c48-v1} Al maestro de coro. De los hijos de Coré. Salmo.
 
-9Descargue tu mano
+[2](#c48-v2){:#c48-v2} [[422]](#n-422){:#rn-422} Oíd esto, naciones todas, escuchad, moradores todos del orbe,
 
-sobre todos tus enemigos;
+[3](#c48-v3){:#c48-v3} así plebeyos como nobles, ricos tanto como pobres.
 
-alcance tu diestra
+[4](#c48-v4){:#c48-v4} Mi boca proferirá sabiduría, y la meditación de mi corazón, inteligencia.
 
-a los que te aborrecen.
+[5](#c48-v5){:#c48-v5} [[423]](#n-423){:#rn-423} Inclinaré mi oído a la parábola, y al son de la cítara propondré mi enigma.
 
-10[4360]Cuando tu rostro aparezca
+[6](#c48-v6){:#c48-v6} [[424]](#n-424){:#rn-424} ¿Por qué he de temer yo en los días malos, cuando me rodea la malicia de los que me asechan,
 
-los pondrás como en un horno encendido.
+[7](#c48-v7){:#c48-v7} los que confían en sus recursos y se glorían de la abundancia de sus riquezas?
 
-El Señor los destruirá en su ira,
+[8](#c48-v8){:#c48-v8} [[425]](#n-425){:#rn-425} Pues nadie podrá librarse a sí mismo, ni dar a Dios un precio por su redención
 
-y el fuego los devorará.
+[9](#c48-v9){:#c48-v9} —demasiado caro es el rescate de la vida— ni logrará nunca seguir viviendo por siempre
 
-11Quita de la tierra su descendencia,
+[10](#c48-v10){:#c48-v10} sin ver la muerte.
 
-y su raza de entre los hijos de los hombres.
+[11](#c48-v11){:#c48-v11} [[426]](#n-426){:#rn-426} Pues verá que los sabios mueren, e igualmente perecen el insensato y el necio, dejando sus riquezas a extraños.
 
-12Y si dirigen sus malas artes contra Ti
+[12](#c48-v12){:#c48-v12} Los sepulcros son sus mansiones para siempre, sus moradas de generación en generación, por más que hayan dado a las tierras sus nombres.
 
-y maquinan insidias, nada podrán.
+[13](#c48-v13){:#c48-v13} Porque el hombre no permanece en su opulencia; desaparece como los brutos.
 
-13Porque Tú los pondrás en fuga
+[14](#c48-v14){:#c48-v14} [[427]](#n-427){:#rn-427} Tal es la senda de los que estultamente confían, y tal el fin de los que se glorían de su suerte.
 
-al dirigir tu arco hacia su rostro.
+[15](#c48-v15){:#c48-v15} [[428]](#n-428){:#rn-428} Como ovejas son echados al sepulcro; su pastor es la muerte, y a la mañana los justos dominarán sobre ellos. Pronto su figura se volverá un desecho, y el sepulcro será su casa.
 
-14[4361]Levántate, Yahvé, en tu poderío,
+[16](#c48-v16){:#c48-v16} [[429]](#n-429){:#rn-429} Pero mi vida Dios la librará de la tumba, porque Él me tomará consigo.
 
-y con salmos celebraremos tus hazañas.
+[17](#c48-v17){:#c48-v17} No temas si alguno se enriquece, si aumenta la opulencia de su casa;
 
-SALMO 21 (22)
-Elí, Elí, “lemá sabactani?” (Profecía sobre la Pasión de Cristo)
+[18](#c48-v18){:#c48-v18} [[430]](#n-430){:#rn-430} porque al morir nada se llevará consigo, ni baja con él su fausto.
 
-1[4362]Al maestro de coro. Por el pronto socorro. Salmo de David.
+[19](#c48-v19){:#c48-v19} Aunque él mientras vivía se jactase, congratulándose de pasarlo bien,
 
-2[4363]Dios mío, Dios mío,
+[20](#c48-v20){:#c48-v20} bajará a reunirse con sus padres, y no verá jamás la luz.
 
-¿por qué me has abandonado?
+[21](#c48-v21){:#c48-v21} [[431]](#n-431){:#rn-431} Pero el hombre en auge no comprende; desaparece como los brutos. 
 
-Los gritos de mis pecados
+### Salmo [49 (50)](#c49) {#c49}
 
-alejan de mí el socorro.
+### El obsequio grato a Dios 
 
-3[4364]Dios mío, clamo de día, y no respondes;
+[1](#c49-v1){:#c49-v1} [[432]](#n-432){:#rn-432} Salmo de Asaf. El Señor Dios habló y convocó a la tierra, desde el sol naciente hasta su ocaso.
 
-de noche también, y no te cuidas de mí.
+[2](#c49-v2){:#c49-v2} Desde Sión en plena belleza aparece radiante Dios;
 
-4[4365]Y Tú, sin embargo,
+[3](#c49-v3){:#c49-v3} [[433]](#n-433){:#rn-433} viene el Dios nuestro, y no en silencio; un fuego devorador le precede y en torno suyo ruge la tempestad.
 
-estás en tu santa morada,
+[4](#c49-v4){:#c49-v4} [[434]](#n-434){:#rn-434} Llama a los cielos de arriba y a la tierra, dispuesto a hacer juicio sobre su pueblo:
 
-¡oh gloria de Israel!
+[5](#c49-v5){:#c49-v5} "¡Congregadme a los piadosos, los que han hecho alianza conmigo mediante sacrificios!"
 
-5En Ti esperaron nuestros padres;
+[6](#c49-v6){:#c49-v6} Y he aquí que los cielos proclaman su justicia, porque el Juez es Dios mismo.
 
-esperaron, y los libraste.
+[7](#c49-v7){:#c49-v7} "Oye, pueblo mío, y hablaré; Israel, voy a dar testimonio contra ti; Yo soy Dios, el Dios tuyo.
 
-6A Ti clamaron, y fueron salvados;
+[8](#c49-v8){:#c49-v8} [[435]](#n-435){:#rn-435} No te reprendo por falta de tus sacrificios, pues tus holocaustos están siempre delante de Mí.
 
-en Ti confiaron,
+[9](#c49-v9){:#c49-v9} No tomaré ni un becerro de tu casa, ni carneros de tus manadas.
 
-y no quedaron confundidos.
+[10](#c49-v10){:#c49-v10} Puesto que son mías todas las fieras de la selva, y las bestias que por millares viven en mis montañas.
 
-7[4366]Pero es que yo soy gusano,
+[11](#c49-v11){:#c49-v11} [[436]](#n-436){:#rn-436} Conozco todas las aves del cielo, y cuanto se mueve en el campo está de manifiesto a mis ojos.
 
-y no hombre,
+[12](#c49-v12){:#c49-v12} Si tuviera hambre, no te lo diría a ti, porque mío es el orbe y cuanto él contiene.
 
-oprobio de los hombres
+[13](#c49-v13){:#c49-v13} ¿Acaso Yo como carne de toros, o bebo sangre de chivos?
 
-y desecho de la plebe.
+[14](#c49-v14){:#c49-v14} [[437]](#n-437){:#rn-437} Sacrificios de alabanza es lo que has de ofrecer a Dios, y cumplir al Altísimo tus votos.
 
-8Cuantos me ven se mofan de mí,
+[15](#c49-v15){:#c49-v15} Entonces sí, invócame en el día de la angustia; Yo te libraré y tú me darás gloria."
 
-tuercen los labios y menean la cabeza:
+[16](#c49-v16){:#c49-v16} [[438]](#n-438){:#rn-438} Al pecador, empero, le dice Dios: "¿Cómo es que andas tú pregonando mis mandamientos, y tienes mi alianza en tus labios,
 
-9[4367] “Confió en Yahvé: que Él lo salve;
+[17](#c49-v17){:#c49-v17} tú, que aborreces la instrucción, y has echado a la espalda mis palabras?
 
-líbrelo, ya que en Él se complace.”
+[18](#c49-v18){:#c49-v18} Cuando ves a un ladrón te vas con él, y te asocias a los adúlteros.
 
-10Sí, Tú eres mi sostén
+[19](#c49-v19){:#c49-v19} Has abierto tu boca al mal, y tu lengua ha urdido engaño.
 
-desde el seno materno,
+[20](#c49-v20){:#c49-v20} Te sentabas para hablar contra tu hermano, y cubrías de oprobio al hijo de tu madre.
 
-mi refugio desde los pechos de mi madre.
+[21](#c49-v21){:#c49-v21} Esto hiciste, y ¿Yo he de callar? ¿Imaginaste que Yo soy como tú? Yo te pediré cuentas y te lo echaré en cara.
 
-11A Ti fui entregado
+[22](#c49-v22){:#c49-v22} Entended estas cosas los que os olvidáis de Dios; no sea que Yo os destroce y no haya quien os salve.
 
-desde mi nacimiento;
+[23](#c49-v23){:#c49-v23} [[439]](#n-439){:#rn-439} El que me ofrece el sacrificio de alabanza, ese es el que honra; y al que anda en sinceridad, a ese le haré ver la salvación de Dios." 
 
-desde el vientre de mi madre
+### Salmo [50 (51)](#c50) {#c50}
 
-Tú eres mi Dios.
+### Espíritu de perfecta contrición 
 
-12[4368]No estés lejos de mí,
+[1](#c50-v1){:#c50-v1} [[440]](#n-440){:#rn-440} Al maestro de coro. Salmo de David.
 
-porque la tribulación está cerca,
+[2](#c50-v2){:#c50-v2} Cuando después que pecó con Betsabee, se llegó a él Natán.
 
-porque no hay quien socorra.
+[3](#c50-v3){:#c50-v3} [[441]](#n-441){:#rn-441} Ten compasión de mí, oh Dios, en la medida de tu misericordia; según la grandeza de tus bondades, borra mi iniquidad.
 
-13[4369]Me veo rodeado de muchos toros;
+[4](#c50-v4){:#c50-v4} Lávame a fondo de mi culpa, límpiame de mi pecado.
 
-los fuertes de Basan me cercan;
+[5](#c50-v5){:#c50-v5} [[442]](#n-442){:#rn-442} Porque yo reconozco mi maldad, y tengo siempre delante mi delito.
 
-14abren contra mí sus bocas,
+[6](#c50-v6){:#c50-v6} [[443]](#n-443){:#rn-443} He pecado contra Ti, contra Ti solo, he obrado lo que es desagradable a tus ojos, de modo que se manifieste la justicia de tu juicio y tengas razón en condenarme.
 
-cual león rapaz y rugiente.
+[7](#c50-v7){:#c50-v7} [[444]](#n-444){:#rn-444} Es que soy nacido en la iniquidad, y ya mi madre me concibió en pecado.
 
-15[4370]Soy como agua derramada,
+[8](#c50-v8){:#c50-v8} [[445]](#n-445){:#rn-445} Mas he aquí que Tú te complaces en la sinceridad del corazón, y en lo íntimo del mío me haces conocer la sabiduría.
 
-todos mis huesos se han descoyuntado;
+[9](#c50-v9){:#c50-v9} [[446]](#n-446){:#rn-446} Rocíame con hisopo, y seré limpio; lávame Tú, y quedaré más blanco que la nieve.
 
-mi corazón, como cera,
+[10](#c50-v10){:#c50-v10} [[447]](#n-447){:#rn-447} Hazme oír tu palabra de gozo y de alegría, y saltarán de felicidad estos huesos que has quebrantado.
 
-se diluye en mis entrañas.
+[11](#c50-v11){:#c50-v11} [[448]](#n-448){:#rn-448} Aparta tu rostro, de mis pecados, y borra todas mis culpas.
 
-16Mi garganta se ha secado como una teja;
+[12](#c50-v12){:#c50-v12} [[449]](#n-449){:#rn-449} Crea en mí, oh Dios, un corazón sencillo, y renueva en mi interior un espíritu recto.
 
-mi lengua se pega a mi paladar,
+[13](#c50-v13){:#c50-v13} [[450]](#n-450){:#rn-450} No me rechaces de tu presencia, y no me quites el espíritu de tu santidad.
 
-me has reducido al polvo de la muerte.
+[14](#c50-v14){:#c50-v14} [[451]](#n-451){:#rn-451} Devuélveme la alegría de tu salud; confírmame en un espíritu de príncipe.
 
-17[4371]Porque me han rodeado muchos perros;
+[15](#c50-v15){:#c50-v15} [[452]](#n-452){:#rn-452} Enseñaré a los malos tus caminos; y los pecadores se convertirán a Ti.
 
-una caterva de malvados me encierra;
+[16](#c50-v16){:#c50-v16} [[453]](#n-453){:#rn-453} Líbrame de la sangre, oh Dios, Dios Salvador mío, y vibre mi lengua de exultación por tu justicia.
 
-han perforado mis manos y mis pies;
+[17](#c50-v17){:#c50-v17} [[454]](#n-454){:#rn-454} Abre Tú mis labios, oh Señor, y mi boca publicará tus alabanzas,
 
-18puedo contar todos mis huesos.
+[18](#c50-v18){:#c50-v18} [[455]](#n-455){:#rn-455} pues los sacrificios no te agradan, y si te ofreciera un holocausto no lo aceptarías.
 
-Entretanto, ellos miran,
+[19](#c50-v19){:#c50-v19} [[456]](#n-456){:#rn-456} Mi sacrificio, oh Dios, es el espíritu compungido; Tú no despreciarás, Señor, un corazón contrito [y humillado].
 
-y al verme se alegran.
+[20](#c50-v20){:#c50-v20} [[457]](#n-457){:#rn-457} Por tu misericordia, Señor, obra benignamente con Sión; reconstruye los muros de Jerusalén.
 
-19[4372]Se reparten mis vestidos,
+[21](#c50-v21){:#c50-v21} Entonces te agradarán los sacrificios legales, [las oblaciones y los holocaustos]; entonces se ofrecerán becerros sobre tu altar. 
 
-y sobre mi túnica echan suertes.
+### Salmo [51 (52)](#c51) {#c51}
 
-20[4373]Mas Tú, Yahvé, no estés lejos de mí;
+### Contra la lengua intrigante y prepotente 
 
-sostén mío, apresúrate a socorrerme.
+[1](#c51-v1){:#c51-v1} [[458]](#n-458){:#rn-458} Al maestro de coro. Maskil de David.
 
-21Libra mi alma de la espada,
+[2](#c51-v2){:#c51-v2} Cuando Doeg, el idumeo, fue a decir a Saúl: "David ha entrado en la casa de Aquimelec."
 
-mi vida del poder del perro.
+[3](#c51-v3){:#c51-v3} [[459]](#n-459){:#rn-459} ¿Cómo haces alarde de maldad, oh prepotente, contra el justo? ¡En todo tiempo hay Dios!
 
-22[4374]Sálvame de la boca del león;
+[4](#c51-v4){:#c51-v4} Tu lengua, maquinando ruinas, es como afilada navaja, oh artífice del dolo.
 
-de entre las astas de los bisontes escúchame.
+[5](#c51-v5){:#c51-v5} Prefieres el mal al bien y la falsedad al lenguaje sincero.
 
-23[4375]Anunciaré tu Nombre a mis hermanos,
+[6](#c51-v6){:#c51-v6} Amas todas las palabras que hieren, lengua pérfida.
 
-y proclamaré tu alabanza
+[7](#c51-v7){:#c51-v7} Por eso Dios te destruirá; te quitará de en medio para siempre; te arrojará de tu tienda y te arrancará de la tierra de los vivientes.
 
-en medio de la asamblea.
+[8](#c51-v8){:#c51-v8} Al ver esto los justos temerán, y se reirán (diciendo):
 
-24Los que teméis a Yahvé alabadle,
+[9](#c51-v9){:#c51-v9} [[460]](#n-460){:#rn-460} "He aquí el hombre que no hizo de Dios su baluarte, sino que confió en la multitud de sus riquezas y llegó a ser poderoso por sus crímenes."
 
-glorificadle, vosotros todos, linaje de Israel.
+[10](#c51-v10){:#c51-v10} [[461]](#n-461){:#rn-461} Mas yo, como olivo lozano en la casa de Dios, confío en la bondad divina para siempre.
 
-25Pues no despreció ni desatendió
+[11](#c51-v11){:#c51-v11} [[462]](#n-462){:#rn-462} Por los siglos te alabaré porque obraste, y proclamaré tu Nombre porque es bueno, a la vista de tus santos. 
 
-la miseria del miserable;
+### Salmo [52 (53)](#c52) {#c52}
 
-no escondió de él su rostro,
+### Confusión de los impostores 
 
-y cuando imploró su auxilio, le escuchó.
+[1](#c52-v1){:#c52-v1} [[463]](#n-463){:#rn-463} Al maestro de coro. Según Mahalat. Maskil de David.
 
-26[4376]Para Ti será mi alabanza en la gran asamblea,
+[2](#c52-v2){:#c52-v2} El insensato dice en su corazón: "No hay Dios." Se han pervertido; su conducta es abominable; ni uno solo obra bien.
 
-cumpliré mis votos
+[3](#c52-v3){:#c52-v3} Yahvé mira desde el cielo a los hijos de los hombres, para ver si hay quien sea inteligente y busque a Dios.
 
-en presencia de los que te temen.
+[4](#c52-v4){:#c52-v4} Pero se han extraviado todos juntos y todos se han depravado. No hay uno que obre el bien, ni uno siquiera.
 
-27[4377]Los pobres comerán y se hartarán,
+[5](#c52-v5){:#c52-v5} [[464]](#n-464){:#rn-464} ¡Nunca entenderán esos malhechores, que devoran a mi pueblo, como comen pan, sin cuidarse de Dios para nada!
 
-alabarán a Yahvé los que le buscan.
+[6](#c52-v6){:#c52-v6} [[465]](#n-465){:#rn-465} He aquí que tiemblan de miedo donde no hay que temer; porque Dios ha dispersado los huesos de los que te esquilmaban; están desconcertados porque Dios los rechazó.
 
-Sus corazones vivirán para siempre.
+[7](#c52-v7){:#c52-v7} [[466]](#n-466){:#rn-466} ¡Oh, venga ya de Sión la salud de Israel! Cuando Yahvé cambie la suerte de su pueblo, saltará de gozo Jacob, e Israel de alegría. 
 
-28[4378]Recordándolo, volverán a Yahvé
+### Salmo [53 (54)](#c53) {#c53}
 
-todos los confines de la tierra;
+### Fidelidad con que Dios nos escucha 
 
-y todas las naciones de los gentiles
+[1](#c53-v1){:#c53-v1} [[467]](#n-467){:#rn-467} Al maestro de coro. Para instrumentos de cuerda. Maskil de David.
 
-se postrarán ante su faz.
+[2](#c53-v2){:#c53-v2} [[468]](#n-468){:#rn-468} Cuando los cifeos fueron a decirle a Saúl: "Mira, David está escondido entre nosotros."
 
-29[4379]Porque de Yahvé es el reino,
+[3](#c53-v3){:#c53-v3} Sálvame, oh Dios, por tu Nombre, y defiende mi causa con tu poder.
 
-y Él mismo gobernará a las naciones.
+[4](#c53-v4){:#c53-v4} Escucha mi oración, oh Dios, presta oído a las palabras de mi boca.
 
-30[4380]A Él solo adorarán
+[5](#c53-v5){:#c53-v5} [[469]](#n-469){:#rn-469} Porque soberbios se han levantado contra mí; y hombres violentos buscan mi vida, sin tener en cuenta a Dios para nada.
 
-todos los que duermen
+[6](#c53-v6){:#c53-v6} [[470]](#n-470){:#rn-470} Mirad, ya viene Dios en mi socorro; el Señor sostiene mi vida.
 
-bajo la tierra;
+[7](#c53-v7){:#c53-v7} Haz rebotar el mal contra mis adversarios, y según tu fidelidad, destrúyelos.
 
-ante Él se encorvará
+[8](#c53-v8){:#c53-v8} [[471]](#n-471){:#rn-471} Te ofreceré sacrificios voluntarios; ensalzaré, oh Yahvé, tu Nombre, porque es bueno.
 
-todo el que desciende al polvo,
+[9](#c53-v9){:#c53-v9} Pues me libró de toda tribulación, y mis ojos han visto a mis enemigos confundidos. 
 
-y no tiene ya vida en sí.
+### Salmo [54 (55)](#c54) {#c54}
 
-31[4381]Mi descendencia le servirá a Él
+### Ansias de huir a la soledad 
 
-y hablará de Yahvé a la edad venidera.
+[1](#c54-v1){:#c54-v1} [[472]](#n-472){:#rn-472} Al maestro de coro. Para instrumentos de cuerda. Maskil de David.
 
-32[4382]Anunciará su justicia
+[2](#c54-v2){:#c54-v2} Escucha oh Dios, mi oración, y no te escondas de mi súplica.
 
-a un pueblo que ha de nacer:
+[3](#c54-v3){:#c54-v3} [[473]](#n-473){:#rn-473} Atiéndeme, inclina tu oído. Vago gimiendo y sobresaltado [y estoy turbado]
 
-“Estas cosas ha hecho Yahvé.”
+[4](#c54-v4){:#c54-v4} [[474]](#n-474){:#rn-474} ante las amenazas del enemigo y la opresión del inicuo; se acumulan calamidades sobre mí y me asaltan con furor.
 
-SALMO 22 (23)
-El buen Pastor
+[5](#c54-v5){:#c54-v5} El corazón tiembla en mi pecho, y me acometen mortales angustias.
 
-1[4383]Salmo de David.
+[6](#c54-v6){:#c54-v6} El temor y el terror me invaden, y me envuelve el espanto.
 
-Yahvé es mi pastor,
+[7](#c54-v7){:#c54-v7} [[475]](#n-475){:#rn-475} Y exclamo: "¡Oh si tuviera yo alas como la paloma para volar en busca de reposo!"
 
-nada me faltará.
+[8](#c54-v8){:#c54-v8} Me iría bien lejos a morar en el desierto.
 
-2Él me hace recostar en verdes prados,
+[9](#c54-v9){:#c54-v9} Me escaparía al instante del torbellino y de la tempestad.
 
-me conduce a manantiales
+[10](#c54-v10){:#c54-v10} [[476]](#n-476){:#rn-476} Piérdelos, Señor; divide sus lenguas, pues en la ciudad veo la violencia y la discordia
 
-que restauran,
+[11](#c54-v11){:#c54-v11} [[477]](#n-477){:#rn-477} rondar día y noche sobre sus muros; y en su interior hay opresión y ruina.
 
-3Confortando mi alma,
+[12](#c54-v12){:#c54-v12} La insidia impera en medio de ella, y de sus plazas no se apartan la injuria y el engaño.
 
-guiándome por senderos rectos,
+[13](#c54-v13){:#c54-v13} Si me insultara un enemigo, lo soportaría; si el que me odia se hubiese levantado contra mí, me escondería de él simplemente.
 
-para gloria de su Nombre.
+[14](#c54-v14){:#c54-v14} [[478]](#n-478){:#rn-478} Pero eres tú, mi compañero, mi amigo y mi confidente,
 
-4[4384]Aunque atraviese
+[15](#c54-v15){:#c54-v15} con quien vivía yo en dulce intimidad, y subíamos en alegre consorcio a la casa de Dios.
 
-un valle de tinieblas,
+[16](#c54-v16){:#c54-v16} [[479]](#n-479){:#rn-479} Sorpréndalos la muerte; vivos aún desciendan al sepulcro, porque la maldad reina en sus moradas [y en ellos mismos].
 
-no temeré ningún mal,
+[17](#c54-v17){:#c54-v17} Mas yo clamaré a Dios, y Yahvé me salvará.
 
-porque Tú vas conmigo.
+[18](#c54-v18){:#c54-v18} [[480]](#n-480){:#rn-480} Me lamentaré y lloraré a la tarde, a la mañana, a mediodía, y Él oirá mi voz.
 
-Tu bastón y tu cayado
+[19](#c54-v19){:#c54-v19} Me sacará sano y salvo de los asaltos, aunque son muchos contra mí.
 
-me infunden aliento.
+[20](#c54-v20){:#c54-v20} Me escuchará Dios y los humillará Él, que es eternamente. Porque no hay modo de convertirlos, y no temen a Dios.
 
-5[4385]Para mí Tú dispones una mesa
+[21](#c54-v21){:#c54-v21} Cada cual levanta su mano contra el amigo, y violan la fe jurada.
 
-ante los ojos de mis enemigos.
+[22](#c54-v22){:#c54-v22} [[481]](#n-481){:#rn-481} Más blando que manteca es su rostro, pero su corazón es feroz; sus palabras, más untuosas que el aceite, son espadas desnudas.
 
-Unges con bálsamo mi cabeza;
+[23](#c54-v23){:#c54-v23} [[482]](#n-482){:#rn-482} Deja tu cuidado a cargo de Yahvé, y El te sostendrá. Nunca permitirá que el justo caiga;
 
-mi copa rebosa.
+[24](#c54-v24){:#c54-v24} mas a ellos, oh Dios, los harás descender a la fosa. No llegarán a la mitad de sus días esos hombres sanguinarios y fraudulentos. Yo, empero, pongo en Ti mi confianza, oh Señor. 
 
-6[4386]Bondad y misericordia me seguirán
+### Salmo [55 (56)](#c55) {#c55}
 
-todos los días de mi vida;
+### Si Dios conmigo, ¿quién contra mí? 
 
-y moraré en la casa de Yahvé
+[1](#c55-v1){:#c55-v1} [[483]](#n-483){:#rn-483} Al maestro de coro. Por el tono "Paloma silenciosa de la lejanía". De David. Miktam. Cuando lo prendieron los filisteos en Qat.
 
-por días sin fin.
+[2](#c55-v2){:#c55-v2} Apiádate de mí, oh Dios, porque el hombre me pisotea, me oprime con su ataque incesante.
 
-SALMO 23 (24)
-Entrada del Rey de la gloria
+[3](#c55-v3){:#c55-v3} Todo el día tratan mis enemigos de devorarme, y son muchos los que me combaten... Oh Altísimo,
 
-1[4387]De David. Salmo.
+[4](#c55-v4){:#c55-v4} [[484]](#n-484){:#rn-484} el día en que me invada el temor, confiaré en Ti.
 
-De Yahvé es la tierra
+[5](#c55-v5){:#c55-v5} [[485]](#n-485){:#rn-485} Me gloriaré en la promesa de Dios, confiado en Dios no temo. ¿Qué podrá contra mí un hombre de carne?
 
-y cuanto ella contiene;
+[6](#c55-v6){:#c55-v6} Siempre toman a mal mis palabras, todos sus pensamientos son para mi daño.
 
-el orbe y cuantos lo habitan.
+[7](#c55-v7){:#c55-v7} [[486]](#n-486){:#rn-486} Se conjuran, ponen asechanzas, observan mis pasos, buscando cómo quitarme la vida.
 
-2[4388]Porque Él la asentó sobre mares
+[8](#c55-v8){:#c55-v8} [[487]](#n-487){:#rn-487} Devuélveles otro tanto por su iniquidad; oh Dios, abate los pueblos en tu ira.
 
-y la afirmó sobre corrientes.
+[9](#c55-v9){:#c55-v9} [[488]](#n-488){:#rn-488} Tú cuentas los pasos de mi vida errante; recoges mis lágrimas en tu redoma. ¿No están acaso escritos en tu libro?
 
-3¿Quién será digno
+[10](#c55-v10){:#c55-v10} [[489]](#n-489){:#rn-489} Así pues mis enemigos retrocederán; cada vez que apelo a Ti conozco que Dios está conmigo.
 
-de ascender al monte de Yahvé?
+[11](#c55-v11){:#c55-v11} Me gloriaré en la promesa de Dios,
 
-y ¿quién estará en su santuario?
+[12](#c55-v12){:#c55-v12} confiado en Dios no temo. ¿Qué podrá contra mí un hombre de carne?
 
-4[4389]Aquel que tiene inmaculadas las manos
+[13](#c55-v13){:#c55-v13} [[490]](#n-490){:#rn-490} Te debo, oh Dios, los votos que te hice; te ofreceré sacrificios de alabanza.
 
-y puro el corazón,
+[14](#c55-v14){:#c55-v14} [[491]](#n-491){:#rn-491} Pues Tú has librado mi vida de la muerte, y mis pies de la caída, para que ande yo ante la faz de Dios en la luz de los vivientes. 
 
-que no inclinó su ánimo a la vanidad
+### Salmo [56 (57)](#c56) {#c56}
 
-[ni juró con doblez];
+### Dios escucha la oración de Israel 
 
-5él recibirá la bendición de Yahvé,
+[1](#c56-v1){:#c56-v1} [[492]](#n-492){:#rn-492} Al maestro de coro. Por el tono de "No destruyas". De David. Miktam. Cuando huyendo de Saúl, se refugió en una cueva.
 
-y la justicia de Dios su Salvador.
+[2](#c56-v2){:#c56-v2} [[493]](#n-493){:#rn-493} Ten piedad de mí, oh Dios, ten piedad de mí, ya que a Ti se acoge mi alma. A la sombra de tus alas me refugio hasta que pase la calamidad.
 
-6Esta es la generación
+[3](#c56-v3){:#c56-v3} [[494]](#n-494){:#rn-494} Clamo al Dios Altísimo, al Dios que es mi bienhechor.
 
-de los que lo buscan,
+[4](#c56-v4){:#c56-v4} [[495]](#n-495){:#rn-495} Quiera El enviar del cielo a quien me salve; entregue al oprobio a quienes me persiguen; mande Dios su misericordia y su fidelidad.
 
-de los que buscan tu faz,
+[5](#c56-v5){:#c56-v5} [[496]](#n-496){:#rn-496} Yazgo en medio de leones, que devoran con avidez a los hijos de los hombres. Sus dientes son lanzas y saetas; y su lengua, cortante espada.
 
-(Dios de) Jacob.
+[6](#c56-v6){:#c56-v6} [[497]](#n-497){:#rn-497} Muéstrate excelso, oh Dios, sobre los cielos; brille tu gloria sobre toda la tierra.
 
-7[4390]¡Levantad, oh puertas, vuestros dinteles,
+[7](#c56-v7){:#c56-v7} [[498]](#n-498){:#rn-498} Tendieron una red a mis pasos, deprimieron mi alma; habían cavado una fosa delante de mí; han caído en ella.
 
-y alzaos, portones antiquísimos,
+[8](#c56-v8){:#c56-v8} [[499]](#n-499){:#rn-499} Mi corazón está pronto, oh Dios; firme está mi corazón; quiero cantar y entonar salmos.
 
-para que entre el Rey de la gloria!
+[9](#c56-v9){:#c56-v9} [[500]](#n-500){:#rn-500} Despierta, oh alma mía; salterio y cítara despertaos; despertaré a la aurora.
 
-8¿Quién es este Rey de la gloria?
+[10](#c56-v10){:#c56-v10} Te alabaré, Señor, entre los pueblos, te cantaré himnos entre las naciones.
 
-Yahvé fuerte y poderoso;
+[11](#c56-v11){:#c56-v11} Porque tu misericordia es grande hasta el cielo, y tu fidelidad, hasta las nubes.
 
-Yahvé, poderoso en la batalla.
+[12](#c56-v12){:#c56-v12} Muéstrate excelso, oh Dios, sobre los cielos; brille tu gloria sobre toda la tierra. 
 
-9¡Levantad, oh puertas, vuestros dinteles,
+### Salmo [57 (58)](#c57) {#c57}
 
-y alzaos, portones antiquísimos,
+### Hay un Dios que juzga a los jueces 
 
-para que entre el Rey de la gloria!
+[1](#c57-v1){:#c57-v1} [[501]](#n-501){:#rn-501} Al maestro de coro. Sobre el tono de "No destruyas". De David. Miktam.
 
-10¿Quién es este Rey de la gloria?
+[2](#c57-v2){:#c57-v2} [[502]](#n-502){:#rn-502} ¿Es verdad que habláis justicia, oh dioses? ¿Es verdad que juzgáis con rectitud a los hijos de los hombres?
 
-Yahvé Dios de los ejércitos:
+[3](#c57-v3){:#c57-v3} [[503]](#n-503){:#rn-503} No, en vuestro corazón os mueve la iniquidad, y vuestras manos venden al peso la violencia sobre la tierra.
 
-Él mismo es el Rey de la gloria.
+[4](#c57-v4){:#c57-v4} [[504]](#n-504){:#rn-504} Los prevaricadores se extraviaron desde el seno materno; desde el vientre se descarriaron los impostores.
 
-SALMO 24 (25)
-Oración para crecer en la amistad de Dios
+[5](#c57-v5){:#c57-v5} [[505]](#n-505){:#rn-505} Hay en ellos veneno como en la serpiente, como en el áspid sordo que tapa sus oídos,
 
-1De David.
+[6](#c57-v6){:#c57-v6} para que no oiga la voz de los encantadores, del mago que sabiamente hechiza.
 
-A Ti, Yahvé, Dios mío, elevo mi alma;
+[7](#c57-v7){:#c57-v7} Oh Dios, quiebra sus dientes en su misma boca; rompe las muelas de los leones, oh Yahvé.
 
-2en Ti confío, no sea yo confundido;
+[8](#c57-v8){:#c57-v8} [[506]](#n-506){:#rn-506} Disípense como agua derramada; marchítense como la verdura de la hierba.
 
-no se gocen a costa mía mis enemigos.
+[9](#c57-v9){:#c57-v9} [[507]](#n-507){:#rn-507} Pasen como el caracol que se deshace; como aborto de mujer, que no ve el sol.
 
-3[4391]No, ninguno que espera en Ti es confundido.
+[10](#c57-v10){:#c57-v10} [[508]](#n-508){:#rn-508} Antes que vuestro fuego dé espinas verdes caliente vuestras ollas, arrebátelo todo un torbellino.
 
-Confundido queda el que locamente se aparta de Ti.
+[11](#c57-v11){:#c57-v11} [[509]](#n-509){:#rn-509} El justo se gozará al ver la venganza; lavará sus pies en la sangre del impío.
 
-4[4392]Muéstrame tus caminos, oh Yahvé,
+[12](#c57-v12){:#c57-v12} Y los hombres dirán: "En verdad hay un premio para el justo; en verdad hay un Dios que juzga en la tierra." 
 
-indícame tus sendas;
+### Salmo [58 (59)](#c58) {#c58}
 
-5condúceme a tu verdad e instrúyeme,
+### Dios, Alcázar de Israel 
 
-porque Tú eres el Dios que me salva,
+[1](#c58-v1){:#c58-v1} [[510]](#n-510){:#rn-510} Al maestro de coro. Por el tono de "No destruyas". De David. Miktam. Cuando Saúl mandó hombres que vigilaran la casa para matarlo.
 
-y estoy siempre esperándote.
+[2](#c58-v2){:#c58-v2} Dios mío, sálvame de mis enemigos; defiéndeme de los que me atacan.
 
-6[4393]Acuérdate, Yahvé, de tus misericordias,
+[3](#c58-v3){:#c58-v3} Líbrame de los que obran iniquidades y protégeme contra los hombres sanguinarios.
 
-y de tus bondades de todos los tiempos.
+[4](#c58-v4){:#c58-v4} Mira: ponen asechanzas a mi vida, y hombres poderosos conspiran contra mí. No hay en mí delito ni pecado, Yahvé.
 
-7[4394]No recuerdes los pecados de mi mocedad,
+[5](#c58-v5){:#c58-v5} [[511]](#n-511){:#rn-511} Sin culpa mía irrumpen y me asaltan. Despierta Tú, ven a mí y mira.
 
-[ni mis ofensas];
+[6](#c58-v6){:#c58-v6} Porque Tú, Yahvé, Dios de los ejércitos, eres el Dios de Israel. Levántate a castigar a todos los gentiles; no te apiades de ninguno de los pérfidos.
 
-según tu benevolencia acuérdate de mí,
+[7](#c58-v7){:#c58-v7} [[512]](#n-512){:#rn-512} Vuelven al anochecer, aullando como perros, y giran en torno de la ciudad.
 
-por tu bondad, oh Yahvé.
+[8](#c58-v8){:#c58-v8} [[513]](#n-513){:#rn-513} Mira la jactancia en su boca, y cómo injurian sus labios:.. "¿Quién hay que (nos) oiga?"
 
-8[4395]Yahvé es benigno y es recto;
+[9](#c58-v9){:#c58-v9} Mas Tú, Yahvé te ríes de ellos; harás befa de todos los gentiles.
 
-por eso da a los pecadores
+[10](#c58-v10){:#c58-v10} [[514]](#n-514){:#rn-514} Oh fortaleza mía, a Ti cantaré. Verdaderamente mi alcázar es Dios.
 
-una ley para el camino;
+[11](#c58-v11){:#c58-v11} [[515]](#n-515){:#rn-515} La misericordia de mi Dios se me anticipará y me hará mirar con alegría a mis enemigos.
 
-9[4396]guía en la justicia a los humildes,
+[12](#c58-v12){:#c58-v12} [[516]](#n-516){:#rn-516} No les des tregua, oh Dios; no sean tropiezo para mi pueblo. Confúndelos con tu poder y póstralos, oh Señor, escudo nuestro.
 
-y amaestra a los dóciles en sus vías.
+[13](#c58-v13){:#c58-v13} Pecado de su boca es cuanto profieren sus labios; sean presa de su propia soberbia, de sus maldiciones y de sus mentiras.
 
-10[4397]Todos los caminos de Yahvé
+[14](#c58-v14){:#c58-v14} [[517]](#n-517){:#rn-517} Destrúyelos en tu saña, destrúyelos hasta que ya no existan; entonces se sabrá que Dios reina en Jacob y hasta los confines del orbe.
 
-son misericordia y fidelidad
+[15](#c58-v15){:#c58-v15} [[518]](#n-518){:#rn-518} Vuelvan al anochecer, aullando como perros, y giren en torno de la ciudad;
 
-para cuantos buscan su alianza
+[16](#c58-v16){:#c58-v16} vaguen buscando qué comer, y si no se sacian, den aullidos.
 
-y sus disposiciones.
+[17](#c58-v17){:#c58-v17} Entretanto, yo cantaré tu potencia, y desde la mañana saltaré de gozo por tu misericordia; porque fuiste mi protector, y mi refugio en el día de la tribulación.
 
-11Por la gloria de tu Nombre, oh Yahvé,
+[18](#c58-v18){:#c58-v18} [[519]](#n-519){:#rn-519} Oh fortaleza mía, a Ti cantaré. Verdaderamente mi alcázar es Dios, el Dios misericordiosísimo conmigo. 
 
-Tú perdonarás mi culpa,
+### Salmo [59 (60)](#c59) {#c59}
 
-aunque es muy grande.
+### Dolores y esperanzas de Israel 
 
-12¿Hay algún hombre que tema a Yahvé?
+[1](#c59-v1){:#c59-v1} [[520]](#n-520){:#rn-520} Al maestro de coro. Por el tono de "El lirio del testimonio". Miktam de David, para hacerlo aprender.
 
-A ese le mostrará Él qué senda elegir;
+[2](#c59-v2){:#c59-v2} [[521]](#n-521){:#rn-521} Cuando hizo guerra contra Aram de Naharaim y Aram de Sobá, y Joab, ya de vuelta, batió a Edom en el valle de las Salinas (matándole) doce mil hombres.
 
-13[4398]reposará su alma rodeada de bienes,
+[3](#c59-v3){:#c59-v3} [[522]](#n-522){:#rn-522} Oh Dios, nos has desechado, quebrantaste nuestros ejércitos; estabas airado, ¡vuelve a nosotros!
 
-y su descendencia poseerá la tierra.
+[4](#c59-v4){:#c59-v4} [[523]](#n-523){:#rn-523} Has sacudido la tierra, la has hendido; sana sus fracturas porque tambalea.
 
-14[4399]Yahvé concede intimidad familiar
+[5](#c59-v5){:#c59-v5} [[524]](#n-524){:#rn-524} Cosas duras le hiciste experimentar a tu pueblo; nos diste de beber vino de vértigo.
 
-a los que le temen;
+[6](#c59-v6){:#c59-v6} Pusiste, empero, una señal a los que te temen de modo que huyeran del arco.
 
-les da a conocer (las promesas de) su alianza.
+[7](#c59-v7){:#c59-v7} [[525]](#n-525){:#rn-525} Mas ahora; para que sean libertados los que Tu amas, socorre con tu diestra, y escúchanos.
 
-15[4400]Mis ojos están siempre puestos en Yahvé
+[8](#c59-v8){:#c59-v8} [[526]](#n-526){:#rn-526} Dijo Dios en su santidad: "Triunfaré; repartiré a Siquem, y mediré el valle de Sucot.
 
-porque Él saca mis pies del lazo.
+[9](#c59-v9){:#c59-v9} [[527]](#n-527){:#rn-527} Mío es Galaad, y mía la tierra de Manasés; Efraím es el yelmo de mi cabeza; y Judá mi cetro;
 
-16[4401]Mírame Tú y tenme lástima,
+[10](#c59-v10){:#c59-v10} [[528]](#n-528){:#rn-528} Moab, la vasija de mi lavatorio; sobre Edom echaré mi calzado, y Filistea será mi súbdito."
 
-porque soy miserable y estoy solo.
+[11](#c59-v11){:#c59-v11} [[529]](#n-529){:#rn-529} ¿Quién me conducirá a la ciudad fortificada? ¿Quién me llevará hasta Edom?
 
-17[4402]Ensancha mi corazón angustiado,
+[12](#c59-v12){:#c59-v12} ¿No serás Tú, oh Dios, que nos has rechazado y que ya no sales con nuestros ejércitos?
 
-sácame de mis estrecheces.
+[13](#c59-v13){:#c59-v13} [[530]](#n-530){:#rn-530} Ven en nuestro auxilio contra el adversario, porque vano es el auxilio de los hombres.
 
-18[4403]Mira que estoy cargado y agobiado,
+[14](#c59-v14){:#c59-v14} Con Dios haremos proezas; Él hollará a nuestros enemigos. 
 
-y perdona Tú todos mis delitos.
+### Salmo [60 (61)](#c60) {#c60}
 
-19[4404]Repara en mis enemigos,
+### Anhelo mesiánico de David 
 
-porque son muchos
+[1](#c60-v1){:#c60-v1} [[531]](#n-531){:#rn-531} Al maestro de coro. Para instrumentos de cuerda. De David.
 
-y me odian con odio feroz.
+[2](#c60-v2){:#c60-v2} Escucha, oh Dios, mi grito, atiende a mi oración.
 
-20[4405]Cuida Tú mi alma y sálvame;
+[3](#c60-v3){:#c60-v3} [[532]](#n-532){:#rn-532} Desde los confines de la tierra clamo a Ti, con el corazón desfallecido; Tú me alzarás hasta la roca, me darás el reposo.
 
-no tenga yo que sonrojarme
+[4](#c60-v4){:#c60-v4} [[533]](#n-533){:#rn-533} Porque eres mi refugio, la fuerte torre contra el enemigo.
 
-de haber acudido a Ti.
+[5](#c60-v5){:#c60-v5} Habite yo para siempre en tu tabernáculo y encuentre abrigo a la sombra de tus alas.
 
-21[4406]Los íntegros y justos
+[6](#c60-v6){:#c60-v6} [[534]](#n-534){:#rn-534} Oíste mis votos, oh Dios, y me has dado la herencia de los que temen tu Nombre.
 
-están unidos conmigo,
+[7](#c60-v7){:#c60-v7} [[535]](#n-535){:#rn-535} Añade días a los días del rey; sean iguales sus años a la multitud de generaciones.
 
-porque espero en Ti.
+[8](#c60-v8){:#c60-v8} Reine eternamente delante de Dios; que tu misericordia y tu fidelidad lo conserven.
 
-22[4407]Oh Yahvé, libra a Israel
+[9](#c60-v9){:#c60-v9} [[536]](#n-536){:#rn-536} Así cantaré tu Nombre para siempre, y cumpliré mis votos cada día. 
 
-de todas sus tribulaciones.
+### Salmo [61 (62)](#c61) {#c61}
 
-SALMO 25 (26)
-Confianza del hombre recto
+### No confiar más que en Dios 
 
-1[4408]De David.
+[1](#c61-v1){:#c61-v1} [[537]](#n-537){:#rn-537} Al maestro de coro. Según Iditún. Salmo de David.
 
-Hazme justicia, oh Yahvé:
+[2](#c61-v2){:#c61-v2} [[538]](#n-538){:#rn-538} Solo en Dios se descansa, oh alma mía, porque la salud viene de Él.
 
-he procedido con integridad:
+[3](#c61-v3){:#c61-v3} Él solo es mi roca, mi salvación, mi defensa: nunca seré conmovido.
 
-y, puesta en Yahvé mi confianza,
+[4](#c61-v4){:#c61-v4} [[539]](#n-539){:#rn-539} ¿Hasta cuándo acometeréis a un solo hombre, queriendo todos derribarlo, como muro inclinado, como pared que se desploma?
 
-no he vacilado.
+[5](#c61-v5){:#c61-v5} [[540]](#n-540){:#rn-540} De su lugar excelso intentan despeñarle, ellos, que se deleitan con la mentira; bendicen con su boca, y en su corazón maldicen.
 
-2[4409]Escrútame, Yahvé, y sondéame;
+[6](#c61-v6){:#c61-v6} [[541]](#n-541){:#rn-541} Solo en Dios se descansa, oh alma mía, porque la salud viene de Él.
 
-acrisola mi conciencia y mi corazón.
+[7](#c61-v7){:#c61-v7} Él solo es mi roca, mi salvación, mi defensa; nunca seré conmovido.
 
-3[4410]Porque, teniendo tu bondad
+[8](#c61-v8){:#c61-v8} En Dios está mi salud y mi gloria; mi firme roca y mi refugio es Dios.
 
-presente a mis ojos,
+[9](#c61-v9){:#c61-v9} [[542]](#n-542){:#rn-542} Oh pueblo, espera en Él en todo tiempo; en su presencia derramad vuestros corazones, porque Dios es para nosotros el amparo.
 
-anduve según tu verdad.
+[10](#c61-v10){:#c61-v10} [[543]](#n-543){:#rn-543} Los hijos de los hombres no son más que un soplo; los poderosos, una mentira; puestos en la balanza suben alto; porque todos juntos pesan menos que el aire.
 
-4[4411]No he tomado asiento con hombres inicuos,
+[11](#c61-v11){:#c61-v11} [[544]](#n-544){:#rn-544} No confiéis en la violencia, ni os gloriéis en la rapiña. Si vuestras riquezas aumentan, no pongáis en ellas el corazón.
 
-ni busqué la compañía de los que fingen;
+[12](#c61-v12){:#c61-v12} [[545]](#n-545){:#rn-545} Una cosa dijo Dios, y otra segunda le oí:
 
-5aborrecí la sociedad de los malvados,
+[13](#c61-v13){:#c61-v13} [[546]](#n-546){:#rn-546} que el poder es de Dios, y la gracia, oh Señor, es tuya. Porque Tú recompensas a cada uno según sus obras. 
 
-y con los impíos no tuve comunicación.
+### Salmo [62 (63)](#c62) {#c62}
 
-6[4412]Lavo mis manos como inocente
+### El alma sedienta de Dios 
 
-y rodeo tu altar, oh Yahvé,
+[1](#c62-v1){:#c62-v1} [[547]](#n-547){:#rn-547} Salmo de David. Mientras vagaba por el desierto de Judá.
 
-7[4413]para levantar mi voz en tu alabanza
+[2](#c62-v2){:#c62-v2} [[548]](#n-548){:#rn-548} Oh Dios, Tú eres el Dios mío, a Ti te busco ansioso; mi alma tiene sed de Ti, y mi carne sin Ti languidece, como (esta) tierra árida y yerma, falta de agua.
 
-y narrar todas tus maravillas.
+[3](#c62-v3){:#c62-v3} [[549]](#n-549){:#rn-549} Así vuelvo mis ojos hacia Ti en el santuario, para contemplar tu poder y tu gloria;
 
-8[4414]Amo, Yahvé, la casa de tu morada,
+[4](#c62-v4){:#c62-v4} [[550]](#n-550){:#rn-550} porque tu gracia vale más que la vida, por eso mis labios te alabarán.
 
-el lugar del tabernáculo de tu gloria.
+[5](#c62-v5){:#c62-v5} [[551]](#n-551){:#rn-551} Así te bendeciré toda mi vida y hacia tu Nombre levantaré mis manos.
 
-9No quieras juntar mi alma con los pecadores,
+[6](#c62-v6){:#c62-v6} [[552]](#n-552){:#rn-552} Mi alma quedará saciada como de médula y gordura, y mi boca te celebrará con labios de exultación,
 
-ni mi vida con los sanguinarios,
+[7](#c62-v7){:#c62-v7} [[553]](#n-553){:#rn-553} cada vez que me acuerde de Ti en mi lecho y en mis insomnios medite sobre Ti;
 
-10[4415]que en sus manos tienen crimen,
+[8](#c62-v8){:#c62-v8} porque en verdad Tú te hiciste mi amparo, y a la sombra de tus alas me siento feliz.
 
-y cuya diestra está llena de soborno,
+[9](#c62-v9){:#c62-v9} [[554]](#n-554){:#rn-554} Si mi alma se adhiere a Ti, tu diestra me sustenta.
 
-11en tanto que yo he procedido con integridad;
+[10](#c62-v10){:#c62-v10} Los que quieren quitarme la vida caerán en lo profundo de la tierra.
 
-sálvame y apiádate de mí.
+[11](#c62-v11){:#c62-v11} Serán entregados al poder de la espada, y formarán la porción de los chacales,
 
-12[4416]Ya está mi pie sobre camino llano;
+[12](#c62-v12){:#c62-v12} [[555]](#n-555){:#rn-555} en tanto que el rey se alegrará en Dios y se gloriará todo el que jura por Él; pues será cerrada la boca a los que hablan iniquidad. 
 
-en las asambleas bendeciré a Yahvé.
+### Salmo [63 (64)](#c63) {#c63}
 
-SALMO 26 (27)
-Espera confiada
+### Dios frustra los ardides 
 
-1[4417]De David.
+[1](#c63-v1){:#c63-v1} Al maestro de coro. Salmo de David.
 
-Yahvé es mi luz y mi socorro;
+[2](#c63-v2){:#c63-v2} [[556]](#n-556){:#rn-556} Oye, oh Dios, mi voz en esta queja; libra mi vida del enemigo aterrador.
 
-¿a quién temeré?
+[3](#c63-v3){:#c63-v3} Ampárame contra la conspiración de los malvados; contra la turba de los malhechores,
 
-La defensa de mi vida es Yahvé;
+[4](#c63-v4){:#c63-v4} [[557]](#n-557){:#rn-557} que aguzan su lengua como espada, y lanzan su saeta: la palabra venenosa,
 
-¿ante quién podré temblar?
+[5](#c63-v5){:#c63-v5} para herir a escondidas al inocente; para alcanzarlo de improviso, a mansalva.
 
-2Cada vez que me asaltan los malignos
+[6](#c63-v6){:#c63-v6} [[558]](#n-558){:#rn-558} Afirmados resueltamente en sus perversos designios, se conciertan para tender sus lazos ocultos, diciendo: "¿Quién nos verá?"
 
-para devorar mi carne,
+[7](#c63-v7){:#c63-v7} [[559]](#n-559){:#rn-559} Fraguados los planes dolosos (dicen): "El golpe está bien preparado, procedamos." ¡Profundo es el pensamiento y el corazón del hombre!
 
-son ellos, mis adversarios y enemigos,
+[8](#c63-v8){:#c63-v8} [[560]](#n-560){:#rn-560} Pero Dios les manda una saeta, quedan heridos de improviso;
 
-quienes vacilan y caen.
+[9](#c63-v9){:#c63-v9} su propia lengua los arruina, y cuantos los miran menean la cabeza.
 
-3Si un ejército acampase contra mí,
+[10](#c63-v10){:#c63-v10} [[561]](#n-561){:#rn-561} Entonces todos temerán y proclamarán la obra de Dios, y reconocerán que es cosa suya.
 
-mi corazón no temería;
+[11](#c63-v11){:#c63-v11} Entretanto el justo se alegrará en Yahvé y en Él confiará; y se gloriarán todos los de corazón recto. 
 
-y aunque estalle contra mí la guerra,
+### Salmo [64 (65)](#c64) {#c64}
 
-tendré confianza.
+### La alabanza en Sión 
 
-4[4418]Una sola cosa he pedido a Yahvé,
+[1](#c64-v1){:#c64-v1} [[562]](#n-562){:#rn-562} Al maestro de coro. Salmo de David. Himno.
 
-y esto sí lo reclamo:
+[2](#c64-v2){:#c64-v2} [[563]](#n-563){:#rn-563} A Ti, oh Dios, es debida la alabanza en Sión, y a Ti se han de cumplir los votos.
 
-[habitar en la casa de Yahvé
+[3](#c64-v3){:#c64-v3} [[564]](#n-564){:#rn-564} A Ti, que oyes las plegarias, a Ti irá toda carne, a causa de los pecados.
 
-todos los días de mi vida];
+[4](#c64-v4){:#c64-v4} Prevalecen contra nosotros nuestras iniquidades, mas Tú las perdonas.
 
-contemplar la suavidad de Yahvé
+[5](#c64-v5){:#c64-v5} [[565]](#n-565){:#rn-565} Dichoso aquel a quien Tu elijas y atraigas, para que habite en tus atrios. Nos hartaremos de los bienes de tu casa y de la santidad de tu Templo.
 
-y meditar en su santuario.
+[6](#c64-v6){:#c64-v6} [[566]](#n-566){:#rn-566} En tu justicia nos escuchas con estupendas señales, oh Dios salvador nuestro, esperanza de todos los confines de la tierra y de los más lejanos mares.
 
-5[4419]Porque en el día malo
+[7](#c64-v7){:#c64-v7} [[567]](#n-567){:#rn-567} Con tu fuerza consolidas los montes, revestido de poder.
 
-Él me esconderá en su tienda;
+[8](#c64-v8){:#c64-v8} Sosiegas el furor de los mares, el estruendo de sus ondas y el tumulto de las naciones.
 
-me tendrá seguro
+[9](#c64-v9){:#c64-v9} [[568]](#n-568){:#rn-568} Se estremecen ante tus portentos los que habitan los confines de la tierra. Tú llenas de alegría el Oriente y el Occidente.
 
-en el secreto de su tabernáculo,
+[10](#c64-v10){:#c64-v10} [[569]](#n-569){:#rn-569} Has visitado la tierra, la has embriagado y colmado de riquezas. El río de Dios rebosa de aguas; Tú preparas sus trigales, aparejando la tierra,
 
-y me pondrá sobre una alta roca.
+[11](#c64-v11){:#c64-v11} [[570]](#n-570){:#rn-570} regando sus surcos, y allanando sus terrones; las ablandas con lluvias, y fecundas sus gérmenes.
 
-6[4420]Entonces mi cabeza se alzará
+[12](#c64-v12){:#c64-v12} Coronas de benignidad el año, y tus huellas destilan grosura.
 
-por encima de mis enemigos en torno mío,
+[13](#c64-v13){:#c64-v13} Las praderas del desierto destilan, y los collados se visten de exultación.
 
-e inmolaré en su tabernáculo
+[14](#c64-v14){:#c64-v14} Llenos están los campos de rebaños, y los valles se cubren de mieses; se alegran y cantan. 
 
-sacrificios de júbilo;
+### Salmo [65 (66)](#c65) {#c65}
 
-cantaré y entonaré salmos a Yahvé.
+### Gratitud de Israel 
 
-7Escucha, oh Yahvé, mi voz que te llama;
+[1](#c65-v1){:#c65-v1} [[571]](#n-571){:#rn-571} Al maestro de coro. Cántico. Salmo.
 
-ten misericordia de mí y atiéndeme.
+[2](#c65-v2){:#c65-v2} Aclamad a Dios con júbilo, tierras todas; cantad salmos a la gloria de su Nombre; dadle el honor de la alabanza.
 
-8[4421]Mi corazón sabe
+[3](#c65-v3){:#c65-v3} Decid a Dios: "¡Cuan asombrosas son tus obras!" Aun tus enemigos te lisonjean por la grandeza de tu poder.
 
-que Tú has dicho: “Buscadme.”
+[4](#c65-v4){:#c65-v4} [[572]](#n-572){:#rn-572} Prostérnese ante Ti la tierra entera y cante tu Nombre.
 
-Y yo busco tu rostro, oh Yahvé.
+[5](#c65-v5){:#c65-v5} [[573]](#n-573){:#rn-573} Venid y contemplad las hazañas de Dios; sublime en sus designios sobre los hombres.
 
-9No quieras esconderme tu faz,
+[6](#c65-v6){:#c65-v6} [[574]](#n-574){:#rn-574} Trocó en tierra seca el mar; el río fue cruzado a pie enjuto. Alegrémonos en Él.
 
-no rechaces con desdén a tu siervo.
+[7](#c65-v7){:#c65-v7} Reina con su poderío para siempre; sus ojos observan a las naciones, para que los rebeldes no levanten cabeza.
 
-Mi socorro eres Tú;
+[8](#c65-v8){:#c65-v8} [[575]](#n-575){:#rn-575} Bendecid, oh naciones, a nuestro Dios, y haced resonar su alabanza,
 
-no me eches fuera,
+[9](#c65-v9){:#c65-v9} porque Él mantuvo en vida a nuestra alma, y no dejó que vacilara nuestro pie.
 
-ni me desampares,
+[10](#c65-v10){:#c65-v10} Pues Tú nos probaste, oh Dios, nos probaste por el fuego, como se hace con la plata.
 
-oh Dios, Salvador mío.
+[11](#c65-v11){:#c65-v11} Nos dejaste caer en el lazo; pusiste un peso aplastante sobre nuestras espaldas.
 
-10[4422]Si mi padre y mi madre me abandonan,
+[12](#c65-v12){:#c65-v12} [[576]](#n-576){:#rn-576} Hiciste pasar hombres sobre nuestra cabeza; atravesamos por fuego y por agua; mas nos sacaste a refrigerio.
 
-Yahvé me recogerá.
+[13](#c65-v13){:#c65-v13} Entraré en tu casa con holocausto, y te cumpliré mis votos,
 
-11Muéstrame, oh Yahvé, tu camino,
+[14](#c65-v14){:#c65-v14} los que mis labios pronunciaron y prometió mi boca en medio de mi tribulación.
 
-y condúceme por la senda llana
+[15](#c65-v15){:#c65-v15} [[577]](#n-577){:#rn-577} Te ofreceré pingües holocaustos, con grosura de carneros; te inmolaré bueyes y cabritillos.
 
-a causa de los que me están asechando.
+[16](#c65-v16){:#c65-v16} [[578]](#n-578){:#rn-578} Venid, escuchad todos los que teméis a Dios; os contaré cuan grandes cosas ha hecho por mí.
 
-12[4423]No me dejes entregado
+[17](#c65-v17){:#c65-v17} [[579]](#n-579){:#rn-579} Clamé hacia Él con mi boca, y su alabanza estaba pronta en mi lengua.
 
-a la voluntad de mis enemigos,
+[18](#c65-v18){:#c65-v18} Si mi corazón hubiera tenido en vista la iniquidad, el Señor no me habría escuchado;
 
-porque se han levantado
+[19](#c65-v19){:#c65-v19} pero Dios oyó; atendió a la voz de mi plegaria.
 
-contra mí falsos testigos
+[20](#c65-v20){:#c65-v20} [[580]](#n-580){:#rn-580} Bendito sea Dios, que no despreció mi oración y no retiró de mí su misericordia. 
 
-que respiran crueldad.
+### Salmo [66 (67)](#c66) {#c66}
 
-13[4424] ¡Ah, si no creyera yo
+### Anhelo del Israel de Dios 
 
-que veré los bienes de Yahvé
+[1](#c66-v1){:#c66-v1} Al maestro de coro. Para instrumentos de cuerda. Salmo. Cántico.
 
-en la tierra de los vivientes!
+[2](#c66-v2){:#c66-v2} [[581]](#n-581){:#rn-581} Dios tenga misericordia de nosotros y bendíganos; vuelva hacia nosotros su rostro sereno,
 
-14[4425]¡Aguarda a Yahvé y ten ánimo;
+[3](#c66-v3){:#c66-v3} [[582]](#n-582){:#rn-582} para que sus caminos sean conocidos sobre la tierra, y su salvación entre todas las naciones.
 
-aliéntese tu corazón y aguarde a Yahvé!
+[4](#c66-v4){:#c66-v4} Alábente los pueblos, oh Dios, te alaben los pueblos todos.
 
-SALMO 27 (28)
-Oración escuchada
+[5](#c66-v5){:#c66-v5} [[583]](#n-583){:#rn-583} Alégrense y salten de gozo las naciones, viéndote gobernar los pueblos con justicia y regir en la tierra a las naciones.
 
-1[4426]De David.
+[6](#c66-v6){:#c66-v6} Te alaben los pueblos, oh Dios, te alaben los pueblos todos.
 
-A Ti, Yahvé, clamo, roca mía,
+[7](#c66-v7){:#c66-v7} [[584]](#n-584){:#rn-584} La tierra ha dado su fruto; nos bendijo Dios, el Dios nuestro. ¡Que Dios nos bendiga y que le reverencien hasta los últimos confines del universo! 
 
-no te muestres sordo conmigo;
+### Salmo [67 (68)](#c67) {#c67}
 
-no sea que si Tú me desoyes
+### Triunfo de Dios 
 
-me asemeje yo a los que bajan al sepulcro.
+[1](#c67-v1){:#c67-v1} [[585]](#n-585){:#rn-585} Al maestro de coro. Salmo de David. Cántico.
 
-2[4427]Escucha la voz de mi súplica
+[2](#c67-v2){:#c67-v2} [[586]](#n-586){:#rn-586} Alzase Dios; sus enemigos se dispersan, y huyen ante Él sus adversarios.
 
-cuando clamo a Ti,
+[3](#c67-v3){:#c67-v3} Como se desvanece el humo, así se disipan; como se derrite la cera junto al fuego, así perecen los impíos ante la faz de Dios.
 
-mientras levanto mis manos
+[4](#c67-v4){:#c67-v4} Los justos están alegres, saltan de júbilo en la presencia de Dios, y se regocijan con deleite.
 
-hacia el interior de tu Santuario.
+[5](#c67-v5){:#c67-v5} [[587]](#n-587){:#rn-587} Celebrad a Dios, entonad salmos a su Nombre; abrid camino al que viene a través del desierto. "El Señor" es su nombre, gozaos delante de Él.
 
-3[4428]No me quites de en medio con los impíos
+[6](#c67-v6){:#c67-v6} [[588]](#n-588){:#rn-588} Padre de los huérfanos y defensor de las viudas, Dios está en su santa morada.
 
-y los obradores de iniquidad,
+[7](#c67-v7){:#c67-v7} Dios prepara un hogar a los desamparados, saca a prosperidad a los cautivos, solo los rebeldes se quedan en el tórrido desierto.
 
-que hablan paz a su prójimo
+[8](#c67-v8){:#c67-v8} [[589]](#n-589){:#rn-589} Dios cuando Tú saliste a la cabeza de tu pueblo, cuando avanzabas por el desierto,
 
-y maquinan el mal en su corazón.
+[9](#c67-v9){:#c67-v9} se estremeció la tierra; también los cielos destilaron a la vista de Dios, [el mismo Sinaí tembló delante de Dios] el Dios de Israel.
 
-4[4429]Retribúyeles conforme a sus obras
+[10](#c67-v10){:#c67-v10} [[590]](#n-590){:#rn-590} Lluvia generosa derramaste, oh Dios, sobre tu heredad; estaba agotada y la renovaste.
 
-y a la malicia de sus maquinaciones;
+[11](#c67-v11){:#c67-v11} En ella habitó tu grey; en tu bondad, oh Dios, proveías a los necesitados.
 
-págales según su conducta,
+[12](#c67-v12){:#c67-v12} [[591]](#n-591){:#rn-591} El Señor cumple su palabra: las buenas nuevas llegan en tropel:
 
-dales su merecido.
+[13](#c67-v13){:#c67-v13} [[592]](#n-592){:#rn-592} "Huyen reyes y ejércitos, huyen; y las mujeres de la casa reparten el botín.
 
-5[4430]Porque no paran mientes
+[14](#c67-v14){:#c67-v14} Mientras vosotros descansabais recostados entre los apriscos, las alas de la paloma brillaban plateadas y las plumas de la misma atornasoladas de oro.
 
-en los hechos de Yahvé,
+[15](#c67-v15){:#c67-v15} [[593]](#n-593){:#rn-593} Cuando el Omnipotente dispersaba a los reyes parecía caer nieve sobre el Salmón."
 
-ni en las obras de sus manos.
+[16](#c67-v16){:#c67-v16} [[594]](#n-594){:#rn-594} Montes grandes son los montes de Basan, montañas de altas cumbres son los montes de Basan.
 
-¡Destrúyalos Él y no los restablezca!
+[17](#c67-v17){:#c67-v17} ¿Por qué, oh montes encumbrados, miráis con envidia el monte que Dios escogió para su morada? Sí, en él habitará Yahvé para siempre.
 
-6[4431]Bendito sea Yahvé,
+[18](#c67-v18){:#c67-v18} [[595]](#n-595){:#rn-595} Millares y millares forman la carroza de Dios; en medio de ellos viene el Señor del Sinaí al Santuario.
 
-porque oyó la voz de mi súplica.
+[19](#c67-v19){:#c67-v19} [[596]](#n-596){:#rn-596} Subiste a lo alto llevando cautivos; recibiste en don hombres; aun los rebeldes habitarán junto a Yah (nuestro) Dios.
 
-7Yahvé es mi fortaleza y mi escudo;
+[20](#c67-v20){:#c67-v20} ¡Bendito sea el Señor, día tras día! Dios, salvación nuestra, lleva nuestras cargas.
 
-en Él confió mi corazón y fui socorrido.
+[21](#c67-v21){:#c67-v21} El Dios nuestro es un Dios que salva; por el Señor Yahvé escapamos a la muerte.
 
-Por eso mi corazón salta de gozo
+[22](#c67-v22){:#c67-v22} [[597]](#n-597){:#rn-597} Porque Dios quebrantará la cabeza de sus enemigos, el altivo penacho de los que se pasean en sus delitos.
 
-y lo alabo con mi cántico.
+[23](#c67-v23){:#c67-v23} [[598]](#n-598){:#rn-598} El Señor dijo: "De Basan los sacaré, los sacaré de lo profundo del océano;
 
-8[4432]Yahvé es la fuerza de su pueblo,
+[24](#c67-v24){:#c67-v24} para que hundas tu pie en la sangre de tus enemigos y en ella tenga parte la lengua de los perros."
 
-y el alcázar de salvación para su ungido.
+[25](#c67-v25){:#c67-v25} Se ve tu entrada, oh Dios, la entrada de mi Dios, de mi Rey, en el Santuario.
 
-9[4433]Salva a tu pueblo
+[26](#c67-v26){:#c67-v26} [[599]](#n-599){:#rn-599} Cantores van delante, en pos van los tañedores; en medio, las doncellas baten los címbalos (cantando):
 
-y bendice a tu heredad;
+[27](#c67-v27){:#c67-v27} "Bendecid a Dios con alegría, bendecid al Señor los hijos de Israel."
 
-apaciéntalos y condúcelos para siempre.
+[28](#c67-v28){:#c67-v28} Allí está Benjamín, el más joven, precediéndolos; los príncipes de Judá y su séquito, los príncipes de Zabulón, los príncipes de Neftalí.
 
-SALMO 28 (29)
-La voz de Yahvé en la tempestad del juicio
+[29](#c67-v29){:#c67-v29} [[600]](#n-600){:#rn-600} Despliega, oh Dios, tu poderío; poderío que asumes, oh Dios, en favor nuestro.
 
-1[4434]Salmo de David.
+[30](#c67-v30){:#c67-v30} [[601]](#n-601){:#rn-601} A causa de tu templo que está en Jerusalén, te ofrezcan tributos los reyes.
 
-Dad a Yahvé, oh hijos de Dios,
+[31](#c67-v31){:#c67-v31} [[602]](#n-602){:#rn-602} lncrepa a la bestia del cañaveral y la multitud de los poderosos, dominadores de los pueblos. Suprime a los ávidos de plata. ¡Dispersa a los pueblos, que se gozan en las guerras!
 
-dad a Yahvé gloria y poderío.
+[32](#c67-v32){:#c67-v32} Vengan los magnates de Egipto, levante Etiopía sus manos a Dios,
 
-2[4435]Tributad a Yahvé la gloria
+[33](#c67-v33){:#c67-v33} [[603]](#n-603){:#rn-603} Reinos de la tierra, celebrad a Dios, entonad salmos al Señor,
 
-debida a su Nombre,
+[34](#c67-v34){:#c67-v34} [[604]](#n-604){:#rn-604} a Aquel que cabalga por los cielos, los antiguos cielos; al que hace resonar su voz, su voz poderosa.
 
-adorad a Yahvé en su Santuario.
+[35](#c67-v35){:#c67-v35} Reconoced la potestad de Dios, su majestad es sobre Israel, y su poder en las nubes.
 
-3[4436]¡La voz de Yahvé sobre las aguas!
+[36](#c67-v36){:#c67-v36} Terrible es Dios desde su Santuario, el Dios de Israel, el que da potestad y vigor a su pueblo. ¡Bendito sea Dios! 
 
-Truena el Dios de la majestad,
+### Salmo [68 (69)](#c68) {#c68}
 
-Yahvé sobre las muchas aguas.
+### El lamento de Cristo 
 
-4¡La voz de Yahvé con poderío!
+[1](#c68-v1){:#c68-v1} [[605]](#n-605){:#rn-605} Al maestro de coro. Por el tono de "Los lirios". De David.
 
-¡La voz de Yahvé con majestad!
+[2](#c68-v2){:#c68-v2} [[606]](#n-606){:#rn-606} ¡Sálvame, oh Dios! porque las aguas me han llegado al cuello.
 
-5La voz de Yahvé troncha los cedros,
+[3](#c68-v3){:#c68-v3} Estoy sumergido en lo hondo del fango, y no hay donde hacer pie; he caído en aguas profundas y me arrastra la corriente.
 
-Yahvé troncha los cedros del Líbano.
+[4](#c68-v4){:#c68-v4} Me he cansado de llamar, mi garganta ha enronquecido, han desfallecido mis ojos esperando a mi Dios.
 
-6[4437]Hace brincar al Líbano como un novillo,
+[5](#c68-v5){:#c68-v5} [[607]](#n-607){:#rn-607} Más que los cabellos de mi cabeza son los que sin causa me odian. Son demasiado poderosos para mis fuerzas los que injustamente me hostilizan, y tengo que devolver lo que no he robado.
 
-y al Schirión como cría de bisonte.
+[6](#c68-v6){:#c68-v6} [[608]](#n-608){:#rn-608} Tú, oh Dios, conoces mi insensatez y mis pecados no te están ocultos.
 
-7La voz de Yahvé hace brotar llamas de fuego.
+[7](#c68-v7){:#c68-v7} [[609]](#n-609){:#rn-609} No sean confundidos por mi causa los que esperan en Ti, oh Señor, Yahvé de los ejércitos. Que no se avergüencen de mí quienes te buscan, oh Dios de Israel.
 
-8La voz de Yahvé sacude el desierto;
+[8](#c68-v8){:#c68-v8} [[610]](#n-610){:#rn-610} Es por tu causa si he sufrido oprobio y mi rostro se ha cubierto de confusión.
 
-Yahvé hace temblar el desierto de Cadés.
+[9](#c68-v9){:#c68-v9} [[611]](#n-611){:#rn-611} He venido a ser un extraño para mis hermanos; los hijos de mi madre no me conocen,
 
-9La voz de Yahvé retuerce los robles
+[10](#c68-v10){:#c68-v10} [[612]](#n-612){:#rn-612} porque me devora el celo de tu casa, y los baldones de los que te ultrajan cayeron sobre mí.
 
-y arrasa las selvas,
+[11](#c68-v11){:#c68-v11} [[613]](#n-613){:#rn-613} Me afligí con ayuno, y se me convirtió en vituperio.
 
-mientras en su Santuario todos dicen:
+[12](#c68-v12){:#c68-v12} Me vestí de cilicio, y vine a ser la fábula de ellos.
 
-¡Gloria!
+[13](#c68-v13){:#c68-v13} [[614]](#n-614){:#rn-614} Murmuran contra mí los que se sientan a la puerta, y los bebedores me hacen coplas.
 
-10[4438]Yahvé ha puesto su trono
+[14](#c68-v14){:#c68-v14} [[615]](#n-615){:#rn-615} Mas yo dirijo a Ti mi oración, oh Yahvé, en tiempo favorable, oh Dios, escúchame según la grandeza de tu bondad, según la fidelidad de tu socorro.
 
-sobre las muchas aguas,
+[15](#c68-v15){:#c68-v15} [[616]](#n-616){:#rn-616} Sácame del lodo, no sea que me sumerja. Líbrame de los que me odian y de la hondura de las aguas.
 
-y se sentará como Rey para siempre.
+[16](#c68-v16){:#c68-v16} No me arrastre la corriente de las aguas, ni me trague el abismo, ni el pozo cierre sobre mí su boca.
 
-11[4439]Yahvé dará fortaleza a su pueblo;
+[17](#c68-v17){:#c68-v17} Escúchame, Yahvé, porque tu gracia es benigna; mírame con la abundancia de tu misericordia;
 
-Yahvé bendecirá a su pueblo con la paz.
+[18](#c68-v18){:#c68-v18} no escondas tu rostro a tu siervo, escúchame pronto porque estoy en angustias.
 
-SALMO 29 (30)
-Acción de gracias después de una enfermedad grave
+[19](#c68-v19){:#c68-v19} Acércate a mi alma y rescátala; por causa de mis enemigos, líbrame.
 
-1[4440]Salmo-cántico para la dedicación de la casa de David.
+[20](#c68-v20){:#c68-v20} Bien conoces Tú mi afrenta, mi confusión y mi ignominia; a tu vista están todos los que me atribulan.
 
-2Yo te alabo, Yahvé, porque me libraste
+[21](#c68-v21){:#c68-v21} [[617]](#n-617){:#rn-617} El oprobio me ha quebrantado el corazón y titubeo; esperé que alguien se compadeciera de mí, y no lo hubo; y que alguno me consolara, mas no le hallé.
 
-y no dejaste que a costa mía
+[22](#c68-v22){:#c68-v22} [[618]](#n-618){:#rn-618} Por comida me ofrecieron hiel; y para mi sed me dieron a beber vinagre.
 
-se alegraran mis enemigos.
+[23](#c68-v23){:#c68-v23} [[619]](#n-619){:#rn-619} Conviértaseles su mesa en lazo y su holocausto en tropiezo.
 
-3Yahvé, Dios mío,
+[24](#c68-v24){:#c68-v24} [[620]](#n-620){:#rn-620} Obscurézcanse sus ojos para que no vean; y encorva siempre sus espaldas.
 
-clamé a Ti, y me sanaste.
+[25](#c68-v25){:#c68-v25} Vierte sobre ellos tu indignación, y alcánceles el ardor de tu ira.
 
-4[4441]Tú, Yahvé, sacaste mi vida del sepulcro;
+[26](#c68-v26){:#c68-v26} [[621]](#n-621){:#rn-621} Devastada quede su casa, y no haya quien habite en sus tiendas.
 
-me sacaste de entre los que descienden a la fosa.
+[27](#c68-v27){:#c68-v27} [[622]](#n-622){:#rn-622} Por cuanto persiguieron a aquel que Tú heriste, aumentaron el dolor de aquel que Tú llagaste.
 
-5[4442]Cantad himnos a Yahvé
+[28](#c68-v28){:#c68-v28} Añádeles iniquidad a su iniquidad, y no acierten con tu justicia.
 
-vosotros sus santos,
+[29](#c68-v29){:#c68-v29} [[623]](#n-623){:#rn-623} Sean borrados del libro de la vida, y no estén escritos con los justos.
 
-dad gracias al Nombre de Su santidad.
+[30](#c68-v30){:#c68-v30} Yo soy miserable y doliente, mas tu auxilio, oh Dios, me defenderá.
 
-6[4443]Porque su enojo dura un instante,
+[31](#c68-v31){:#c68-v31} [[624]](#n-624){:#rn-624} Alabaré el nombre de Dios en un cántico, le ensalzaré en un himno de gratitud;
 
-mas su benevolencia es por toda la vida,
+[32](#c68-v32){:#c68-v32} y agradará a Yahvé más que un toro, más que un novillo con sus cuernos y pezuñas.
 
-como el llanto viene al anochecer
+[33](#c68-v33){:#c68-v33} Vedlo, oh humildes, y alegraos, y reviva el corazón de los que buscáis a Dios.
 
-y con la aurora vuelve la alegría.
+[34](#c68-v34){:#c68-v34} Porque Yahvé escucha a los pobres, y no desprecia a sus cautivos.
 
-7[4444]Me decía yo en mi presunción:
+[35](#c68-v35){:#c68-v35} Alábenlo los cielos y la tierra, los mares y cuanto en ellos se mueve.
 
-“Nunca me pasará nada”;
+[36](#c68-v36){:#c68-v36} [[625]](#n-625){:#rn-625} Porque Dios salvará a Sión, y reedificará las ciudades de Judá; y habitarán allí, y tomarán posesión de ella.
 
-8pues Tú, oh Yahvé, en tu benevolencia,
+[37](#c68-v37){:#c68-v37} La heredarán los descendientes de sus siervos, y morarán en ella los que aman su Nombre. 
 
-me habías prestado honor y poderío;
+### Salmo [69 (70)](#c69) {#c69}
 
-mas apenas escondiste tu rostro,
+### Apremiante pedido de auxilio 
 
-quedé conturbado.
+[1](#c69-v1){:#c69-v1} [[626]](#n-626){:#rn-626} Al maestro de coro. De David. En memoria.
 
-9Clamé a Ti, oh Yahvé,
+[2](#c69-v2){:#c69-v2} [[627]](#n-627){:#rn-627} Ven a librarme, Dios mío, apresúrate, Yahvé, a socorrerme.
 
-e imploré la misericordia de mi Dios:
+[3](#c69-v3){:#c69-v3} Confundidos y sonrojados queden los que buscan mi vida; vuelvan la espalda cubiertos de vergüenza los que se gozan de mis males.
 
-10[4445] “¿Qué beneficio se obtendrá con mi sangre,
+[4](#c69-v4){:#c69-v4} Retrocedan llenos de confusión los que me dicen: "¡aja! ¡aja!".
 
-cuando yo descienda a la fosa?
+[5](#c69-v5){:#c69-v5} [[628]](#n-628){:#rn-628} Mas alégrense en Ti y regocíjense todos los que te buscan; y los que aman tu auxilio digan siempre: "Dios es grande."
 
-¿Acaso te alabará el polvo,
+[6](#c69-v6){:#c69-v6} [[629]](#n-629){:#rn-629} Yo soy miserable y doliente; mas Tú, oh Dios, ven en mi socorro. Mi amparo y mi libertador eres Tú; oh Yahvé, no tardes. 
 
-o proclamará tu fidelidad?”
+### Salmo [70 (71)](#c70) {#c70}
 
-11[4446]Me oyó Yahvé y tuvo compasión de mí;
+### Confiada oración del anciano 
 
-Yahvé vino en mi socorro.
+[1](#c70-v1){:#c70-v1} [[630]](#n-630){:#rn-630} En Ti, Yahvé, me refugio, no me vea nunca confundido.
 
-12Convertiste en danza mi llanto
+[2](#c70-v2){:#c70-v2} [[631]](#n-631){:#rn-631} Líbrame por obra de tu justicia y sácame del peligro; inclina a mí tu oído y sálvame.
 
-desataste mi cilicio
+[3](#c70-v3){:#c70-v3} Sé para mí la roca que me acoja, el baluarte seguro en que me salves, porque mi roca y mi alcázar eres Tú.
 
-y me ceñiste de alegría,
+[4](#c70-v4){:#c70-v4} [[632]](#n-632){:#rn-632} Líbrame, Dios mío, de las manos del inicuo, de las garras del impío y del opresor,
 
-13para que mi alma
+[5](#c70-v5){:#c70-v5} porque Tú, Señor, eres mi esperanza; Tú, Yahvé, el objeto de mi confianza desde mi niñez.
 
-te cante himnos sin cesar.
+[6](#c70-v6){:#c70-v6} En Ti he descansado desde el seno materno, desde el vientre de mi madre Tú eres mi protector; mi esperanza ha estado siempre en Ti.
 
-¡Oh Yahvé, Dios mío,
+[7](#c70-v7){:#c70-v7} [[633]](#n-633){:#rn-633} A muchos he aparecido como un portento, porque Tú eras mi poderoso auxiliador.
 
-te alabaré eternamente!
+[8](#c70-v8){:#c70-v8} [[634]](#n-634){:#rn-634} Llénese mi boca de tus alabanzas y de tu gloria todo el día.
 
-SALMO 30 (31)
-Serenidad en la hora de la muerte
+[9](#c70-v9){:#c70-v9} [[635]](#n-635){:#rn-635} No me deseches en el tiempo de la vejez; cuando me falten las fuerzas no me desampares;
 
-1[4447]Al maestro de coro. Salmo de David.
+[10](#c70-v10){:#c70-v10} [[636]](#n-636){:#rn-636} pues ya hablan de mí mis enemigos, y espiándome se conciertan a una,
 
-2[4448]En Ti, Yahvé, me refugio;
+[11](#c70-v11){:#c70-v11} y dicen: "Dios lo ha abandonado; perseguidle y prendedle, pues no hay quien lo libre."
 
-no quede yo nunca confundido;
+[12](#c70-v12){:#c70-v12} Oh Dios, no quieras alejarte de mí; Dios mío, apresúrate a socorrerme.
 
-sálvame con tu justicia.
+[13](#c70-v13){:#c70-v13} [[637]](#n-637){:#rn-637} Sean confundidos y aniquilados los que atentan contra mi vida; cúbranse de afrenta y rubor los que buscan mi daño.
 
-3[4449]Inclina a mí tu oído,
+[14](#c70-v14){:#c70-v14} Mas yo siempre esperaré, y te añadiré alabanzas cada día.
 
-apresúrate a librarme.
+[15](#c70-v15){:#c70-v15} [[638]](#n-638){:#rn-638} Mi boca anunciará, sin cesar, tu justicia y tus favores, bien que no conozco su medida.
 
-Sé para mí la roca de seguridad,
+[16](#c70-v16){:#c70-v16} Entraré a hablar de las gestas divinas; de Ti solo, oh Yahvé, proclamaré la justicia.
 
-la fortaleza donde me salves.
+[17](#c70-v17){:#c70-v17} [[639]](#n-639){:#rn-639} Desde mi mocedad me has enseñado Tú, oh Dios, y hasta el presente voy predicando tus maravillas.
 
-4Porque Tú eres mi peña y mi baluarte,
+[18](#c70-v18){:#c70-v18} [[640]](#n-640){:#rn-640} En mi vejez y decrepitud no quieras tampoco desampararme, Dios mío, hasta que manifieste tu brazo a esta generación, tu poder a todas las venideras,
 
-y por la gloria de tu nombre,
+[19](#c70-v19){:#c70-v19} y tu justicia, oh Dios, que toca los cielos. En tan grandes cosas como hiciste, Dios ¿quién es como Tú?
 
-cuidarás de mí y me conducirás.
+[20](#c70-v20){:#c70-v20} [[641]](#n-641){:#rn-641} Con muchas y acerbas tribulaciones me probaste, mas volviste a darme la vida, y de nuevo me sacarás de los abismos de la tierra.
 
-5Tú me sacarás de la red,
+[21](#c70-v21){:#c70-v21} Multiplicarás tu magnificencia y continuarás consolándome.
 
-que ocultamente me tendieron,
+[22](#c70-v22){:#c70-v22} Y yo, Dios mío, alabaré con salmos tu fidelidad; te cantaré con la cítara, oh Santo de Israel.
 
-porque eres mi protector.
+[23](#c70-v23){:#c70-v23} [[642]](#n-642){:#rn-642} Y cuando te cante, de gozo temblarán mis labios, y mi alma que Tú redimiste.
 
-6[4450]En tus manos encomiendo mi espíritu.
+[24](#c70-v24){:#c70-v24} Mi lengua hablará todo el día de tu justicia, porque han quedado confundidos y avergonzados cuantos buscaban mi mal. 
 
-¡Tú me redimirás, oh Yahvé, Dios fiel!
+### Salmo [71 (72)](#c71) {#c71}
 
-7[4451]Aborreces a los que dan culto
+### El reino mesiánico 
 
-a vanos ídolos,
+[1](#c71-v1){:#c71-v1} [[643]](#n-643){:#rn-643} Para Salomón. Oh Dios, entrega al Rey tu juicio, y tu justicia al Hijo del Rey;
 
-mas yo pongo mi confianza en Yahvé.
+[2](#c71-v2){:#c71-v2} [[644]](#n-644){:#rn-644} para que Él gobierne a tu pueblo con justicia, y a los humildes tuyos con equidad.
 
-8Rebosaré de gozo y alegría
+[3](#c71-v3){:#c71-v3} [[645]](#n-645){:#rn-645} Los montes traerán al pueblo la paz; y los collados, la justicia.
 
-por tu compasión;
+[4](#c71-v4){:#c71-v4} Él defenderá a los humildes del pueblo, Él salvará a los hijos de los pobres, y aplastará al opresor.
 
-pues Tú ves mi miseria,
+[5](#c71-v5){:#c71-v5} [[646]](#n-646){:#rn-646} Permanecerá como el sol, y como la luna, de generación en generación.
 
-y has socorrido a mi alma en sus angustias;
+[6](#c71-v6){:#c71-v6} [[647]](#n-647){:#rn-647} Descenderá, como lluvia, sobre el prado segado, como las aguas que riegan la tierra.
 
-9[4452]nunca me entregaste
+[7](#c71-v7){:#c71-v7} [[648]](#n-648){:#rn-648} En sus días florecerá la justicia, y abundará la paz mientras dure la luna.
 
-en manos del enemigo,
+[8](#c71-v8){:#c71-v8} [[649]](#n-649){:#rn-649} Y Él dominará de mar a mar, y desde el Río hasta los confines de la tierra.
 
-sino que afianzaste mis pies
+[9](#c71-v9){:#c71-v9} [[650]](#n-650){:#rn-650} Ante Él se prosternarán sus enemigos, y sus adversarios lamerán el polvo.
 
-en lugar espacioso.
+[10](#c71-v10){:#c71-v10} [[651]](#n-651){:#rn-651} Los reyes de Tarsis y de las islas le ofrecerán tributos; los reyes de Arabia y de Sabá le traerán presentes.
 
-10[4453]Ten piedad de mí, Yahvé,
+[11](#c71-v11){:#c71-v11} [[652]](#n-652){:#rn-652} Y lo adorarán los reyes todos de la tierra; todas las naciones le servirán.
 
-porque estoy conturbado;
+[12](#c71-v12){:#c71-v12} [[653]](#n-653){:#rn-653} Pues Él librará al que clama desvalido, y al mísero que no tiene amparo.
 
-mis ojos decaen de tristeza,
+[13](#c71-v13){:#c71-v13} Se compadecerá del necesitado y del pobre, y a los indigentes salvará la vida,
 
-mi alma y mi cuerpo
+[14](#c71-v14){:#c71-v14} los libertará del daño y de la opresión, y la sangre de ellos será preciosa a sus ojos.
 
-desfallecen juntamente.
+[15](#c71-v15){:#c71-v15} [[654]](#n-654){:#rn-654} Por eso vivirá; y le darán del oro de Arabia, orarán siempre a causa de Él; sin cesar le bendecirán.
 
-11[4454]Porque mi vida
+[16](#c71-v16){:#c71-v16} [[655]](#n-655){:#rn-655} Habrá abundancia de trigo en la tierra; en las cumbres de los montes ondeará su fruto como el Líbano; y florecerán los habitantes de las ciudades como la grama del campo.
 
-se va acabando entre dolores
+[17](#c71-v17){:#c71-v17} [[656]](#n-656){:#rn-656} Su nombre será para siempre bendito, mientras dure el sol permanecerá el nombre suyo; y serán benditas en Él todas las tribus de la tierra; todas las naciones lo proclamarán bienaventurado.
 
-y mis años entre gemidos.
+[18](#c71-v18){:#c71-v18} Bendito sea Yahvé, Dios de Israel, único que hace maravillas;
 
-Mi vigor ha flaqueado en la aflicción,
+[19](#c71-v19){:#c71-v19} y bendito sea por siempre su glorioso Nombre; llénese de su gloria toda la tierra. ¡Así sea; así sea!
 
-y se han debilitado mis huesos.
+[20](#c71-v20){:#c71-v20} [[657]](#n-657){:#rn-657} Fin de las oraciones de David, hijo de Jesé.
 
-12[4455]He venido a ser objeto de oprobio
+### TERCER LIBRO DE LOS SALMOS 
 
-para todos mis enemigos,
+### Salmo [72 (73)](#c72) {#c72}
 
-de burla para mis vecinos
+### La misteriosa prosperidad de los impíos 
 
-y de horror para mis amigos:
+[1](#c72-v1){:#c72-v1} [[658]](#n-658){:#rn-658} De Asaf. ¡Cuán bueno es Dios para Israel, el Señor para los que son rectos de corazón!
 
-los que me encuentran por la calle
+[2](#c72-v2){:#c72-v2} [[659]](#n-659){:#rn-659} Pero, mis pies casi resbalaron, cerca estuve de dar un mal paso;
 
-se apartan de mí;
+[3](#c72-v3){:#c72-v3} porque envidiaba a los jactanciosos al observar la prosperidad de los pecadores.
 
-13como si hubiera muerto,
+[4](#c72-v4){:#c72-v4} No hay para ellos tribulaciones; su cuerpo está sano y robusto.
 
-se ha borrado mi recuerdo de sus corazones;
+[5](#c72-v5){:#c72-v5} No conocen las inquietudes de los mortales, ni son golpeados como los demás hombres.
 
-he llegado a ser como una vasija rota.
+[6](#c72-v6){:#c72-v6} [[660]](#n-660){:#rn-660} Por eso la soberbia los envuelve como un collar; y la violencia los cubre como un manto.
 
-14Oigo el hablar malévolo de muchos,
+[7](#c72-v7){:#c72-v7} De su craso corazón desborda su iniquidad; desfogan los caprichos de su ánimo.
 
-y esparcir el espanto en torno mío.
+[8](#c72-v8){:#c72-v8} Zahieren y hablan con malignidad, y altivamente amenazan con su opresión.
 
-Mientras a una se conjuran contra mí,
+[9](#c72-v9){:#c72-v9} Su boca se abre contra el cielo, y su lengua se pasea por toda la tierra.
 
-han pensado en quitarme la vida.
+[10](#c72-v10){:#c72-v10} [[661]](#n-661){:#rn-661} Así el pueblo se vuelve hacia ellos y encuentra sus días plenos;
 
-15Pero yo confío en Ti, Yahvé;
+[11](#c72-v11){:#c72-v11} [[662]](#n-662){:#rn-662} y dice: "¿Acaso lo sabe Dios? ¿Tiene conocimiento el Altísimo?
 
-digo: “Tú eres mi Dios.”
+[12](#c72-v12){:#c72-v12} Ved cómo tales impíos están siempre tranquilos y aumentan su poder.
 
-16[4456]Mi destino está en tu mano;
+[13](#c72-v13){:#c72-v13} Luego, en vano he guardado puro mi corazón, y lavado mis manos en la inocencia,
 
-sácame del poder de mis enemigos
+[14](#c72-v14){:#c72-v14} pues padezco flagelos todo el tiempo y soy atormentado cada día."
 
-y de mis perseguidores.
+[15](#c72-v15){:#c72-v15} [[663]](#n-663){:#rn-663} Si yo dijere: "Hablaré como ellos", renegaría del linaje de tus hijos.
 
-17Muestra a tu siervo tu rostro sereno;
+[16](#c72-v16){:#c72-v16} [[664]](#n-664){:#rn-664} Me puse, pues, a reflexionar para comprender esto; pero me pareció demasiado difícil para mí.
 
-sálvame por tu misericordia.
+[17](#c72-v17){:#c72-v17} Hasta que penetré en los santos arcanos de Dios, y consideré la suerte final de aquellos hombres.
 
-18[4457]Oh Yahvé, no tenga yo que avergonzarme
+[18](#c72-v18){:#c72-v18} En verdad Tú los pones en un camino resbaladizo y los dejas precipitarse en la ruina.
 
-por haberte invocado;
+[19](#c72-v19){:#c72-v19} ¡Cómo se deslizaron de golpe! Son arrebatados, consumidos por el terror,
 
-avergonzados queden los impíos
+[20](#c72-v20){:#c72-v20} [[665]](#n-665){:#rn-665} son como quien despierta de un sueño; así Tú, Señor, al despertar despreciarás su ficción.
 
-y reducidos al silencio del abismo.
+[21](#c72-v21){:#c72-v21} [[666]](#n-666){:#rn-666} Cuando, pues, exasperaba mi mente y se torturaban mis entrañas,
 
-19Enmudezcan esos labios mentirosos
+[22](#c72-v22){:#c72-v22} era yo un estúpido que no entendía; fui delante de Ti como un jumento.
 
-que, con soberbia y menosprecio,
+[23](#c72-v23){:#c72-v23} Mas yo estaré contigo siempre, Tú me has tomado de la mano derecha.
 
-hablan inicuamente contra el justo.
+[24](#c72-v24){:#c72-v24} [[667]](#n-667){:#rn-667} Por tu consejo me conducirás, y al fin me recibirás en la gloria.
 
-20[4458]¡Oh cuán grande, Señor, es la bondad
+[25](#c72-v25){:#c72-v25} [[668]](#n-668){:#rn-668} ¿Quién hay para mí en el cielo sino Tú? Y si contigo estoy ¿qué podrá deleitarme en la tierra?
 
-que reservas para los que te temen,
+[26](#c72-v26){:#c72-v26} La carne y el corazón mío desfallecen, la roca de mi corazón es Dios, herencia mía para siempre.
 
-y concedes a quienquiera recurre a Ti
+[27](#c72-v27){:#c72-v27} [[669]](#n-669){:#rn-669} Pues he aquí que cuantos de Ti se apartan perecerán; Tú destruyes a todos los que se prostituyen, alejándose de Ti.
 
-delante de los hombres!
+[28](#c72-v28){:#c72-v28} [[670]](#n-670){:#rn-670} Mas para mí la dicha consiste en estar unido a Dios. He puesto en el Señor Dios mi refugio para proclamar todas tus obras en las puertas de la hija de Sión. 
 
-21[4459]Tú proteges a cada uno
+### Salmo [73 (74)](#c73) {#c73}
 
-con tu propio rostro,
+### Contra los destructores del Santuario 
 
-frente a la conspiración de los hombres;
+[1](#c73-v1){:#c73-v1} [[671]](#n-671){:#rn-671} Maskil de Asaf. ¿Por qué, oh Dios, nos desechas para siempre? ¿Por qué arde tu ira contra el rebaño de tu dehesa?
 
-en tu tienda los escondes
+[2](#c73-v2){:#c73-v2} [[672]](#n-672){:#rn-672} Acuérdate de tu grey que hiciste tuya desde antiguo, de la estirpe que rescataste para hacerla tu herencia; del monte Sión que elegiste para morada tuya.
 
-del azote de las lenguas.
+[3](#c73-v3){:#c73-v3} [[673]](#n-673){:#rn-673} Dirige tus pasos hacia esas perpetuas ruinas: todo lo ha devastado el enemigo en el Santuario.
 
-22[4460]Bendito sea Yahvé,
+[4](#c73-v4){:#c73-v4} [[674]](#n-674){:#rn-674} Los que te odian rugieron en el recinto de tus asambleas; pusieron sus enseñas por trofeo.
 
-porque en ciudad fuerte ha mostrado
+[5](#c73-v5){:#c73-v5} Talaron allí como quien alza la segur en lo espeso de la selva;
 
-su admirable misericordia para conmigo.
+[6](#c73-v6){:#c73-v6} [[675]](#n-675){:#rn-675} y ya con hacha y martillo hacen pedazos sus puertas.
 
-23[4461]Verdad que yo, en mi perturbación,
+[7](#c73-v7){:#c73-v7} Entregaron al fuego tu Santuario, profanaron, arrasándolo, el tabernáculo de tu Nombre.
 
-llegué a decir:
+[8](#c73-v8){:#c73-v8} Decían en su corazón: "Destruyámoslos por completo; pegad fuego a todas las sinagogas de Dios en el país."
 
-“Separado estoy de tu vista”;
+[9](#c73-v9){:#c73-v9} [[676]](#n-676){:#rn-676} Ya no vemos nuestras señales, ya no hay profeta, ni queda entre nosotros quien sepa hasta cuándo.
 
-mas Tú oíste la voz de mi súplica
+[10](#c73-v10){:#c73-v10} ¿Hasta cuándo, oh Dios, nos afrentará el enemigo? ¿Ha de blasfemar siempre tu Nombre el adversario?
 
-cuando grité hacia Ti.
+[11](#c73-v11){:#c73-v11} ¿Por qué retiras tu mano y retienes en tu seno tu diestra?
 
-24Amad a Yahvé, todos sus santos,
+[12](#c73-v12){:#c73-v12} [[677]](#n-677){:#rn-677} Porque Tú, Yahvé, eres nuestro Rey, el que de antiguo ha obrado la salvación en medio de la tierra.
 
-pues Yahvé protege a los fieles,
+[13](#c73-v13){:#c73-v13} [[678]](#n-678){:#rn-678} Tú dividiste el mar con tu poder y quebrantaste la cabeza de los dragones en las aguas;
 
-mientras retribuye plenamente
+[14](#c73-v14){:#c73-v14} Tú aplastaste las cabezas de Leviatán, y lo diste por comida a las fieras que pueblan el desierto.
 
-a los que obran con soberbia.
+[15](#c73-v15){:#c73-v15} [[679]](#n-679){:#rn-679} Tú hiciste brotar fuentes y torrentes, y secaste ríos perennes.
 
-25[4462]¡Animaos y confortad vuestro corazón,
+[16](#c73-v16){:#c73-v16} Tuyo es el día y tuya la noche; Tú pusiste los astros y el sol.
 
-todos los que esperáis en Yahvé!
+[17](#c73-v17){:#c73-v17} Tú trazaste todos los confines de la tierra; el verano y el invierno Tú los hiciste.
 
-SALMO 31 (32)
-Confesión
+[18](#c73-v18){:#c73-v18} Recuérdalo Yahvé: el enemigo blasfema; un pueblo impío ultraja tu Nombre.
 
-1[4463]Maskil de David.
+[19](#c73-v19){:#c73-v19} [[680]](#n-680){:#rn-680} No entregues al buitre la vida de tu tórtola; no quieras olvidar perpetuamente a tus pobres.
 
-Dichoso aquel a quien es perdonada su iniquidad,
+[20](#c73-v20){:#c73-v20} [[681]](#n-681){:#rn-681} Vuelve los ojos a tu alianza, pues todos los rincones del país son guaridas de violencia;
 
-cuyo pecado es olvidado.
+[21](#c73-v21){:#c73-v21} [[682]](#n-682){:#rn-682} no sea que el oprimido, en su confusión, se vuelva atrás; puedan el pobre y el desvalido alabar tu Nombre.
 
-2[4464]Dichoso el hombre
+[22](#c73-v22){:#c73-v22} Levántate, Dios, defiende tu causa; recuerda cómo el insensato te insulta continuamente.
 
-a quien Yahvé no imputa culpa
+[23](#c73-v23){:#c73-v23} No te olvides del vocerío de tus adversarios, porque crece el tumulto de los que se levantan contra Ti. 
 
-y en cuyo espíritu no hay doblez.
+### Salmo [74 (75)](#c74) {#c74}
 
-3[4465]Mientras callé se consumieron mis huesos,
+### El juicio de Yahvé 
 
-en medio de mis continuos gemidos.
+[1](#c74-v1){:#c74-v1} [[683]](#n-683){:#rn-683} Al maestro de coro. Sobre la melodía "No dañes". Salmo de Asaf. Cántico.
 
-4Porque de día y de noche
+[2](#c74-v2){:#c74-v2} Te alabamos, Yahvé, te alabamos; invocamos tu Nombre y narramos tus maravillas.
 
-pesaba sobre mí tu mano,
+[3](#c74-v3){:#c74-v3} [[684]](#n-684){:#rn-684} "Cuando Yo fije la hora, juzgaré según la justicia.
 
-me revolcaba en mi miseria
+[4](#c74-v4){:#c74-v4} Conmovida la tierra y todos sus habitantes, Yo sustentaré sus columnas."
 
-mientras tenía clavada la espina.
+[5](#c74-v5){:#c74-v5} [[685]](#n-685){:#rn-685} Por tanto, digo a los altaneros; "No os ensoberbezcáis"; y a los impíos: "Cesad de engreíros en vuestro poder";
 
-5[4466]Entonces te manifesté mi delito,
+[6](#c74-v6){:#c74-v6} no levantéis vuestra cerviz frente al Altísimo, no digáis insolencias contra Dios.
 
-y no te oculté mi culpa;
+[7](#c74-v7){:#c74-v7} Porque no del oriente ni del occidente, ni del desierto, ni de los montes, viene la justicia,
 
-dije: “confesaré mi iniquidad a Yahvé”
+[8](#c74-v8){:#c74-v8} [[686]](#n-686){:#rn-686} sino que es Dios mismo el Juez; a este lo abate y a aquel lo encumbra.
 
-y Tú remitiste la culpa de mi pecado.
+[9](#c74-v9){:#c74-v9} [[687]](#n-687){:#rn-687} Porque en la mano del Señor hay un cáliz de vino espumoso, lleno de mixtura; y de él vierte: lo beberán hasta las heces todos los impíos de la tierra.
 
-6[4467]Que te invoquen todos los fieles,
+[10](#c74-v10){:#c74-v10} Mas yo me gozaré eternamente, cantando salmos al Dios de Jacob.
 
-en el tiempo en que puedes ser hallado;
+[11](#c74-v11){:#c74-v11} "Y Yo quebrantaré la cerviz de todos los impíos, y alzarán su cerviz los justos." 
 
-aunque irrumpiera un diluvio de agua,
+### Salmo [75 (76)](#c75) {#c75}
 
-no les alcanzará.
+### El triunfo de Dios en Jerusalén 
 
-7Tú para mí eres un refugio
+[1](#c75-v1){:#c75-v1} [[688]](#n-688){:#rn-688} Al maestro de coro. Para instrumentos de cuerda. Salmo de Asaf.
 
-que me libra de la angustia,
+[2](#c75-v2){:#c75-v2} [[689]](#n-689){:#rn-689} Dios se ha dado a conocer en Judá; grande es su Nombre en Israel.
 
-Tú me envuelves en el gozo de mi salud.
+[3](#c75-v3){:#c75-v3} Ha levantado en Salem su tabernáculo y su morada en Sión.
 
-8[4468] “Yo te aleccionaré
+[4](#c75-v4){:#c75-v4} [[690]](#n-690){:#rn-690} Allí quebró las fulmíneas saetas de los arcos y el escudo y la espada y la guerra.
 
-y te mostraré el camino que has de seguir;
+[5](#c75-v5){:#c75-v5} [[691]](#n-691){:#rn-691} Envuelto en luz Tú, Majestuoso, descendiste desde los montes eternos.
 
-de ti cuidaré y fijaré sobre ti mis ojos.
+[6](#c75-v6){:#c75-v6} [[692]](#n-692){:#rn-692} Despojados quedaron los de robusto corazón; duermen su sueño; no hallaron sus manos los hombres fuertes;
 
-9[4469]No quieras ser como el caballo o el mulo,
+[7](#c75-v7){:#c75-v7} carros y caballos se paralizaron ante tu amenaza, oh Dios de Jacob.
 
-sin entendimiento,
+[8](#c75-v8){:#c75-v8} Terrible eres Tú y ¿quién podrá estar de pie ante Ti cuando se encienda tu ira?
 
-que han de ser domados con freno y riendas
+[9](#c75-v9){:#c75-v9} [[693]](#n-693){:#rn-693} Desde el cielo hiciste oír tu juicio; la tierra tembló y quedó en silencio,
 
-para que te obedezcan.”
+[10](#c75-v10){:#c75-v10} al levantarse Dios a juicio, para salvar a todos los humildes de la tierra.
 
-10Muchos dolores aguardan al pecador,
+[11](#c75-v11){:#c75-v11} [[694]](#n-694){:#rn-694} Hasta la furia de Edom redundará en tu gloria, y los sobrevivientes de Emat te festejarán:
 
-mas al que confía en Yahvé
+[12](#c75-v12){:#c75-v12} [[695]](#n-695){:#rn-695} haced votos y cumplidlos a Yahvé, vuestro Dios, y todos los pueblos en derredor suyo traigan ofrendas al Temible;
 
-lo defenderá la misericordia.
+[13](#c75-v13){:#c75-v13} a El, que quita el aliento a los príncipes; al Terrible para los reyes de la tierra. 
 
-11[4470]Alegraos en Yahvé y regocijaos, oh justos;
+### Salmo [76 (77)](#c76) {#c76}
 
-saltad de júbilo todos los rectos de corazón.
+### El amor de Dios no cambia 
 
-SALMO 32 (33)
-Himno a la providencia de Dios
+[1](#c76-v1){:#c76-v1} [[696]](#n-696){:#rn-696} Al maestro de coro. A Iditún. Salmo de Asaf.
 
-1[4471]Cantad, oh justos, a Yahvé,
+[2](#c76-v2){:#c76-v2} Mi voz sube hacia Dios y clama; mi voz va hasta Dios para que me oiga.
 
-la alabanza es propia de los rectos.
+[3](#c76-v3){:#c76-v3} En el día de mi angustia busco al Señor; de noche, mis manos se extienden sin descanso, y mi alma rehúsa el consuelo.
 
-2[4472]Celebrad al Señor con la cítara;
+[4](#c76-v4){:#c76-v4} [[697]](#n-697){:#rn-697} Si pienso en Dios tengo que gemir; si cavilo, mi espíritu desfallece.
 
-con el arpa de diez cuerdas cantadle himnos.
+[5](#c76-v5){:#c76-v5} Tú mantienes insomnes mis ojos; estoy perturbado, incapaz de hablar.
 
-3[4473]Entonadle un cántico nuevo;
+[6](#c76-v6){:#c76-v6} [[698]](#n-698){:#rn-698} Pienso en los días antiguos y considero los años eternos.
 
-tañed bien sonoramente.
+[7](#c76-v7){:#c76-v7} Por la noche medito en mi corazón, reflexiono y mi espíritu inquiere:
 
-4[4474]Porque la Palabra de Yahvé es recta,
+[8](#c76-v8){:#c76-v8} ¿Es que nos desechará el Señor por todos los siglos? ¿No volverá a sernos favorable?
 
-y toda su conducta es fiel.
+[9](#c76-v9){:#c76-v9} ¿Se habrá agotado para siempre su bondad? ¿Será vana su promesa hecha para todas las generaciones?
 
-5[4475]Él ama la misericordia y la justicia,
+[10](#c76-v10){:#c76-v10} [[699]](#n-699){:#rn-699} ¿Se habrá olvidado Dios de su clemencia? o ¿en su ira habrá contenido su misericordia?
 
-la tierra está llena de la bondad de Yahvé.
+[11](#c76-v11){:#c76-v11} [[700]](#n-700){:#rn-700} Y dije: "Este es mi dolor: que la diestra del Altísimo haya cambiado."
 
-6[4476]Por la Palabra de Yahvé
+[12](#c76-v12){:#c76-v12} Recordaré los hechos de Yahvé; sí, me acuerdo de tus antiguas maravillas;
 
-fueron hechos los cielos,
+[13](#c76-v13){:#c76-v13} medito todas tus obras y peso tus hazañas.
 
-y todo su ornato por el soplo de su boca.
+[14](#c76-v14){:#c76-v14} Santo es tu camino, oh Dios, ¿Qué Dios hay tan grande como el Dios nuestro?
 
-7[4477]Él junta como en un odre las aguas del mar,
+[15](#c76-v15){:#c76-v15} Tú eres el Dios que obra prodigios, y has dado a conocer a los pueblos tu poder.
 
-encierra en depósitos los abismos.
+[16](#c76-v16){:#c76-v16} [[701]](#n-701){:#rn-701} Redimiste con tu brazo a tu pueblo, a los hijos de Jacob y de José.
 
-8Tema a Yahvé toda la tierra;
+[17](#c76-v17){:#c76-v17} [[702]](#n-702){:#rn-702} Las aguas te vieron, oh Dios, te vieron las aguas, y temblaron; hasta los abismos se estremecieron.
 
-reveréncienle todos los pobladores del orbe.
+[18](#c76-v18){:#c76-v18} [[703]](#n-703){:#rn-703} Aguas derramaron las nubes, los cielos hicieron oír su voz, y volaron tus dardos.
 
-9[4478]Porque Él habló y quedaron hechos;
+[19](#c76-v19){:#c76-v19} Tu trueno sonó en el torbellino, los relámpagos iluminaron el mundo; se conmovió y tembló la tierra.
 
-mandó, y tuvieron ser.
+[20](#c76-v20){:#c76-v20} Tu camino se abrió a través del mar, y tus sendas sobre inmensas aguas, sin que aparecieran las huellas de tus pisadas.
 
-10[4479]Yahvé desbarata los planes de las naciones,
+[21](#c76-v21){:#c76-v21} [[704]](#n-704){:#rn-704} Y Tú mismo guiaste a tu pueblo como un rebaño, por mano de Moisés y de Aarón. 
 
-deshace los designios de los pueblos.
+### Salmo [77 (78)](#c77) {#c77}
 
-11[4480]Mas los planes del Señor permanecen eternamente;
+### Historia del ingrato Israel 
 
-los designios de su corazón,
+[1](#c77-v1){:#c77-v1} [[705]](#n-705){:#rn-705} Maskil de Asaf. Escucha, pueblo mío, mi enseñanza; presta oído a las palabras de mis labios.
 
-de generación en generación.
+[2](#c77-v2){:#c77-v2} Voy a abrir mi boca en un poema, y evocaré escondidas lecciones del pasado.
 
-12¡Dichoso el pueblo
+[3](#c77-v3){:#c77-v3} [[706]](#n-706){:#rn-706} Lo que hemos oído y aprendido, lo que nos han contado nuestros padres,
 
-que tiene por Dios a Yahvé,
+[4](#c77-v4){:#c77-v4} no lo ocultaremos a sus hijos; relataremos a la generación venidera las glorias de Yahvé y su poderío, y las maravillas que Él hizo.
 
-dichoso el pueblo
+[5](#c77-v5){:#c77-v5} [[707]](#n-707){:#rn-707} Porque Él, habiendo dado testimonio a Jacob, y establecido una ley en Israel, mandó a nuestros padres enseñarlo a sus hijos,
 
-que Él escogió para herencia suya!
+[6](#c77-v6){:#c77-v6} para que lo supiera la generación siguiente, y a su vez los hijos nacidos de esta lo narrasen a sus propios hijos;
 
-13Yahvé mira desde lo alto de los cielos,
+[7](#c77-v7){:#c77-v7} de suerte que pongan en Dios su confianza, no olvidando los beneficios de Yahvé y observando sus mandamientos;
 
-ve a todos los hijos de los hombres.
+[8](#c77-v8){:#c77-v8} [[708]](#n-708){:#rn-708} para que no vengan a ser como sus padres, una raza indócil y contumaz; generación que no tuvo el corazón sencillo ni el espíritu fiel a Dios.
 
-14Desde el lugar de su morada fija sus ojos,
+[9](#c77-v9){:#c77-v9} [[709]](#n-709){:#rn-709} Los hijos de Efraím, muy diestros arqueros, volvieron las espaldas en el día de la batalla;
 
-sobre todos los que habitan la tierra.
+[10](#c77-v10){:#c77-v10} no guardaron la alianza con Dios, rehusaron seguir su ley;
 
-15[4481]Él, que formó el corazón de cada uno,
+[11](#c77-v11){:#c77-v11} olvidaron sus obras y las maravillas que hizo ante los ojos de ellos.
 
-presta atención a todas sus acciones.
+[12](#c77-v12){:#c77-v12} [[710]](#n-710){:#rn-710} A la vista de sus padres Él había hecho prodigios en el país de Egipto, en los campos de Tanis.
 
-16No vence el rey por un gran ejército;
+[13](#c77-v13){:#c77-v13} [[711]](#n-711){:#rn-711} Dividió el mar por medio, y los hizo pasar, sosteniendo las aguas como un muro.
 
-el guerrero no se salva por su mucha fuerza.
+[14](#c77-v14){:#c77-v14} De día los guiaba con la nube y toda la noche con un resplandor de fuego.
 
-17[4482]Engañoso es el caballo para la victoria,
+[15](#c77-v15){:#c77-v15} [[712]](#n-712){:#rn-712} Hendió la roca en el desierto, y les dio de beber aguas copiosísimas.
 
-todo su vigor no salvará al jinete.
+[16](#c77-v16){:#c77-v16} Sacó torrentes de la peña, hizo salir aguas como ríos.
 
-18Mas los ojos de Yahvé
+[17](#c77-v17){:#c77-v17} [[713]](#n-713){:#rn-713} Mas ellos continuaron pecando contra Él, resistiendo al Altísimo en el yermo;
 
-velan por los que le temen,
+[18](#c77-v18){:#c77-v18} [[714]](#n-714){:#rn-714} tentaron a Dios en sus corazones, pidiendo comida según su antojo.
 
-por los que esperan de su misericordia,
+[19](#c77-v19){:#c77-v19} Y hablando mal de Dios, dijeron: "¿Podrá Dios prepararnos una mesa en el desierto?
 
-19que ha de librar sus almas de la muerte,
+[20](#c77-v20){:#c77-v20} Cierto es que hirió la peña, y brotaron aguas y corrieron torrentes; mas ¿podrá también dar pan y proveer de carne a su pueblo?"
 
-y alimentarlos en el tiempo de hambre.
+[21](#c77-v21){:#c77-v21} [[715]](#n-715){:#rn-715} Yahvé lo oyó y se indignó; su fuego se encendió contra Jacob, y subió de punto su ira contra Israel,
 
-20Nuestra alma cuenta con Yahvé;
+[22](#c77-v22){:#c77-v22} [[716]](#n-716){:#rn-716} porque no creyeron a Dios, ni confiaron en su auxilio.
 
-Él es nuestra ayuda y nuestro escudo.
+[23](#c77-v23){:#c77-v23} [[717]](#n-717){:#rn-717} Con todo, ordenó a las nubes en lo alto, abrió las puertas del cielo,
 
-21En Él se regocija nuestro corazón,
+[24](#c77-v24){:#c77-v24} y llovió sobre ellos maná para su sustento, dándoles trigo del cielo.
 
-y en su santo Nombre confiamos.
+[25](#c77-v25){:#c77-v25} [[718]](#n-718){:#rn-718} Pan de fuertes comió el hombre, les envió comida hasta hartarlos.
 
-22[4483]Sea, Yahvé, sobre nosotros tu misericordia,
+[26](#c77-v26){:#c77-v26} [[719]](#n-719){:#rn-719} Después levantó el viento solano en el cielo, guio con su poder el ábrego,
 
-según lo esperamos de Ti.
+[27](#c77-v27){:#c77-v27} y llovió sobre ellos carne tanta como el polvo; aves volátiles como arena del mar
 
-SALMO 33 (34)
-Felicidad del justo
+[28](#c77-v28){:#c77-v28} cayeron en su campamento, en derredor de sus tiendas.
 
-1[4484]De David. Cuando fingió ante el rey Abimelec haber perdido el juicio, y este le desterró y él pudo salvarse.
+[29](#c77-v29){:#c77-v29} [[720]](#n-720){:#rn-720} Y comieron y se hartaron. Así Él les dio lo que habían deseado.
 
-2Quiero bendecir a Yahvé en todo tiempo,
+[30](#c77-v30){:#c77-v30} [[721]](#n-721){:#rn-721} Mas no bien satisfecho su apetito, y estando el manjar aún en su boca,
 
-tener siempre en mi boca su alabanza.
+[31](#c77-v31){:#c77-v31} se alzó contra ellos la ira de Dios, e hizo estragos entre los más fuertes, y abatió a la flor de Israel.
 
-3[4485]En Yahvé se gloría mi alma;
+[32](#c77-v32){:#c77-v32} Sin embargo, pecaron de nuevo, y no dieron crédito a sus milagros.
 
-oigan los afligidos y alégrense.
+[33](#c77-v33){:#c77-v33} Y Él consumió sus días en un soplo, y sus años con repentinas calamidades.
 
-4Enalteced conmigo a Yahvé,
+[34](#c77-v34){:#c77-v34} [[722]](#n-722){:#rn-722} Cuando les enviaba la muerte, entonces recurrían a Él, y volvían a convertirse a Dios,
 
-y juntos ensalcemos su Nombre.
+[35](#c77-v35){:#c77-v35} recordando que Dios era su roca, y el Altísimo su Libertador.
 
-5Busqué a Yahvé y Él me escuchó,
+[36](#c77-v36){:#c77-v36} [[723]](#n-723){:#rn-723} Pero lo lisonjeaban con su boca, y con su lengua le mentían;
 
-y me libró de todos mis temores.
+[37](#c77-v37){:#c77-v37} su corazón no era sincero para con Él, y no permanecieron fieles a su alianza.
 
-6[4486]Miradlo a Él
+[38](#c77-v38){:#c77-v38} [[724]](#n-724){:#rn-724} Él, no obstante, en su misericordia, les perdonaba su culpa, y no los exterminaba. Muchas veces contuvo su ira, y no permitió que se desahogase toda su indignación,
 
-para que estéis radiantes de gozo,
+[39](#c77-v39){:#c77-v39} [[725]](#n-725){:#rn-725} acordándose de que eran carne, un soplo que se va y no vuelve.
 
-y vuestros rostros
+[40](#c77-v40){:#c77-v40} ¡Cuántas veces lo provocaron en el desierto; cuántas lo irritaron en aquella soledad!
 
-no estén cubiertos de vergüenza.
+[41](#c77-v41){:#c77-v41} [[726]](#n-726){:#rn-726} Y no cesaban de tentar a Dios, de afligir al Santo de Israel.
 
-7He aquí un miserable que clamó,
+[42](#c77-v42){:#c77-v42} [[727]](#n-727){:#rn-727} No se acordaban ya de su mano, de aquel día en que los libertó del poder del opresor,
 
-y Yahvé lo oyó, lo salvó de todas sus angustias.
+[43](#c77-v43){:#c77-v43} cuando Él ostentó sus prodigios en Egipto, y sus maravillas en los campos de Tanis,
 
-8El ángel de Yahvé monta guardia
+[44](#c77-v44){:#c77-v44} [[728]](#n-728){:#rn-728} trocando en sangre sus ríos y sus canales, para que no bebiesen;
 
-en torno a los temerosos de Dios y los salva.
+[45](#c77-v45){:#c77-v45} enviando contra ellos unos tábanos que los devoraban, y ranas que los infectaron;
 
-9[4487]Gustad y ved cuan bueno es Yahvé;
+[46](#c77-v46){:#c77-v46} entregando sus cosechas a la oruga, y el fruto de su trabajo a la langosta;
 
-dichoso el hombre que se refugia en Él.
+[47](#c77-v47){:#c77-v47} destruyendo con el granizo sus viñas, y con heladas sus higueras;
 
-10[4488]Temed a Yahvé, vosotros, santos suyos;
+[48](#c77-v48){:#c77-v48} [[729]](#n-729){:#rn-729} librando a la peste sus manadas, y sus rebaños al contagio;
 
-los que le temen no carecen de nada.
+[49](#c77-v49){:#c77-v49} [[730]](#n-730){:#rn-730} desatando contra ellos el ardor de su ira, su indignación, el furor, el castigo: un tropel de ejecutores de calamidad;
 
-11[4489]Empobrecen los ricos y sufren hambre;
+[50](#c77-v50){:#c77-v50} [[731]](#n-731){:#rn-731} dando libre paso a su saña, y entregando a ellos mismos a la peste, sin perdonar sus propias vidas,
 
-pero a los que buscan a Yahvé
+[51](#c77-v51){:#c77-v51} [[732]](#n-732){:#rn-732} y matando a todo primogénito en Egipto, las primicias del vigor en las tiendas de Cam.
 
-no les faltará ningún bien.
+[52](#c77-v52){:#c77-v52} [[733]](#n-733){:#rn-733} Ni recordaban cuando como ovejas sacó a los de su pueblo, y los guio como un rebaño por el desierto,
 
-12[4490]Venid, hijos, escuchadme,
+[53](#c77-v53){:#c77-v53} y los condujo con seguridad y sin temor, mientras sepultaba a sus enemigos en el mar.
 
-y os enseñaré el temor de Yahvé.
+[54](#c77-v54){:#c77-v54} [[734]](#n-734){:#rn-734} Y los llevó a su tierra santa, a los montes que conquistó su diestra;
 
-13¿Ama alguno la vida?
+[55](#c77-v55){:#c77-v55} expulsó ante ellos a los gentiles, en suertes repartió la heredad de estos, y en sus pabellones hizo habitar a las tribus de Israel.
 
-¿Desea largos días para gozar del bien?
+[56](#c77-v56){:#c77-v56} Pero ellos aun tentaron y provocaron al Dios Altísimo, y no guardaron sus mandamientos.
 
-14Pues guarda tu lengua del mal,
+[57](#c77-v57){:#c77-v57} [[735]](#n-735){:#rn-735} Apostataron y fueron traidores, como sus padres; fallaron como un arco torcido.
 
-y tus labios de las palabras dolosas.
+[58](#c77-v58){:#c77-v58} [[736]](#n-736){:#rn-736} Lo movieron a ira con sus lugares altos, y con sus esculturas le excitaron los celos.
 
-15Apártate del mal, y obra el bien;
+[59](#c77-v59){:#c77-v59} Ardió con esto el furor de Dios; acerbamente apartó de sí a Israel,
 
-busca la paz, y ve en pos de ella.
+[60](#c77-v60){:#c77-v60} [[737]](#n-737){:#rn-737} y abandonó el Tabernáculo de Silo, la morada que tenía entre los hombres.
 
-16[4491]Los ojos de Yahvé miran a los justos;
+[61](#c77-v61){:#c77-v61} Abandonó al cautiverio su fortaleza, y su gloria en manos del adversario.
 
-y sus oídos están abiertos
+[62](#c77-v62){:#c77-v62} Entregó su pueblo a la espada, y se irritó contra su herencia.
 
-a lo que ellos piden.
+[63](#c77-v63){:#c77-v63} [[738]](#n-738){:#rn-738} El fuego devoró a sus jóvenes, y sus doncellas no fueron desposadas.
 
-17[4492]Yahvé aparta su vista
+[64](#c77-v64){:#c77-v64} A cuchillo cayeron sus sacerdotes, y sus viudas no los lloraron.
 
-de los que obran el mal,
+[65](#c77-v65){:#c77-v65} [[739]](#n-739){:#rn-739} El Señor despertó entonces como de un sueño -cual gigante adormecido por el vino-
 
-para borrar de la tierra su memoria.
+[66](#c77-v66){:#c77-v66} [[740]](#n-740){:#rn-740} e hirió a los enemigos en la zaga, cubriéndolos de ignominia para siempre.
 
-18Claman los justos y Yahvé los oye,
+[67](#c77-v67){:#c77-v67} [[741]](#n-741){:#rn-741} Mas reprobó la tienda de José, y a la tribu de Efraím no la eligió,
 
-y los saca de todas sus angustias.
+[68](#c77-v68){:#c77-v68} y prefirió a la tribu de Judá, el monte Sión, su predilecto.
 
-19[4493]Yahvé está junto
+[69](#c77-v69){:#c77-v69} [[742]](#n-742){:#rn-742} Y levantó, como cielo, su santuario, como la tierra, que fundó para siempre.
 
-a los que tienen el corazón atribulado
+[70](#c77-v70){:#c77-v70} [[743]](#n-743){:#rn-743} Y escogió a su siervo David, sacándolo de entre los rebaños de ovejas;
 
-y salva a los de espíritu compungido.
+[71](#c77-v71){:#c77-v71} detrás de las que amamantaban lo llamó, para que apacentase a Jacob, su pueblo, y a Israel, su heredad.
 
-20[4494]Muchas son las pruebas del justo,
+[72](#c77-v72){:#c77-v72} Y él los apacentó con sencillez de corazón, y los guio con la destreza de sus manos. 
 
-mas de todas lo libra Yahvé.
+### Salmo [78 (79)](#c78) {#c78}
 
-21[4495]Vela por cada uno de sus huesos;
+### Elegía sobre la ruina de Jerusalén 
 
-ni uno solo será quebrado.
+[1](#c78-v1){:#c78-v1} [[744]](#n-744){:#rn-744} Salmo de Asaf. Oh Dios, los gentiles han invadido tu heredad, han profanado el Templo de tu santidad, han hecho de Jerusalén un montón de ruinas.
 
-22[4496]La malicia del impío lo lleva a la muerte;
+[2](#c78-v2){:#c78-v2} Dieron los cadáveres de tus siervos por pasto a las aves del cielo; las carnes de tus santos a las bestias de la tierra.
 
-y los que odian al justo serán castigados.
+[3](#c78-v3){:#c78-v3} Derramaron su sangre como agua, en rededor de Jerusalén, y no hubo quien les diera sepultura.
 
-23[4497]Yahvé redime las almas de sus siervos,
+[4](#c78-v4){:#c78-v4} Hemos venido a ser el escarnio de nuestros vecinos, fábula y ludibrio de los que nos rodean.
 
-y quienquiera se refugie en Él no pecará.
+[5](#c78-v5){:#c78-v5} [[745]](#n-745){:#rn-745} ¿Hasta cuándo, Señor? ¿Ha de durar tu ira para siempre? ¿Arderán tus celos como el fuego?
 
-SALMO 34 (35)
-El abogado de los perseguidos
+[6](#c78-v6){:#c78-v6} [[746]](#n-746){:#rn-746} Derrama tu cólera sobre las gentes que no te conocen, y sobre los reinos que no invocan tu Nombre;
 
-1[4498]De David.
+[7](#c78-v7){:#c78-v7} porque ellos han devorado a Jacob y han asolado su morada.
 
-Disputa mi causa, oh Yahvé,
+[8](#c78-v8){:#c78-v8} [[747]](#n-747){:#rn-747} No quieras recordar contra nosotros las iniquidades de nuestros mayores; venga pronto a encontrarnos tu misericordia, porque estamos muy abatidos.
 
-contra mis contendores;
+[9](#c78-v9){:#c78-v9} Acude a socorrernos, oh Dios, Salvador nuestro, por la gloria de tu Nombre. Líbranos y olvida nuestros pecados, a causa de tu Nombre.
 
-combate Tú a los que me combaten.
+[10](#c78-v10){:#c78-v10} [[748]](#n-748){:#rn-748} ¿Por qué han de decir los gentiles: "¿Dónde está el Dios de estos?" Sea manifiesta contra los gentiles, delante de nuestros ojos, la venganza por la sangre vertida de tus siervos.
 
-2[4499]Echa mano al escudo y al broquel,
+[11](#c78-v11){:#c78-v11} Suba hasta Ti el gemido de los cautivos, según la potencia de tu brazo, salva a los destinados a la muerte.
 
-y levántate en mi socorro.
+[12](#c78-v12){:#c78-v12} Derrama en retorno, sobre el seno de nuestros vecinos, septuplicado el ultraje que arrojaron sobre Ti, Señor.
 
-3[4500]Empuña la lanza,
+[13](#c78-v13){:#c78-v13} [[749]](#n-749){:#rn-749} Y nosotros, tu pueblo, y ovejas de tu grey, te daremos gracias eternamente, y cantaremos tu alabanza, de generación en generación. 
 
-y cierra contra mis perseguidores.
+### Salmo [79 (80)](#c79) {#c79}
 
-Dile a mi alma:
+### Restauración de la viña del Señor 
 
-“Tu salvación soy Yo.”
+[1](#c79-v1){:#c79-v1} [[750]](#n-750){:#rn-750} Para el maestro de coro. Por el tono de (como) azucenas (las palabras) de la Ley, Salmo de Asaf.
 
-4[4501]Queden confusos y avergonzados
+[2](#c79-v2){:#c79-v2} [[751]](#n-751){:#rn-751} Pastor de Israel, escucha: Tú, que como un rebaño guías a José; Tú, que te sientas sobre querubines,
 
-los que buscan mi vida.
+[3](#c79-v3){:#c79-v3} muéstrate a los ojos de Efraím, de Benjamín y de Manasés. Despierta tu potencia, y ven a salvarnos.
 
-Vuelvan atrás, cubiertos de oprobio
+[4](#c79-v4){:#c79-v4} [[752]](#n-752){:#rn-752} ¡Oh Dios de los ejércitos, restáuranos! Haz resplandecer tu Rostro, y seremos salvos.
 
-los que maquinan mi perdición.
+[5](#c79-v5){:#c79-v5} [[753]](#n-753){:#rn-753} ¡Oh Yahvé, Dios de los ejércitos!, ¿hasta cuándo seguirás airado contra la oración de tu pueblo?
 
-5Sean como la paja ante el viento,
+[6](#c79-v6){:#c79-v6} Lo has alimentado con pan de llanto; le has dado a beber lágrimas en abundancia.
 
-acosados por el Ángel de Yahvé.
+[7](#c79-v7){:#c79-v7} Nos has hecho objeto de contienda entre nuestros vecinos; y nuestros enemigos se burlan de nosotros.
 
-6Sea su camino obscuro y resbaloso,
+[8](#c79-v8){:#c79-v8} ¡Oh Dios de los ejércitos, restáuranos! Haz resplandecer tu Rostro, y seremos salvos.
 
-cuando el Ángel de Yahvé los persiga.
+[9](#c79-v9){:#c79-v9} [[754]](#n-754){:#rn-754} De Egipto trasladaste tu viña, arrojaste a los gentiles, y la plantaste;
 
-7[4502]Porque sin causa me tendieron su red;
+[10](#c79-v10){:#c79-v10} preparaste el suelo para ella, y echó raíces y llenó la tierra.
 
-y sin causa cavaron una fosa para mi vida.
+[11](#c79-v11){:#c79-v11} Los montes se cubrieron con su sombra, y con sus ramas los cedros altísimos.
 
-8Venga sobre ellos la muerte inesperada,
+[12](#c79-v12){:#c79-v12} [[755]](#n-755){:#rn-755} Hasta el mar extendió sus sarmientos y hasta el gran río sus vástagos.
 
-y préndalos la red que para mí escondieron;
+[13](#c79-v13){:#c79-v13} ¿Cómo es que derribaste sus vallados para que la vendimien cuantos pasan por el camino;
 
-caigan en la fosa que ellos mismos cavaron.
+[14](#c79-v14){:#c79-v14} [[756]](#n-756){:#rn-756} la devaste el jabalí salvaje y las bestias del campo la devoren?
 
-9[4503]Y mi alma se regocijará en Yahvé,
+[15](#c79-v15){:#c79-v15} Retorna, oh Dios de los ejércitos, inclínate desde el cielo, y mira, y visita esta viña,
 
-y se alegrará de su auxilio.
+[16](#c79-v16){:#c79-v16} [[757]](#n-757){:#rn-757} la cepa que tu diestra plantó, y el retoño que para ti conformaste.
 
-10[4504]Todos mis huesos dirán:
+[17](#c79-v17){:#c79-v17} Perezcan ante la amenaza de tu Rostro quienes la quemaron y la cortaron.
 
-¿Quién como Tú, Yahvé,
+[18](#c79-v18){:#c79-v18} [[758]](#n-758){:#rn-758} Pósese tu mano sobre el Varón que está a tu diestra; sobre el Hijo del hombre que para Ti fortaleciste.
 
-que libras del prepotente
+[19](#c79-v19){:#c79-v19} Entonces no volveremos a apartarnos de Ti; Tú nos vivificarás, y nosotros proclamaremos tu Nombre.
 
-al desvalido,
+[20](#c79-v20){:#c79-v20} [[759]](#n-759){:#rn-759} ¡Oh Dios de los ejércitos, restáuranos! Haz resplandecer tu Rostro, y seremos salvos. 
 
-y al pobre y afligido
+### Salmo [80 (81)](#c80) {#c80}
 
-de la mano del que lo despoja?
+### Para la fiesta de los Tabernáculos 
 
-11[4505]Se levantaron testigos de iniquidad;
+[1](#c80-v1){:#c80-v1} [[760]](#n-760){:#rn-760} Al maestro de coro. Por el tono de Hagghittoth (los lagares). De Asaf.
 
-me pedían cuentas de cosas
+[2](#c80-v2){:#c80-v2} Regocijémonos delante de Dios, nuestro Auxiliador; aclamad con júbilo al Dios de Jacob.
 
-que yo ni conocía.
+[3](#c80-v3){:#c80-v3} Entonad himnos al son del címbalo, la cítara armoniosa y el salterio.
 
-12Por el bien me devolvían mal,
+[4](#c80-v4){:#c80-v4} [[761]](#n-761){:#rn-761} Tocad la trompeta en el novilunio y en el plenilunio, nuestro día de fiesta.
 
-para desolación de mi alma.
+[5](#c80-v5){:#c80-v5} [[762]](#n-762){:#rn-762} Porque esta es ley en Israel, prescripción del Dios de Jacob.
 
-13[4506]En tanto que yo,
+[6](#c80-v6){:#c80-v6} [[763]](#n-763){:#rn-763} Como rito recordatorio, la impuso Él a José, cuando salió (Él) contra la tierra de Egipto. Oyó entonces (este) lenguaje nunca escuchado:
 
-cuando ellos enfermaban,
+[7](#c80-v7){:#c80-v7} [[764]](#n-764){:#rn-764} "Libré sus hombros de la carga, y sus manos dejaron los cestos.
 
-vestía de cilicio,
+[8](#c80-v8){:#c80-v8} [[765]](#n-765){:#rn-765} En la tribulación me llamaste, y Yo te saqué; te respondí escondido en la nube tempestuosa, te probé en las aguas de Meribá.
 
-me maceraba con el ayuno,
+[9](#c80-v9){:#c80-v9} [[766]](#n-766){:#rn-766} Oye, pueblo mío, quiero amonestarte. ¡Ojalá me escucharas, oh Israel!
 
-y mis plegarias me golpeaban el seno.
+[10](#c80-v10){:#c80-v10} [[767]](#n-767){:#rn-767} No haya en ti ningún otro Dios; no te encorves ante un dios ajeno.
 
-14Me portaba como con un amigo,
+[11](#c80-v11){:#c80-v11} Soy Yo Yahvé el Dios tuyo, que te saqué de la tierra de Egipto. Abre bien tu boca, y Yo la llenaré.
 
-como con un hermano;
+[12](#c80-v12){:#c80-v12} [[768]](#n-768){:#rn-768} Pero mi pueblo no escuchó mi voz, e Israel no me obedeció.
 
-me encorvaba triste,
+[13](#c80-v13){:#c80-v13} [[769]](#n-769){:#rn-769} Por eso los entregué a la dureza de su corazón: a que anduvieran según sus apetitos.
 
-como quien llora a una madre.
+[14](#c80-v14){:#c80-v14} [[770]](#n-770){:#rn-770} ¡Ah, si mi pueblo me oyera! ¡Si Israel siguiera mis caminos!
 
-15[4507]Ellos, en cambio, se alegraron
+[15](#c80-v15){:#c80-v15} Cuán pronto humillaría Yo a sus enemigos, y extendería mi mano contra sus adversarios.
 
-en mi adversidad, y se juntaron;
+[16](#c80-v16){:#c80-v16} [[771]](#n-771){:#rn-771} Los que odian a Dios le rendirían homenaje, y su destino estaría fijado para siempre.
 
-coligados contra mí
+[17](#c80-v17){:#c80-v17} [[772]](#n-772){:#rn-772} Yo le daría a comer la flor del trigo y lo saciaría con miel de la peña." 
 
-me hirieron de improviso,
+### Salmo [81 (82)](#c81) {#c81}
 
-me laceraron sin tregua.
+### Dios juzga a los jueces 
 
-16[4508]Entre impíos burladores de torta redonda,
+[1](#c81-v1){:#c81-v1} [[773]](#n-773){:#rn-773} Salmo de Asaf. Dios se levanta en la reunión de los dioses; en medio de ellos va a juzgarlos.
 
-rechinaron contra mí sus dientes.
+[2](#c81-v2){:#c81-v2} "¿Hasta cuándo fallaréis injustamente y haréis acepción de personas con los inicuos?
 
-17[4509]¿Hasta cuándo. Señor,
+[3](#c81-v3){:#c81-v3} Haced justicia al oprimido y al huérfano; amparad al afligido y al menesteroso;
 
-lo estarás viendo?
+[4](#c81-v4){:#c81-v4} [[774]](#n-774){:#rn-774} librad al desvalido y al necesitado, arrancadlo de la mano de los impíos."
 
-libra de sus maldades mi vida,
+[5](#c81-v5){:#c81-v5} [[775]](#n-775){:#rn-775} Pero no saben, ni entienden; andan en tinieblas; por eso vacilan todos los fundamentos de la tierra.
 
-de los leones a mi único bien.
+[6](#c81-v6){:#c81-v6} [[776]](#n-776){:#rn-776} Es cierto que Yo dije: "Dioses sois, e hijos todos del Altísimo.
 
-18Te daré gracias en la gran asamblea,
+[7](#c81-v7){:#c81-v7} [[777]](#n-777){:#rn-777} Pero moriréis como hombres, y caeréis como cae cualquier príncipe."
 
-te alabare ante un pueblo numeroso.
+[8](#c81-v8){:#c81-v8} [[778]](#n-778){:#rn-778} Levántate, Dios; juzga a la tierra, porque Tú has de dominar sobre todas las naciones. 
 
-19[4510]No se alegren a costa mía
+### Salmo [82 (83)](#c82) {#c82}
 
-mis injustos enemigos;
+### Imprecación de Israel contra los gentiles confabulados 
 
-no se hagan guiños de ojo
+[1](#c82-v1){:#c82-v1} [[779]](#n-779){:#rn-779} Cántico. Salmo de Asaf.
 
-los que sin causa me odian,
+[2](#c82-v2){:#c82-v2} Oh Dios, no permanezcas mudo; no estés sordo, oh Dios, ni te muestres pasivo.
 
-20porque ni siquiera hablan de paz,
+[3](#c82-v3){:#c82-v3} Mira el tumulto que hacen tus enemigos, y cómo los que te odian yerguen su cabeza.
 
-y planean traidoramente fraudes
+[4](#c82-v4){:#c82-v4} A tu pueblo le traman asechanzas; se confabulan contra los que Tú proteges.
 
-contra los pacíficos de la tierra.
+[5](#c82-v5){:#c82-v5} "Venid (dicen), borrémoslos; que ya no sean pueblo; no quede ni memoria del nombre de Israel."
 
-21[4511]Ensanchan contra mí sus bocas
+[6](#c82-v6){:#c82-v6} [[780]](#n-780){:#rn-780} Así conspiran todos a una y forman liga contra Ti:
 
-y dicen: “aja, aja;
+[7](#c82-v7){:#c82-v7} [[781]](#n-781){:#rn-781} las tiendas de Edom y los ismaelitas, Moab y los agarenos,
 
-lo hemos visto con nuestros propios ojos”.
+[8](#c82-v8){:#c82-v8} Gebal y Ammón y Amalec, Filistea y los habitantes de Tiro.
 
-22Tú, Yahvé, sí que lo has visto;
+[9](#c82-v9){:#c82-v9} También los asirios se les han unido, y se han hecho auxiliares de los hijos de Lot.
 
-no calles, Señor,
+[10](#c82-v10){:#c82-v10} [[782]](#n-782){:#rn-782} Haz Tú con ellos como con Madián y con Sísara, y con Jabín, junto al torrente Cisón;
 
-no quieras estar lejos de mí.
+[11](#c82-v11){:#c82-v11} que perecieron en Endor, y vinieron a ser como estiércol para la tierra.
 
-23Despierta y vela por mi defensa,
+[12](#c82-v12){:#c82-v12} [[783]](#n-783){:#rn-783} Trata a sus caudillos como a Oreb y a Zeb; a todos sus jefes, como a Zebee y a Salmaná,
 
-por mi causa, Dios mío y Señor mío.
+[13](#c82-v13){:#c82-v13} pues han dicho: "Ocupemos para nosotros las tierras de Dios."
 
-24[4512]Júzgame Tú según tu justicia,
+[14](#c82-v14){:#c82-v14} [[784]](#n-784){:#rn-784} Dios mío, hazlos como el polvo en un remolino y la hojarasca presa del viento.
 
-Yahvé, Dios mío,
+[15](#c82-v15){:#c82-v15} Como fuego que consume la selva, como llama que abrasa los montes,
 
-que no se alegren a mi costa;
+[16](#c82-v16){:#c82-v16} así persíguelos en tu tempestad, y atérralos en tu borrasca.
 
-25que no piensen en su corazón:
+[17](#c82-v17){:#c82-v17} [[785]](#n-785){:#rn-785} Haz que sus rostros se cubran de vergüenza, para que busquen tu nombre ¡oh Dios!
 
-“Hemos salido con nuestro deseo”;
+[18](#c82-v18){:#c82-v18} Queden para siempre en la ignominia y en la turbación; sean confundidos y perezcan.
 
-no digan: “Lo hemos devorado.”
+[19](#c82-v19){:#c82-v19} Y sepan que tu Nombre es Yahvé; y que solo Tú eres el Altísimo sobre toda la tierra. 
 
-26Confundidos sean y abochornados a una
+### Salmo [83 (84)](#c83) {#c83}
 
-los que se gozan en mi mal.
+### Dichosa esperanza del peregrino 
 
-Sean cubiertos de vergüenza e ignominia
+[1](#c83-v1){:#c83-v1} [[786]](#n-786){:#rn-786} Al maestro de coro. Por el tono de Hagghittoth (Los lagares). De los hijos de Coré. Salmo.
 
-los que se ensoberbecen contra mí.
+[2](#c83-v2){:#c83-v2} ¡Oh cuan amable es tu morada, Yahvé de los ejércitos!
 
-27Alégrense y gócense
+[3](#c83-v3){:#c83-v3} [[787]](#n-787){:#rn-787} Suspirando, desfalleciendo, anhela mi alma los atrios de Yahvé. Mi corazón y mi carne claman ansiosos hacia el Dios vivo.
 
-los que comparten mi causa,
+[4](#c83-v4){:#c83-v4} [[788]](#n-788){:#rn-788} Hasta el gorrión halla una casa, y la golondrina un nido para poner sus polluelos, junto a tus altares, Yahvé de los ejércitos, Rey mío y Dios mío.
 
-y digan siempre: “Grande es Yahvé
+[5](#c83-v5){:#c83-v5} [[789]](#n-789){:#rn-789} Dichosos los que moran en tu casa y te alaban sin cesar.
 
-que se deleita en la paz de su siervo.”
+[6](#c83-v6){:#c83-v6} [[790]](#n-790){:#rn-790} Felices aquellos cuya fuerza viene de Ti, y tienen su corazón puesto en tu camino santo.
 
-28[4513]Y mi lengua proclamará tu justicia;
+[7](#c83-v7){:#c83-v7} [[791]](#n-791){:#rn-791} Atravesando el valle de lágrimas ellos lo convierten en lugar de manantiales, que la lluvia temprana cubrirá de bendiciones.
 
-y tu alabanza perpetuamente.
+[8](#c83-v8){:#c83-v8} Y suben con vigor creciente hasta que Dios se hace ver de ellos en Sión.
 
-SALMO 35 (36)
-La malicia humana y la bondad divina
+[9](#c83-v9){:#c83-v9} Yahvé de los ejércitos, oye mi oración; escucha, oh Dios de Jacob.
 
-1[4514]Al maestro de coro. De David, siervo de Dios.
+[10](#c83-v10){:#c83-v10} [[792]](#n-792){:#rn-792} Pon tus ojos, oh Dios, escudo nuestro, y mira el rostro de tu ungido.
 
-2La rebeldía instiga al impío en su corazón;
+[11](#c83-v11){:#c83-v11} Un día solo en tus atrios vale más que otros mil. Prefiero estar en el umbral de la Casa de mi Dios que habitar en los pabellones de los pecadores.
 
-a sus ojos no hay temor de Dios.
+[12](#c83-v12){:#c83-v12} [[793]](#n-793){:#rn-793} Porque sol y escudo es Yahvé Dios; Él da gracia y da gloria. Él no rehúsa ningún bien a los que caminan en inocencia.
 
-3Por tanto, se lisonjea en su mente
+[13](#c83-v13){:#c83-v13} Yahvé de los ejércitos, dichoso el hombre que confía en Ti. 
 
-de que su culpa no será hallada
+### Salmo [84 (85)](#c84) {#c84}
 
-ni aborrecida.
+### Súplica y profecía mesiánica 
 
-4[4515]Las palabras de su boca
+[1](#c84-v1){:#c84-v1} [[794]](#n-794){:#rn-794} Para él maestro de coro. De los hijos de Coré. Salmo.
 
-son malicia y fraude,
+[2](#c84-v2){:#c84-v2} [[795]](#n-795){:#rn-795} Oh Yahvé, has sido propicio a tu tierra, has trocado en bien la suerte de Jacob.
 
-no se cuida de entender para obrar bien.
+[3](#c84-v3){:#c84-v3} [[796]](#n-796){:#rn-796} Has quitado la iniquidad de tu pueblo, cubierto todos sus pecados.
 
-5En su lecho medita la iniquidad;
+[4](#c84-v4){:#c84-v4} Has puesto fin a todo tu resentimiento, desistido del furor de tu ira.
 
-anda siempre en malos caminos.
+[5](#c84-v5){:#c84-v5} [[797]](#n-797){:#rn-797} Restáuranos, oh Dios, Salvador nuestro; aparta de nosotros tu indignación.
 
-La maldad no le causa horror.
+[6](#c84-v6){:#c84-v6} ¿Acaso estarás siempre enojado con nosotros? ¿Extenderás tu saña de generación en generación?
 
-6[4516]Yahvé, tu misericordia toca el cielo;
+[7](#c84-v7){:#c84-v7} [[798]](#n-798){:#rn-798} ¿No volverás Tú a darnos vida, para que tu pueblo se alegre en Ti?
 
-tu fidelidad, las nubes.
+[8](#c84-v8){:#c84-v8} Muéstranos, Yahvé, tu misericordia y envíanos tu salvación.
 
-7Tu justicia es alta
+[9](#c84-v9){:#c84-v9} [[799]](#n-799){:#rn-799} Quiero escuchar lo que dirá Yahvé mi Dios; sus palabras serán de paz para su pueblo y para sus santos, y para los que de corazón se vuelvan a Él.
 
-como los montes de Dios;
+[10](#c84-v10){:#c84-v10} [[800]](#n-800){:#rn-800} Sí, cercana está su salvación para los que le temen; y la Gloria fijará su morada en nuestro país.
 
-profundos como el mar, tus juicios.
+[11](#c84-v11){:#c84-v11} [[801]](#n-801){:#rn-801} La misericordia y la fidelidad se saldrán al encuentro; se darán el ósculo la justicia y la paz.
 
-Tú, Yahvé, socorres al hombre y al animal.
+[12](#c84-v12){:#c84-v12} [[802]](#n-802){:#rn-802} La fidelidad germinará de la tierra y la justicia se asomará desde el cielo.
 
-8¡Cuán preciosa es, oh Dios, tu largueza!
+[13](#c84-v13){:#c84-v13} [[803]](#n-803){:#rn-803} El mismo Yahvé dará el bien y nuestra tierra dará su fruto.
 
-los hijos de los hombres se abrigan
+[14](#c84-v14){:#c84-v14} La justicia marchará ante Él y la salud sobre la huella de sus pasos. 
 
-a la sombra de tus alas.
+### Salmo [85 (86)](#c85) {#c85}
 
-9Se sacian con la abundancia de tu casa,
+### Ardiente súplica y alabanza 
 
-y los embriagas en el río de tus delicias.
+[1](#c85-v1){:#c85-v1} [[804]](#n-804){:#rn-804} Oración de David. Inclina, Yahvé, tu oído y escúchame, porque soy desvalido y necesitado.
 
-10[4517]Pues en Ti está la fuente de la vida,
+[2](#c85-v2){:#c85-v2} [[805]](#n-805){:#rn-805} Preserva mi vida porque soy santo; salva a tu siervo que espera en Ti.
 
-y en tu luz vemos la luz.
+[3](#c85-v3){:#c85-v3} Tú eres mi Dios, ten misericordia de mí, pues a Ti clamo todo el día.
 
-11[4518]Despliega tu bondad
+[4](#c85-v4){:#c85-v4} [[806]](#n-806){:#rn-806} Alegra el alma de tu siervo, pues a Ti, Señor, elevo mi espíritu.
 
-sobre los que te conocen,
+[5](#c85-v5){:#c85-v5} Porque Tú eres un Señor bueno y pronto a perdonar, lleno de gracia para todos los que te invocan.
 
-y tu justicia sobre los de corazón recto.
+[6](#c85-v6){:#c85-v6} Escucha, Yahvé, mi ruego; presta atención a la voz de mi súplica.
 
-12No me aplaste el pie del soberbio
+[7](#c85-v7){:#c85-v7} En el día de mi aflicción clamo a Ti porque Tú me oirás.
 
-ni me haga vacilar la mano del impío.
+[8](#c85-v8){:#c85-v8} No hay Señor semejante a Ti entre los dioses; ni obras como las obras tuyas.
 
-13[4519]He aquí derribados
+[9](#c85-v9){:#c85-v9} [[807]](#n-807){:#rn-807} Todas las naciones que Tú hiciste vendrán a postrarse delante de Ti, Señor, y proclamarán tu Nombre.
 
-a los obradores de la iniquidad,
+[10](#c85-v10){:#c85-v10} Porque Tú eres grande y obras maravillas. Tú solo eres Dios
 
-caídos para no levantarse más.
+[11](#c85-v11){:#c85-v11} [[808]](#n-808){:#rn-808} Enséñame, Yahvé, tu camino para que ande en tu verdad; que mi corazón se alegre en temer tu Nombre.
 
-SALMO 36 (37)
-Espejo de la Providencia
+[12](#c85-v12){:#c85-v12} Te alabaré, Señor Dios mío, con todo mi corazón, y glorificaré tu Nombre por toda la eternidad.
 
-1[4520]De David.
+[13](#c85-v13){:#c85-v13} [[809]](#n-809){:#rn-809} Pues grande ha sido tu misericordia para conmigo; y libraste mi alma de lo más hondo del abismo.
 
-No te acalores a causa de los malvados,
+[14](#c85-v14){:#c85-v14} Oh Dios, los soberbios se levantan contra mí, y la turba de los prepotentes amenaza mi vida; ¡No te han tenido en cuenta!
 
-ni envidies a los que cometen la iniquidad.
+[15](#c85-v15){:#c85-v15} [[810]](#n-810){:#rn-810} Mas Tú, Señor, Dios de bondad y misericordia, tardo en airarte y clementísimo y leal,
 
-2Porque muy pronto serán cortados,
+[16](#c85-v16){:#c85-v16} [[811]](#n-811){:#rn-811} vuelve hacia mí tu rostro y ten piedad de mí; pon tu fuerza en tu siervo, y salva al hijo de tu esclava.
 
-como el heno,
+[17](#c85-v17){:#c85-v17} [[812]](#n-812){:#rn-812} Dame una señal de tu favor, para que los que me odian vean, confundidos, que eres Tú, Yahvé, quien me asiste y me consuela. 
 
-y como hierba verde se secarán.
+### Salmo [86 (87)](#c86) {#c86}
 
-3Tú, espera en Yahvé y obra el bien;
+### Gloria de Sión 
 
-permanece en la tierra
+[1](#c86-v1){:#c86-v1} [[813]](#n-813){:#rn-813} De los hijos de Coré. Salmo. Cántico. ¡Él la fundó sobre los montes santos!
 
-y cultiva la rectitud.
+[2](#c86-v2){:#c86-v2} [[814]](#n-814){:#rn-814} Yahvé ama las puertas de Sión más que todos los tabernáculos de Jacob.
 
-4[4521]Pon tus delicias en Yahvé,
+[3](#c86-v3){:#c86-v3} [[815]](#n-815){:#rn-815} ¡Oh ciudad de Dios, de ti se dicen cosas gloriosas!
 
-y Él te otorgará lo que tu corazón busca.
+[4](#c86-v4){:#c86-v4} [[816]](#n-816){:#rn-816} "Contaré a Rahab y a Babel entre los que me conocen; he aquí a Filistea y a Tiro y al pueblo de los etíopes: han nacido allí."
 
-5[4522]Entrega a Yahvé tu camino;
+[5](#c86-v5){:#c86-v5} [[817]](#n-817){:#rn-817} Así se dirá de Sión: "Uno por uno, todos han nacido en ella, y es el mismo Altísimo quien la consolidó."
 
-confíate a Él y déjale obrar.
+[6](#c86-v6){:#c86-v6} Y en el libro de los pueblos, Yahvé escribirá: "Estos nacieron allí."
 
-6Él hará aparecer tu justicia como el día,
+[7](#c86-v7){:#c86-v7} [[818]](#n-818){:#rn-818} Y cantarán danzando: "Todas mis fuentes están en Ti." 
 
-y tu causa como la luz meridiana.
+### Salmo [87 (88)](#c87) {#c87}
 
-7[4523]Calla ante Yahvé y espera de Él;
+### Lamento del hombre en extrema aflicción 
 
-no te acalores
+[1](#c87-v1){:#c87-v1} [[819]](#n-819){:#rn-819} Cántico. Salmo de los hijos de Coré. Al maestro de coro. Sobre el tono de "Mahalat", para cantar. Maskil. De Hemán el ezrahita.
 
-a causa del que prospera en su camino,
+[2](#c87-v2){:#c87-v2} [[820]](#n-820){:#rn-820} Yahvé, Dios de mi salud, día y noche clamo en tu presencia.
 
-del hombre que obra torcidamente.
+[3](#c87-v3){:#c87-v3} Llegue hasta Ti mi oración, inclina tu oído a mi clamor.
 
-8[4524]Depón el rencor y aplaca la ira,
+[4](#c87-v4){:#c87-v4} Pues mi alma está saciada de males, y mi vida al borde del sepulcro.
 
-no te irrites: pues sería peor;
+[5](#c87-v5){:#c87-v5} Me cuentan entre los que bajan a la tumba; he venido a ser como un hombre inválido,
 
-9porque los que obran mal
+[6](#c87-v6){:#c87-v6} [[821]](#n-821){:#rn-821} abandonado a su propia suerte como los muertos; como las víctimas que yacen en el sepulcro, de quienes ya no te acuerdas, y que no son más objeto de tu cuidado.
 
-serán exterminados,
+[7](#c87-v7){:#c87-v7} Me has puesto en una profunda fosa, en tinieblas, en el abismo.
 
-mas los que esperan en Yahvé
+[8](#c87-v8){:#c87-v8} [[822]](#n-822){:#rn-822} Sobre mí pesa tu indignación, y con todas tus olas me estás ahogando.
 
-heredarán la tierra.
+[9](#c87-v9){:#c87-v9} [[823]](#n-823){:#rn-823} Has alejado de mí a los amigos, me has hecho objeto de abominación para ellos; me encuentro encerrado, sin poder salir.
 
-10Aguarda un poco,
+[10](#c87-v10){:#c87-v10} Mis ojos flaquean de miseria; clamo a Ti, Yahvé, todo el día, hacia Ti extiendo mis manos.
 
-y el impío ya no estará;
+[11](#c87-v11){:#c87-v11} [[824]](#n-824){:#rn-824} ¿Es que para los muertos haces tus maravillas, o se levantan los difuntos para alabarte?
 
-y si buscas su lugar,
+[12](#c87-v12){:#c87-v12} ¿Acaso en las sepulturas se proclama tu bondad, en la tierra de los muertos tu fidelidad?
 
-no lo hallarás.
+[13](#c87-v13){:#c87-v13} ¿Se harán tus prodigios manifiestos en las tinieblas, y tu gracia en la tierra del olvido?
 
-11En tanto que los mansos
+[14](#c87-v14){:#c87-v14} [[825]](#n-825){:#rn-825} Yo en cambio, Yahvé, te expreso mi clamor, y desde temprano te llega mi ruego.
 
-poseerán la tierra,
+[15](#c87-v15){:#c87-v15} ¿Por qué, Yahvé, rechazas mi alma y escondes de mí tu faz?
 
-y se deleitarán en abundancia de paz.
+[16](#c87-v16){:#c87-v16} Soy miserable, y vivo muriendo desde niño; soporté tus terrores y ya no puedo más;
 
-12[4525]El impío urde males contra el justo,
+[17](#c87-v17){:#c87-v17} tus iras pasaron sobre mí, y tus espantos me han anonadado.
 
-y a su vista rechina los dientes;
+[18](#c87-v18){:#c87-v18} Me rodean como agua todo el día, me cercan todos juntos.
 
-13[4526]pero Yahvé se ríe de él,
+[19](#c87-v19){:#c87-v19} Has alejado de mí al amigo y al compañero, y mis familiares son las tinieblas. 
 
-porque está viendo llegar su día.
+### Salmo [88 (89)](#c88) {#c88}
 
-14Los perversos desenvainan la espada
+### Promesa del reino mesiánico a David 
 
-y tienden su arco,
+[1](#c88-v1){:#c88-v1} [[826]](#n-826){:#rn-826} Maskil de Etán ezrahita.
 
-para derribar al afligido y al desvalido,
+[2](#c88-v2){:#c88-v2} [[827]](#n-827){:#rn-827} Quiero cantar eternamente las misericordias de Yahvé; que mi boca anuncie tu fidelidad de generación en generación.
 
-y trucidar a los que son rectos.
+[3](#c88-v3){:#c88-v3} [[828]](#n-828){:#rn-828} Porque Tú dijiste: "La misericordia está afianzada para siempre", y en el cielo afirmaste tu fidelidad:
 
-15Pero la espada se les clavará
+[4](#c88-v4){:#c88-v4} "He hecho un pacto con mi escogido, he jurado a David, mi siervo:
 
-en su propio corazón,
+[5](#c88-v5){:#c88-v5} [[829]](#n-829){:#rn-829} Para siempre haré estable tu descendencia; daré firmeza a tu trono por todas las generaciones."
 
-y sus arcos se romperán.
+[6](#c88-v6){:#c88-v6} Los cielos pregonan tus maravillas, oh Yahvé, y tu fidelidad la asamblea de los santos.
 
-16[4527]Más vale lo poco del justo
+[7](#c88-v7){:#c88-v7} [[830]](#n-830){:#rn-830} Porque ¿quién en los cielos se igualará a Yahvé, y quién entre los hijos de Dios será semejante a Él?
 
-que la gran opulencia de los pecadores;
+[8](#c88-v8){:#c88-v8} Dios es glorificado en la asamblea de los santos; grande y formidable sobre cuantos le rodean.
 
-17porque serán quebrados
+[9](#c88-v9){:#c88-v9} [[831]](#n-831){:#rn-831} ¡Yahvé, Dios de los ejércitos! ¿Quién como Tú? Poderoso eres, oh Yah, y tu fidelidad te circunda.
 
-los brazos de los impíos,
+[10](#c88-v10){:#c88-v10} [[832]](#n-832){:#rn-832} Tú señoreas la soberbia del mar, Tú domas la altivez de sus olas.
 
-en tanto que a los justos
+[11](#c88-v11){:#c88-v11} [[833]](#n-833){:#rn-833} Tú hollaste a Rahab como a un cadáver; con el poder de tu brazo dispersaste a tus enemigos.
 
-los sostiene Yahvé.
+[12](#c88-v12){:#c88-v12} [[834]](#n-834){:#rn-834} Tuyos son los cielos y tuya es la tierra, Tú cimentaste el orbe y cuanto contiene.
 
-18Lleva cuenta Yahvé
+[13](#c88-v13){:#c88-v13} [[835]](#n-835){:#rn-835} Tú creaste el Septentrión y el Mediodía; el Tabor y el Hermón se estremecen al Nombre tuyo.
 
-de los días de los justos,
+[14](#c88-v14){:#c88-v14} Tú tienes el brazo poderoso, fuerte es tu mano, sublime tu diestra.
 
-y su herencia será eterna.
+[15](#c88-v15){:#c88-v15} [[836]](#n-836){:#rn-836} Justicia y rectitud son las bases de tu trono; la misericordia y la fidelidad van delante de Ti.
 
-19No se verán confundidos
+[16](#c88-v16){:#c88-v16} [[837]](#n-837){:#rn-837} ¡Dichoso el pueblo que conoce el alegre llamado! Caminará, oh Yahvé, a la luz de tu rostro.
 
-en tiempo de calamidad,
+[17](#c88-v17){:#c88-v17} Continuamente se regocijará por tu Nombre, y saltará de exultación por tu justicia.
 
-y en los días de hambre
+[18](#c88-v18){:#c88-v18} [[838]](#n-838){:#rn-838} Porque Tú eres la gloria de su fortaleza, y por favor tuyo será exaltado nuestro poder.
 
-serán saciados.
+[19](#c88-v19){:#c88-v19} Pues de Yahvé es nuestro socorro, del Santo de Israel, que es nuestro Rey.
 
-20[4528]Mas los impíos perecerán;
+[20](#c88-v20){:#c88-v20} [[839]](#n-839){:#rn-839} Hablaste un día en visiones a tus santos, y dijiste: "He impuesto la corona a un héroe, he ensalzado al escogido de entre mi pueblo.
 
-y los enemigos de Yahvé,
+[21](#c88-v21){:#c88-v21} [[840]](#n-840){:#rn-840} He descubierto a David, mi siervo, lo he ungido con mi óleo santo,
 
-los altivos ensoberbecidos en su corazón,
+[22](#c88-v22){:#c88-v22} para que mi mano esté con él siempre y mi brazo le dé fortaleza.
 
-se desvanecerán como el humo.
+[23](#c88-v23){:#c88-v23} No lo engañará el enemigo; ni el maligno lo humillará.
 
-21[4529]El malvado toma en préstamo
+[24](#c88-v24){:#c88-v24} Pues Yo destrozaré delante de él a sus enemigos, y destruiré a los que le odian.
 
-y no devuelve,
+[25](#c88-v25){:#c88-v25} Mi fidelidad y mi gracia están con él; y en mi Nombre será exaltado su poderío.
 
-mas el justo es compasivo y da;
+[26](#c88-v26){:#c88-v26} Extenderé su mano sobre el mar, y su diestra sobre los ríos.
 
-22porque los benditos poseerán la tierra,
+[27](#c88-v27){:#c88-v27} [[841]](#n-841){:#rn-841} Él me invocará: "Tú eres mi Padre; Tú mi Dios y la roca, de mi salud."
 
-pero los malditos serán exterminados.
+[28](#c88-v28){:#c88-v28} [[842]](#n-842){:#rn-842} Y Yo lo haré primogénito; el más excelso entre los reyes de la tierra.
 
-23[4530]Yahvé dirige los pasos del hombre,
+[29](#c88-v29){:#c88-v29} Le guardaré mi gracia eternamente, y para él será firme mi alianza.
 
-al que le agrada Él le afirma el camino.
+[30](#c88-v30){:#c88-v30} Haré durar para siempre su descendencia, y su trono como los días de los cielos.
 
-24Aunque resbalare,
+[31](#c88-v31){:#c88-v31} [[843]](#n-843){:#rn-843} Si sus hijos abandonaren mi Ley y no caminaren en mis preceptos,
 
-no caerá postrado,
+[32](#c88-v32){:#c88-v32} si violaren mis disposiciones y no guardaren mis mandamientos,
 
-porque Yahvé lo sostiene con su mano.
+[33](#c88-v33){:#c88-v33} castigaré con la vara su delito, y con azotes su culpa;
 
-25[4531]Joven fui y ahora soy viejo,
+[34](#c88-v34){:#c88-v34} pero no retiraré de él mi gracia, ni desmentiré mi fidelidad.
 
-mas nunca he visto
+[35](#c88-v35){:#c88-v35} No violaré mi pacto, ni mudaré cuanto han dicho mis labios.
 
-al justo desamparado,
+[36](#c88-v36){:#c88-v36} Juré una vez por mi santidad; ¿acaso quebrantaré mi palabra a David?
 
-ni a sus hijos mendigando el pan.
+[37](#c88-v37){:#c88-v37} [[844]](#n-844){:#rn-844} Su descendencia durará eternamente, y su trono como el sol delante de Mí,
 
-26En todo tiempo es misericordioso
+[38](#c88-v38){:#c88-v38} y como la luna, firme para siempre, testigo fiel en el cielo.
 
-y presta,
+[39](#c88-v39){:#c88-v39} [[845]](#n-845){:#rn-845} Sin embargo Tú (nos) has rechazado y echado fuera, te has irritado gravemente contra tu ungido;
 
-y su estirpe es bendecida.
+[40](#c88-v40){:#c88-v40} has despreciado el pacto con tu siervo, profanaste su corona (echándola) a tierra.
 
-27[4532]Huye tu del mal y haz el bien,
+[41](#c88-v41){:#c88-v41} Has destruido todas sus murallas, has reducido a ruinas sus fortificaciones.
 
-y habitarás por siempre.
+[42](#c88-v42){:#c88-v42} Lo saquearon cuantos pasaron por el camino, ha venido a ser el ludibrio de sus vecinos.
 
-28Pues Yahvé ama la justicia,
+[43](#c88-v43){:#c88-v43} Levantaste la diestra de sus adversarios, llenaste de regocijo a todos sus enemigos.
 
-y no abandona a sus santos;
+[44](#c88-v44){:#c88-v44} Le embotaste el filo de su espada, y no le sostuviste en el combate.
 
-los impíos serán exterminados,
+[45](#c88-v45){:#c88-v45} Apagaste su esplendor y derribaste por tierra su trono.
 
-y su descendencia perecerá.
+[46](#c88-v46){:#c88-v46} Abreviaste los días de su juventud, lo cubriste de ignominia.
 
-29[4533]Los justos poseerán la tierra,
+[47](#c88-v47){:#c88-v47} [[846]](#n-846){:#rn-846} ¿Hasta cuándo, Señor? ¿Te esconderás para siempre? ¿Arderá tu ira como el fuego?
 
-y habitarán en ella para siempre.
+[48](#c88-v48){:#c88-v48} [[847]](#n-847){:#rn-847} Recuerda lo que es la vida; ¿acaso habrías creado en vano a los hijos de los hombres?
 
-30[4534]La boca del justo profiere sabiduría,
+[49](#c88-v49){:#c88-v49} [[848]](#n-848){:#rn-848} ¿Qué hombre podrá sobrevivir sin ver la muerte, y sustraer su vida a las garras del sepulcro?
 
-y su lengua habla con rectitud.
+[50](#c88-v50){:#c88-v50} ¿Dónde están, Señor, tus antiguas misericordias, las que a David juraste por tu fidelidad?
 
-31La Ley de su Dios está en su corazón,
+[51](#c88-v51){:#c88-v51} [[849]](#n-849){:#rn-849} Señor, acuérdate del oprobio de tus siervos: llevo yo en mi pecho las hostilidades de los gentiles,
 
-y sus pasos no vacilan.
+[52](#c88-v52){:#c88-v52} el insulto con que tus enemigos persiguen, oh Yahvé, persiguen los pasos de tu ungido.
 
-32[4535]El impío anda en acecho del justo,
+[53](#c88-v53){:#c88-v53} [[850]](#n-850){:#rn-850} Bendito sea el Señor eternamente. ¡Así sea! ¡Así sea!
 
-y busca cómo quitarle la vida;
+### CUARTO LIBRO DE LOS SALMOS 
 
-33pero Yahvé no lo deja en sus manos,
+### Salmo [89 (90)](#c89) {#c89}
 
-ni permite que le condenen
+### Fugacidad de la vida humana 
 
-cuando es juzgado.
+[1](#c89-v1){:#c89-v1} [[851]](#n-851){:#rn-851} Oración de Moisés, varón de Dios. Oh Señor, Tú eres de generación en generación.
 
-34[4536]Cuenta con Yahvé
+[2](#c89-v2){:#c89-v2} [[852]](#n-852){:#rn-852} Antes que los montes fuesen engendrados, y naciesen la tierra y el orbe, y desde la eternidad hasta la eternidad, Tú, oh Dios, eres.
 
-y sigue su camino;
+[3](#c89-v3){:#c89-v3} [[853]](#n-853){:#rn-853} Tú reduces a los mortales al polvo, y les dices: "Reintegraos, hijos de Adán."
 
-Él te conducirá
+[4](#c89-v4){:#c89-v4} [[854]](#n-854){:#rn-854} Así como mil años son a tus ojos lo que el día de ayer, una vez que ha pasado, y lo que una vigilia de la noche,
 
-a la herencia de la tierra;
+[5](#c89-v5){:#c89-v5} [[855]](#n-855){:#rn-855} así (a los hombres) los arrebatas, y son como un sueño matutino, como la hierba verde;
 
-asistirás gozoso
+[6](#c89-v6){:#c89-v6} que a la mañana está en flor y crece, y a la tarde es cortada y se seca.
 
-al exterminio de los perversos.
+[7](#c89-v7){:#c89-v7} [[856]](#n-856){:#rn-856} Así también nos consumimos a causa de tu ira, y estamos conturbados por tu indignación.
 
-35Vi al impío sumamente empinado
+[8](#c89-v8){:#c89-v8} Has puesto ante tus ojos nuestros delitos, y a la luz de tu rostro nuestros pecados ocultos,
 
-y expandiéndose,
+[9](#c89-v9){:#c89-v9} [[857]](#n-857){:#rn-857} porque todos nuestros días declinan por efecto de tu ira, nuestros días pasan como un suspiro.
 
-como un cedro del Líbano;
+[10](#c89-v10){:#c89-v10} [[858]](#n-858){:#rn-858} Los días de nuestra vida son en suma setenta años, y en los robustos, ochenta; y los más de ellos son pena y vanidad, porque pronto han pasado y nos volamos.
 
-36pasé de nuevo, y ya no estaba;
+[11](#c89-v11){:#c89-v11} ¿Quién pesa según el temor que te es debido la vehemencia de tu ira y tu indignación?
 
-lo busqué, y no fue encontrado.
+[12](#c89-v12){:#c89-v12} [[859]](#n-859){:#rn-859} Enséñanos a contar nuestros días, para que lleguemos a la sabiduría del corazón.
 
-37[4537]Observa al hombre íntegro
+[13](#c89-v13){:#c89-v13} Vuélvete, Yahvé —¿hasta cuándo?— y sé propicio a tus siervos.
 
-y mira al que es recto,
+[14](#c89-v14){:#c89-v14} Sácianos con tu misericordia desde temprano, para que nos gocemos y nos alegremos todos nuestros días.
 
-porque el hombre pacífico
+[15](#c89-v15){:#c89-v15} [[860]](#n-860){:#rn-860} Alégranos por los días en que nos humillaste, por los años en que conocimos la desventura.
 
-tendrá porvenir,
+[16](#c89-v16){:#c89-v16} Manifiéstese a tus siervos tu obra, y a sus hijos tu gloria.
 
-38en tanto que los rebeldes
+[17](#c89-v17){:#c89-v17} [[861]](#n-861){:#rn-861} Y la bondad del Señor, nuestro Dios, sea sobre nosotros; y conduce Tú las obras de nuestras manos, [para que prospere la obra de nuestras manos]. 
 
-todos perecerán,
+### Salmo [90 (91)](#c90) {#c90}
 
-y la posteridad de los impíos
+### Premio de la confianza 
 
-será extirpada.
+[1](#c90-v1){:#c90-v1} [[862]](#n-862){:#rn-862} Tú que te abrigas en el retiro del Altísimo, y descansas a la sombra del Omnipotente,
 
-39De Yahvé viene
+[2](#c90-v2){:#c90-v2} di a Yahvé: "¡Refugio mío y fortaleza mía, mi Dios, en quien confío!"
 
-la salvación de los justos;
+[3](#c90-v3){:#c90-v3} Porque Él te librará del lazo de los cazadores y de la peste mortífera.
 
-Él es su fortaleza en los días aciagos.
+[4](#c90-v4){:#c90-v4} [[863]](#n-863){:#rn-863} Con sus plumas te cubrirá, y tendrás refugio bajo sus alas; su fidelidad es escudo y broquel.
 
-40[4538]Yahvé les da ayuda y libertad;
+[5](#c90-v5){:#c90-v5} [[864]](#n-864){:#rn-864} No temerás los terrores de la noche, ni las saetas disparadas de día,
 
-los saca de las manos de los impíos
+[6](#c90-v6){:#c90-v6} ni la pestilencia que vaga en las tinieblas, ni el estrago que en pleno día devasta.
 
-y los salva,
+[7](#c90-v7){:#c90-v7} [[865]](#n-865){:#rn-865} Aunque mil caigan junto a ti y diez mil a tu diestra, tú no serás alcanzado.
 
-porque a Él se acogieron.
+[8](#c90-v8){:#c90-v8} Antes bien, con tus propios ojos contemplarás, y verás la retribución de los pecadores.
 
-SALMO 37 (38)
-Invocación del justo atribulado (Cristo en la Pasión)
+[9](#c90-v9){:#c90-v9} [[866]](#n-866){:#rn-866} Pues dijiste a Yahvé: "Tú eres mi refugio", hiciste del Altísimo tu defensa.
 
-1[4539]Salmo de David. Para recuerdo.
+[10](#c90-v10){:#c90-v10} No te llegará el mal ni plaga alguna se aproximará a tu tienda.
 
-2Yahvé, no me arguyas en tu ira,
+[11](#c90-v11){:#c90-v11} [[867]](#n-867){:#rn-867} Pues Él te ha encomendado a sus ángeles, para que te guarden en todos tus caminos.
 
-ni me castigues en tu furor.
+[12](#c90-v12){:#c90-v12} Ellos te llevarán en sus manos, no sea que lastimes tu pie contra una piedra.
 
-3[4540]Mira que tengo clavadas tus flechas,
+[13](#c90-v13){:#c90-v13} [[868]](#n-868){:#rn-868} Caminarás sobre el áspid y el basilisco; hollarás al león y al dragón.
 
-y tu mano ha caído sobre mí.
+[14](#c90-v14){:#c90-v14} [[869]](#n-869){:#rn-869} "Por cuanto él se entregó a Mí, Yo lo preservaré; lo pondré en alto porque conoció mi Nombre.
 
-4[4541]A causa de tu indignación
+[15](#c90-v15){:#c90-v15} [[870]](#n-870){:#rn-870} Me invocará, y le escucharé; estaré con él en la tribulación, lo sacaré y lo honraré.
 
-no hay en mi carne parte sana,
+[16](#c90-v16){:#c90-v16} Lo saciaré de larga vida, y le haré ver mi salvación." 
 
-ni un hueso tengo intacto,
+### Salmo [91 (92)](#c91) {#c91}
 
-por culpa de mi pecado.
+### Grandezas de nuestro Dios 
 
-5Es que mis iniquidades
+[1](#c91-v1){:#c91-v1} [[871]](#n-871){:#rn-871} Salmo. Cántico. Para el día del sábado.
 
-pasan sobre mi cabeza,
+[2](#c91-v2){:#c91-v2} [[872]](#n-872){:#rn-872} Bueno es alabar a Yahvé, y cantar a tu Nombre, oh Altísimo;
 
-me aplasta el peso de su carga.
+[3](#c91-v3){:#c91-v3} [[873]](#n-873){:#rn-873} anunciar al alba tu misericordia y por las noches tu fidelidad;
 
-6[4542]Mis llagas hieden y supuran,
+[4](#c91-v4){:#c91-v4} [[874]](#n-874){:#rn-874} con el salterio de diez cuerdas y el laúd, cantando al son de la cítara;
 
-por culpa de mi insensatez.
+[5](#c91-v5){:#c91-v5} [[875]](#n-875){:#rn-875} porque Tú, Yahvé, me deleitas con tus hechos, y me gozo en las obras de tus manos.
 
-7Inclinado, encorvado hasta el extremo,
+[6](#c91-v6){:#c91-v6} [[876]](#n-876){:#rn-876} ¡Cuan magníficas son tus obras, Yahvé! ¡Cuán profundos tus pensamientos!
 
-en mi tristeza
+[7](#c91-v7){:#c91-v7} [[877]](#n-877){:#rn-877} El hombre insensato no lo reconoce, y el necio no entiende esto.
 
-ando todo el día sin rumbo;
+[8](#c91-v8){:#c91-v8} Aunque broten impíos como hierba, y florezcan todos los artesanos del crimen, destinados están al exterminio para siempre;
 
-8mis entrañas se abrasan de dolor,
+[9](#c91-v9){:#c91-v9} mientras que Tú, Yahvé, eres eternamente el Altísimo.
 
-no queda nada sano en mi cuerpo.
+[10](#c91-v10){:#c91-v10} [[878]](#n-878){:#rn-878} Porque he aquí que tus enemigos, oh Yahvé, los enemigos tuyos perecerán, y todos los malhechores quedarán desbaratados.
 
-9Languidezco abrumado;
+[11](#c91-v11){:#c91-v11} [[879]](#n-879){:#rn-879} Tú exaltaste mi fuerza como la de un bisonte, me has ungido con aceite nuevo.
 
-los gemidos de mi corazón me hacen rugir.
+[12](#c91-v12){:#c91-v12} [[880]](#n-880){:#rn-880} Mis ojos se alegran al mirar a mis enemigos, y mis oídos oyen regocijados a los perversos que se levantan contra mí.
 
-10Señor, a tu vista están todos mis suspiros,
+[13](#c91-v13){:#c91-v13} [[881]](#n-881){:#rn-881} El justo florecerá como la palma y crecerá como el cedro del Líbano,
 
-y mis gemidos no se te ocultan.
+[14](#c91-v14){:#c91-v14} los cuales plantados en la casa de Yahvé florecerán en los atrios de nuestro Dios.
 
-11Palpita fuertemente mi corazón;
+[15](#c91-v15){:#c91-v15} [[882]](#n-882){:#rn-882} Aun en la vejez fructificarán todavía, llenos de savia y vigor,
 
-las fuerzas me abandonan,
+[16](#c91-v16){:#c91-v16} [[883]](#n-883){:#rn-883} para proclamar que Yahvé es recto, — ¡Roca mía!— y que no cabe iniquidad en Él. 
 
-y aún me falta la luz de mis ojos.
+### Salmo [92 (93)](#c92) {#c92}
 
-12[4543]Mis amigos y compañeros
+### El Señor, Rey del orbe 
 
-se han apartado de mis llagas,
+[1](#c92-v1){:#c92-v1} [[884]](#n-884){:#rn-884} Reina Yahvé; se ha revestido de majestad. El Señor se reviste de poder, se ciñe las armas; da estabilidad al orbe de la tierra, que no se moverá.
 
-y mis allegados se mantienen, a distancia.
+[2](#c92-v2){:#c92-v2} [[885]](#n-885){:#rn-885} Fijado está tu trono desde ese tiempo; Tu eres desde la eternidad.
 
-13[4544]Me tienden lazos
+[3](#c92-v3){:#c92-v3} Alzan los ríos, Yahvé, alzan los ríos su voz; alzan las olas su fragor.
 
-los que atentan contra mi vida;
+[4](#c92-v4){:#c92-v4} [[886]](#n-886){:#rn-886} Pero, más poderoso que la voz de las muchas aguas, más poderoso que el oleaje del mar, es Yahvé en las alturas.
 
-los que buscan mi perdición
+[5](#c92-v5){:#c92-v5} [[887]](#n-887){:#rn-887} Tus testimonios, Yahvé, son segurísimos; corresponde a tu casa la santidad por toda la duración de los tiempos. 
 
-hablan de amenazas
+### Salmo [93 (94)](#c93) {#c93}
 
-y forman todo el día designios aviesos.
+### Dios, vengador de los suyos 
 
-14[4545]Yo entretanto, como sordo, no escucho;
+[1](#c93-v1){:#c93-v1} [[888]](#n-888){:#rn-888} ¡Oh Dios vengador, Yahvé, Dios de las venganzas, muéstrate!
 
-y soy como mudo que no abre sus labios.
+[2](#c93-v2){:#c93-v2} Levántate, glorioso, oh Juez del mundo; da a los soberbios lo que merecen.
 
-15Me he hecho semejante
+[3](#c93-v3){:#c93-v3} [[889]](#n-889){:#rn-889} ¿Hasta cuándo los malvados, Yahvé? ¿Hasta cuándo los malvados triunfarán,
 
-a un hombre que no oye
+[4](#c93-v4){:#c93-v4} proferirán necedades con lenguaje arrogante, se jactarán todos de sus obras inicuas?
 
-y que no tiene respuesta en su boca;
+[5](#c93-v5){:#c93-v5} [[890]](#n-890){:#rn-890} Oprimen a tu pueblo, Yahvé, y devastan tu heredad;
 
-16[4546]porque confío en Ti, oh Yahvé,
+[6](#c93-v6){:#c93-v6} [[891]](#n-891){:#rn-891} asesinan a la viuda y al extranjero, y matan a los huérfanos.
 
-Tú responderás, Señor Dios mío.
+[7](#c93-v7){:#c93-v7} [[892]](#n-892){:#rn-892} Y dicen: "El Señor no lo ve, el Dios de Jacob nada sabe."
 
-17[4547]Yo he dicho en efecto:
+[8](#c93-v8){:#c93-v8} [[893]](#n-893){:#rn-893} Entendedlo, oh necios entre todos; insensatos, sabedlo al fin:
 
-“No se alegren a costa mía,
+[9](#c93-v9){:#c93-v9} Aquel que plantó el oído ¿no oirá Él mismo? Y el que formó el ojo ¿no verá?
 
-y no se ensoberbezcan contra mí
+[10](#c93-v10){:#c93-v10} [[894]](#n-894){:#rn-894} El que castiga a las naciones ¿no ha de pedir cuentas? Aquel que enseña al hombre ¿(no tendrá) conocimiento?
 
-al vacilar mi pie.”
+[11](#c93-v11){:#c93-v11} [[895]](#n-895){:#rn-895} Yahvé conoce los pensamientos de los hombres: ¡son una cosa vana!
 
-18[4548]Pues me encuentro a punto de caer,
+[12](#c93-v12){:#c93-v12} [[896]](#n-896){:#rn-896} Dichoso el hombre a quien Tú educas, oh Yah, el que Tú instruyes mediante tu Ley,
 
-y tengo siempre delante mi flaqueza,
+[13](#c93-v13){:#c93-v13} [[897]](#n-897){:#rn-897} para darle tranquilidad en los días aciagos, hasta que se cave la fosa para el inicuo.
 
-19[4549]dado que confieso mi culpa
+[14](#c93-v14){:#c93-v14} [[898]](#n-898){:#rn-898} Puesto que Yahvé no desechará a su pueblo, ni desamparará su heredad,
 
-y estoy lleno de turbación por mi delito;
+[15](#c93-v15){:#c93-v15} sino que volverá a imperar la justicia, y la seguirán todos los rectos de corazón.
 
-20en tanto que son poderosos
+[16](#c93-v16){:#c93-v16} [[899]](#n-899){:#rn-899} ¿Quién se levantará en mi favor contra los malhechores? ¿Quién se juntará conmigo para oponerse a los malvados?
 
-los que injustamente me hacen guerra,
+[17](#c93-v17){:#c93-v17} [[900]](#n-900){:#rn-900} Si Yahvé no estuviese para ayudarme, ya el silencio sería mi morada.
 
-y muchos los que me odian sin causa.
+[18](#c93-v18){:#c93-v18} [[901]](#n-901){:#rn-901} Cuando pienso: "Mi pie va a resbalar", tu misericordia, Yahvé, me sostiene.
 
-21Y los que devuelven mal por bien
+[19](#c93-v19){:#c93-v19} [[902]](#n-902){:#rn-902} Cuando las ansiedades se multiplican en mi corazón, tus consuelos deleitan mi alma.
 
-me hostilizan,
+[20](#c93-v20){:#c93-v20} [[903]](#n-903){:#rn-903} ¿Podrá tener comunidad contigo la sede de la iniquidad, que forja tiranía bajo apariencia legal?
 
-porque me empeño en lo bueno.
+[21](#c93-v21){:#c93-v21} Asalten ellos el alma del justo, y condenen la sangre inocente;
 
-22No me abandones, oh Yahvé;
+[22](#c93-v22){:#c93-v22} mas Yahvé será para mí una fortaleza, y el Dios mío la roca de mi refugio.
 
-Dios mío, no quieras estar lejos de mí.
+[23](#c93-v23){:#c93-v23} [[904]](#n-904){:#rn-904} Él hará que su perversidad caiga sobre ellos mismos; y con su propia malicia los destruirá, los exterminará Yahvé, nuestro Dios. 
 
-23Apresúrate a socorrerme,
+### Salmo [94 (95)](#c94) {#c94}
 
-Yahvé, salvación mía.
+### "Venite adoremus" 
 
-SALMO 38 (39)
-Oración en tiempo de aflicción
+[1](#c94-v1){:#c94-v1} [[905]](#n-905){:#rn-905} Venid, alegrémonos para Yahvé; aclamemos a la Roca de nuestra salvación.
 
-1[4550]Al maestro de coro, a Iditún. Salmo de David.
+[2](#c94-v2){:#c94-v2} Acerquémonos a Él con alabanzas, y con cantos gocémonos en su presencia.
 
-2[4551]Yo me dije: “Atenderé a mis caminos,
+[3](#c94-v3){:#c94-v3} [[906]](#n-906){:#rn-906} Porque Yahvé es un gran Dios, y un rey más grande que todos los dioses.
 
-para no pecar con mi lengua;
+[4](#c94-v4){:#c94-v4} [[907]](#n-907){:#rn-907} En sus manos están las profundidades de la tierra y son suyas las cumbres de las montañas.
 
-pondré un freno a mi boca
+[5](#c94-v5){:#c94-v5} Suyo es el mar, pues Él lo hizo, y el continente, que plasmaron sus manos.
 
-mientras el impío esté frente a mí.”
+[6](#c94-v6){:#c94-v6} [[908]](#n-908){:#rn-908} Venid, adoremos e inclinémonos; caigamos de rodillas ante Yahvé que nos creó.
 
-3[4552]Y quedé silencioso, mudo;
+[7](#c94-v7){:#c94-v7} [[909]](#n-909){:#rn-909} Porque Él es nuestro Dios; nosotros somos el pueblo que Él alimenta, y las ovejas que Él cuida. Ojalá oyerais hoy aquella voz suya:
 
-callé aun el bien;
+[8](#c94-v8){:#c94-v8} [[910]](#n-910){:#rn-910} "No endurezcáis vuestros corazones como en Meribá, como en el día de Masá, en el desierto,
 
-pero mi dolor se exasperaba.
+[9](#c94-v9){:#c94-v9} cuando vuestros padres me provocaron poniéndome a prueba aunque habían visto mis obras.
 
-4[4553]El corazón ardía en mi pecho;
+[10](#c94-v10){:#c94-v10} [[911]](#n-911){:#rn-911} Durante cuarenta años me dio asco aquella generación y dije: "Son un pueblo de corazón extraviado, no han conocido mis caminos."
 
-cuando reflexionaba, el fuego se encendía;
+[11](#c94-v11){:#c94-v11} [[912]](#n-912){:#rn-912} Por eso, indignado, juré: "No entrarán en mi reposo." 
 
-entonces solté mi lengua diciendo:
+### Salmo [95 (96)](#c95) {#c95}
 
-5[4554] “Hazme saber, Yahvé, cuál es mi fin,
+### Advenimiento y alabanza del divino Rey 
 
-y cuál el número de mis días,
+[1](#c95-v1){:#c95-v1} [[913]](#n-913){:#rn-913} Cantad a Yahvé un cántico nuevo, cantad a Yahvé, tierras todas.
 
-para que entienda cuan caduco soy.
+[2](#c95-v2){:#c95-v2} Cantad a Yahvé, bendecid su nombre, proclamad día tras día su salvación.
 
-6Tú diste a mis días un largo de pocos palmos,
+[3](#c95-v3){:#c95-v3} [[914]](#n-914){:#rn-914} Pregonad su gloria entre los gentiles; sus maravillas entre los pueblos todos.
 
-y mi vida es como nada ante Ti.
+[4](#c95-v4){:#c95-v4} Porque grande es Yahvé y digno de suma alabanza, temible, más que todos los dioses.
 
-Un mero soplo es todo hombre.
+[5](#c95-v5){:#c95-v5} Pues todos los dioses de los gentiles son ficción en tanto que Yahvé hizo los cielos.
 
-7[4555]Como una sombra, pasa el mortal,
+[6](#c95-v6){:#c95-v6} [[915]](#n-915){:#rn-915} Majestad y belleza le preceden; en su santa morada están el poder y la gloria.
 
-y vanamente se inquieta;
+[7](#c95-v7){:#c95-v7} Reconoced a Yahvé, oh razas de los pueblos, reconoced a Yahvé la gloria y el poder.
 
-atesora, y no sabe quién recogerá.”
+[8](#c95-v8){:#c95-v8} [[916]](#n-916){:#rn-916} Reconoced a Yahvé la gloria de su Nombre. Traedle oblaciones y venid a sus atrios.
 
-8Así pues ¿qué espero yo ahora, Señor?
+[9](#c95-v9){:#c95-v9} [[917]](#n-917){:#rn-917} Adorad a Yahvé en sacro esplendor, oh tierra toda, tiembla ante ÉL
 
-Toda mi esperanza está en Ti.
+[10](#c95-v10){:#c95-v10} [[918]](#n-918){:#rn-918} Anunciad a las naciones: "Reina Yahvé; Él ha dado estabilidad al orbe, para que no vacile; rige a los pueblos con justicia."
 
-9Sálvame Tú de todas mis iniquidades;
+[11](#c95-v11){:#c95-v11} [[919]](#n-919){:#rn-919} Alégrense los cielos, y regocíjese la tierra; retumbe el mar y cuanto lo llena;
 
-no me entregues al escarnio del necio.
+[12](#c95-v12){:#c95-v12} salte de júbilo el campo con todo lo que hay en él. Rebosarán entonces de exultación todos los árboles de la selva,
 
-10[4556]Enmudezco y no abro más mi boca;
+[13](#c95-v13){:#c95-v13} ante la presencia de Yahvé, porque viene, porque viene para gobernar la tierra. Gobernará la redondez de la tierra con justicia, y a los pueblos con su fidelidad. 
 
-porque todo lo haces Tú.
+### Salmo [96 (97)](#c96) {#c96}
 
-11Solo aparta de mí tu azote,
+### Hazañas del Rey 
 
-pues ante el poder de tu mano desfallezco.
+[1](#c96-v1){:#c96-v1} [[920]](#n-920){:#rn-920} Reina Yahvé; alégrese la tierra, muestre su júbilo la multitud de las islas.
 
-12[4557]Tú castigas al hombre por su culpa;
+[2](#c96-v2){:#c96-v2} [[921]](#n-921){:#rn-921} Nubes y oscura niebla le rodean, justicia e imperio son el fundamento de su trono.
 
-destruyes, como la polilla,
+[3](#c96-v3){:#c96-v3} [[922]](#n-922){:#rn-922} Delante de Él va el fuego y abrasa en derredor a sus enemigos.
 
-lo que él más aprecia.
+[4](#c96-v4){:#c96-v4} Sus relámpagos iluminan el orbe, la tierra lo ve, y tiembla.
 
-En verdad, todo hombre
+[5](#c96-v5){:#c96-v5} [[923]](#n-923){:#rn-923} Los montes, como cera, se derriten ante Yahvé, ante el Dominador de toda la tierra.
 
-no es más que un soplo.
+[6](#c96-v6){:#c96-v6} [[924]](#n-924){:#rn-924} Los cielos proclaman su justicia, y todos los pueblos ven su gloria.
 
-13[4558] Escucha, Yahvé, mi ruego,
+[7](#c96-v7){:#c96-v7} [[925]](#n-925){:#rn-925} Confundidos quedan todos los que adoran simulacros, y los que se glorían en los ídolos. "¡Adoradlo, ángeles todos de Dios!"
 
-presta oído a mis clamores,
+[8](#c96-v8){:#c96-v8} [[926]](#n-926){:#rn-926} Lo oye Sión, y se llena de gozo; y las ciudades de Judá saltan de alegría, por tus juicios, oh Yahvé.
 
-no te hagas sordo a mis lágrimas;
+[9](#c96-v9){:#c96-v9} Pues Tú eres, Yahvé, excelso sobre toda la tierra, eminentísimo sobre toda deidad.
 
-porque frente a Ti yo soy un peregrino,
+[10](#c96-v10){:#c96-v10} [[927]](#n-927){:#rn-927} Yahvé ama a los que odian el mal; guarda las almas de sus santos, los arrebata de la mano de los impíos.
 
-un transeúnte, como fueron todos mis padres.
+[11](#c96-v11){:#c96-v11} [[928]](#n-928){:#rn-928} Ya despunta la luz para el justo, y la alegría para los de corazón recto.
 
-14Deja de castigarme para que respire,
+[12](#c96-v12){:#c96-v12} Oh justos, regocijaos en Yahvé y celebrad su santo Nombre. 
 
-antes que parta y ya no esté.
+### Salmo [97 (98)](#c97) {#c97}
 
-SALMO 39 (40)
-Oblación de Cristo al Padre
+### Justicia del Rey 
 
-1[4559]Al maestro de coro. Salmo de David.
+[1](#c97-v1){:#c97-v1} [[929]](#n-929){:#rn-929} Cantad a Yahvé un cántico nuevo, porque ha hecho cosas admirables. Su diestra y su santo brazo le han dado la victoria.
 
-2Esperé en Yahvé,
+[2](#c97-v2){:#c97-v2} Yahvé ha hecho manifiesta su salvación; ha mostrado su justicia delante de los gentiles,
 
-con esperanza sin reserva,
+[3](#c97-v3){:#c97-v3} [[930]](#n-930){:#rn-930} se ha acordado de su misericordia y de su fidelidad en favor de la casa de Israel. Todos los confines de la tierra han visto la salud que viene de nuestro Dios.
 
-y Él se inclinó hacia mí
+[4](#c97-v4){:#c97-v4} [[931]](#n-931){:#rn-931} Tierra entera, aclama a Yahvé, gozaos, alegraos y cantad.
 
-y escuchó mi clamor.
+[5](#c97-v5){:#c97-v5} Entonad himnos a Yahvé con la cítara, con la cítara y al son del salterio;
 
-3[4560]Me sacó de una fosa mortal,
+[6](#c97-v6){:#c97-v6} con trompetas y sonidos de bocina prorrumpid en aclamaciones al Rey Yahvé.
 
-del fango cenagoso;
+[7](#c97-v7){:#c97-v7} [[932]](#n-932){:#rn-932} Retumbe el mar y cuanto lo llena, el orbe de la tierra y los que lo habitan.
 
-asentó mis pies sobre roca
+[8](#c97-v8){:#c97-v8} Batan palmas los ríos, y los montes a una salten de gozo
 
-y dio firmeza a mis pasos.
+[9](#c97-v9){:#c97-v9} ante la presencia de Yahvé porque viene, porque viene para gobernar la tierra. Gobernará la redondez de la tierra con justicia los pueblos con rectitud. 
 
-4Puso en mi boca un cántico nuevo,
+### Salmo [98 (99)](#c98) {#c98}
 
-un himno a nuestro Dios.
+### Santidad del Rey 
 
-Muchos verán esto,
+[1](#c98-v1){:#c98-v1} [[933]](#n-933){:#rn-933} Reina Yahvé, tiemblan los pueblos. Sentado se ha sobre los querubines; se conmueve la tierra.
 
-y temerán y esperarán en Yahvé.
+[2](#c98-v2){:#c98-v2} Grande es Yahvé en Sión, y excelso sobre todos los pueblos.
 
-5[4561]Dichoso el hombre
+[3](#c98-v3){:#c98-v3} Celebrado sea tu Nombre, grande y tremendo: ¡Santo es!
 
-que ha puesto su esperanza en Yahvé,
+[4](#c98-v4){:#c98-v4} [[934]](#n-934){:#rn-934} Y sea el honor para el Rey que ama la justicia. Tú has establecido lo que es recto; Tú ejerces la justicia y el imperio en Jacob.
 
-sin volverse hacia los arrogantes
+[5](#c98-v5){:#c98-v5} [[935]](#n-935){:#rn-935} Ensalzad a Yahvé nuestro Dios, y ante el escabel de sus pies, postraos: ¡Santo es!
 
-y los apóstatas impostores.
+[6](#c98-v6){:#c98-v6} [[936]](#n-936){:#rn-936} Moisés y Aarón están entre sus sacerdotes, y Samuel entre los que invocan su Nombre; invocaban a Yahvé y Él los escuchaba.
 
-6[4562]Oh Yahvé, Dios mío,
+[7](#c98-v7){:#c98-v7} En la columna de nubes les hablaba; oían sus mandamientos, y la Ley que les dio.
 
-Tú has multiplicado
+[8](#c98-v8){:#c98-v8} [[937]](#n-937){:#rn-937} Oh Yahvé Dios nuestro, Tú los escuchaste; fuiste para ellos un Dios propicio, bien que castigaste sus infracciones.
 
-tus hazañas maravillosas,
+[9](#c98-v9){:#c98-v9} Ensalzad a Yahvé nuestro Dios, y postraos ante su santo monte, porque Santo es Yahvé, Dios nuestro. 
 
-y nadie puede compararse a Ti,
+### Salmo [99 (100)](#c99) {#c99}
 
-por tus planes en favor nuestro.
+### Himno de ingreso al Templo 
 
-Yo quisiera anunciarlos y proclamarlos,
+[1](#c99-v1){:#c99-v1} Salmo en acción de gracias.
 
-pero su número excede a todo cálculo.
+[2](#c99-v2){:#c99-v2} [[938]](#n-938){:#rn-938} Aclamad a Yahvé, tierras todas, servid a Yahvé con alegría, llegaos a su presencia con exultación.
 
-7[4563]Tú no te has complacido
+[3](#c99-v3){:#c99-v3} [[939]](#n-939){:#rn-939} Sabed que Yahvé es Dios. Él nos hizo y somos de Él, pueblo suyo y ovejas de su aprisco.
 
-en sacrificio ni ofrenda,
+[4](#c99-v4){:#c99-v4} [[940]](#n-940){:#rn-940} Entrad por sus puertas alabándole, en sus atrios, con himnos. Ensalzadle, bendecid su Nombre.
 
-sino que me has dado oídos;
+[5](#c99-v5){:#c99-v5} [[941]](#n-941){:#rn-941} Porque Yahvé es bueno; su misericordia es eterna, y su fidelidad, de generación en generación. 
 
-holocausto y expiación
+### Salmo [100 (101)](#c100) {#c100}
 
-por el pecado no pides.
+### Modelo de príncipe 
 
-8Entonces he dicho:
+[1](#c100-v1){:#c100-v1} [[942]](#n-942){:#rn-942} Salmo de David. Quiero cantar la bondad y la justicia, un Salmo para Ti, Yahvé.
 
-“He aquí que vengo.”
+[2](#c100-v2){:#c100-v2} [[943]](#n-943){:#rn-943} Quiero seguir el camino recto. — ¡Oh, cuando vendrás a mí!— Procederé con recto corazón dentro de mi casa.
 
-En el rollo del libro me está prescrito
+[3](#c100-v3){:#c100-v3} Jamás pondré la mira en cosa injusta; aborrezco la conducta del que prevarica; no andará conmigo.
 
-9hacer tu voluntad;
+[4](#c100-v4){:#c100-v4} El corazón perverso estará lejos de mí; lo malo no quiero ni conocerlo.
 
-tal es mi deleite, Dios mío,
+[5](#c100-v5){:#c100-v5} [[944]](#n-944){:#rn-944} Al que solapadamente calumnia a su prójimo lo destruiré. Al de mirada altiva y corazón inflado no lo soportaré.
 
-y tu Ley está en el fondo de mi corazón.
+[6](#c100-v6){:#c100-v6} [[945]](#n-945){:#rn-945} Mis ojos buscarán a los hombres fieles del país, para tenerlos cerca de mí. El que ande por el camino recto, ese será mi ministro.
 
-10[4564]He proclamado tu justicia
+[7](#c100-v7){:#c100-v7} [[946]](#n-946){:#rn-946} No habitará dentro de mi casa el hombre doble, y el mentiroso no durará en mi presencia.
 
-en la grande asamblea;
+[8](#c100-v8){:#c100-v8} [[947]](#n-947){:#rn-947} Exterminaré cada día a todos los pecadores del país, a fin de extirpar a todos los obradores de iniquidad en la ciudad de Yahvé. 
 
-no contuve mis labios;
+### Salmo [101 (102)](#c101) {#c101}
 
-Tú, Yahvé, lo sabes.
+### Plegaria por la restauración de Jerusalén 
 
-11[4565]No he tenido escondida tu justicia
+[1](#c101-v1){:#c101-v1} [[948]](#n-948){:#rn-948} Oración de un afligido que desfallece y derrama su angustia ante el Señor.
 
-en mi corazón,
+[2](#c101-v2){:#c101-v2} [[949]](#n-949){:#rn-949} Escucha, Yahvé, mi oración, y llegue a Ti mi clamor.
 
-publiqué tu verdad y la salvación
+[3](#c101-v3){:#c101-v3} No quieras esconderme tu rostro en el día de mi desolación; inclina hacia mí tu oído; apresúrate a atenderme en el día de mi llamado.
 
-que de Ti viene;
+[4](#c101-v4){:#c101-v4} [[950]](#n-950){:#rn-950} Porque mis días se desvanecen como el humo, y mis huesos arden como fuego.
 
-no oculté a la muchedumbre
+[5](#c101-v5){:#c101-v5} [[951]](#n-951){:#rn-951} Abrasado, como la hierba, se seca mi corazón; me olvido de comer mi pan.
 
-tu misericordia y tu fidelidad.
+[6](#c101-v6){:#c101-v6} A fuerza de gemir y llorar se me pega la piel a los huesos.
 
-12[4566]Tú, Yahvé, no contengas
+[7](#c101-v7){:#c101-v7} [[952]](#n-952){:#rn-952} Soy como el pelícano del desierto, hecho semejante al búho entre las ruinas.
 
-para conmigo tus piedades;
+[8](#c101-v8){:#c101-v8} No puedo conciliar el sueño, y me lamento como el ave solitaria sobre el tejado:
 
-tu misericordia y tu fidelidad
+[9](#c101-v9){:#c101-v9} Mis enemigos me insultan sin cesar, y los que se enfurecen contra mí, toman mi nombre como imprecación.
 
-me guarden siempre.
+[10](#c101-v10){:#c101-v10} [[953]](#n-953){:#rn-953} Mi comida es ceniza en vez de pan, y mezclo mi bebida con las lágrimas,
 
-13[4567]Ahora me rodean males sin número,
+[11](#c101-v11){:#c101-v11} [[954]](#n-954){:#rn-954} a causa, de tu indignación y tu furor, porque me arrojaste después de levantarme en alto.
 
-mis culpas se precipitan sobre mí,
+[12](#c101-v12){:#c101-v12} [[955]](#n-955){:#rn-955} Mis días son como la sombra que se alarga; y, como la hierba, voy secándome,
 
-y no puedo soportar su vista.
+[13](#c101-v13){:#c101-v13} [[956]](#n-956){:#rn-956} mas Tú, Yahvé, permaneces siempre, y tu Nombre es de generación en generación.
 
-Son más numerosas,
+[14](#c101-v14){:#c101-v14} [[957]](#n-957){:#rn-957} Tú te levantarás y serás propicio a Sión, porque tiempo es ya de que te apiades de ella; a llegado la hora.
 
-que los cabellos de mi cabeza,
+[15](#c101-v15){:#c101-v15} [[958]](#n-958){:#rn-958} Ya tus siervos aman sus piedras, sienten compasión de sus ruinas.
 
-y mi corazón desmaya.
+[16](#c101-v16){:#c101-v16} [[959]](#n-959){:#rn-959} Así, oh Yahvé, los gentiles reverenciarán tu Nombre, y tu gloria todos los reyes de la tierra,
 
-14Plegue a Ti, Yahvé, librarme;
+[17](#c101-v17){:#c101-v17} porque Yahvé habrá restaurado a Sión, y Él se mostrará en su gloria.
 
-apresúrate, Señor, a ayudarme.
+[18](#c101-v18){:#c101-v18} [[960]](#n-960){:#rn-960} Se volverá hacia la oración de los despojados, y no despreciará sus ruegos.
 
-15Confundidos sean y avergonzados
+[19](#c101-v19){:#c101-v19} [[961]](#n-961){:#rn-961} Escríbase esto para la generación venidera, para que el pueblo que va a nacer alabe a Yah.
 
-todos los que buscan mi vida
+[20](#c101-v20){:#c101-v20} Porque Yahvé se habrá inclinado desde su excelso santuario, desde el cielo habrá mirado a la tierra,
 
-para perderla;
+[21](#c101-v21){:#c101-v21} [[962]](#n-962){:#rn-962} para escuchar el gemido de los cautivos y librar a los destinados a la muerte,
 
-retrocedan y cúbranse de ignominia
+[22](#c101-v22){:#c101-v22} [[963]](#n-963){:#rn-963} a fin de que en Sión sea pregonado el Nombre de Yahvé, y en Jerusalén su alabanza,
 
-los que se deleitan en mis males.
+[23](#c101-v23){:#c101-v23} cuando allí se congreguen a una los pueblos y los reinos, para servir a Yahvé.
 
-16Queden aturdidos de vergüenza
+[24](#c101-v24){:#c101-v24} [[964]](#n-964){:#rn-964} Él quebrantó mis fuerzas a medio camino; acortó mis días.
 
-esos que me dicen: “aja, aja”.
+[25](#c101-v25){:#c101-v25} Y yo clamo: Oh Dios mío, no me quites de esta vida en la mitad de mis días, Tú, cuyos años duran por todas las generaciones.
 
-17[4568]Pero salten de gozo
+[26](#c101-v26){:#c101-v26} [[965]](#n-965){:#rn-965} En el principio cimentaste la tierra, y obra de tus manos es el cielo.
 
-y alégrense en Ti
+[27](#c101-v27){:#c101-v27} [[966]](#n-966){:#rn-966} Ellos van pasando, mas Tú permanecerás; todo en ellos se envejece como una vestidura; Tú los mudarás como quien cambia de vestido, y quedarán cambiados.
 
-todos los que te buscan;
+[28](#c101-v28){:#c101-v28} Mas Tú eres siempre el mismo, y tus años no tienen fin.
 
-y los que quieren la salvación
+[29](#c101-v29){:#c101-v29} [[967]](#n-967){:#rn-967} Los hijos de tus siervos morarán seguros, y su posteridad será estable delante de Ti. 
 
-que de Ti viene
+### Salmo [102 (103)](#c102) {#c102}
 
-digan siempre: “Grande es Yahvé.”
+### Elogio del Padre de las misericordias 
 
-18[4569]En cuanto a mí, soy pobre y miserable;
+[1](#c102-v1){:#c102-v1} [[968]](#n-968){:#rn-968} De David. Bendice a Yahvé, alma mía, y todo cuanto hay en mí bendiga su santo Nombre.
 
-pero el Señor cuida de mí.
+[2](#c102-v2){:#c102-v2} [[969]](#n-969){:#rn-969} Bendice a Yahvé, alma mía, y no quieras olvidar todos sus favores.
 
-Mi amparo y mi libertador eres Tú;
+[3](#c102-v3){:#c102-v3} Es Él quien perdona todas tus culpas, quien sana todas tus dolencias.
 
-¡Dios mío, no tardes!
+[4](#c102-v4){:#c102-v4} Él rescata de la muerte tu vida, Él te corona de bondad y misericordia.
 
-SALMO 40 (41)
-Defensa contra los falsos y traidores
+[5](#c102-v5){:#c102-v5} [[970]](#n-970){:#rn-970} Él harta de bienes tu vida; tu juventud se renueva como la del águila.
 
-1[4570]Al maestro de coro. Salmo de David.
+[6](#c102-v6){:#c102-v6} [[971]](#n-971){:#rn-971} Yahvé practica la rectitud y a todos los oprimidos hace justicia.
 
-2Dichoso el que sabe comprender
+[7](#c102-v7){:#c102-v7} [[972]](#n-972){:#rn-972} Hizo conocer sus caminos a Moisés y a los hijos de Israel sus hazañas.
 
-al débil y al pobre;
+[8](#c102-v8){:#c102-v8} [[973]](#n-973){:#rn-973} Misericordioso y benigno es Yahvé, tarde en airarse y lleno de clemencia.
 
-en el día aciago Yahvé lo pone a salvo.
+[9](#c102-v9){:#c102-v9} No está siempre acusando, ni guarda rencor para siempre.
 
-3[4571]Yahvé cuida de él y lo hace vivir,
+[10](#c102-v10){:#c102-v10} No nos trata conforme a nuestros pecados, ni nos paga según nuestras iniquidades.
 
-lo hace próspero sobre la tierra,
+[11](#c102-v11){:#c102-v11} [[974]](#n-974){:#rn-974} Pues cuanto se alza el cielo sobre la tierra, tanto prevalece su misericordia para los que le temen.
 
-y no lo entrega a la voluntad de sus enemigos.
+[12](#c102-v12){:#c102-v12} [[975]](#n-975){:#rn-975} Cuanto dista el Oriente del Occidente, tan lejos echa de nosotros nuestros delitos.
 
-4[4572]Yahvé lo conforta en el lecho del dolor,
+[13](#c102-v13){:#c102-v13} [[976]](#n-976){:#rn-976} Como un padre que se apiada de sus hijos, así Yahvé se compadece de los que le temen.
 
-y calma sus padecimientos
+[14](#c102-v14){:#c102-v14} [[977]](#n-977){:#rn-977} Porque Él sabe de qué estamos formados: Él recuerda que somos polvo.
 
-durante toda su enfermedad.
+[15](#c102-v15){:#c102-v15} [[978]](#n-978){:#rn-978} Los días del hombre son como el heno; como la flor del campo, así florece.
 
-5[4573]Yo por mi parte digo:
+[16](#c102-v16){:#c102-v16} [[979]](#n-979){:#rn-979} Apenas le roza el viento, y ya no existe; y ni siquiera se conoce el espacio que ocupó.
 
-“Apiádate de mí, Yahvé,
+[17](#c102-v17){:#c102-v17} [[980]](#n-980){:#rn-980} Mas la misericordia de Yahvé permanece [desde la eternidad y] hasta la eternidad, con los que le temen, y su protección, hasta los hijos de los hijos,
 
-sana mi alma porque pequé contra Ti.”
+[18](#c102-v18){:#c102-v18} [[981]](#n-981){:#rn-981} de los que conservan su alianza y recuerdan sus preceptos para cumplirlos.
 
-6Mis enemigos hablan de mí
+[19](#c102-v19){:#c102-v19} [[982]](#n-982){:#rn-982} Yahvé tiene establecido su trono en el cielo, y su Reino gobernará el universo.
 
-con maldad (diciendo):
+[20](#c102-v20){:#c102-v20} Bendecid a Yahvé todos sus ángeles, héroes poderosos que ejecutáis sus mandatos en cumplimiento de su palabra.
 
-“¿Cuándo morirá y perecerá su nombre?”
+[21](#c102-v21){:#c102-v21} [[983]](#n-983){:#rn-983} Bendecid a Yahvé todos sus ejércitos, ministros suyos que hacéis su voluntad.
 
-7[4574]Y el que viene a visitarme habla con falsía;
+[22](#c102-v22){:#c102-v22} Bendecid a Yahvé todas sus obras, en todos los lugares de su imperio. Bendice tú, alma mía, a Yahvé. 
 
-en su interior hace provisión de maledicencia,
+### Salmo [103 (104)](#c103) {#c103}
 
-y entonces sale afuera y la desparrama.
+### La obra de Dios en la creación 
 
-8Todos los que me odian
+[1](#c103-v1){:#c103-v1} [[984]](#n-984){:#rn-984} ¡Bendice a Yahvé, alma mía! ¡Yahvé, Dios mío, cuán grande eres! Te has vestido de majestad y de belleza,
 
-se juntan para murmurar contra mí;
+[2](#c103-v2){:#c103-v2} [[985]](#n-985){:#rn-985} envuelto en luz como en un manto. Extendiste el cielo como un cortinaje;
 
-imaginan de mí lo peor:
+[3](#c103-v3){:#c103-v3} [[986]](#n-986){:#rn-986} construiste tu morada superior sobre las aguas, haces de las nubes tu carroza, cabalgas sobre las alas del viento.
 
-9“Le ha sobrevenido una peste maligna;
+[4](#c103-v4){:#c103-v4} [[987]](#n-987){:#rn-987} A los vientos haces tus mensajeros, y ministros tuyos los relámpagos centellantes.
 
-se acostó y no volverá a levantarse.”
+[5](#c103-v5){:#c103-v5} Cimentaste la tierra sobre sus bases de suerte que no vacile jamás.
 
-10[4575]Hasta mi amigo, de quien me fiaba,
+[6](#c103-v6){:#c103-v6} [[988]](#n-988){:#rn-988} La habías cubierto con el océano como de un manto; las aguas se posaban sobre los montes.
 
-que comía mi pan,
+[7](#c103-v7){:#c103-v7} [[989]](#n-989){:#rn-989} Mas huyeron a un grito tuyo, —temblaron a la voz de tu trueno,
 
-ha alzado contra mí su calcañar.
+[8](#c103-v8){:#c103-v8} surgieron los montes, bajaron los valles—, hasta el lugar que les habías destinado.
 
-11[4576]Mas Tú, Yahvé, apiádate de mí;
+[9](#c103-v9){:#c103-v9} [[990]](#n-990){:#rn-990} Les fijaste un límite que no traspasarán, para que no vuelvan a cubrir la tierra.
 
-levántame para que les retribuya.
+[10](#c103-v10){:#c103-v10} Haces correr en arroyos las fuentes que brotan entre los montes,
 
-12En esto conoceré que me amas,
+[11](#c103-v11){:#c103-v11} para que beban todas las bestias del campo y sacien su sed los asnos monteses.
 
-si el que me odia
+[12](#c103-v12){:#c103-v12} [[991]](#n-991){:#rn-991} A sus orillas posan las aves del cielo, que cantan entre el ramaje.
 
-no se huelga a costa mía,
+[13](#c103-v13){:#c103-v13} Desde tu morada riegas los montes; la tierra se sacia del fruto de tus obras.
 
-13[4577]y me sustentas en mi integridad,
+[14](#c103-v14){:#c103-v14} [[992]](#n-992){:#rn-992} Produces el heno para los ganados, y las plantas que sirven al hombre, para que saque pan de la tierra,
 
-conservándome en tu presencia para siempre.
+[15](#c103-v15){:#c103-v15} [[993]](#n-993){:#rn-993} y vino que alegre el corazón del hombre; para que el aceite dé brillo a su rostro y el pan vigorice su corazón.
 
-14[4578] ¡Bendito sea Yahvé, Dios de Israel,
+[16](#c103-v16){:#c103-v16} Satúranse los árboles de Yahvé, los cedros del Líbano que Él plantó.
 
-desde la eternidad y por la eternidad!
+[17](#c103-v17){:#c103-v17} Las aves anidan en ellos; en los abetos tiene su casa la cigüeña.
 
-Amén, Amén.
-SEGUNDO LIBRO DE LOS SALMOS
+[18](#c103-v18){:#c103-v18} Los altos montes dan refugio a los antílopes, las peñas, a los conejos.
 
-SALMO 41 (42)
-Nostalgia de la casa de Dios
+[19](#c103-v19){:#c103-v19} [[994]](#n-994){:#rn-994} Para señalar los tiempos, hiciste la luna; el sol conoce la hora de su ocaso.
 
-1[4579] Al maestro de coro. Maskil. De los hijos de Coré.
+[20](#c103-v20){:#c103-v20} Mandas las tinieblas, y viene la noche; en ellas rondan todas las fieras de las selvas.
 
-2Como el ciervo ansía
+[21](#c103-v21){:#c103-v21} [[995]](#n-995){:#rn-995} Los leoncillos rugen en pos de la presa, e imploran de Dios el sustento;
 
-las corrientes de aguas,
+[22](#c103-v22){:#c103-v22} al salir el sol se retiran, y se tienden en sus madrigueras;
 
-así mi alma suspira por Ti, oh Dios,
+[23](#c103-v23){:#c103-v23} [[996]](#n-996){:#rn-996} y el hombre acude a su trabajo, a su labranza, hasta la tarde.
 
-3[4580]porque mi alma tiene sed de Dios,
+[24](#c103-v24){:#c103-v24} [[997]](#n-997){:#rn-997} ¡Cuán variadas son tus obras, oh Yahvé! Todo lo hiciste con sabiduría; llena está la tierra de tus riquezas.
 
-del Dios vivo.
+[25](#c103-v25){:#c103-v25} Mira el mar, grande y anchuroso: allí un hormiguear sin número, de animales pequeños y grandes.
 
-¿Cuándo vendré
+[26](#c103-v26){:#c103-v26} [[998]](#n-998){:#rn-998} Allí transitan las naves, y ese leviatán que creaste para que en él juguetease.
 
-y estaré en la presencia de Dios?
+[27](#c103-v27){:#c103-v27} [[999]](#n-999){:#rn-999} Todos esperan de Ti que a su tiempo les des el alimento.
 
-4[4581]Mis lágrimas se han hecho mi pan
+[28](#c103-v28){:#c103-v28} Se lo das y ellos lo toman; al abrir Tu la mano se hartan de bienes.
 
-de día y de noche,
+[29](#c103-v29){:#c103-v29} [[1000]](#n-1000){:#rn-1000} Si Tú escondes el rostro, desfallecen; si retiras Tú su aliento, expiran, y vuelven a su polvo.
 
-mientras se me dice continuamente:
+[30](#c103-v30){:#c103-v30} Cuando envías tu soplo, son creados, y renuevas la faz de la tierra.
 
-“¿Dónde está tu Dios?”
+[31](#c103-v31){:#c103-v31} [[1001]](#n-1001){:#rn-1001} Sea eterna la gloria de Yahvé; gócese Yahvé en sus obras.
 
-5[4582]Me acuerdo
+[32](#c103-v32){:#c103-v32} Mira Él a la tierra, y ella tiembla; toca Él los montes, y humean.
 
--y el recuerdo me parte el alma-
+[33](#c103-v33){:#c103-v33} [[1002]](#n-1002){:#rn-1002} A Yahvé cantaré mientras viva; tañeré salmos a mi Dios mientras yo tenga el ser.
 
-de cómo caminaba yo
+[34](#c103-v34){:#c103-v34} Séanle gratos mis acentos! Yo en Yahvé me gozaré.
 
-al frente de la noble cohorte
+[35](#c103-v35){:#c103-v35} [[1003]](#n-1003){:#rn-1003} ¡Sean quitados de la tierra los pecadores y no haya más impíos!
 
-hacia la casa de Dios,
+[36](#c103-v36){:#c103-v36} ¡Bendice, alma mía, a Yahvé! ¡Hallelú Yah! 
 
-entre cantares de júbilo y alabanza,
+### Salmo [104 (105)](#c104) {#c104}
 
-en festivo cortejo.
+### Yahvé, fiel con su pueblo ingrato 
 
-6¿Por qué estás afligida, alma mía,
+[1](#c104-v1){:#c104-v1} [[1004]](#n-1004){:#rn-1004} Celebrad a Yahvé, aclamad su Nombre, proclamad entre los gentiles sus proezas.
 
-y te conturbas dentro de mí?
+[2](#c104-v2){:#c104-v2} Cantadle, entonadle salmos, relatad todas sus obras maravillosas.
 
-Espera en Dios,
+[3](#c104-v3){:#c104-v3} [[1005]](#n-1005){:#rn-1005} Gloriaos de su santo Nombre; alégrese el corazón de los que buscan a Yahvé.
 
-pues aún he de alabar
+[4](#c104-v4){:#c104-v4} Fijaos en Yahvé y su fortaleza, buscad sin cesar su rostro.
 
-al que es mi salvación, mi Dios.
+[5](#c104-v5){:#c104-v5} [[1006]](#n-1006){:#rn-1006} Acordaos de las maravillas que hizo, de sus prodigios y de las sentencias de su boca,
 
-7[4583]Desfallece en mi interior mi alma,
+[6](#c104-v6){:#c104-v6} [[1007]](#n-1007){:#rn-1007} vosotros, descendencia de Abrahán, su siervo, hijos de Jacob, su escogido.
 
-cuando de Ti me acuerdo;
+[7](#c104-v7){:#c104-v7} El mismo Yahvé es nuestro Dios; sus juicios prevalecen en toda la tierra.
 
-desde la lejana tierra del Jordán
+[8](#c104-v8){:#c104-v8} [[1008]](#n-1008){:#rn-1008} Se acuerda siempre de su alianza, promesa que hizo por mil generaciones;
 
-y del Hermón,
+[9](#c104-v9){:#c104-v9} del pacto concertado con Abrahán, del juramento que hizo a Isaac,
 
-desde la colina de Misar.
+[10](#c104-v10){:#c104-v10} que confirmó a Jacob, como firme decreto, y como testamento eterno a Israel,
 
-8Como, en el estruendo de tus cataratas,
+[11](#c104-v11){:#c104-v11} diciendo: "A ti te daré la tierra de Canaán, como porción hereditaria vuestra."
 
-un abismo llama a otro abismo,
+[12](#c104-v12){:#c104-v12} [[1009]](#n-1009){:#rn-1009} Cuando eran pocos en número, muy pocos, y peregrinos en aquella tierra,
 
-así todas tus ráfagas
+[13](#c104-v13){:#c104-v13} y vagaban de nación en nación, y de este reino a aquel pueblo,
 
-y tus olas pasan sobre mí.
+[14](#c104-v14){:#c104-v14} [[1010]](#n-1010){:#rn-1010} a nadie permitió que los oprimiese, y por causa de ellos castigó a reyes:
 
-9[4584]De día gimo: “Mande Yahvé su gracia”,
+[15](#c104-v15){:#c104-v15} [[1011]](#n-1011){:#rn-1011} "Guardaos de tocar a mis ungidos, ni hacer mal a mis profetas."
 
-y de noche entono un cántico,
+[16](#c104-v16){:#c104-v16} Atrajo el hambre sobre aquella tierra, y se retiró toda provisión de pan.
 
-la plegaria al Dios de mi vida.
+[17](#c104-v17){:#c104-v17} [[1012]](#n-1012){:#rn-1012} Envió delante de ellos a un varón: a José vendido como esclavo.
 
-10Digo a Dios: “Roca mía,
+[18](#c104-v18){:#c104-v18} [[1013]](#n-1013){:#rn-1013} Le habían atado los pies con grillos, y encerrado en hierro su cuello,
 
-¿por qué me has olvidado,
+[19](#c104-v19){:#c104-v19} hasta que se cumplió lo que él predijo, y la Palabra del Señor lo acreditó.
 
-por qué he de andar afligido,
+[20](#c104-v20){:#c104-v20} Mandó desatarlo el rey, el soberano de aquellos pueblos, y lo libertó.
 
-bajo la opresión de mis enemigos?”
+[21](#c104-v21){:#c104-v21} [[1014]](#n-1014){:#rn-1014} Lo constituyó señor de su propia casa, y príncipe de todos sus dominios,
 
-11Mis huesos se quebrantan
+[22](#c104-v22){:#c104-v22} [[1015]](#n-1015){:#rn-1015} para que a su arbitrio instruyese a los magnates y enseñara sabiduría a los ancianos.
 
-cuando mis adversarios me hacen burla,
+[23](#c104-v23){:#c104-v23} [[1016]](#n-1016){:#rn-1016} Entonces entró Israel en Egipto; Jacob fue peregrino en tierra de Cam.
 
-diciendo uno y otro día:
+[24](#c104-v24){:#c104-v24} [[1017]](#n-1017){:#rn-1017} Y Él multiplicó a su pueblo en gran manera, y le hizo más poderoso que sus adversarios.
 
-“¿Dónde está tu Dios?”
+[25](#c104-v25){:#c104-v25} Mudó a estos el corazón para que odiasen a su pueblo, y urdiesen tramas contra sus siervos.
 
-12[4585]¿Por qué estás afligida, alma mía,
+[26](#c104-v26){:#c104-v26} [[1018]](#n-1018){:#rn-1018} Entonces envió a Moisés su siervo, a Aarón, el elegido,
 
-y te conturbas dentro de mí?
+[27](#c104-v27){:#c104-v27} quienes obraron entre ellos sus maravillas y prodigios en la tierra de Cam.
 
-Espera en Dios,
+[28](#c104-v28){:#c104-v28} [[1019]](#n-1019){:#rn-1019} Mandó tinieblas, y se hizo oscuridad, mas se resistieron contra sus palabras.
 
-pues aún he de alabar
+[29](#c104-v29){:#c104-v29} Convirtió sus aguas en sangre e hizo morir sus peces.
 
-al que es mi salvación, mi Dios.
+[30](#c104-v30){:#c104-v30} Su tierra brotó ranas hasta en la cámara de sus reyes.
 
-SALMO 42 (43)
-Continuación del anterior
+[31](#c104-v31){:#c104-v31} Habló, y vinieron enjambres de moscas y mosquitos por todos sus confines.
 
-1[4586]Hazme justicia, oh Dios,
+[32](#c104-v32){:#c104-v32} Por lluvia les mandó granizo, y fuego que inflamaba su tierra,
 
-y aboga en mi causa
+[33](#c104-v33){:#c104-v33} y destruyó sus viñas y sus higueras, y destrozó los árboles en su territorio.
 
-contra un pueblo impío;
+[34](#c104-v34){:#c104-v34} A una orden suya vinieron langostas, y orugas sin número,
 
-líbrame del hombre inicuo y doble.
+[35](#c104-v35){:#c104-v35} que devoraron toda la hierba de sus prados, y comieron los frutos de sus campos.
 
-2Pues Tú, oh Dios, eres mi fortaleza;
+[36](#c104-v36){:#c104-v36} [[1020]](#n-1020){:#rn-1020} Y dio muerte a todo primogénito en su tierra, las primicias de todo su vigor.
 
-¿por qué me desechaste?
+[37](#c104-v37){:#c104-v37} [[1021]](#n-1021){:#rn-1021} Mas a ellos los sacó con oro y plata, sin un enfermo en todas sus tribus.
 
-¿por qué he de andar afligido,
+[38](#c104-v38){:#c104-v38} Alegráronse los egipcios de su salida, pues los había sobrecogido el terror.
 
-bajo la opresión del adversario?
+[39](#c104-v39){:#c104-v39} [[1022]](#n-1022){:#rn-1022} Extendió Él una nube para cubrirlos, y un fuego que resplandeciese de noche.
 
-3[4587]Envíame tu luz y tu verdad;
+[40](#c104-v40){:#c104-v40} Pidieron, y les envió codornices; y los sació con pan del cielo.
 
-que ellas me guíen
+[41](#c104-v41){:#c104-v41} Hendió la peña, y brotaron aguas, que corrieron por el desierto como arroyos.
 
-y me conduzcan a tu santo monte,
+[42](#c104-v42){:#c104-v42} Porque se acordó de su santa palabra, que había dado a Abrahán, su siervo.
 
-a tus tabernáculos.
+[43](#c104-v43){:#c104-v43} Así sacó a su pueblo con alegría, con júbilo a sus escogidos.
 
-4[4588]Así llegaré al altar de Dios,
+[44](#c104-v44){:#c104-v44} [[1023]](#n-1023){:#rn-1023} Y les dio las tierras de los gentiles y poseyeron los bienes de los pueblos,
 
-al Dios que es la alegría de mi gozo;
+[45](#c104-v45){:#c104-v45} [[1024]](#n-1024){:#rn-1024} para que guardaran sus mandamientos y obedecieran sus leyes. ¡Hallelú Yah! 
 
-y te alabaré al son de la cítara
+### Salmo [105 (106)](#c105) {#c105}
 
-oh Dios, Dios mío.
+### Israel, ingrato con su Dios fiel 
 
-5¿Por qué estás afligida, alma mía,
+[1](#c105-v1){:#c105-v1} [[1025]](#n-1025){:#rn-1025} Hallelú Yah. Celebrad a Yahvé porque es bueno, porque su misericordia es para siempre.
 
-y te conturbas dentro de mí?
+[2](#c105-v2){:#c105-v2} [[1026]](#n-1026){:#rn-1026} ¿Quién dirá las hazañas de Yahvé? ¿Pregonará todas sus alabanzas?
 
-Espera en Dios,
+[3](#c105-v3){:#c105-v3} Bienaventurados los que conservan sus estatutos y practican la justicia en todo tiempo.
 
-pues aún he de alabar
+[4](#c105-v4){:#c105-v4} [[1027]](#n-1027){:#rn-1027} Señor, acuérdate de mí cuando muestres tu bondad para con tu pueblo; visítame cuando operes la salvación
 
-al que es mi salvación, mi Dios.
+[5](#c105-v5){:#c105-v5} [[1028]](#n-1028){:#rn-1028} para que yo vea la felicidad de tus escogidos, me goce del gozo de tu pueblo y me gloríe con tu herencia.
 
-SALMO 43 (44)
-Apremiante súplica de Israel
+[6](#c105-v6){:#c105-v6} [[1029]](#n-1029){:#rn-1029} Hemos pecado lo mismo que nuestros padres; obramos el mal, fuimos impíos.
 
-1[4589]Al maestro de coro. De los hijos de Coré. Maskil.
+[7](#c105-v7){:#c105-v7} [[1030]](#n-1030){:#rn-1030} Nuestros padres en Egipto no tuvieron en cuenta tus prodigios; no se acordaron de la multitud de tus favores, sino que se rebelaron contra el Altísimo junto al Mar Rojo.
 
-2[4590]Oímos, oh Dios, con nuestros oídos,
+[8](#c105-v8){:#c105-v8} [[1031]](#n-1031){:#rn-1031} Pero Él los salvó a causa de su Nombre, para dar a conocer su poderío.
 
-nos contaron nuestros padres,
+[9](#c105-v9){:#c105-v9} lncrepó al Mar Rojo y lo secó, y los condujo por entre las aguas como por un llano.
 
-los prodigios que hiciste en sus días,
+[10](#c105-v10){:#c105-v10} Los sacó de las manos de sus aborrecedores, y los rescató del poder del enemigo.
 
-en los días antiguos.
+[11](#c105-v11){:#c105-v11} Las aguas cubrieron a sus adversarios, no quedó ni uno de ellos.
 
-3[4591]Tú, con tu mano,
+[12](#c105-v12){:#c105-v12} Entonces creyeron a Sus palabras y cantaron Sus alabanzas.
 
-expulsando pueblos gentiles,
+[13](#c105-v13){:#c105-v13} [[1032]](#n-1032){:#rn-1032} Pronto olvidaron las obras de Él, no aguardaron sus designios,
 
-los plantaste a ellos;
+[14](#c105-v14){:#c105-v14} [[1033]](#n-1033){:#rn-1033} sino que en el desierto se entregaron a su propia concupiscencia y en la soledad provocaron a Dios.
 
-destruyendo naciones,
+[15](#c105-v15){:#c105-v15} [[1034]](#n-1034){:#rn-1034} Él les concedió lo que pedían, pero les envió la consunción.
 
-a ellos los propagaste.
+[16](#c105-v16){:#c105-v16} [[1035]](#n-1035){:#rn-1035} Luego envidiaron a Moisés en el campamento, y a Aarón, el santo de Yahvé.
 
-4[4592]Pues no por su espada ocuparon la tierra,
+[17](#c105-v17){:#c105-v17} Y la tierra se abrió, y se tragó a Datan, y cubrió a la facción de Abirón.
 
-ni su brazo les dio la victoria;
+[18](#c105-v18){:#c105-v18} Y se encendió contra su banda un fuego; la llama devoró a los inicuos.
 
-fue tu diestra y tu brazo,
+[19](#c105-v19){:#c105-v19} [[1036]](#n-1036){:#rn-1036} Hicieron un becerro en Horeb, y adoraron una estatua de fundición;
 
-y la luz de tu rostro;
+[20](#c105-v20){:#c105-v20} trocando su Gloria por la figura del buey harto de heno,
 
-porque Tú los amabas.
+[21](#c105-v21){:#c105-v21} olvidaron a Dios, que los había salvado y que había hecho portentos en Egipto,
 
-5Tú eres mi Rey, mi Dios,
+[22](#c105-v22){:#c105-v22} [[1037]](#n-1037){:#rn-1037} cosas maravillosas en la tierra de Cam, cosas estupendas junto al Mar Rojo.
 
-Tú, el que dio la victoria a Jacob.
+[23](#c105-v23){:#c105-v23} [[1038]](#n-1038){:#rn-1038} Los habría deshecho, si Moisés, escogido por Él, no se hubiese puesto en la brecha frente a Él, para apartar su furor a fin de que no los exterminase.
 
-6Por Ti batimos a nuestros enemigos;
+[24](#c105-v24){:#c105-v24} [[1039]](#n-1039){:#rn-1039} Y despreciaron la tierra codiciable, no dando crédito a su palabra;
 
-y en nombre tuyo hollamos
+[25](#c105-v25){:#c105-v25} y murmuraron en sus tiendas, no escucharon la voz de Yahvé.
 
-a los que se levantaron contra nosotros.
+[26](#c105-v26){:#c105-v26} Mas Él con mano alzada les juró que los haría caer en el desierto;
 
-7Porque no en mi arco puse mi confianza,
+[27](#c105-v27){:#c105-v27} [[1040]](#n-1040){:#rn-1040} que haría caer a su descendencia entre los gentiles y los dispersaría por las tierras.
 
-ni me salvó mi espada,
+[28](#c105-v28){:#c105-v28} [[1041]](#n-1041){:#rn-1041} Y se consagraron a Baalfegor, y comieron de las víctimas inmoladas a dioses muertos.
 
-8sino que Tú nos has salvado
+[29](#c105-v29){:#c105-v29} [[1042]](#n-1042){:#rn-1042} Con tales delitos le provocaron a ira, y una plaga cayó sobre ellos.
 
-de nuestros adversarios,
+[30](#c105-v30){:#c105-v30} [[1043]](#n-1043){:#rn-1043} Pero se irguió Fineés, y ejerció la venganza, y la plaga cesó.
 
-y has confundido a los que nos odian.
+[31](#c105-v31){:#c105-v31} Y esto le fue imputado a justicia por todas sus generaciones para siempre jamás.
 
-9En Dios nos gloriábamos cada día,
+[32](#c105-v32){:#c105-v32} [[1044]](#n-1044){:#rn-1044} Y lo irritaron juntó a las aguas de Meribá; y a Moisés le fue mal por culpa de ellos;
 
-y continuamente celebrábamos tu Nombre.
+[33](#c105-v33){:#c105-v33} porque ellos exacerbaron su espíritu, y él dejó que sus labios hablaran inconsideradamente.
 
-10[4593]Pero ahora Tú nos has repelido
+[34](#c105-v34){:#c105-v34} [[1045]](#n-1045){:#rn-1045} No destruyeron los pueblos que Dios les había señalado;
 
-y humillado;
+[35](#c105-v35){:#c105-v35} sino que se mezclaron con los gentiles, y aprendieron sus obras,
 
-ya no sales, oh Dios, con nuestros ejércitos.
+[36](#c105-v36){:#c105-v36} y adoraron sus ídolos, que fueron para ellos un lazo;
 
-11Nos hiciste ceder ante nuestros enemigos,
+[37](#c105-v37){:#c105-v37} [[1046]](#n-1046){:#rn-1046} e inmolaron sus hijos y sus hijas a los demonios,
 
-y los que nos odian
+[38](#c105-v38){:#c105-v38} derramando sangre inocente, la sangre de sus hijos y de sus hijas, que sacrificaron a los ídolos de Canaán; y la tierra quedó profanada por la sangre.
 
-nos han saqueado como han querido.
+[39](#c105-v39){:#c105-v39} [[1047]](#n-1047){:#rn-1047} Se contaminaron por sus actos y fornicaron con sus propias obras.
 
-12Nos entregaste como ovejas
+[40](#c105-v40){:#c105-v40} [[1048]](#n-1048){:#rn-1048} Se encendió entonces la ira de Yahvé contra su pueblo, y abominó de su herencia;
 
-destinadas al matadero,
+[41](#c105-v41){:#c105-v41} los entregó en manos de los gentiles, y fueron dominados por quienes los odiaban.
 
-y nos desparramaste entre los gentiles.
+[42](#c105-v42){:#c105-v42} Oprimidos por sus enemigos, tuvieron que doblegarse ante ellos.
 
-13[4594]Vendiste a tu pueblo sin precio,
+[43](#c105-v43){:#c105-v43} [[1049]](#n-1049){:#rn-1049} Muchas veces Él los salvó, mas ellos lo exasperaron por sus empeños, y se hundieron más en su iniquidad.
 
-y no sacaste gran provecho de esa venta.
+[44](#c105-v44){:#c105-v44} Con todo, al percibir sus lamentos, fijaba Él los ojos en sus tribulaciones;
 
-14[4595]Nos hiciste el escarnio de nuestros vecinos,
+[45](#c105-v45){:#c105-v45} en favor de ellos se acordaba de su alianza, y se arrepentía según la grandeza de su misericordia.
 
-la irrisión y el ludibrio
+[46](#c105-v46){:#c105-v46} [[1050]](#n-1050){:#rn-1050} Y los hacía objeto de la compasión de aquellos que los tenían en cautiverio.
 
-de los que nos rodean.
+[47](#c105-v47){:#c105-v47} [[1051]](#n-1051){:#rn-1051} Sálvanos, Yahvé, Dios nuestro, y congréganos de en medio de las naciones, para que celebremos tu santo Nombre y nos gloriemos en tu alabanza.
 
-15Nos convertiste en fábula de los gentiles,
+[48](#c105-v48){:#c105-v48} [[1052]](#n-1052){:#rn-1052} Bendito sea Yahvé, Dios de Israel, de siglo en siglo. Y todo el pueblo diga: Amén. ¡Hallelú Yah!
 
-y recibimos de los pueblos
+### QUINTO LIBRO DE LOS SALMOS 
 
-meneos de cabeza.
+### Salmo [106 (107)](#c106) {#c106}
 
-16Todo el día tengo ante los ojos
+### Es eterna su misericordia 
 
-mi ignominia,
+[1](#c106-v1){:#c106-v1} [[1053]](#n-1053){:#rn-1053} Celebrad a Yahvé porque es bueno, porque su misericordia permanece para siempre.
 
-y la confusión cubre mi rostro,
+[2](#c106-v2){:#c106-v2} [[1054]](#n-1054){:#rn-1054} Así digan los rescatados de Yahvé, los que Él redimió de manos del enemigo,
 
-17a los gritos del que me insulta y envilece,
+[3](#c106-v3){:#c106-v3} [[1055]](#n-1055){:#rn-1055} y a quienes Él ha congregado de las tierras del Oriente y del Occidente, del Norte y del Mediodía.
 
-a la vista del enemigo,
+[4](#c106-v4){:#c106-v4} [[1056]](#n-1056){:#rn-1056} Erraban por el desierto, en la soledad, sin hallar camino a una ciudad donde morar.
 
-ávido de venganza.
+[5](#c106-v5){:#c106-v5} Sufrían hambre y sed; su alma desfallecía en ellos.
 
-18[4596]Todo esto ha venido sobre nosotros,
+[6](#c106-v6){:#c106-v6} Y clamaron a Yahvé en su angustia, y Él los sacó de sus tribulaciones.
 
-mas no nos hemos olvidado de Ti,
+[7](#c106-v7){:#c106-v7} Y los condujo por camino derecho, para que llegasen a una ciudad donde habitar.
 
-ni hemos quebrantado
+[8](#c106-v8){:#c106-v8} [[1057]](#n-1057){:#rn-1057} Den gracias a Yahvé por su misericordia, y por sus maravillas en favor de los hijos de los hombres.
 
-el pacto hecho contigo.
+[9](#c106-v9){:#c106-v9} Porque sació al alma sedienta, y a la hambrienta colmó de bienes.
 
-19No volvió atrás nuestro corazón,
+[10](#c106-v10){:#c106-v10} [[1058]](#n-1058){:#rn-1058} Moraban en tinieblas y sombras, cautivos de la miseria y del hierro;
 
-ni nuestro paso se apartó de tu camino,
+[11](#c106-v11){:#c106-v11} porque habían resistido a las palabras de Dios y despreciado el consejo del Altísimo.
 
-20[4597]cuando nos aplastaste
+[12](#c106-v12){:#c106-v12} Y Él humilló su corazón con trabajos; sucumbían y no había quien los socorriese.
 
-en un lugar de chacales
+[13](#c106-v13){:#c106-v13} Y clamaron a Yahvé en su angustia, y Él los sacó de sus tribulaciones.
 
-y nos cubriste con sombras de muerte.
+[14](#c106-v14){:#c106-v14} Y los libró de las tinieblas y de las sombras, y rompió sus cadenas.
 
-21Si nos hubiéramos olvidado
+[15](#c106-v15){:#c106-v15} Den gracias a Yahvé por su misericordia, y por sus maravillas en favor de los hijos de los hombres;
 
-del nombre de nuestro Dios,
+[16](#c106-v16){:#c106-v16} porque Él rompió las puertas de bronce, e hizo pedazos los cerrojos de hierro.
 
-extendiendo nuestras manos
+[17](#c106-v17){:#c106-v17} [[1059]](#n-1059){:#rn-1059} Estaban enfermos a causa de su iniquidad, y afligidos a causa de sus delitos;
 
-a un Dios extraño,
+[18](#c106-v18){:#c106-v18} sintieron náuseas de todo alimento, y llegaron a las puertas de la muerte.
 
-22¿no lo habría averiguado Dios,
+[19](#c106-v19){:#c106-v19} Y clamaron a Yahvé en su angustia, y Él los sacó de sus tribulaciones.
 
-Él, que conoce los secretos del corazón?
+[20](#c106-v20){:#c106-v20} Envió su Palabra para sanarlos y arrancarlos de la perdición.
 
-23[4598]Mas por tu causa
+[21](#c106-v21){:#c106-v21} Den gracias a Yahvé por su misericordia, y por sus maravillas en favor de los hijos de los hombres,
 
-somos ahora carneados cada día,
+[22](#c106-v22){:#c106-v22} [[1060]](#n-1060){:#rn-1060} y ofrezcan sacrificios de alabanza, y publiquen con júbilo sus obras.
 
-tenidos como ovejas de matadero.
+[23](#c106-v23){:#c106-v23} [[1061]](#n-1061){:#rn-1061} Surcaban en naves el mar, traficando sobre las vastas ondas,
 
-24[4599]Despierta, Señor. ¿Por qué duermes?
+[24](#c106-v24){:#c106-v24} esos vieron las obras del Señor, y sus maravillas en el piélago.
 
-Levántate; no nos deseches para siempre.
+[25](#c106-v25){:#c106-v25} Con Su palabra suscitó un viento borrascoso, que levantó las olas del mar;
 
-25¿Por qué ocultas tu rostro?
+[26](#c106-v26){:#c106-v26} subían hasta el cielo y descendían hasta el abismo, su alma desmayaba en medio de sus males.
 
-¿Te olvidas de nuestra miseria
+[27](#c106-v27){:#c106-v27} Titubeaban y se tambaleaban como ebrios, y les fallaba toda su pericia.
 
-y de nuestra opresión?
+[28](#c106-v28){:#c106-v28} Y clamaron a Yahvé en su angustia, y Él los sacó de sus tribulaciones.
 
-26Agobiada hasta el polvo está nuestra alma,
+[29](#c106-v29){:#c106-v29} Tornó el huracán en suave brisa, y las ondas del mar callaron.
 
-y nuestro cuerpo pegado a la tierra.
+[30](#c106-v30){:#c106-v30} Y se alegraron de que callasen, y los condujo al puerto deseado.
 
-27¡Levántate en nuestro auxilio,
+[31](#c106-v31){:#c106-v31} Den gracias a Yahvé por su misericordia, y por sus maravillas en favor de los hijos de los hombres.
 
-líbranos por tu piedad!
+[32](#c106-v32){:#c106-v32} Celébrenlo en la asamblea del pueblo, y en la reunión de los ancianos, cántenle.
 
-SALMO 44 (45)
-Epitalamio del Rey Mesías
+[33](#c106-v33){:#c106-v33} [[1062]](#n-1062){:#rn-1062} Él convirtió los ríos en desierto, y los manantiales en árida tierra,
 
-1[4600]Al maestro de coro. Sobre el tono de “Schoschannim” (“Las azucenas”). De los hijos de Coré. Maskil. Canto de amor.
+[34](#c106-v34){:#c106-v34} el suelo fructífero en un salobral, por la malicia de sus moradores.
 
-2De mi corazón
+[35](#c106-v35){:#c106-v35} [[1063]](#n-1063){:#rn-1063} Él mismo ha convertido el desierto en lago y la tierra árida en manantiales,
 
-desbordan faustas palabras,
+[36](#c106-v36){:#c106-v36} [[1064]](#n-1064){:#rn-1064} allí coloca a los hambrientos, y fundan una ciudad para habitarla.
 
-hablo de lo que hice para el rey,
+[37](#c106-v37){:#c106-v37} Siembran los campos y plantan viñas, y obtienen de ellos los frutos.
 
-mi lengua es pluma de ágil escriba.
+[38](#c106-v38){:#c106-v38} Bendecidos por Él se multiplican en gran manera, y sus ganados no disminuyen nunca.
 
-3[4601]Eres más hermoso
+[39](#c106-v39){:#c106-v39} [[1065]](#n-1065){:#rn-1065} Aunque reducidos a pocos y despreciados, por el peso del infortunio y de la aflicción,
 
-que los hijos de los hombres;
+[40](#c106-v40){:#c106-v40} Aquel que derrama desprecio sobre los príncipes, y los hace errar por desiertos sin huellas,
 
-la gracia se ha derramado en tus labios,
+[41](#c106-v41){:#c106-v41} ha levantado de la miseria al indigente, y hace las familias numerosas como rebaños.
 
-pues Dios te ha bendecido para siempre.
+[42](#c106-v42){:#c106-v42} [[1066]](#n-1066){:#rn-1066} Lo ven los justos y se alegran, y toda malicia cierra su boca.
 
-4[4602]Oh poderoso,
+[43](#c106-v43){:#c106-v43} [[1067]](#n-1067){:#rn-1067} ¿Quién es el sabio que considere estas cosas y comprenda las misericordias del Señor? 
 
-ciñe a tu flanco tu espada
+### Salmo [107 (108)](#c107) {#c107}
 
-en tu gloria y majestad.
+### Israel canta su esperanza 
 
-5[4603]Cabalga, victorioso,
+[1](#c107-v1){:#c107-v1} [[1068]](#n-1068){:#rn-1068} Cántico. Salmo. De David.
 
-por la verdad y por la justicia,
+[2](#c107-v2){:#c107-v2} Mi corazón está pronto, oh Dios; quiero cantar y entonar salmos; mi alma está despierta.
 
-y tu diestra te mostrará
+[3](#c107-v3){:#c107-v3} Salterio y lira, despertaos; despiértese la aurora (a nuestro canto).
 
-hazañas formidables.
+[4](#c107-v4){:#c107-v4} Te alabaré, Yahvé, entre los pueblos, te cantaré himnos ante las naciones.
 
-6Agudas son tus flechas,
+[5](#c107-v5){:#c107-v5} [[1069]](#n-1069){:#rn-1069} Porque tu misericordia es más grande que los cielos, y tu fidelidad hasta las nubes.
 
-los pueblos caerán debajo de ti;
+[6](#c107-v6){:#c107-v6} [[1070]](#n-1070){:#rn-1070} Muéstrate excelso, oh Dios, sobre los cielos, y brille tu gloria sobre toda la tierra,
 
-desfallecidos caerán los enemigos del rey.
+[7](#c107-v7){:#c107-v7} para que sean libertados los que Tú amas; socorre con tu diestra y escúchanos.
 
-7[4604]Tu trono, oh Dios, es por los siglos
+[8](#c107-v8){:#c107-v8} [[1071]](#n-1071){:#rn-1071} Lo dijo Dios por su santidad: "Triunfaré; repartiré a Siquem, y mediré el valle de Sucot.
 
-y para siempre;
+[9](#c107-v9){:#c107-v9} Mía es la tierra de Galaad, mía la tierra de Manasés; Efraím es el yelmo de mi cabeza, y Judá, mi cetro;
 
-el cetro de tu reino es vara de justicia.
+[10](#c107-v10){:#c107-v10} Moab, la vasija de mi lavatorio; sobre Edom echaré mi calzado, sobre Filistea cantaré victoria."
 
-8[4605]Tú amas la justicia
+[11](#c107-v11){:#c107-v11} [[1072]](#n-1072){:#rn-1072} ¿Quién me conducirá a la ciudad inaccesible? ¿Quién me llevará hasta Edom?
 
-y detestas la maldad;
+[12](#c107-v12){:#c107-v12} ¿No serás Tú, oh Dios, que nos has rechazado y que ya no sales con nuestros ejércitos?
 
-por esto, oh Dios, el Dios tuyo te ungió,
+[13](#c107-v13){:#c107-v13} Ven en nuestro auxilio contra el adversario, porque vano es el concurso de los hombres.
 
-entre todos tus semejantes,
+[14](#c107-v14){:#c107-v14} Con Dios haremos proezas; Él hollará a nuestros enemigos. 
 
-con óleo de alegría.
+### Salmo [108 (109)](#c108) {#c108}
 
-9[4606]Mirra y áloes y casia exhalan tus vestidos
+### Oración imprecatoria contra los maldicientes
 
-desde los palacios de marfil
+[1](#c108-v1){:#c108-v1} [[1073]](#n-1073){:#rn-1073} Al maestro de coro. De David. Salmo. Oh Dios, Gloria mía, no enmudezcas,
 
-donde te alegraron.
+[2](#c108-v2){:#c108-v2} porque bocas impías y dolosas se han abierto contra mí y me hablan con lengua pérfida.
 
-10[4607]Hijas de reyes vienen a tu encuentro;
+[3](#c108-v3){:#c108-v3} [[1074]](#n-1074){:#rn-1074} Me asedian con odiosos discursos, me combaten sin motivo.
 
-a tu diestra está en pie la reina,
+[4](#c108-v4){:#c108-v4} [[1075]](#n-1075){:#rn-1075} Por lo que me debieran amar, me acusan, y yo hago oración.
 
-vestida de oro de Ofir.
+[5](#c108-v5){:#c108-v5} [[1076]](#n-1076){:#rn-1076} Me devuelven mal por bien, y odio a cambio de mi amor.
 
-11[4608]Oye, hija, y considera; aplica tu oído;
+[6](#c108-v6){:#c108-v6} [[1077]](#n-1077){:#rn-1077} Ponlo bajo la mano de un impío, con el acusador a su derecha.
 
-olvida a tu pueblo
+[7](#c108-v7){:#c108-v7} [[1078]](#n-1078){:#rn-1078} Cuando se le juzgue, salga condenado, y su oración sea pecado.
 
-y la casa de tu padre.
+[8](#c108-v8){:#c108-v8} [[1079]](#n-1079){:#rn-1079} Acórtense sus días, y otro reciba su ministerio.
 
-12[4609]El rey se prendará de tu hermosura;
+[9](#c108-v9){:#c108-v9} Que sus hijos queden huérfanos y viuda su mujer.
 
-Él es tu Señor: inclínate ante Él.
+[10](#c108-v10){:#c108-v10} Anden sus hijos mendigando, errantes, arrojados de sus casas destruidas.
 
-13Ante ti se inclinará
+[11](#c108-v11){:#c108-v11} El usurero aseche todos sus bienes, y sea presa de los extraños el fruto de su trabajo.
 
-la hija de Tiro con dádivas,
+[12](#c108-v12){:#c108-v12} Nadie le muestre misericordia y ninguno se compadezca de sus huérfanos.
 
-y los más ricos de la tierra
+[13](#c108-v13){:#c108-v13} Sea su posteridad entregada al exterminio, extíngase su nombre en la primera generación.
 
-solicitarán tu favor.
+[14](#c108-v14){:#c108-v14} [[1080]](#n-1080){:#rn-1080} La culpa de sus padres sea recordada [por Yahvé], y el pecado de su madre no se borre.
 
-14[4610]Toda hermosa entra la hija del rey,
+[15](#c108-v15){:#c108-v15} Estén siempre ante los ojos de Yahvé, para que Él quite de la tierra su memoria;
 
-vestida de tela de oro.
+[16](#c108-v16){:#c108-v16} [[1081]](#n-1081){:#rn-1081} pues no pensó en usar de misericordia, sino que persiguió al infortunado, al pobre, al afligido de corazón, para darle el golpe de muerte.
 
-15[4611]Envuelta en manto multicolor
+[17](#c108-v17){:#c108-v17} [[1082]](#n-1082){:#rn-1082} Amó la maldición. ¡Cáigale encima! No quiso la bendición. ¡Apártese de él!
 
-es llevada al rey;
+[18](#c108-v18){:#c108-v18} Se revistió de maldición como de una túnica; y le penetró como agua en sus entrañas, y como aceite en sus huesos.
 
-detrás de ella son introducidas a ti,
+[19](#c108-v19){:#c108-v19} Séale como manto que lo cubra, y como cinto con que siempre se ciña.
 
-las vírgenes, sus amigas;
+[20](#c108-v20){:#c108-v20} [[1083]](#n-1083){:#rn-1083} Tal pago tengan [de Yahvé] los que me acusan y los que profieren maldiciones contra mí.
 
-16son conducidas alegremente y, dichosas,
+[21](#c108-v21){:#c108-v21} [[1084]](#n-1084){:#rn-1084} Mas Tú, Yahvé, Señor mío, haz conmigo según la gloria de tu Nombre; sálvame, pues tu bondad es misericordiosa.
 
-entran en el palacio del rey.
+[22](#c108-v22){:#c108-v22} [[1085]](#n-1085){:#rn-1085} Porque yo soy un infortunado y pobre, y llevo en mí el corazón herido.
 
-17[4612]Tus hijos ocuparán
+[23](#c108-v23){:#c108-v23} Como sombra que declina, me voy desvaneciendo; soy arrojado como la langosta.
 
-el lugar de tus padres;
+[24](#c108-v24){:#c108-v24} Mis rodillas vacilan, debilitadas por el ayuno, y mi carne, enflaquecida, desfallece.
 
-los establecerás príncipes
+[25](#c108-v25){:#c108-v25} Y he venido a ser el escarnio de ellos; me miran, y hacen meneos de cabeza.
 
-sobre toda la tierra.
+[26](#c108-v26){:#c108-v26} Ayúdame, Yahvé, Dios mío, sálvame conforme a tu misericordia.
 
-18[4613]Haré tu nombre memorable
+[27](#c108-v27){:#c108-v27} Y sepan que aquí está tu mano, y que eres Tú, Yahvé, quien lo ha hecho.
 
-de edad en edad;
+[28](#c108-v28){:#c108-v28} [[1086]](#n-1086){:#rn-1086} Que ellos maldigan, pero Tú bendíceme. Véanse confundidos los que contra mí se levantan, mas alégrese tu siervo.
 
-sí, los pueblos te ensalzarán
+[29](#c108-v29){:#c108-v29} Sean cubiertos de ignominia los que me acusan, y envueltos en su confusión como en un manto.
 
-por los siglos de los siglos.
+[30](#c108-v30){:#c108-v30} [[1087]](#n-1087){:#rn-1087} Mi boca rebosará de alabanzas a Yahvé; en medio de la gran multitud cantaré sus glorias;
 
-SALMO 45 (46)
-Alcázar es el Dios de Jacob
+[31](#c108-v31){:#c108-v31} [[1088]](#n-1088){:#rn-1088} porque Él se mantuvo a la derecha de este pobre para salvarlo de sus jueces. 
 
-1[4614]Al maestro de coro. De los hijos de Coré. Al-Alamoth (para voces de soprano). Cántico.
 
-2Dios es para nosotros refugio y fortaleza;
+### Salmo [109 (110)](#c109) {#c109}
 
-mucho ha probado ser nuestro auxiliador
+### Triunfo de Cristo rey y Sacerdote 
 
-en las tribulaciones.
+[1](#c109-v1){:#c109-v1} [[1089]](#n-1089){:#rn-1089} Salmo de David. Oráculo de Yahvé a mi Señor: "Siéntate a mi diestra, hasta que Yo haga de tus enemigos el escabel de tus pies."
 
-3[4615]Por eso no tememos si la tierra vacila
+[2](#c109-v2){:#c109-v2} [[1090]](#n-1090){:#rn-1090} El cetro de tu poder lo entregará Yahvé (diciéndote): "Desde Sión impera en medio de tus enemigos."
 
-y los montes son precipitados al mar.
+[3](#c109-v3){:#c109-v3} [[1091]](#n-1091){:#rn-1091} Tuya será la autoridad en el día de tu poderío, en los resplandores de la santidad; Él te engendró del seno antes del lucero.
 
-4[4616]Bramen y espumen sus aguas,
+[4](#c109-v4){:#c109-v4} [[1092]](#n-1092){:#rn-1092} Yahvé lo juró y no se arrepentirá: "Tú eres Sacerdote para siempre a la manera de Melquisedec."
 
-sacúdanse a su ímpetu los montes.
+[5](#c109-v5){:#c109-v5} [[1093]](#n-1093){:#rn-1093} Mi Señor está a la diestra de (Yahvé). En el día de su ira destrozará a los reyes.
 
-Yahvé de los ejércitos está con nosotros;
+[6](#c109-v6){:#c109-v6} [[1094]](#n-1094){:#rn-1094} Juzgará las naciones, amontonará cadáveres, aplastará la cabeza de un gran país.
 
-nuestro alcázar es el Dios de Jacob.
+[7](#c109-v7){:#c109-v7} [[1095]](#n-1095){:#rn-1095} Beberá del torrente en el camino; por eso erguirá la cabeza. 
 
-5[4617]Los brazos del río alegran la ciudad de Dios,
+### Salmo [110 (111)](#c110) {#c110}
 
-la santa morada del Altísimo.
+### Memorables son las obras del Señor 
 
-6Dios está en medio de ella,
+[1](#c110-v1){:#c110-v1} [[1096]](#n-1096){:#rn-1096} ¡Hallelú Yah! Quiero honrar a Yahvé con todo mi corazón, en el coro de los justos y en la asamblea.
 
-no será conmovida;
+[2](#c110-v2){:#c110-v2} [[1097]](#n-1097){:#rn-1097} Grandes son las obras de Yahvé: escudríñenlas los que las disfrutan.
 
-Dios la protegerá desde que apunte el día.
+[3](#c110-v3){:#c110-v3} [[1098]](#n-1098){:#rn-1098} Su obrar es todo majestad y esplendor, y su justicia permanece para siempre.
 
-7Agítanse las naciones, caen los reinos;
+[4](#c110-v4){:#c110-v4} Hizo sus maravillas para ser recordadas. Yahvé es benigno y compasivo;
 
-Él hace oír su voz, la tierra tiembla.
+[5](#c110-v5){:#c110-v5} [[1099]](#n-1099){:#rn-1099} Él da alimento a los que le temen; para siempre se acordará de su alianza.
 
-8Yahvé de los ejércitos está con nosotros;
+[6](#c110-v6){:#c110-v6} [[1100]](#n-1100){:#rn-1100} A su pueblo ha mostrado el poder de sus obras, dándole la herencia de las naciones.
 
-nuestro alcázar es el Dios de Jacob.
+[7](#c110-v7){:#c110-v7} Fieles y justas son las obras de sus manos. Sus preceptos son todos infalibles,
 
-9[4618]Venid y ved las obras de Yahvé,
+[8](#c110-v8){:#c110-v8} establecidos por los siglos, para siempre, dictados con firmeza y justicia.
 
-las maravillas que ha hecho sobre la tierra.
+[9](#c110-v9){:#c110-v9} [[1101]](#n-1101){:#rn-1101} Él ha enviado la redención a su pueblo, ha ratificado su alianza para siempre; santo y terrible es su Nombre.
 
-10Cómo hace cesar las guerras
+[10](#c110-v10){:#c110-v10} [[1102]](#n-1102){:#rn-1102} El principio de la sabiduría es el temor de Yahvé. Prudentes son todos los que lo adoran, Su alabanza permanece para siempre. 
 
-hasta los confines del orbe,
+### Salmo [111 (112)](#c111) {#c111}
 
-cómo quiebra el arco y hace trizas la lanza,
+### Bienaventuranzas del justo 
 
-y echa los escudos al fuego.
+[1](#c111-v1){:#c111-v1} [[1103]](#n-1103){:#rn-1103} ¡Hallelú Yah! Dichoso el hombre que teme a Yahvé, en sus preceptos halla el sumo deleite.
 
-11[4619] “Basta ya; sabed que Yo soy Dios,
+[2](#c111-v2){:#c111-v2} [[1104]](#n-1104){:#rn-1104} Su descendencia será poderosa sobre la tierra; la estirpe de los rectos es bendecida.
 
-sublime entre las naciones,
+[3](#c111-v3){:#c111-v3} En su casa hay bienestar y abundancia, y su justicia permanece para siempre.
 
-excelso sobre la tierra.”
+[4](#c111-v4){:#c111-v4} [[1105]](#n-1105){:#rn-1105} Para los rectos brilla una luz en las tinieblas: el Clemente, el Misericordioso, el Justo.
 
-12Yahvé de los ejércitos está con nosotros;
+[5](#c111-v5){:#c111-v5} [[1106]](#n-1106){:#rn-1106} Bien le va al hombre que se compadece y presta; reglará sus negocios con discreción;
 
-nuestro alcázar es el Dios de Jacob.
+[6](#c111-v6){:#c111-v6} nunca resbalará; el justo quedará en memoria eterna.
 
-SALMO 46 (47)
-Israel y las naciones alaban al Rey de toda la tierra
+[7](#c111-v7){:#c111-v7} [[1107]](#n-1107){:#rn-1107} No temerá malas nuevas; su corazón está firme, confiado en Yahvé.
 
-1[4620]Al maestro de coro. De los hijos de Coré. Salmo.
+[8](#c111-v8){:#c111-v8} Su ánimo es constante, impávido, hasta ver confundidos a sus adversarios.
 
-2[4621]Pueblos todos, batid palmas;
+[9](#c111-v9){:#c111-v9} [[1108]](#n-1108){:#rn-1108} Distribuye y da a los pobres largamente; su justicia permanece para siempre, su triunfo será exaltado con gloria.
 
-aclamad a Dios con cantos de júbilo;
+[10](#c111-v10){:#c111-v10} Lo verá el impío y se enfurecerá, se consumirá rechinando los dientes. Estéril será la envidia de los pecadores. 
 
-3porque el Señor Altísimo, terrible,
+### Salmo [112 (113)](#c112) {#c112}
 
-es el gran Rey sobre toda la tierra.
+### Cómo el Altísimo exalta a los humildes 
 
-4[4622]Él ha sometido los pueblos a nosotros
+[1](#c112-v1){:#c112-v1} [[1109]](#n-1109){:#rn-1109} ¡Hallelú Yah! Alabad, siervos de Yahvé, alabad el Nombre de Yahvé.
 
-y a nuestros pies las naciones.
+[2](#c112-v2){:#c112-v2} Sea bendito el Nombre de Yahvé, desde ahora y para siempre.
 
-5[4623]Él nos eligió nuestra heredad,
+[3](#c112-v3){:#c112-v3} [[1110]](#n-1110){:#rn-1110} Desde el nacimiento del sol hasta su ocaso sea ensalzado el Nombre de Yahvé.
 
-gloria de Jacob, su amado.
+[4](#c112-v4){:#c112-v4} [[1111]](#n-1111){:#rn-1111} Excelso es Yahvé sobre todas las naciones, sobre los cielos, su gloria.
 
-6Sube Dios entre voces de júbilo,
+[5](#c112-v5){:#c112-v5} ¿Quién hay en los cielos y en la tierra, comparable al Señor Dios nuestro, que tiene su trono en las alturas
 
-Yahvé con sonido de trompeta.
+[6](#c112-v6){:#c112-v6} y se inclina para mirar?
 
-7[4624]Cantad a Dios, cantad;
+[7](#c112-v7){:#c112-v7} [[1112]](#n-1112){:#rn-1112} Alza del polvo al desvalido y desde el estiércol exalta al pobre
 
-cantad a nuestro Rey, cantadle.
+[8](#c112-v8){:#c112-v8} para sentarlo con los nobles, entre los príncipes de su pueblo.
 
-8Porque Dios es rey sobre toda la tierra;
+[9](#c112-v9){:#c112-v9} Él hace que la estéril viva en hogar, madre gozosa de hijos. 
 
-cantadle un himno.
+### Salmo [113A (114)](#c113A) {#c113A}
 
-9Dios reina ya sobre todas las naciones;
+### Majestad del Libertador de Israel 
 
-Dios se ha sentado sobre su santo trono.
+[1](#c113A-v1){:#c113A-v1} [[1113]](#n-1113){:#rn-1113} ¡Hallelú Yah! Cuando Israel salió de Egipto, —la casa de Jacob de entre un pueblo bárbaro—
 
-10[4625]Los príncipes de los pueblos se han unido
+[2](#c113A-v2){:#c113A-v2} [[1114]](#n-1114){:#rn-1114} Judá vino a ser su santuario, Israel su imperio.
 
-al pueblo del Dios de Abrahán,
+[3](#c113A-v3){:#c113A-v3} [[1115]](#n-1115){:#rn-1115} El mar, al ver, huyó; el Jordán volvió atrás.
 
-pues los poderosos de la tierra
+[4](#c113A-v4){:#c113A-v4} [[1116]](#n-1116){:#rn-1116} Los montes saltaron como carneros, los collados como corderillos.
 
-se han dado a Dios.
+[5](#c113A-v5){:#c113A-v5} ¿Qué tienes, mar, para huir y tú, Jordán, para volver atrás?
 
-Él domina desde lo más alto.
+[6](#c113A-v6){:#c113A-v6} ¿Montes, para saltar como carneros; collados, como corderillos?
 
-SALMO 47 (48)
-Grandezas del Señor en Sión
+[7](#c113A-v7){:#c113A-v7} [[1117]](#n-1117){:#rn-1117} Tiembla, oh tierra, ante la faz del Señor, ante la faz del Dios de Jacob,
 
-1[4626]Cántico. Salmo de los hijos de Coré.
+[8](#c113A-v8){:#c113A-v8} [[1118]](#n-1118){:#rn-1118} que convierte la peña en estanque, la roca en fuente de aguas. 
 
-2Grande es Yahvé
+### Salmo [113B (115)](#c113B) {#c113B}
 
-en la ciudad de nuestro Dios,
+### Israel alabe a su Dios 
 
-y digno de suma alabanza.
+[1](#c113B-v1){:#c113B-v1} [[1119]](#n-1119){:#rn-1119} No a nosotros, Yahvé, no a nosotros, sino a tu Nombre da la gloria por tu misericordia y tu fidelidad.
 
-3[4627]Su monte sagrado es gloriosa cumbre,
+[2](#c113B-v2){:#c113B-v2} Por qué habrían de decir los gentiles: "¿Dónde está el Dios de estos?"
 
-es el gozo de toda la tierra;
+[3](#c113B-v3){:#c113B-v3} [[1120]](#n-1120){:#rn-1120} El Dios nuestro está en el cielo; Él hace todo cuanto quiere.
 
-el monte Sión, (su) extremo norte,
+[4](#c113B-v4){:#c113B-v4} [[1121]](#n-1121){:#rn-1121} Los ídolos de aquellos son plata y oro, hechura de mano de hombre:
 
-es la ciudad del gran Rey.
+[5](#c113B-v5){:#c113B-v5} tienen boca, pero no hablan; tienen ojos, mas no ven;
 
-4En sus fortalezas,
+[6](#c113B-v6){:#c113B-v6} tienen orejas y no oyen; tienen narices y no huelen;
 
-Dios se ha mostrado baluarte seguro.
+[7](#c113B-v7){:#c113B-v7} tienen manos y no palpan, tienen pies y no andan; y de su garganta no sale voz.
 
-5[4628]Pues, he aquí que los reyes
+[8](#c113B-v8){:#c113B-v8} Semejantes a ellos serán quienes los hacen, quienquiera confía en ellos.
 
-se habían reunido,
+[9](#c113B-v9){:#c113B-v9} La casa de Israel confía en Yahvé; Él es su auxilio y su escudo.
 
-y acometieron a una;
+[10](#c113B-v10){:#c113B-v10} [[1122]](#n-1122){:#rn-1122} La casa de Aarón confía en Yahvé; Él es su auxilio y su escudo.
 
-6mas apenas le vieron, se han pasmado,
+[11](#c113B-v11){:#c113B-v11} Los temerosos de Yahvé confían en Yahvé; Él es su auxilio y su escudo.
 
-y aterrados han huido por doquier.
+[12](#c113B-v12){:#c113B-v12} [[1123]](#n-1123){:#rn-1123} Yahvé se acuerda de nosotros y nos bendecirá: bendecirá a la casa de Israel, bendecirá a la casa de Aarón.
 
-7Los invadió allí un temblor,
+[13](#c113B-v13){:#c113B-v13} Bendecirá a los que temen a Yahvé, tanto a pequeños como a grandes.
 
-una angustia como de parto,
+[14](#c113B-v14){:#c113B-v14} Yahvé os multiplicará a vosotros y a vuestros hijos.
 
-8[4629]como el viento de Oriente
+[15](#c113B-v15){:#c113B-v15} Sois benditos del Señor que hizo el cielo y la tierra.
 
-cuando estrella las naves de Tarsis.
+[16](#c113B-v16){:#c113B-v16} [[1124]](#n-1124){:#rn-1124} El cielo es cielo de Yahvé; mas dio la tierra a los hijos de los hombres.
 
-9[4630]Como lo habíamos oído,
+[17](#c113B-v17){:#c113B-v17} [[1125]](#n-1125){:#rn-1125} Los muertos no alaban a Yahvé, ninguno de los que bajan al sepulcro.
 
-así lo hemos visto ahora
+[18](#c113B-v18){:#c113B-v18} Nosotros, en cambio, bendecimos a Yah, desde ahora y para siempre. 
 
-en la ciudad de Yahvé de los ejércitos,
+### Salmo [114 (116, 1-9)](#c114) {#c114}
 
-en la ciudad de nuestro Dios:
+### Acción de gracias del salmista 
 
-Dios la hace estable para siempre.
+[1](#c114-v1){:#c114-v1} [[1126]](#n-1126){:#rn-1126} ¡Hallelú Yah! Yo lo amo, porque Yahvé escucha mi voz, mi súplica;
 
-10Nos acordamos, oh Dios,
+[2](#c114-v2){:#c114-v2} porque inclinó hacia mí su oído el día en que lo invoqué.
 
-de tu misericordia
+[3](#c114-v3){:#c114-v3} [[1127]](#n-1127){:#rn-1127} Me habían rodeado los lazos de la muerte, vinieron sobre mí las angustias del sepulcro; caí en la turbación y en el temor.
 
-dentro de tu Templo.
+[4](#c114-v4){:#c114-v4} [[1128]](#n-1128){:#rn-1128} Pero invoqué el Nombre de Yahvé: ¡Oh Yahvé, salva mi vida!
 
-11Como tu Nombre, Dios,
+[5](#c114-v5){:#c114-v5} Yahvé es benigno y justo; sí, nuestro Dios es misericordioso.
 
-así también tu alabanza
+[6](#c114-v6){:#c114-v6} [[1129]](#n-1129){:#rn-1129} Yahvé cuida de los sencillos; yo era miserable y Él me salvó.
 
-llega hasta los confines de la tierra.
+[7](#c114-v7){:#c114-v7} Vuelve, alma mía, a tu sosiego, porque Yahvé te ha favorecido.
 
-Tu diestra está llena de justicia.
+[8](#c114-v8){:#c114-v8} [[1130]](#n-1130){:#rn-1130} Puesto que Él ha arrancado mi vida de la muerte, mis ojos del llanto, mis pies de la caída,
 
-12Alégrese el monte Sión;
+[9](#c114-v9){:#c114-v9} [[1131]](#n-1131){:#rn-1131} caminaré delante de Yahvé en la tierra de los vivientes. 
 
-salten de júbilo las ciudades de Judá,
 
-a causa de tus juicios.
+### Salmo [115 (116, 10-19)](#c115) {#c115}
 
-13[4631]Recorred a Sión, circulad en rededor,
+### ¿Qué podemos dar al Señor? (diez) 
 
-contad sus torres;
+[1](#c115-v1){:#c115-v1} [[1132]](#n-1132){:#rn-1132} (10) Yo tenía confianza aun cuando hablé diciendo: "Grande es mi aflicción",
 
-14considerad sus baluartes,
+[2](#c115-v2){:#c115-v2} [[1133]](#n-1133){:#rn-1133} (11) y exclamando en mi angustia: "Todo hombre es mentira."
 
-examinad sus fortalezas,
+[3](#c115-v3){:#c115-v3} [[1134]](#n-1134){:#rn-1134} (12) ¿Qué daré a Yahvé por todo lo que Él me ha dado?
 
-para que podáis referir
+[4](#c115-v4){:#c115-v4} [[1135]](#n-1135){:#rn-1135} (13) Tomaré la copa de la salud y publicaré el Nombre de Yahvé.
 
-a la generación venidera:
+[5](#c115-v5){:#c115-v5} (14) [Cumpliré los votos hechos a Yahvé en presencia de todo su pueblo.]
 
-así es de grande Dios,
+[6](#c115-v6){:#c115-v6} [[1136]](#n-1136){:#rn-1136} (15) Es cosa grave delante de Yahvé la muerte de sus fieles.
 
-15[4632]nuestro Dios para siempre jamás.
+[7](#c115-v7){:#c115-v7} [[1137]](#n-1137){:#rn-1137} (16) Oh Yahvé, yo soy tu siervo; siervo tuyo, hijo de tu esclava. Tú soltaste mis ataduras,
 
-Él mismo nos gobernará.
+[8](#c115-v8){:#c115-v8} [[1138]](#n-1138){:#rn-1138} (17) y yo te ofreceré un sacrificio de alabanza; publicaré el Nombre de Yahvé.
 
-SALMO 48 (49)
-No envidiar la opulencia de los malos
+[9](#c115-v9){:#c115-v9} (18) Cumpliré a Yahvé estos votos en presencia de todo su pueblo;
 
-1Al maestro de coro. De los hijos de Coré. Salmo.
+[10](#c115-v10){:#c115-v10} (19) en los atrios de la casa de Yahvé, en medio de ti, oh Jerusalén. 
 
-2[4633]Oíd esto, naciones todas,
+### Salmo [116 (117)](#c116) {#c116}
 
-escuchad, moradores todos del orbe,
+### Alaben los gentiles al Señor 
 
-3así plebeyos como nobles,
+[1](#c116-v1){:#c116-v1} [[1139]](#n-1139){:#rn-1139} ¡Hallelú Yah! Alabad a Yahvé, naciones todas, celebradle todos los pueblos;
 
-ricos tanto como pobres.
+[2](#c116-v2){:#c116-v2} [[1140]](#n-1140){:#rn-1140} pues su misericordia se ha confirmado sobre nosotros, y la fidelidad de Yahvé permanece para siempre. 
 
-4Mi boca proferirá sabiduría,
+### Salmo [117 (118)](#c117) {#c117}
 
-y la meditación de mi corazón, inteligencia.
+### Júbilo y acción de gracias por la salvación 
 
-5[4634]Inclinaré mi oído a la parábola,
+[1](#c117-v1){:#c117-v1} [[1141]](#n-1141){:#rn-1141} ¡Hallelú Yah! Alabad a Yahvé porque es bueno, porque su misericordia permanece para siempre.
 
-y al son de la cítara
+[2](#c117-v2){:#c117-v2} [[1142]](#n-1142){:#rn-1142} Diga ahora la casa de Israel: "Su misericordia permanece para siempre."
 
-propondré mi enigma.
+[3](#c117-v3){:#c117-v3} Diga la casa de Aarón: "Su misericordia permanece para siempre."
 
-6[4635] ¿Por qué he de temer yo
+[4](#c117-v4){:#c117-v4} Digan los que temen a Yahvé: "Su misericordia permanece para siempre."
 
-en los días malos,
+[5](#c117-v5){:#c117-v5} [[1143]](#n-1143){:#rn-1143} En la estrechez invoqué a Yah; y Yah me escuchó y me sacó a la anchura.
 
-cuando me rodea la malicia
+[6](#c117-v6){:#c117-v6} [[1144]](#n-1144){:#rn-1144} Yahvé está en mi favor, nada temo. ¿Qué podrá hacerme el hombre?
 
-de los que me asechan,
+[7](#c117-v7){:#c117-v7} Yahvé, mi auxiliador, está conmigo y miraré (confundidos) a mis enemigos.
 
-7los que confían en sus recursos
+[8](#c117-v8){:#c117-v8} Mejor es acogerse a Yahvé que confiar en el hombre.
 
-y se glorían de la abundancia de sus riquezas?
+[9](#c117-v9){:#c117-v9} Mejor es acogerse a Yahvé que confiar en príncipes.
 
-8[4636]Pues nadie podrá librarse a sí mismo,
+[10](#c117-v10){:#c117-v10} [[1145]](#n-1145){:#rn-1145} Todas las naciones me habían cercado; en el Nombre de Yahvé las hice pedazos.
 
-ni dar a Dios un precio por su redención
+[11](#c117-v11){:#c117-v11} Me envolvieron por todas partes; en el Nombre de Yahvé las hice pedazos.
 
-9—demasiado caro es el rescate de la vida—
+[12](#c117-v12){:#c117-v12} Me rodeaban como abejas, ardían como fuego de espinas; en el Nombre de Yahvé las hice pedazos.
 
-ni logrará nunca seguir viviendo por siempre
+[13](#c117-v13){:#c117-v13} [[1146]](#n-1146){:#rn-1146} Empujado, empujado, estuve a punto de caer, pero Yahvé vino en mi ayuda.
 
-10sin ver la muerte.
+[14](#c117-v14){:#c117-v14} Mi fuerza y mi valor es Yahvé, mi Salvador es Él.
 
-11[4637]Pues verá que los sabios mueren,
+[15](#c117-v15){:#c117-v15} [[1147]](#n-1147){:#rn-1147} Voz de exultación y de triunfo en las tiendas de los justos: "La diestra de Yahvé ha hecho proezas;
 
-e igualmente perecen el insensato y el necio,
+[16](#c117-v16){:#c117-v16} [[1148]](#n-1148){:#rn-1148} la diestra de Yahvé se alzó muy alto, la diestra de Yahvé ha hecho proezas.
 
-dejando sus riquezas a extraños.
+[17](#c117-v17){:#c117-v17} No moriré, sino que viviré; y publicaré las hazañas de Yahvé.
 
-12Los sepulcros son sus mansiones para siempre,
+[18](#c117-v18){:#c117-v18} [[1149]](#n-1149){:#rn-1149} Me castigó Yah, me castigó, pero no me entregó a la muerte."
 
-sus moradas de generación en generación,
+[19](#c117-v19){:#c117-v19} [[1150]](#n-1150){:#rn-1150} Abridme las puertas de la justicia, para que entre por ellas y dé gracias a Yah.
 
-por más que hayan dado
+[20](#c117-v20){:#c117-v20} Esta es la puerta de Yahvé; entren los justos por ella.
 
-a las tierras sus nombres.
+[21](#c117-v21){:#c117-v21} Te daré gracias porque me escuchaste y te has hecho mi Salvador.
 
-13Porque el hombre
+[22](#c117-v22){:#c117-v22} [[1151]](#n-1151){:#rn-1151} La piedra que rechazaron los constructores ha venido a ser la piedra angular.
 
-no permanece en su opulencia;
+[23](#c117-v23){:#c117-v23} Obra de Yahvé es esto, admirable ante nuestros ojos.
 
-desaparece como los brutos.
+[24](#c117-v24){:#c117-v24} [[1152]](#n-1152){:#rn-1152} Este es el día que hizo Yahvé; alegrémonos por él y celebrémoslo.
 
-14[4638]Tal es la senda
+[25](#c117-v25){:#c117-v25} [[1153]](#n-1153){:#rn-1153} Sí, oh Yahvé, ¡da la victoria! Sí, oh Yahvé, ¡da prosperidad!
 
-de los que estultamente confían,
+[26](#c117-v26){:#c117-v26} Bendito el que viene en el nombre de Yahvé; desde la casa de Yahvé os bendecimos.
 
-y tal el fin de los que se glorían de su suerte.
+[27](#c117-v27){:#c117-v27} [[1154]](#n-1154){:#rn-1154} Yahvé es Dios y nos ha iluminado. Ordenad procesión con ramos frondosos hasta los cuernos del altar.
 
-15[4639]Como ovejas son echados al sepulcro;
+[28](#c117-v28){:#c117-v28} [[1155]](#n-1155){:#rn-1155} Mi Dios eres Tú y te doy gracias; mi Dios eres Tú, quiero alabarte;
 
-su pastor es la muerte,
+[29](#c117-v29){:#c117-v29} Alabad a Yahvé porque es bueno; porque su misericordia permanece para siempre. 
 
-y a la mañana los justos
+### Salmo [118 (119)](#c118) {#c118}
 
-dominarán sobre ellos.
+### Elogio de la palabra divina ALEF. 
 
-Pronto su figura se volverá un desecho,
+[1](#c118-v1){:#c118-v1} [[1156]](#n-1156){:#rn-1156} Dichosos aquellos cuyo camino es perfecto, que andan tras la Ley de Yahvé.
 
-y el sepulcro será su casa.
+[2](#c118-v2){:#c118-v2} [[1157]](#n-1157){:#rn-1157} Bienaventurados los que observan sus instrucciones, de todo corazón lo buscan,
 
-16[4640]Pero mi vida
+[3](#c118-v3){:#c118-v3} [[1158]](#n-1158){:#rn-1158} no cometen ninguna iniquidad, siguen los caminos de Él.
 
-Dios la librará de la tumba,
+[4](#c118-v4){:#c118-v4} [[1159]](#n-1159){:#rn-1159} Tu diste tus preceptos, para que sean cuidadosamente guardados.
 
-porque Él me tomará consigo.
+[5](#c118-v5){:#c118-v5} ¡Ojalá se afirmen mis pasos hacia la guarda de tus palabras!
 
-17No temas si alguno se enriquece,
+[6](#c118-v6){:#c118-v6} Entonces no quedaré confundido cuando contemple todos tus mandamientos.
 
-si aumenta la opulencia de su casa;
+[7](#c118-v7){:#c118-v7} [[1160]](#n-1160){:#rn-1160} Te alabaré por la rectitud de corazón, aprendiendo los decretos de tu justicia.
 
-18[4641]porque al morir nada se llevará consigo,
+[8](#c118-v8){:#c118-v8} [[1161]](#n-1161){:#rn-1161} Tus estatutos guardaré, de ningún modo me desampares. BET.
 
-ni baja con él su fausto.
+[9](#c118-v9){:#c118-v9} [[1162]](#n-1162){:#rn-1162} ¿Cómo el joven mantendrá puro su camino? Conservando tus palabras.
 
-19Aunque él mientras vivía se jactase,
+[10](#c118-v10){:#c118-v10} [[1163]](#n-1163){:#rn-1163} Con toda mi alma te busco; no permitas que yo ande errante al margen de tus mandamientos.
 
-congratulándose de pasarlo bien,
+[11](#c118-v11){:#c118-v11} [[1164]](#n-1164){:#rn-1164} En mi corazón escondo tus palabras, para no pecar contra Ti.
 
-20bajará a reunirse con sus padres,
+[12](#c118-v12){:#c118-v12} [[1165]](#n-1165){:#rn-1165} Bendito seas, oh Yahvé, enséñame tus decretos.
 
-y no verá jamás la luz.
+[13](#c118-v13){:#c118-v13} [[1166]](#n-1166){:#rn-1166} Con mis labios doy a conocer todos los oráculos de tu boca.
 
-21[4642]Pero el hombre en auge no comprende;
+[14](#c118-v14){:#c118-v14} [[1167]](#n-1167){:#rn-1167} En el camino de tus testimonios me deleito como quien posee todas las riquezas.
 
-desaparece como los brutos.
+[15](#c118-v15){:#c118-v15} Quiero meditar en tus preceptos y contemplar tus caminos;
 
-SALMO 49 (50)
-El obsequio grato a Dios
+[16](#c118-v16){:#c118-v16} [[1168]](#n-1168){:#rn-1168} gozarme en tus estatutos, no olvidar tus palabras. GUIMEL.
 
-1[4643]Salmo de Asaf.
+[17](#c118-v17){:#c118-v17} Haz merced a tu siervo que viva y guarde tus palabras.
 
-El Señor Dios habló
+[18](#c118-v18){:#c118-v18} [[1169]](#n-1169){:#rn-1169} Quita el velo a mis ojos, para que descubra las maravillas de tu Ley.
 
-y convocó a la tierra,
+[19](#c118-v19){:#c118-v19} [[1170]](#n-1170){:#rn-1170} Peregrino soy en la tierra: no me ocultes tus preceptos.
 
-desde el sol naciente hasta su ocaso.
+[20](#c118-v20){:#c118-v20} [[1171]](#n-1171){:#rn-1171} Mi alma se consume anhelando en todo tiempo tus justificaciones.
 
-2Desde Sión en plena belleza
+[21](#c118-v21){:#c118-v21} [[1172]](#n-1172){:#rn-1172} Increpaste a los infatuados; malditos esos que se desvían de tus mandamientos.
 
-aparece radiante Dios;
+[22](#c118-v22){:#c118-v22} [[1173]](#n-1173){:#rn-1173} Aparta de mí el oprobio y el desprecio, porque sigo tus instrucciones.
 
-3[4644]viene el Dios nuestro, y no en silencio;
+[23](#c118-v23){:#c118-v23} Aunque los príncipes se sientan y confabulan contra mí, tu siervo medita tus testimonios;
 
-un fuego devorador le precede
+[24](#c118-v24){:#c118-v24} [[1174]](#n-1174){:#rn-1174} porque tus enseñanzas son mis delicias, y tus leyes mis consejeros. DALET.
 
-y en torno suyo ruge la tempestad.
+[25](#c118-v25){:#c118-v25} [[1175]](#n-1175){:#rn-1175} Postrada está mi alma en el polvo; vuélveme la vida según tu palabra.
 
-4[4645]Llama a los cielos de arriba y a la tierra,
+[26](#c118-v26){:#c118-v26} [[1176]](#n-1176){:#rn-1176} Te manifesté mis pasos y Tú me escuchaste; enséñame tus disposiciones.
 
-dispuesto a hacer juicio sobre su pueblo:
+[27](#c118-v27){:#c118-v27} [[1177]](#n-1177){:#rn-1177} Instrúyeme en el camino de tus designios, y contemplaré tus maravillas.
 
-5“¡Congregadme a los piadosos,
+[28](#c118-v28){:#c118-v28} [[1178]](#n-1178){:#rn-1178} Mi alma vierte lágrimas de tristeza; confórtame según tu palabra.
 
-los que han hecho alianza conmigo
+[29](#c118-v29){:#c118-v29} [[1179]](#n-1179){:#rn-1179} Aléjame del camino del error, y favoréceme con tu Ley.
 
-mediante sacrificios!”
+[30](#c118-v30){:#c118-v30} [[1180]](#n-1180){:#rn-1180} He deseado la senda de la verdad, he hallado rectos tus juicios.
 
-6Y he aquí que los cielos
+[31](#c118-v31){:#c118-v31} [[1181]](#n-1181){:#rn-1181} Me apoyo en tus testimonios; no quieras confundirme, oh Yahvé.
 
-proclaman su justicia,
+[32](#c118-v32){:#c118-v32} [[1182]](#n-1182){:#rn-1182} Corro por el camino de tus mandamientos, porque Tú me ensanchas el corazón. HE.
 
-porque el Juez es Dios mismo.
+[33](#c118-v33){:#c118-v33} Muéstrame, Yahvé, el camino de tus ordenaciones, para seguirlo hasta el fin.
 
-7“Oye, pueblo mío, y hablaré;
+[34](#c118-v34){:#c118-v34} [[1183]](#n-1183){:#rn-1183} Dame entendimiento para que observe tu Ley y la practique con todo mi corazón.
 
-Israel, voy a dar testimonio contra ti;
+[35](#c118-v35){:#c118-v35} [[1184]](#n-1184){:#rn-1184} Hazme marchar por la senda de tus mandamientos, porque en ella me deleito.
 
-Yo soy Dios, el Dios tuyo.
+[36](#c118-v36){:#c118-v36} [[1185]](#n-1185){:#rn-1185} Inclina mi corazón hacia tus enseñanzas y no vaya hacia el lucro.
 
-8[4646]No te reprendo
+[37](#c118-v37){:#c118-v37} [[1186]](#n-1186){:#rn-1186} Aparta mis ojos para que no miren la vanidad; dame la vida en tu camino.
 
-por falta de tus sacrificios,
+[38](#c118-v38){:#c118-v38} [[1187]](#n-1187){:#rn-1187} Cumple en tu siervo tu promesa, hecha para los que te temen.
 
-pues tus holocaustos
+[39](#c118-v39){:#c118-v39} Aleja de mí el oprobio que me asusta, pues tus juicios son tan amables.
 
-están siempre delante de Mí.
+[40](#c118-v40){:#c118-v40} Mira cómo me he aficionado a tus decretos; hazme vivir por tu justicia. VAU.
 
-9No tomaré ni un becerro de tu casa,
+[41](#c118-v41){:#c118-v41} [[1188]](#n-1188){:#rn-1188} Vengan sobre mí tus misericordias, oh Yahvé; y tu salud, según tus oráculos;
 
-ni carneros de tus manadas.
+[42](#c118-v42){:#c118-v42} y podré responder a los que me reprochan por haber confiado en tus palabras.
 
-10Puesto que son mías
+[43](#c118-v43){:#c118-v43} [[1189]](#n-1189){:#rn-1189} No quites de mi boca la palabra de la verdad, porque en tus designios tengo puesta mi esperanza.
 
-todas las fieras de la selva,
+[44](#c118-v44){:#c118-v44} [[1190]](#n-1190){:#rn-1190} Y guardaré tu Ley para siempre, en el siglo y por los siglos de los siglos.
 
-y las bestias que por millares
+[45](#c118-v45){:#c118-v45} Ancho será el camino en que yo ande, porque busco tus preceptos.
 
-viven en mis montañas.
+[46](#c118-v46){:#c118-v46} [[1191]](#n-1191){:#rn-1191} Hablaré de tus enseñanzas delante de los reyes, y no me avergonzaré.
 
-11[4647]Conozco todas las aves del cielo,
+[47](#c118-v47){:#c118-v47} Y me deleitaré con las voluntades tuyas, que yo amo.
 
-y cuanto se mueve en el campo
+[48](#c118-v48){:#c118-v48} [[1192]](#n-1192){:#rn-1192} Y alzaré mis manos hacia tus mandatos y meditaré en tus enseñanzas. ZAIN.
 
-está de manifiesto a mis ojos.
+[49](#c118-v49){:#c118-v49} [[1193]](#n-1193){:#rn-1193} Acuérdate de tu palabra a tu siervo, en la cual me hiciste poner mi esperanza.
 
-12Si tuviera hambre,
+[50](#c118-v50){:#c118-v50} [[1194]](#n-1194){:#rn-1194} Esto es lo que me consuela en mi aflicción: que tu palabra me da vida.
 
-no te lo diría a ti,
+[51](#c118-v51){:#c118-v51} [[1195]](#n-1195){:#rn-1195} Los infatuados hacen burla de mí hasta el extremo, pero yo no me aparto de tu Ley.
 
-porque mío es el orbe
+[52](#c118-v52){:#c118-v52} [[1196]](#n-1196){:#rn-1196} Recuerdo tus antiguos juicios, oh Yahvé, y quedo consolado.
 
-y cuanto él contiene.
+[53](#c118-v53){:#c118-v53} [[1197]](#n-1197){:#rn-1197} La indignación se enciende en mí a causa de esos malvados que abandonan tu Ley.
 
-13¿Acaso Yo como carne de toros,
+[54](#c118-v54){:#c118-v54} [[1198]](#n-1198){:#rn-1198} Tus decretos se han hecho cantos para mí en el lugar de mi destierro.
 
-o bebo sangre de chivos?
+[55](#c118-v55){:#c118-v55} [[1199]](#n-1199){:#rn-1199} Durante la noche me acuerdo de tu nombre, oh Yahvé, y guardaré tu Ley.
 
-14[4648]Sacrificios de alabanza
+[56](#c118-v56){:#c118-v56} Esta ha sido mi suerte: guardar tus preceptos. HET.
 
-es lo que has de ofrecer a Dios,
+[57](#c118-v57){:#c118-v57} [[1200]](#n-1200){:#rn-1200} He dicho, oh Yahvé, que mi suerte es guardar tus palabras.
 
-y cumplir al Altísimo tus votos.
+[58](#c118-v58){:#c118-v58} [[1201]](#n-1201){:#rn-1201} De todo corazón imploro tu rostro; apiádate de mí conforme a tu promesa.
 
-15Entonces sí, invócame
+[59](#c118-v59){:#c118-v59} Examiné mis caminos, y volví mis pies hacia tus enseñanzas.
 
-en el día de la angustia;
+[60](#c118-v60){:#c118-v60} Me apresuré, y no me he detenido en guardar tus mandamientos.
 
-Yo te libraré y tú me darás gloria.”
+[61](#c118-v61){:#c118-v61} Los lazos de los pecadores me rodean, mas no he dado tu Ley al olvido.
 
-16[4649]Al pecador, empero, le dice Dios:
+[62](#c118-v62){:#c118-v62} A media noche me levanto para alabarte por tus justos decretos.
 
-“¿Cómo es que andas tú
+[63](#c118-v63){:#c118-v63} [[1202]](#n-1202){:#rn-1202} Estoy asociado a todos los que te temen y guardan tus preceptos.
 
-pregonando mis mandamientos,
+[64](#c118-v64){:#c118-v64} La tierra está llena de tu misericordia, oh Yahvé, hazme conocer tus disposiciones. TET.
 
-y tienes mi alianza en tus labios,
+[65](#c118-v65){:#c118-v65} Conforme a tu palabra, oh Yahvé, has obrado bondadosamente con tu siervo.
 
-17tú, que aborreces la instrucción,
+[66](#c118-v66){:#c118-v66} [[1203]](#n-1203){:#rn-1203} Enséñame el juicio recto y el conocimiento, pues confío en tus preceptos.
 
-y has echado a la espalda mis palabras?
+[67](#c118-v67){:#c118-v67} Antes que me humillaras anduve descarriado, mas ahora me atengo a tu palabra.
 
-18Cuando ves a un ladrón te vas con él,
+[68](#c118-v68){:#c118-v68} [[1204]](#n-1204){:#rn-1204} Tú eres bueno y benéfico; instrúyeme, pues, en tus enseñanzas.
 
-y te asocias a los adúlteros.
+[69](#c118-v69){:#c118-v69} [[1205]](#n-1205){:#rn-1205} Fraguan engaños contra mí los infatuados, pero yo guardo tus preceptos con todo mi corazón.
 
-19Has abierto tu boca al mal,
+[70](#c118-v70){:#c118-v70} [[1206]](#n-1206){:#rn-1206} El corazón de ellos está craso como sebo, mas yo tengo tu Ley como deleite.
 
-y tu lengua ha urdido engaño.
+[71](#c118-v71){:#c118-v71} [[1207]](#n-1207){:#rn-1207} Bueno me ha sido el ser maltratado, para conocer tus estatutos.
 
-20Te sentabas para hablar
+[72](#c118-v72){:#c118-v72} [[1208]](#n-1208){:#rn-1208} Mejor es para mí la Ley de tu boca que millares de oro y plata. YOD.
 
-contra tu hermano,
+[73](#c118-v73){:#c118-v73} Tus manos me hicieron y me formaron; dame la inteligencia de tus disposiciones.
 
-y cubrías de oprobio al hijo de tu madre.
+[74](#c118-v74){:#c118-v74} [[1209]](#n-1209){:#rn-1209} Los que te temen se alegrarán al verme, porque puse en tu palabra toda mi esperanza.
 
-21Esto hiciste, y ¿Yo he de callar?
+[75](#c118-v75){:#c118-v75} [[1210]](#n-1210){:#rn-1210} Reconozco, Yahvé, que tus juicios son justos y que justamente me has humillado.
 
-¿Imaginaste que Yo soy como tú?
+[76](#c118-v76){:#c118-v76} Venga ahora tu misericordia a consolarme, según la promesa que diste a tu siervo.
 
-Yo te pediré cuentas
+[77](#c118-v77){:#c118-v77} [[1211]](#n-1211){:#rn-1211} Vengan a mí tus piedades para que tenga vida, porque tu Ley hace mis delicias.
 
-y te lo echaré en cara.
+[78](#c118-v78){:#c118-v78} [[1212]](#n-1212){:#rn-1212} Confundido quede el fatuo; mintiendo me ha deformado; pero yo meditaré en tus mandatos.
 
-22Entended estas cosas
+[79](#c118-v79){:#c118-v79} [[1213]](#n-1213){:#rn-1213} Diríjanse a mí los que te temen, los que conocen tus testimonios.
 
-los que os olvidáis de Dios;
+[80](#c118-v80){:#c118-v80} [[1214]](#n-1214){:#rn-1214} Sea mi corazón perfecto según tus leyes, para que no quede confundido. CAF.
 
-no sea que Yo os destroce
+[81](#c118-v81){:#c118-v81} [[1215]](#n-1215){:#rn-1215} Desfallece mi alma suspirando por la salud que de Ti viene; cuento con tu palabra.
 
-y no haya quien os salve.
+[82](#c118-v82){:#c118-v82} [[1216]](#n-1216){:#rn-1216} Desfallecen mis ojos de tanto esperar tu promesa; ¿cuándo vendrás a consolarme?
 
-23[4650]El que me ofrece el sacrificio de alabanza,
+[83](#c118-v83){:#c118-v83} [[1217]](#n-1217){:#rn-1217} He venido a ser como pellejo expuesto al humo, mas no he olvidado tus estatutos.
 
-ese es el que honra;
+[84](#c118-v84){:#c118-v84} [[1218]](#n-1218){:#rn-1218} ¿Cuántos son los días de tu siervo? ¿Cuándo juzgarás a los que me persiguen?
 
-y al que anda en sinceridad,
+[85](#c118-v85){:#c118-v85} [[1219]](#n-1219){:#rn-1219} El infatuado cavó fosas para mí; él, que es contrario a la Ley.
 
-a ese le haré ver la salvación de Dios.”
+[86](#c118-v86){:#c118-v86} [[1220]](#n-1220){:#rn-1220} Todos tus mandamientos son verdad; mas ellos sin causa me persiguen; ayúdame Tú.
 
-SALMO 50 (51)
-Espíritu de perfecta contrición
+[87](#c118-v87){:#c118-v87} [[1221]](#n-1221){:#rn-1221} Casi me han exterminado del país, pero yo no abandoné tus preceptos.
 
-1[4651]Al maestro de coro. Salmo de David. 2Cuando después que pecó con Betsabee, se llegó a él Natán.
+[88](#c118-v88){:#c118-v88} Según tu misericordia, consérvame la vida, y guardaré los oráculos de tu boca. LAMED.
 
-3[4652]Ten compasión de mí, oh Dios,
+[89](#c118-v89){:#c118-v89} [[1222]](#n-1222){:#rn-1222} Tu palabra, oh Yahvé, es eterna, permanece en el cielo.
 
-en la medida de tu misericordia;
+[90](#c118-v90){:#c118-v90} [[1223]](#n-1223){:#rn-1223} Tu fidelidad, de generación en generación; Tú formaste la tierra, y perdura.
 
-según la grandeza de tus bondades,
+[91](#c118-v91){:#c118-v91} [[1224]](#n-1224){:#rn-1224} Como Tú lo dispusiste, así continúa en todo tiempo, pues todas las cosas están a tu servicio.
 
-borra mi iniquidad.
+[92](#c118-v92){:#c118-v92} [[1225]](#n-1225){:#rn-1225} Si yo no hubiera puesto mis delicias en tu Ley, ya habría perecido en mi angustia.
 
-4Lávame a fondo de mi culpa,
+[93](#c118-v93){:#c118-v93} No olvidaré nunca tus decretos, porque en ellos me das la vida.
 
-límpiame de mi pecado.
+[94](#c118-v94){:#c118-v94} [[1226]](#n-1226){:#rn-1226} Yo soy tuyo: sálvame, pues me empeño en hacer tu voluntad.
 
-5[4653]Porque yo reconozco mi maldad,
+[95](#c118-v95){:#c118-v95} [[1227]](#n-1227){:#rn-1227} Los pecadores me espían para perderme; pero yo sigo atento a tus preceptos.
 
-y tengo siempre delante mi delito.
+[96](#c118-v96){:#c118-v96} [[1228]](#n-1228){:#rn-1228} A toda perfección le he hallado el límite, mas tus estatutos no lo tienen. MEM.
 
-6[4654]He pecado contra Ti,
+[97](#c118-v97){:#c118-v97} [[1229]](#n-1229){:#rn-1229} ¡Oh Yahvé, cuánto amo tu Ley! Es mi meditación de todo el día.
 
-contra Ti solo,
+[98](#c118-v98){:#c118-v98} [[1230]](#n-1230){:#rn-1230} Tu mandamiento me hace más sabio que mis enemigos, porque él está siempre conmigo.
 
-he obrado lo que es desagradable a tus ojos,
+[99](#c118-v99){:#c118-v99} [[1231]](#n-1231){:#rn-1231} Estoy más instruido que todos mis maestros, porque tus enseñanzas son mi meditación.
 
-de modo que se manifieste
+[100](#c118-v100){:#c118-v100} Entiendo más que los ancianos, porque observo tus prescripciones.
 
-la justicia de tu juicio
+[101](#c118-v101){:#c118-v101} Aparto mis pies de toda senda mala, para ser fiel a tus palabras.
 
-y tengas razón en condenarme.
+[102](#c118-v102){:#c118-v102} [[1232]](#n-1232){:#rn-1232} No me desvío de tus decretos, porque me enseñaste Tú.
 
-7[4655]Es que soy nacido en la iniquidad,
+[103](#c118-v103){:#c118-v103} ¡Cuan dulces son a mi paladar tus palabras! Mas que la miel a mi boca.
 
-y ya mi madre me concibió en pecado.
+[104](#c118-v104){:#c118-v104} [[1233]](#n-1233){:#rn-1233} Por tus preceptos me hago inteligente; por eso aborrezco todo camino de iniquidad. NUN.
 
-8[4656]Mas he aquí que Tú te complaces
+[105](#c118-v105){:#c118-v105} [[1234]](#n-1234){:#rn-1234} Antorcha para mis pies es tu palabra, y luz para mi senda.
 
-en la sinceridad del corazón,
+[106](#c118-v106){:#c118-v106} [[1235]](#n-1235){:#rn-1235} Juro, y me resuelvo a guardar tus justas disposiciones.
 
-y en lo íntimo del mío
+[107](#c118-v107){:#c118-v107} [[1236]](#n-1236){:#rn-1236} Abatido estoy en gran manera, oh Yahvé; dame vida según tu palabra.
 
-me haces conocer la sabiduría.
+[108](#c118-v108){:#c118-v108} [[1237]](#n-1237){:#rn-1237} Te sea grata, Yahvé, la ofrenda de mis labios, y enséñame tus designios.
 
-9[4657]Rocíame con hisopo,
+[109](#c118-v109){:#c118-v109} [[1238]](#n-1238){:#rn-1238} Tengo constantemente mi vida en la mano, pero tu Ley no se aparta de mi memoria.
 
-y seré limpio;
+[110](#c118-v110){:#c118-v110} [[1239]](#n-1239){:#rn-1239} Los malvados me tendieron un lazo, mas yo no me desvié de tus preceptos.
 
-lávame Tú,
+[111](#c118-v111){:#c118-v111} [[1240]](#n-1240){:#rn-1240} Tus decretos son mi herencia para siempre, porque constituyen la alegría de mi corazón.
 
-y quedaré más blanco que la nieve.
+[112](#c118-v112){:#c118-v112} [[1241]](#n-1241){:#rn-1241} He inclinado mi corazón a cumplir tus estatutos, para siempre, hasta el fin. SAMEC.
 
-10[4658]Hazme oír tu palabra
+[113](#c118-v113){:#c118-v113} [[1242]](#n-1242){:#rn-1242} Aborrezco a los de corazón doble y amo tu Ley.
 
-de gozo y de alegría,
+[114](#c118-v114){:#c118-v114} Mi protector y mi escudo eres Tú; mi esperanza está en tu palabra.
 
-y saltarán de felicidad estos huesos
+[115](#c118-v115){:#c118-v115} [[1243]](#n-1243){:#rn-1243} Alejaos de mí los malvados; yo escrutaré las disposiciones de mi Dios.
 
-que has quebrantado.
+[116](#c118-v116){:#c118-v116} Sosténme, como lo tienes prometido, y viviré; no desalientes mi esperanza.
 
-11[4659]Aparta tu rostro, de mis pecados,
+[117](#c118-v117){:#c118-v117} [[1244]](#n-1244){:#rn-1244} Sé mi apoyo para que sea salvo y tenga constantemente mis ojos en tus decretos.
 
-y borra todas mis culpas.
+[118](#c118-v118){:#c118-v118} Tú desprecias a cuantos se apartan de tus órdenes, pues su pensamiento es engañoso.
 
-12[4660]Crea en mí, oh Dios,
+[119](#c118-v119){:#c118-v119} [[1245]](#n-1245){:#rn-1245} Yo tengo por escoria a todos los impíos de la tierra; por esto amo tus enseñanzas.
 
-un corazón sencillo,
+[120](#c118-v120){:#c118-v120} [[1246]](#n-1246){:#rn-1246} Ante Ti se estremece de temor mi carne; tus juicios me llenan de espanto. AYIN.
 
-y renueva en mi interior
+[121](#c118-v121){:#c118-v121} He abrazado la rectitud y la justicia, no me entregues en manos de mis opresores.
 
-un espíritu recto.
+[122](#c118-v122){:#c118-v122} [[1247]](#n-1247){:#rn-1247} Responde Tú del bien por tu siervo, no sea que me opriman los infatuados.
 
-13[4661]No me rechaces de tu presencia,
+[123](#c118-v123){:#c118-v123} [[1248]](#n-1248){:#rn-1248} Mis ojos desfallecen de tanto desear tu salvación y la promesa de liberación.
 
-y no me quites el espíritu de tu santidad.
+[124](#c118-v124){:#c118-v124} Haz con tu siervo según tu benignidad, e instrúyeme en tus enseñanzas.
 
-14[4662]Devuélveme la alegría de tu salud;
+[125](#c118-v125){:#c118-v125} Siervo tuyo soy; dame inteligencia, a fin de que comprenda tus testimonios.
 
-confírmame en un espíritu de príncipe.
+[126](#c118-v126){:#c118-v126} [[1249]](#n-1249){:#rn-1249} Tiempo es ya de obrar, oh Yahvé; han hecho escarnio de tu Ley.
 
-15[4663]Enseñaré a los malos tus caminos;
+[127](#c118-v127){:#c118-v127} Por eso amo yo tus mandamientos, por sobre el oro, aun el más puro.
 
-y los pecadores se convertirán a Ti.
+[128](#c118-v128){:#c118-v128} [[1250]](#n-1250){:#rn-1250} Por eso he escogido para mí todos tus preceptos, y odio todo camino de impostura. PE.
 
-16[4664]Líbrame de la sangre,
+[129](#c118-v129){:#c118-v129} [[1251]](#n-1251){:#rn-1251} Tus prescripciones son maravillas; por eso mi alma las observa.
 
-oh Dios, Dios Salvador mío,
+[130](#c118-v130){:#c118-v130} [[1252]](#n-1252){:#rn-1252} La explicación de tus palabras ilumina, a los simples les da inteligencia.
 
-y vibre mi lengua de exultación
+[131](#c118-v131){:#c118-v131} [[1253]](#n-1253){:#rn-1253} Abro mi boca y suspiro, ansioso de tus órdenes.
 
-por tu justicia.
+[132](#c118-v132){:#c118-v132} Vuélvete hacia mí y seme propicio, como lo haces con los que aman tu Nombre.
 
-17[4665]Abre Tú mis labios, oh Señor,
+[133](#c118-v133){:#c118-v133} [[1254]](#n-1254){:#rn-1254} Dirige mis pasos mediante tus palabras, para que no reine en mí injusticia alguna.
 
-y mi boca publicará tus alabanzas,
+[134](#c118-v134){:#c118-v134} [[1255]](#n-1255){:#rn-1255} Rescátame de la opresión de los hombres, y seré obediente a tus preceptos.
 
-18[4666]pues los sacrificios no te agradan,
+[135](#c118-v135){:#c118-v135} Muestra a tu siervo tu Rostro sereno, y enséñame tus designios.
 
-y si te ofreciera un holocausto
+[136](#c118-v136){:#c118-v136} [[1256]](#n-1256){:#rn-1256} Ríos de agua han corrido de mis ojos, porque tu Ley no es observada. SADE.
 
-no lo aceptarías.
+[137](#c118-v137){:#c118-v137} Tú eres justo, Yahvé, y tu juicio es recto.
 
-19[4667]Mi sacrificio, oh Dios,
+[138](#c118-v138){:#c118-v138} [[1257]](#n-1257){:#rn-1257} Con justicia has impuesto tus preceptos, y con gran benignidad.
 
-es el espíritu compungido;
+[139](#c118-v139){:#c118-v139} [[1258]](#n-1258){:#rn-1258} Mi celo me consume, porque mis adversarios olvidan tus palabras.
 
-Tú no despreciarás, Señor,
+[140](#c118-v140){:#c118-v140} [[1259]](#n-1259){:#rn-1259} Acendrada en extremo es tu palabra, y tu siervo la ama.
 
-un corazón contrito [y humillado].
+[141](#c118-v141){:#c118-v141} [[1260]](#n-1260){:#rn-1260} Yo soy pequeño, soy despreciado, mas no olvido tus preceptos.
 
-20[4668]Por tu misericordia, Señor,
+[142](#c118-v142){:#c118-v142} Tu justicia es justicia eterna, y tu Ley es la verdad.
 
-obra benignamente con Sión;
+[143](#c118-v143){:#c118-v143} Angustia y tribulación vinieron sobre mí, mas tus sentencias son mis delicias.
 
-reconstruye los muros de Jerusalén.
+[144](#c118-v144){:#c118-v144} [[1261]](#n-1261){:#rn-1261} La justicia de tus decretos es eterna; instrúyeme en ellos y viviré. QOF.
 
-21Entonces te agradarán los sacrificios legales,
+[145](#c118-v145){:#c118-v145} [[1262]](#n-1262){:#rn-1262} Clamo con todo mi corazón; escúchame, Yahvé; quiero obedecer tus voluntades.
 
-[las oblaciones y los holocaustos];
+[146](#c118-v146){:#c118-v146} Te he llamado; sálvame Tú, y cumpliré tus preceptos.
 
-entonces se ofrecerán becerros sobre tu altar.
+[147](#c118-v147){:#c118-v147} [[1263]](#n-1263){:#rn-1263} Me anticipo a la aurora y grito, pues tengo mi esperanza en tus palabras.
 
-SALMO 51 (52)
-Contra la lengua intrigante y prepotente
+[148](#c118-v148){:#c118-v148} Mis ojos se adelantan a las vigilias de la noche, para meditar tu palabra.
 
-1[4669]Al maestro de coro. Maskil de David.
+[149](#c118-v149){:#c118-v149} Oh Yahvé, escucha mi voz según tu misericordia, y vivifícame conforme a tu justificación.
 
-2Cuando Doeg, el idumeo, fue a decir a Saúl: “David ha entrado en la casa de Aquimelec.”
+[150](#c118-v150){:#c118-v150} Se acercan los que me persiguen inicuamente, los que se alejan de tu Ley.
 
-3[4670] ¿Cómo haces alarde de maldad,
+[151](#c118-v151){:#c118-v151} Tú, Yahvé, estás cerca; y todos tus caminos son verdad.
 
-oh prepotente, contra el justo?
+[152](#c118-v152){:#c118-v152} Desde antiguo tus preceptos me enseñaron que los estableciste para siempre. RESCH.
 
-¡En todo tiempo hay Dios!
+[153](#c118-v153){:#c118-v153} [[1264]](#n-1264){:#rn-1264} Mira mi aflicción y líbrame, pues no me he olvidado de tu Ley.
 
-4Tu lengua, maquinando ruinas,
+[154](#c118-v154){:#c118-v154} [[1265]](#n-1265){:#rn-1265} Defiende Tú mi causa y rescátame, guarda mi vida, conforme a tu promesa.
 
-es como afilada navaja, oh artífice del dolo.
+[155](#c118-v155){:#c118-v155} [[1266]](#n-1266){:#rn-1266} Lejos está de los impíos la salvación, porque no se interesan por tus disposiciones.
 
-5Prefieres el mal al bien
+[156](#c118-v156){:#c118-v156} [[1267]](#n-1267){:#rn-1267} Tus misericordias son muchas, oh Yahvé, otórgame vida según tus designios.
 
-y la falsedad al lenguaje sincero.
+[157](#c118-v157){:#c118-v157} Muchos me persiguen y me atribulan, pero yo no me aparto de tus preceptos.
 
-6Amas todas las palabras que hieren,
+[158](#c118-v158){:#c118-v158} [[1268]](#n-1268){:#rn-1268} A la vista de los impostores tuve asco; ellos no hacían caso de tus palabras.
 
-lengua pérfida.
+[159](#c118-v159){:#c118-v159} Mira, Yahvé, que yo amo tus preceptos; por tu misericordia, consérvame la vida.
 
-7Por eso Dios te destruirá;
+[160](#c118-v160){:#c118-v160} [[1269]](#n-1269){:#rn-1269} La suma de tu palabra es la verdad, y eternos son todos los decretos de tu justicia. SIN.
 
-te quitará de en medio para siempre;
+[161](#c118-v161){:#c118-v161} [[1270]](#n-1270){:#rn-1270} Me persiguen sin causa los que tienen poder; pero mi corazón teme a tus palabras.
 
-te arrojará de tu tienda
+[162](#c118-v162){:#c118-v162} [[1271]](#n-1271){:#rn-1271} Y tus oráculos me alegran tanto como quien halla copioso botín.
 
-y te arrancará de la tierra de los vivientes.
+[163](#c118-v163){:#c118-v163} Odio la falsedad y le tengo horror; pero tu Ley la amo.
 
-8Al ver esto los justos temerán,
+[164](#c118-v164){:#c118-v164} [[1272]](#n-1272){:#rn-1272} Siete veces al día te digo mi alabanza por tus justos juicios.
 
-y se reirán (diciendo):
+[165](#c118-v165){:#c118-v165} [[1273]](#n-1273){:#rn-1273} Mucha es la paz de los que aman tu Ley; para ellos no hay piedra de escándalo.
 
-9[4671] “He aquí el hombre
+[166](#c118-v166){:#c118-v166} Aguardo, Yahvé, tu socorro, mientras practico tus mandamientos.
 
-que no hizo de Dios su baluarte,
+[167](#c118-v167){:#c118-v167} [[1274]](#n-1274){:#rn-1274} Mi alma conserva tus enseñanzas, y las ama sin medida.
 
-sino que confió
+[168](#c118-v168){:#c118-v168} [[1275]](#n-1275){:#rn-1275} Sigo tus preceptos y disposiciones, porque Tú tienes en vista todos mis caminos. TAU.
 
-en la multitud de sus riquezas
+[169](#c118-v169){:#c118-v169} [[1276]](#n-1276){:#rn-1276} Llegue a Ti, Yahvé, mi clamor, adiéstrame según tu palabra.
 
-y llegó a ser poderoso por sus crímenes.”
+[170](#c118-v170){:#c118-v170} Penetre mi súplica hasta llegar a Ti, y líbrame conforme a tu palabra.
 
-10[4672]Mas yo, como olivo lozano
+[171](#c118-v171){:#c118-v171} [[1277]](#n-1277){:#rn-1277} Un himno brotará de mis labios cuando Tú me hayas enseñado tus justificaciones.
 
-en la casa de Dios,
+[172](#c118-v172){:#c118-v172} Cante mi lengua tu palabra, porque todos tus preceptos son justos.
 
-confío en la bondad divina para siempre.
+[173](#c118-v173){:#c118-v173} [[1278]](#n-1278){:#rn-1278} Que tu mano esté cerca para ayudarme, pues he preferido tus mandamientos.
 
-11[4673]Por los siglos te alabaré porque obraste,
+[174](#c118-v174){:#c118-v174} [[1279]](#n-1279){:#rn-1279} Ansío la salud que de Ti viene, oh Yahvé, y en tu Ley he puesto mis delicias.
 
-y proclamaré tu Nombre porque es bueno,
+[175](#c118-v175){:#c118-v175} [[1280]](#n-1280){:#rn-1280} Viva, pues, mi alma para alabarte, y tus decretos sean mi apoyo.
 
-a la vista de tus santos.
+[176](#c118-v176){:#c118-v176} [[1281]](#n-1281){:#rn-1281} Si me he descarriado, busca Tú a tú siervo como oveja perdida, porque no me he olvidado de tus leyes. 
 
-SALMO 52 (53)
-Confusión de los impostores
+### Salmo [119 (120)](#c119) {#c119}
 
-1[4674]Al maestro de coro. Según Mahalat. Maskil de David.
+### Contra la lengua calumniadora 
 
-2El insensato dice en su corazón:
+[1](#c119-v1){:#c119-v1} [[1282]](#n-1282){:#rn-1282} Cántico gradual. A Yahvé clamé en medio de mi tribulación y Él me escuchó.
 
-“No hay Dios.”
+[2](#c119-v2){:#c119-v2} Yahvé, libra mi alma del labio engañoso, de la lengua astuta.
 
-Se han pervertido;
+[3](#c119-v3){:#c119-v3} [[1283]](#n-1283){:#rn-1283} ¿Qué te dará o qué te añadirá (Yahvé), oh lengua astuta?
 
-su conducta es abominable;
+[4](#c119-v4){:#c119-v4} Saetas de un potente aguzadas en ascuas de retama.
 
-ni uno solo obra bien.
+[5](#c119-v5){:#c119-v5} [[1284]](#n-1284){:#rn-1284} ¡Ay de mí, advenedizo en Mósoc, alojado en las tiendas de Cedar!
 
-3Yahvé mira desde el cielo
+[6](#c119-v6){:#c119-v6} Demasiado tiempo ha habitado mi alma entre los que odian la paz.
 
-a los hijos de los hombres,
+[7](#c119-v7){:#c119-v7} [[1285]](#n-1285){:#rn-1285} Yo soy hombre de paz; apenas hablo, y ellos mueven la guerra. 
 
-para ver si hay quien sea inteligente
+### Salmo [120 (121)](#c120) {#c120}
 
-y busque a Dios.
+### El custodio de Israel 
 
-4Pero se han extraviado todos juntos
+[1](#c120-v1){:#c120-v1} [[1286]](#n-1286){:#rn-1286} Cántico gradual. Alzo mis ojos hacia los montes: ¿De dónde me vendrá el socorro?
 
-y todos se han depravado.
+[2](#c120-v2){:#c120-v2} Mi socorro viene de Yahvé que creó el cielo y la tierra.
 
-No hay uno que obre el bien,
+[3](#c120-v3){:#c120-v3} [[1287]](#n-1287){:#rn-1287} ¿Permitirá Él que resbale tu pie? ¿O se dormirá el que te guarda?
 
-ni uno siquiera.
+[4](#c120-v4){:#c120-v4} No por cierto: no dormirá, ni siquiera dormitará, el Custodio de Israel.
 
-5[4675]¡Nunca entenderán esos malhechores,
+[5](#c120-v5){:#c120-v5} [[1288]](#n-1288){:#rn-1288} Es Yahvé quien te custodia; Yahvé es tu umbráculo y se mantiene a tu derecha.
 
-que devoran a mi pueblo, como comen pan,
+[6](#c120-v6){:#c120-v6} De día no te dañará el sol, ni de noche la luna.
 
-sin cuidarse de Dios para nada!
+[7](#c120-v7){:#c120-v7} Presérvete Yahvé de todo mal; Él guarde tu alma.
 
-6[4676]He aquí que tiemblan de miedo
+[8](#c120-v8){:#c120-v8} [[1289]](#n-1289){:#rn-1289} Yahvé custodiará tu salida y tu llegada, ahora y para siempre. 
 
-donde no hay que temer;
+### Salmo [121 (122)](#c121) {#c121}
 
-porque Dios ha dispersado los huesos
+### Cántico de los peregrinos 
 
-de los que te esquilmaban;
+[1](#c121-v1){:#c121-v1} [[1290]](#n-1290){:#rn-1290} Cántico gradual. De David. Me llené de gozo cuando me dijeron: "Iremos a la Casa de Yahvé."
 
-están desconcertados porque Dios los rechazó.
+[2](#c121-v2){:#c121-v2} Ya se posan nuestros pies ante tus puertas, ¡oh Jerusalén!
 
-7[4677]¡Oh, venga ya de Sión la salud de Israel!
+[3](#c121-v3){:#c121-v3} [[1291]](#n-1291){:#rn-1291} Jerusalén, que estás edificada, como la ciudad cuya comunidad le está bien unida.
 
-Cuando Yahvé cambie
+[4](#c121-v4){:#c121-v4} [[1292]](#n-1292){:#rn-1292} Allá suben las tribus, las tribus de Yah; es ley para Israel celebrar allí el Nombre de Yahvé.
 
-la suerte de su pueblo,
+[5](#c121-v5){:#c121-v5} [[1293]](#n-1293){:#rn-1293} Allí se han establecido los tronos para el juicio, los tronos de la casa de David.
 
-saltará de gozo Jacob,
+[6](#c121-v6){:#c121-v6} [[1294]](#n-1294){:#rn-1294} Saludad a Jerusalén: "Gocen de seguridad los que te aman;
 
-e Israel de alegría.
+[7](#c121-v7){:#c121-v7} reine la paz dentro de tus muros, la felicidad en tus palacios."
 
-SALMO 53 (54)
-Fidelidad con que Dios nos escucha
+[8](#c121-v8){:#c121-v8} Por amor a mis hermanos y amigos exclamo: Paz sobre ti.
 
-1[4678]Al maestro de coro. Para instrumentos de cuerda. Maskil de David.
+[9](#c121-v9){:#c121-v9} [[1295]](#n-1295){:#rn-1295} A causa del Templo de Yahvé nuestro Dios te auguro todo bien. 
 
-2[4679]Cuando los cifeos fueron a decirle a Saúl: “Mira, David está escondido entre nosotros.”
+### Salmo [122 (123)](#c122) {#c122}
 
-3Sálvame, oh Dios, por tu Nombre,
+### Los ojos fijos en Dios 
 
-y defiende mi causa con tu poder.
+[1](#c122-v1){:#c122-v1} [[1296]](#n-1296){:#rn-1296} Cántico gradual. Levanto mis ojos a Ti que habitas en los cielos.
 
-4Escucha mi oración, oh Dios,
+[2](#c122-v2){:#c122-v2} [[1297]](#n-1297){:#rn-1297} Como los ojos de los siervos están fijos en las manos de sus señores; como los ojos de la sierva en las manos de su señora, así nuestros ojos están fijos en Yahvé nuestro Dios, hasta que se apiade de nosotros.
 
-presta oído a las palabras de mi boca.
+[3](#c122-v3){:#c122-v3} Apiádate, Yahvé, senos propicio, porque estamos colmados de desprecio.
 
-5[4680]Porque soberbios
+[4](#c122-v4){:#c122-v4} Nuestra alma está muy harta del escarnio de los saciados, del oprobio de los soberbios. 
 
-se han levantado contra mí;
+### Salmo [123 (124)](#c123) {#c123}
 
-y hombres violentos
+### El lazo roto 
 
-buscan mi vida,
+[1](#c123-v1){:#c123-v1} [[1298]](#n-1298){:#rn-1298} Cántico gradual. De David. Si Yahvé no hubiera estado con nosotros —dígalo ahora Israel—
 
-sin tener en cuenta
+[2](#c123-v2){:#c123-v2} si no hubiera estado Yahvé de nuestra parte cuando los hombres se levantaron contra nosotros,
 
-a Dios para nada.
+[3](#c123-v3){:#c123-v3} nos habrían tragado vivos al inflamarse contra nosotros su furor;
 
-6[4681]Mirad, ya viene Dios en mi socorro;
+[4](#c123-v4){:#c123-v4} entonces nos habrían sumergido las aguas, el torrente habría pasado sobre nosotros
 
-el Señor sostiene mi vida.
+[5](#c123-v5){:#c123-v5} [[1299]](#n-1299){:#rn-1299} y nuestra alma habría caído bajo las aguas tumultuosas.
 
-7Haz rebotar el mal contra mis adversarios,
+[6](#c123-v6){:#c123-v6} Bendito sea Yahvé que no nos dio por presa de sus dientes.
 
-y según tu fidelidad, destrúyelos.
+[7](#c123-v7){:#c123-v7} [[1300]](#n-1300){:#rn-1300} Nuestra vida escapó como un pájaro del lazo de los cazadores. El lazo se ha roto y hemos quedado libres.
 
-8[4682]Te ofreceré sacrificios voluntarios;
+[8](#c123-v8){:#c123-v8} [[1301]](#n-1301){:#rn-1301} Nuestro socorro está en el Nombre de Yahvé, el que hizo el cielo y la tierra. 
 
-ensalzaré, oh Yahvé, tu Nombre,
+### Salmo [124 (125)](#c124) {#c124}
 
-porque es bueno.
+### Firmeza del monte Sión 
 
-9Pues me libró de toda tribulación,
+[1](#c124-v1){:#c124-v1} [[1302]](#n-1302){:#rn-1302} Cántico gradual. Los que confían en Yahvé son como el monte Sión, que no será conmovido y permanecerá eternamente.
 
-y mis ojos han visto
+[2](#c124-v2){:#c124-v2} [[1303]](#n-1303){:#rn-1303} Como Jerusalén está rodeada de montes, así Yahvé rodea a su pueblo, ahora y para siempre.
 
-a mis enemigos confundidos.
+[3](#c124-v3){:#c124-v3} [[1304]](#n-1304){:#rn-1304} No permanecerá, pues, el cetro de los impíos sobre la heredad de los justos; no sea que también los justos extiendan sus manos hacia la iniquidad.
 
-SALMO 54 (55)
-Ansias de huir a la soledad
+[4](#c124-v4){:#c124-v4} Oh Yahvé, derrama tus favores sobre los buenos y rectos de corazón.
 
-1[4683]Al maestro de coro. Para instrumentos de cuerda. Maskil de David.
+[5](#c124-v5){:#c124-v5} Pero a los que se desvían por senderos tortuosos échelos Yahvé con los obradores de iniquidad. ¡Paz sobre Israel! 
 
-2Escucha oh Dios, mi oración,
+### Salmo [125 (126)](#c125) {#c125}
 
-y no te escondas de mi súplica.
+### Oración por la plena restauración del pueblo 
 
-3[4684]Atiéndeme, inclina tu oído.
+[1](#c125-v1){:#c125-v1} [[1305]](#n-1305){:#rn-1305} Cántico gradual. Cuando Yahvé trajo de nuevo a los cautivos de Sión, fue para nosotros como un sueño.
 
-Vago gimiendo y sobresaltado
+[2](#c125-v2){:#c125-v2} [[1306]](#n-1306){:#rn-1306} Se llenó nuestra boca de risas, y nuestra lengua de exultación. Entonces dijeron entre los gentiles: "Es grande lo que Yahvé ha hecho por ellos."
 
-[y estoy turbado]
+[3](#c125-v3){:#c125-v3} [[1307]](#n-1307){:#rn-1307} Sí, Yahvé ha obrado con magnificencia en favor nuestro; por eso nos llenamos de gozo.
 
-4[4685]ante las amenazas del enemigo
+[4](#c125-v4){:#c125-v4} [[1308]](#n-1308){:#rn-1308} Oh Yahvé, cambia nuestro destino como los torrentes en el Négueb.
 
-y la opresión del inicuo;
+[5](#c125-v5){:#c125-v5} Los que siembran con lágrimas segaran con júbilo.
 
-se acumulan calamidades sobre mí
+[6](#c125-v6){:#c125-v6} [[1309]](#n-1309){:#rn-1309} Yendo, iban llorosos, llevando la semilla para la siembra; volviendo, vendrán con exultación, trayendo sus gavillas. 
 
-y me asaltan con furor.
+### Salmo [126 (127)](#c126) {#c126}
 
-5El corazón tiembla en mi pecho,
+### El esfuerzo humano y el regalo divino 
 
-y me acometen mortales angustias.
+[1](#c126-v1){:#c126-v1} [[1310]](#n-1310){:#rn-1310} Cántico gradual. De Salomón. Si Yahvé no edifica la casa, en vano trabajan los que la construyen. Si Yahvé no guarda la ciudad, el centinela se desvela en vano.
 
-6El temor y el terror me invaden,
+[2](#c126-v2){:#c126-v2} [[1311]](#n-1311){:#rn-1311} Vano es que os levantéis antes del alba, que os recojáis tarde a descansar, que comáis pan de dolores; porque Él regala a sus amigos (aun) durante el sueño.
 
-y me envuelve el espanto.
+[3](#c126-v3){:#c126-v3} [[1312]](#n-1312){:#rn-1312} Vedlo: don de Yahvé son los hijos, el fruto del seno es un regalo.
 
-7[4686]Y exclamo: “¡Oh si tuviera yo alas
+[4](#c126-v4){:#c126-v4} Como flechas en manos del guerrero, así son los hijos de la juventud.
 
-como la paloma
+[5](#c126-v5){:#c126-v5} Dichoso el varón que tiene su aljaba llena de ellos; no será confundido cuando, en la puerta, litigue con sus adversarios. 
 
-para volar en busca de reposo!”
+### Salmo [127 (128)](#c127) {#c127}
 
-8Me iría bien lejos a morar en el desierto.
+### El justo bendecido en su hogar 
 
-9Me escaparía al instante
+[1](#c127-v1){:#c127-v1} [[1313]](#n-1313){:#rn-1313} Cántico gradual. Dichoso tú que temes a Yahvé, que andas en sus caminos.
 
-del torbellino y de la tempestad.
+[2](#c127-v2){:#c127-v2} Pues comerás del trabajo de tus manos; serás bendito, te irá bien:
 
-10[4687]Piérdelos, Señor; divide sus lenguas,
+[3](#c127-v3){:#c127-v3} tu esposa, parra fecunda en el interior de tu casa; tus hijos, retoños de olivo alrededor de tu mesa.
 
-pues en la ciudad
+[4](#c127-v4){:#c127-v4} Así será bendecido el hombre que teme a Yahvé.
 
-veo la violencia y la discordia
+[5](#c127-v5){:#c127-v5} [[1314]](#n-1314){:#rn-1314} Te bendiga Yahvé desde Sión, para que veas la prosperidad de Jerusalén todos los días de tu vida;
 
-11[4688]rondar día y noche sobre sus muros;
+[6](#c127-v6){:#c127-v6} para que veas a los hijos de tus hijos. ¡Paz sobre Israel! 
 
-y en su interior hay opresión y ruina.
+### Salmo [128 (129)](#c128) {#c128}
 
-12La insidia impera en medio de ella,
+### Contra los enemigos de Israel 
 
-y de sus plazas no se apartan
+[1](#c128-v1){:#c128-v1} [[1315]](#n-1315){:#rn-1315} Cántico gradual. Mucho me han combatido desde mi mocedad, exclame ahora Israel;
 
-la injuria y el engaño.
+[2](#c128-v2){:#c128-v2} [[1316]](#n-1316){:#rn-1316} mucho me combatieron desde mi mocedad, mas no concluyeron conmigo.
 
-13Si me insultara un enemigo,
+[3](#c128-v3){:#c128-v3} Sobre mis espaldas araron los aradores; abrieron largos surcos;
 
-lo soportaría;
+[4](#c128-v4){:#c128-v4} [[1317]](#n-1317){:#rn-1317} mas Yahvé, el Justo, ha cortado las coyundas de los impíos.
 
-si el que me odia
+[5](#c128-v5){:#c128-v5} [[1318]](#n-1318){:#rn-1318} Retrocedan confundidos cuantos odian a Sión.
 
-se hubiese levantado contra mí,
+[6](#c128-v6){:#c128-v6} [[1319]](#n-1319){:#rn-1319} Sean como la hierba de los tejados, que se seca antes de crecer.
 
-me escondería de él simplemente.
+[7](#c128-v7){:#c128-v7} No llena de ella su mano el segador, ni su regazo el que hace gavillas.
 
-14[4689]Pero eres tú, mi compañero,
+[8](#c128-v8){:#c128-v8} [[1320]](#n-1320){:#rn-1320} No dicen los transeúntes: "La bendición de Yahvé sea sobre vosotros." "Os bendecimos en el Nombre de Yahvé." 
 
-mi amigo y mi confidente,
+### Salmo [129 (130)](#c129) {#c129}
 
-15con quien vivía yo en dulce intimidad,
+### "De profundis" 
 
-y subíamos en alegre consorcio
+[1](#c129-v1){:#c129-v1} [[1321]](#n-1321){:#rn-1321} Cántico gradual. Desde lo más profundo clamo a Ti, Yahvé,
 
-a la casa de Dios.
+[2](#c129-v2){:#c129-v2} Señor, oye mi voz. Estén tus oídos atentos al grito de mi súplica.
 
-16[4690]Sorpréndalos la muerte;
+[3](#c129-v3){:#c129-v3} [[1322]](#n-1322){:#rn-1322} Si Tú recordaras las iniquidades, oh Yah, Señor ¿quién quedaría en pie?
 
-vivos aún desciendan al sepulcro,
+[4](#c129-v4){:#c129-v4} [[1323]](#n-1323){:#rn-1323} Mas en Ti esta el perdón de los pecados, a fin de que se te venere.
 
-porque la maldad reina en sus moradas
+[5](#c129-v5){:#c129-v5} [[1324]](#n-1324){:#rn-1324} Espero en Yahvé, mi alma confía en su palabra. Aguardando está
 
-[y en ellos mismos].
+[6](#c129-v6){:#c129-v6} [[1325]](#n-1325){:#rn-1325} mi alma al Señor, más que los centinelas el alba. Más que los centinelas con la aurora
 
-17Mas yo clamaré a Dios,
+[7](#c129-v7){:#c129-v7} [[1326]](#n-1326){:#rn-1326} cuenta Israel con Yahvé, porque en Yahvé está la misericordia, y con Él copiosa redención.
 
-y Yahvé me salvará.
+[8](#c129-v8){:#c129-v8} Y Él mismo redimirá a Israel de todas sus iniquidades. 
 
-18[4691]Me lamentaré y lloraré
+### Salmo [130 (131)](#c130) {#c130}
 
-a la tarde, a la mañana, a mediodía,
+### Infancia espiritual 
 
-y Él oirá mi voz.
+[1](#c130-v1){:#c130-v1} [[1327]](#n-1327){:#rn-1327} Cántico gradual. De David. Yahvé, mi corazón (ya) no se engríe ni son altaneros mis ojos. No ando tras de grandezas ni en planes muy difíciles para mí;
 
-19Me sacará sano y salvo de los asaltos,
+[2](#c130-v2){:#c130-v2} [[1328]](#n-1328){:#rn-1328} lejos de eso, he hecho a mi alma quieta y apaciguada como un niño que se recuesta sobre el pecho de su madre; como ese niño, está mi alma en mí.
 
-aunque son muchos contra mí.
+[3](#c130-v3){:#c130-v3} [[1329]](#n-1329){:#rn-1329} Oh Israel, espera en Yahvé, desde ahora y para siempre. 
 
-20Me escuchará Dios y los humillará
+### Salmo [131 (132)](#c131) {#c131}
 
-Él, que es eternamente.
+### La promesa hecha a David 
 
-Porque no hay modo de convertirlos,
+[1](#c131-v1){:#c131-v1} [[1330]](#n-1330){:#rn-1330} Cántico gradual. Acuérdate, Yahvé, en favor de David, de toda su solicitud;
 
-y no temen a Dios.
+[2](#c131-v2){:#c131-v2} cómo juró a Yahvé, e hizo al Fuerte de Jacob este voto:
 
-21Cada cual levanta su mano
+[3](#c131-v3){:#c131-v3} "No entraré yo a morar en mi casa, ni subiré al estrado de mi lecho;
 
-contra el amigo,
+[4](#c131-v4){:#c131-v4} no concederé sueño a mis ojos ni descanso a mis párpados,
 
-y violan la fe jurada.
+[5](#c131-v5){:#c131-v5} hasta que halle un sitio para Yahvé, una morada para el Fuerte de Jacob."
 
-22[4692]Más blando que manteca es su rostro,
+[6](#c131-v6){:#c131-v6} [[1331]](#n-1331){:#rn-1331} He aquí que le oímos mencionar en Efrata, encontrámosle en los campos de Yáar.
 
-pero su corazón es feroz;
+[7](#c131-v7){:#c131-v7} Entrábamos en la morada, para postrarnos ante el escabel de sus pies.
 
-sus palabras, más untuosas que el aceite,
+[8](#c131-v8){:#c131-v8} [[1332]](#n-1332){:#rn-1332} Oh Yahvé, sube a tu mansión estable, Tú y el Arca de tu majestad.
 
-son espadas desnudas.
+[9](#c131-v9){:#c131-v9} Revístanse de justicia tus sacerdotes y tus santos rebosen de exultación.
 
-23[4693]Deja tu cuidado a cargo de Yahvé,
+[10](#c131-v10){:#c131-v10} [[1333]](#n-1333){:#rn-1333} Por amor de David tu siervo no rechaces el rostro de tu ungido.
 
-y El te sostendrá.
+[11](#c131-v11){:#c131-v11} [[1334]](#n-1334){:#rn-1334} Yahvé juró a David una firme promesa que no retractará: "Vástago de tu raza pondré sobre tu trono.
 
-Nunca permitirá que el justo caiga;
+[12](#c131-v12){:#c131-v12} [[1335]](#n-1335){:#rn-1335} Si tus hijos guardaren mi alianza, y los mandamientos que Yo les enseñare, también los hijos de ellos se sentarán sobre tu trono perpetuamente."
 
-24mas a ellos, oh Dios,
+[13](#c131-v13){:#c131-v13} [[1336]](#n-1336){:#rn-1336} Porque Yahvé escogió a Sión; la ha querido para morada suya:
 
-los harás descender a la fosa.
+[14](#c131-v14){:#c131-v14} [[1337]](#n-1337){:#rn-1337} "Este es mi reposo para siempre; aquí habitaré porque la he elegido.
 
-No llegarán a la mitad de sus días
+[15](#c131-v15){:#c131-v15} [[1338]](#n-1338){:#rn-1338} Colmaré su mesa de bendiciones, saciaré de pan a sus pobres.
 
-esos hombres sanguinarios y fraudulentos.
+[16](#c131-v16){:#c131-v16} [[1339]](#n-1339){:#rn-1339} A sus sacerdotes los vestiré de salud, y sus santos rebosarán de exultación.
 
-Yo, empero, pongo en Ti mi confianza, oh Señor.
+[17](#c131-v17){:#c131-v17} [[1340]](#n-1340){:#rn-1340} Allí haré reflorecer el cuerno de David, allí preparo una lámpara para mi ungido.
 
-SALMO 55 (56)
-Si Dios conmigo, ¿quién contra mí?
+[18](#c131-v18){:#c131-v18} A sus enemigos vestiré de confusión; mas sobre él refulgirá mi diadema." 
 
-1[4694]Al maestro de coro. Por el tono “Paloma silenciosa de la lejanía”. De David. Miktam. Cuando lo prendieron los filisteos en Qat.
+### Salmo [132 (133)](#c132) {#c132}
 
-2Apiádate de mí, oh Dios,
+### El rebaño reunido 
 
-porque el hombre me pisotea,
+[1](#c132-v1){:#c132-v1} [[1341]](#n-1341){:#rn-1341} Cántico gradual. De David. ¡Mirad cuan bueno es y cuan deleitoso para los hermanos el estar reunidos!
 
-me oprime con su ataque incesante.
+[2](#c132-v2){:#c132-v2} [[1342]](#n-1342){:#rn-1342} Es como el precioso ungüento sobre la cabeza, que desciende a la barba, la barba de Aarón, y que baja hasta la orla de su vestido.
 
-3Todo el día
+[3](#c132-v3){:#c132-v3} [[1343]](#n-1343){:#rn-1343} Es como el rocío del Hermón, que desciende sobre el monte Sión. Porque allí Yahvé derrama bendición, vida para siempre. 
 
-tratan mis enemigos de devorarme,
+### Salmo [133 (134)](#c133) {#c133}
 
-y son muchos
+### Alabanza perpetua 
 
-los que me combaten... Oh Altísimo,
+[1](#c133-v1){:#c133-v1} [[1344]](#n-1344){:#rn-1344} Cántico gradual. Ea, bendecid a Yahvé, todos los siervos de Yahvé, los que estáis en la casa de Yahvé, en las horas de la noche.
 
-4[4695]el día en que me invada el temor,
+[2](#c133-v2){:#c133-v2} Alzad vuestras manos hacia el Santuario, y bendecid a Yahvé.
 
-confiaré en Ti.
+[3](#c133-v3){:#c133-v3} Desde Sión te bendiga Yahvé, el que hizo el cielo y la tierra. 
 
-5[4696]Me gloriaré en la promesa de Dios,
+### Salmo [134 (135)](#c134) {#c134}
 
-confiado en Dios no temo.
+### Alabanza de Israel a su Dios 
 
-¿Qué podrá contra mí un hombre de carne?
+[1](#c134-v1){:#c134-v1} [[1345]](#n-1345){:#rn-1345} ¡HalIelú Yah! Alabad el Nombre de Yahvé; alabadle vosotros, ciervos de Yahvé,
 
-6Siempre toman a mal mis palabras,
+[2](#c134-v2){:#c134-v2} los que estáis en la casa de Yahvé, en los atrios del Templo de nuestro Dios.
 
-todos sus pensamientos son para mi daño.
+[3](#c134-v3){:#c134-v3} Alabad a Yah porque es un Señor bueno; cantad salmos a su Nombre, porque es suave.
 
-7[4697]Se conjuran, ponen asechanzas,
+[4](#c134-v4){:#c134-v4} Porque Yah se eligió a Jacob, a Israel como su bien propio.
 
-observan mis pasos,
+[5](#c134-v5){:#c134-v5} Porque yo sé esto: que Yahvé es grande, y que nuestro Señor es más que todas las divinidades.
 
-buscando cómo quitarme la vida.
+[6](#c134-v6){:#c134-v6} [[1346]](#n-1346){:#rn-1346} Todo cuanto Yahvé quiere lo hace en el cielo y en la tierra, en el mar y en todos los abismos.
 
-8[4698]Devuélveles otro tanto por su iniquidad;
+[7](#c134-v7){:#c134-v7} [[1347]](#n-1347){:#rn-1347} Él trae las nubes desde el extremo de la tierra, hace la lluvia con los relámpagos, saca los vientos de sus depósitos.
 
-oh Dios, abate los pueblos en tu ira.
+[8](#c134-v8){:#c134-v8} [[1348]](#n-1348){:#rn-1348} Él hirió a los primogénitos de Egipto, desde el hombre hasta el ganado.
 
-9[4699]Tú cuentas los pasos de mi vida errante;
+[9](#c134-v9){:#c134-v9} [[1349]](#n-1349){:#rn-1349} Envió signos y prodigios a ti, oh Egipto, contra Faraón y contra todos sus vasallos.
 
-recoges mis lágrimas en tu redoma.
+[10](#c134-v10){:#c134-v10} [[1350]](#n-1350){:#rn-1350} Hirió a muchas naciones, y mató a reyes poderosos:
 
-¿No están acaso escritos en tu libro?
+[11](#c134-v11){:#c134-v11} [[1351]](#n-1351){:#rn-1351} a Sehón, rey de los amorreos; y a Og, rey de Basan, y a todos los reyes de Canaán.
 
-10[4700]Así pues mis enemigos retrocederán;
+[12](#c134-v12){:#c134-v12} Y dio en herencia la tierra de ellos, en herencia a Israel, su pueblo.
 
-cada vez que apelo a Ti
+[13](#c134-v13){:#c134-v13} [[1352]](#n-1352){:#rn-1352} Yahvé es tu Nombre para siempre; Yahvé, tu memorial de generación en generación;
 
-conozco que Dios está conmigo.
+[14](#c134-v14){:#c134-v14} pues Yahvé protege a su pueblo y tiene compasión de sus siervos.
 
-11Me gloriaré en la promesa de Dios,
+[15](#c134-v15){:#c134-v15} [[1353]](#n-1353){:#rn-1353} Los ídolos de los gentiles son plata y oro, hechuras de manos de hombre:
 
-12confiado en Dios no temo.
+[16](#c134-v16){:#c134-v16} tienen boca y no hablan; tienen ojos y no ven;
 
-¿Qué podrá contra mí
+[17](#c134-v17){:#c134-v17} tienen orejas y no oyen, y no hay aliento en su boca.
 
-un hombre de carne?
+[18](#c134-v18){:#c134-v18} [[1354]](#n-1354){:#rn-1354} Semejantes a ellos son quienes los hacen, quienquiera confía en ellos.
 
-13[4701]Te debo, oh Dios,
+[19](#c134-v19){:#c134-v19} [[1355]](#n-1355){:#rn-1355} Casa de Israel, bendecid a Yahvé; casa de Aarón, bendecid a Yahvé.
 
-los votos que te hice;
+[20](#c134-v20){:#c134-v20} Casa de Leví, bendecid a Yahvé, los que adoráis a Yahvé, bendecid a Yahvé.
 
-te ofreceré sacrificios de alabanza.
+[21](#c134-v21){:#c134-v21} [[1356]](#n-1356){:#rn-1356} Bendito sea Yahvé desde Sión, el que mora en Jerusalén. 
 
-14[4702]Pues Tú has librado
+### Salmo [135 (136)](#c135) {#c135}
 
-mi vida de la muerte,
+### Letanía de la misericordia 
 
-y mis pies de la caída,
+[1](#c135-v1){:#c135-v1} [[1357]](#n-1357){:#rn-1357} ¡Hallelú Yah! Alabad a Yahvé porque es bueno, porque su misericordia es para siempre.
 
-para que ande yo ante la faz de Dios
+[2](#c135-v2){:#c135-v2} Alabad al Dios de los dioses, porque su misericordia es para siempre.
 
-en la luz de los vivientes.
+[3](#c135-v3){:#c135-v3} Alabad al Señor de los señores, porque su misericordia es para siempre.
 
-SALMO 56 (57)
-Dios escucha la oración de Israel
+[4](#c135-v4){:#c135-v4} Al que, solo, obra grandes maravillas, porque su misericordia es para siempre.
 
-1[4703]Al maestro de coro. Por el tono de “No destruyas”. De David. Miktam. Cuando huyendo de Saúl, se refugió en una cueva.
+[5](#c135-v5){:#c135-v5} Al que creó los cielos con sabiduría, porque su misericordia es para siempre.
 
-2[4704]Ten piedad de mí, oh Dios,
+[6](#c135-v6){:#c135-v6} Al que afirmó la tierra sobre las aguas, porque su misericordia es para siempre.
 
-ten piedad de mí,
+[7](#c135-v7){:#c135-v7} Al que hizo los grandes luminares, porque su misericordia es para siempre;
 
-ya que a Ti se acoge mi alma.
+[8](#c135-v8){:#c135-v8} el sol para presidir el día, porque su misericordia es para siempre;
 
-A la sombra de tus alas me refugio
+[9](#c135-v9){:#c135-v9} [[1358]](#n-1358){:#rn-1358} la luna y las estrellas para presidir la noche, porque su misericordia es para siempre.
 
-hasta que pase la calamidad.
+[10](#c135-v10){:#c135-v10} Al que hirió a los egipcios en sus primogénitos, porque su misericordia es para siempre,
 
-3[4705]Clamo al Dios Altísimo,
+[11](#c135-v11){:#c135-v11} y sacó a Israel de en medio de ellos, porque su misericordia es para siempre;
 
-al Dios que es mi bienhechor.
+[12](#c135-v12){:#c135-v12} con mano fuerte y brazo extendido, porque su misericordia es para siempre.
 
-4[4706]Quiera El enviar del cielo
+[13](#c135-v13){:#c135-v13} Al que partió en dos el Mar Rojo, porque su misericordia es para siempre;
 
-a quien me salve;
+[14](#c135-v14){:#c135-v14} y llevó a Israel a cruzarlo en el medio, porque su misericordia es para siempre;
 
-entregue al oprobio
+[15](#c135-v15){:#c135-v15} y precipitó a Faraón y su ejército en el Mar Rojo, porque su misericordia es para siempre.
 
-a quienes me persiguen;
+[16](#c135-v16){:#c135-v16} Al que guió a su pueblo por el desierto, porque su misericordia es para siempre.
 
-mande Dios su misericordia y su fidelidad.
+[17](#c135-v17){:#c135-v17} Al que destrozó a grandes reyes, porque su misericordia es para siempre;
 
-5[4707]Yazgo en medio de leones,
+[18](#c135-v18){:#c135-v18} y mató a reyes poderosos, porque su misericordia es para siempre;
 
-que devoran con avidez
+[19](#c135-v19){:#c135-v19} a Sehón, rey de los amorreos, porque su misericordia es para siempre;
 
-a los hijos de los hombres.
+[20](#c135-v20){:#c135-v20} y a Og, rey de Basan, porque su misericordia es para siempre;
 
-Sus dientes son lanzas y saetas;
+[21](#c135-v21){:#c135-v21} [[1359]](#n-1359){:#rn-1359} y dio en herencia su tierra, porque su misericordia es para siempre;
 
-y su lengua, cortante espada.
+[22](#c135-v22){:#c135-v22} en herencia a Israel, su siervo, porque su misericordia es para siempre.
 
-6[4708]Muéstrate excelso,
+[23](#c135-v23){:#c135-v23} Al que en nuestro abatimiento se acordó de nosotros, porque su misericordia es para siempre;
 
-oh Dios, sobre los cielos;
+[24](#c135-v24){:#c135-v24} y nos libró de nuestros enemigos, porque su misericordia es para siempre.
 
-brille tu gloria sobre toda la tierra.
+[25](#c135-v25){:#c135-v25} Al que alimenta a toda carne, porque su misericordia es para siempre.
 
-7[4709]Tendieron una red a mis pasos,
+[26](#c135-v26){:#c135-v26} Alabad al Dios del cielo, porque su misericordia es para siempre. 
 
-deprimieron mi alma;
+### Salmo [136 (137)](#c136) {#c136}
 
-habían cavado una fosa delante de mí;
+### Imprecación contra Babilonia 
 
-han caído en ella.
+[1](#c136-v1){:#c136-v1} [[1360]](#n-1360){:#rn-1360} Junto a los ríos de Babilonia, allí nos sentábamos y llorábamos, acordándonos de Sión.
 
-8[4710]Mi corazón está pronto, oh Dios;
+[2](#c136-v2){:#c136-v2} En los sauces de aquella tierra colgábamos nuestras cítaras;
 
-firme está mi corazón;
+[3](#c136-v3){:#c136-v3} [[1361]](#n-1361){:#rn-1361} porque allí nuestros raptores nos pedían cánticos, y nuestros atormentadores alegría: "Cantadnos de los cantares de Sión."
 
-quiero cantar y entonar salmos.
+[4](#c136-v4){:#c136-v4} [[1362]](#n-1362){:#rn-1362} ¿Cómo cantar un cántico de Yahvé en tierra extraña?
 
-9[4711]Despierta, oh alma mía;
+[5](#c136-v5){:#c136-v5} Si yo te olvido, oh Jerusalén, olvídese de sí mi diestra.
 
-salterio y cítara despertaos;
+[6](#c136-v6){:#c136-v6} Péguese mi lengua a mi paladar, si no me acordare de ti; si no pusiese a Jerusalén por encima de toda alegría.
 
-despertaré a la aurora.
+[7](#c136-v7){:#c136-v7} [[1363]](#n-1363){:#rn-1363} Acuérdate, Yahvé, contra los hijos de Edom, del día de Jerusalén. Ellos decían: "¡Arrasad, arrasadla hasta los cimientos!"
 
-10Te alabaré, Señor,
+[8](#c136-v8){:#c136-v8} [[1364]](#n-1364){:#rn-1364} Hija de Babilonia, la devastada: dichoso aquel que ha de pagarte el precio de lo que nos hiciste.
 
-entre los pueblos,
+[9](#c136-v9){:#c136-v9} ¡Dichoso el que tomará tus pequeñuelos y los estrellará contra la peña! 
 
-te cantaré himnos
+### Salmo [137 (138)](#c137) {#c137}
 
-entre las naciones.
+### La alabanza de los reyes 
 
-11Porque tu misericordia
+[1](#c137-v1){:#c137-v1} [[1365]](#n-1365){:#rn-1365} De David. Quiero celebrarte, Yahvé, con todo mi corazón, porque oíste las palabras de mi boca; quiero cantarte delante de los reyes.
 
-es grande hasta el cielo,
+[2](#c137-v2){:#c137-v2} [[1366]](#n-1366){:#rn-1366} Me postraré ante tu santo Templo, y alabaré tu Nombre por tu misericordia y tu fidelidad; porque has engrandecido tu Palabra sobre todas las cosas.
 
-y tu fidelidad, hasta las nubes.
+[3](#c137-v3){:#c137-v3} [[1367]](#n-1367){:#rn-1367} El día en que (te) invoqué Tú me oíste y multiplicaste la fuerza en mi alma.
 
-12Muéstrate excelso,
+[4](#c137-v4){:#c137-v4} [[1368]](#n-1368){:#rn-1368} Te alabarán, Yahvé, todos los reyes de la tierra cuando hayan oído los oráculos de tu boca;
 
-oh Dios, sobre los cielos;
+[5](#c137-v5){:#c137-v5} [[1369]](#n-1369){:#rn-1369} y cantarán los caminos de Yahvé: "Grande es ciertamente la gloria de Yahvé.
 
-brille tu gloria sobre toda la tierra.
+[6](#c137-v6){:#c137-v6} Sí, Yahvé, siendo excelso, pone los ojos en el humilde y mira como lejos de sí al soberbio."
 
-SALMO 57 (58)
-Hay un Dios que juzga a los jueces
+[7](#c137-v7){:#c137-v7} Cuando camino en medio de la tribulación, Tú conservas mi vida; tiendes tu mano contra la ira de mis enemigos, y tu diestra me salva.
 
-1[4712]Al maestro de coro. Sobre el tono de “No destruyas”. De David. Miktam.
+[8](#c137-v8){:#c137-v8} [[1370]](#n-1370){:#rn-1370} Yahvé acabará para mí lo que ha comenzado. Yahvé, tu misericordia permanece eternamente; no abandones la obra de tus manos. 
 
-2[4713] ¿Es verdad que habláis justicia,
+### Salmo [138 (139)](#c138) {#c138}
 
-oh dioses?
+### Himno a la omnisciencia divina 
 
-¿Es verdad que juzgáis con rectitud
+[1](#c138-v1){:#c138-v1} [[1371]](#n-1371){:#rn-1371} Al maestro de coro. Salmo de David. Yahvé, Tú me penetras y me conoces.
 
-a los hijos de los hombres?
+[2](#c138-v2){:#c138-v2} Sabes cuando me siento y cuando me levanto; de lejos disciernes mis pensamientos.
 
-3[4714]No, en vuestro corazón
+[3](#c138-v3){:#c138-v3} Si ando y si descanso Tú lo percibes, y todos mis caminos te son familiares.
 
-os mueve la iniquidad,
+[4](#c138-v4){:#c138-v4} [[1372]](#n-1372){:#rn-1372} No está todavía en mi lengua la palabra, y Tú, Yahvé, ya la sabes toda.
 
-y vuestras manos venden al peso
+[5](#c138-v5){:#c138-v5} Tú me rodeas por detrás y por delante, y pones tu mano sobre mí.
 
-la violencia sobre la tierra.
+[6](#c138-v6){:#c138-v6} [[1373]](#n-1373){:#rn-1373} Maravillosa sobremanera es para mí tal ciencia, demasiado sublime, superior a mi alcance.
 
-4[4715]Los prevaricadores se extraviaron
+[7](#c138-v7){:#c138-v7} [[1374]](#n-1374){:#rn-1374} ¿Adónde iré que me sustraiga a tu espíritu, adónde huiré de tu rostro?
 
-desde el seno materno;
+[8](#c138-v8){:#c138-v8} [[1375]](#n-1375){:#rn-1375} Si subiere al cielo, allí estás Tú; si bajare al abismo, Tú estás presente.
 
-desde el vientre
+[9](#c138-v9){:#c138-v9} [[1376]](#n-1376){:#rn-1376} Si tomare las alas de la aurora, y me posare en el extremo del mar,
 
-se descarriaron los impostores.
+[10](#c138-v10){:#c138-v10} también allí me conducirá tu mano, y me tendrá asido tu diestra.
 
-5[4716]Hay en ellos veneno
+[11](#c138-v11){:#c138-v11} [[1377]](#n-1377){:#rn-1377} Si dijera: "Al menos las tinieblas me esconderán", y a modo de luz me envolviese la noche.
 
-como en la serpiente,
+[12](#c138-v12){:#c138-v12} las mismas tinieblas no serían oscuras para Ti, y la noche resplandecería como el día, la oscuridad como la luz.
 
-como en el áspid sordo
+[13](#c138-v13){:#c138-v13} [[1378]](#n-1378){:#rn-1378} Tú formaste mis entrañas; me tejiste en el seno de mi madre.
 
-que tapa sus oídos,
+[14](#c138-v14){:#c138-v14} Te alabo porque te has mostrado maravilloso, porque tus obras son admirables; largamente conoces mi alma,
 
-6para que no oiga
+[15](#c138-v15){:#c138-v15} y mi cuerpo no se te ocultaba, aunque lo plasmabas en la oscuridad, tejiéndolo bajo la tierra.
 
-la voz de los encantadores,
+[16](#c138-v16){:#c138-v16} [[1379]](#n-1379){:#rn-1379} Tus ojos veían ya mis actos, y todos están escritos en tu libro; los días (míos) estaban determinados antes de que ninguno de ellos fuese.
 
-del mago que sabiamente hechiza.
+[17](#c138-v17){:#c138-v17} [[1380]](#n-1380){:#rn-1380} Oh Dios ¡cuán difíciles de comprender tus designios! ¡Cuán ingente es su número!
 
-7Oh Dios, quiebra sus dientes
+[18](#c138-v18){:#c138-v18} [[1381]](#n-1381){:#rn-1381} Si quisiera contarlos, son más que las arenas; si llegara al fin, mi duración sería como la tuya.
 
-en su misma boca;
+[19](#c138-v19){:#c138-v19} [[1382]](#n-1382){:#rn-1382} ¡Oh, si quitaras la vida, oh Dios, al impío, y se apartasen de mí los hombres perversos!
 
-rompe las muelas de los leones, oh Yahvé.
+[20](#c138-v20){:#c138-v20} Porque con disimulo se rebelan contra Ti; siendo tus enemigos, asumen tu Nombre en vano.
 
-8[4717]Disípense como agua derramada;
+[21](#c138-v21){:#c138-v21} [[1383]](#n-1383){:#rn-1383} ¿Acaso no debo odiar, Yahvé, a los que te odian, y aborrecer a los que contra Ti se enaltecen?
 
-marchítense
+[22](#c138-v22){:#c138-v22} Los odio con odio total; se han hecho mis propios enemigos.
 
-como la verdura de la hierba.
+[23](#c138-v23){:#c138-v23} [[1384]](#n-1384){:#rn-1384} Escudríñame, oh Dios, y explora mi corazón, examíname y observa mi intimidad;
 
-9[4718]Pasen como el caracol que se deshace;
+[24](#c138-v24){:#c138-v24} [[1385]](#n-1385){:#rn-1385} mira si ando por el falso camino, y condúceme por la senda antigua. 
 
-como aborto de mujer,
+### Salmo [139 (140)](#c139) {#c139}
 
-que no ve el sol.
+### Oración contra los lazos de la perfidia 
 
-10[4719]Antes que vuestro fuego dé espinas verdes
+[1](#c139-v1){:#c139-v1} [[1386]](#n-1386){:#rn-1386} Al maestro de coro. Salmo de David.
 
-caliente vuestras ollas,
+[2](#c139-v2){:#c139-v2} Líbrame, Yahvé, del hombre malo; defiéndeme del hombre violento,
 
-arrebátelo todo un torbellino.
+[3](#c139-v3){:#c139-v3} de esos que en su corazón maquinan cosas perversas, que provocan contiendas cada día;
 
-11[4720]El justo se gozará al ver la venganza;
+[4](#c139-v4){:#c139-v4} [[1387]](#n-1387){:#rn-1387} afilan su lengua como la serpiente, tienen veneno de áspid bajo sus labios.
 
-lavará sus pies en la sangre del impío.
+[5](#c139-v5){:#c139-v5} [[1388]](#n-1388){:#rn-1388} Sálvame, Yahvé, de las manos del inicuo, guárdame del impío, de los que intentan hacerme caer.
 
-12Y los hombres dirán:
+[6](#c139-v6){:#c139-v6} Los soberbios me esconden lazos, y tienen mallas como red; me colocan trampas junto al camino.
 
-“En verdad hay un premio para el justo;
+[7](#c139-v7){:#c139-v7} [[1389]](#n-1389){:#rn-1389} Yo digo a Yahvé: Tú eres mi Dios; escucha, Yahvé, la voz de mi súplica.
 
-en verdad hay un Dios
+[8](#c139-v8){:#c139-v8} Señor Yahvé, poderoso auxilio mío, Tú cubres mi cabeza en el día de la batalla.
 
-que juzga en la tierra.”
+[9](#c139-v9){:#c139-v9} No satisfagas, Yahvé, los deseos del inicuo, ni cumplas sus designios.
 
-SALMO 58 (59)
-Dios, Alcázar de Israel
+[10](#c139-v10){:#c139-v10} [[1390]](#n-1390){:#rn-1390} No levanten cabeza los que me asedian; caiga sobre ellos la malicia de sus lenguas.
 
-1[4721]Al maestro de coro. Por el tono de “No destruyas”. De David. Miktam. Cuando Saúl mandó hombres que vigilaran la casa para matarlo.
+[11](#c139-v11){:#c139-v11} [[1391]](#n-1391){:#rn-1391} Lluevan sobre ellos carbones encendidos, precipítalos en abismos, para no levantarse más.
 
-2Dios mío, sálvame de mis enemigos;
+[12](#c139-v12){:#c139-v12} El hombre de mala lengua no durará en la tierra; los infortunios caerán de golpe sobre el violento.
 
-defiéndeme de los que me atacan.
+[13](#c139-v13){:#c139-v13} [[1392]](#n-1392){:#rn-1392} Sé que Yahvé tomará la defensa del desvalido, hará justicia a los pobres.
 
-3Líbrame de los que obran iniquidades
+[14](#c139-v14){:#c139-v14} Ciertamente los justos celebrarán tu Nombre; los rectos habitarán en tu presencia. 
 
-y protégeme contra los hombres sanguinarios.
+### Salmo [140 (141)](#c140) {#c140}
 
-4Mira: ponen asechanzas a mi vida,
+### Oración del justo paciente 
 
-y hombres poderosos conspiran contra mí.
+[1](#c140-v1){:#c140-v1} [[1393]](#n-1393){:#rn-1393} Salmo de David. Te he invocado, Yahvé, socórreme pronto; escucha mi voz cuando te llamo.
 
-No hay en mí delito ni pecado, Yahvé.
+[2](#c140-v2){:#c140-v2} [[1394]](#n-1394){:#rn-1394} Como el incienso, suba hacia Ti mi oración; sea la elevación de mis manos el sacrificio vespertino.
 
-5[4722]Sin culpa mía irrumpen y me asaltan.
+[3](#c140-v3){:#c140-v3} [[1395]](#n-1395){:#rn-1395} Pon, Yahvé, una guardia ante mi boca, un cerrojo en la puerta de mis labios.
 
-Despierta Tú, ven a mí y mira.
+[4](#c140-v4){:#c140-v4} [[1396]](#n-1396){:#rn-1396} No dejes inclinar mi corazón a lo malo, para consumar acciones impías con hombres que obran la iniquidad; ni me dejes tener parte en sus delicias.
 
-6Porque Tú, Yahvé, Dios de los ejércitos,
+[5](#c140-v5){:#c140-v5} [[1397]](#n-1397){:#rn-1397} Golpéeme el justo y me corrija: esto es amor; mas nunca el óleo del pecador unja mi cabeza, y aun se elevará mi oración en sus prosperidades.
 
-eres el Dios de Israel.
+[6](#c140-v6){:#c140-v6} [[1398]](#n-1398){:#rn-1398} Fueron precipitados sus príncipes junto a la roca, y habían oído cuan suaves eran mis palabras.
 
-Levántate a castigar a todos los gentiles;
+[7](#c140-v7){:#c140-v7} Como la tierra que se trabaja rompiéndola, mis huesos han sido dislocados, y la tumba se ha abierto.
 
-no te apiades de ninguno de los pérfidos.
+[8](#c140-v8){:#c140-v8} Mas a Ti, Señor Yahvé, se dirigen mis ojos; a Ti recurro, no derrames mi vida.
 
-7[4723]Vuelven al anochecer,
+[9](#c140-v9){:#c140-v9} Guárdame del lazo que me han tendido y de las emboscadas de los malhechores.
 
-aullando como perros,
+[10](#c140-v10){:#c140-v10} Caigan juntos los impíos en sus propias redes al mismo tiempo que yo me salvare. 
 
-y giran en torno de la ciudad.
+### Salmo [141 (142)](#c141) {#c141}
 
-8[4724]Mira la jactancia en su boca,
+### Oración del abandonado 
 
-y cómo injurian sus labios:..
+[1](#c141-v1){:#c141-v1} [[1399]](#n-1399){:#rn-1399} Maskil. De David. Cuando estaba en la cueva. Oración.
 
-“¿Quién hay que (nos) oiga?”
+[2](#c141-v2){:#c141-v2} Con (toda) mi voz clamo hacia Yahvé, a Yahvé imploro con (toda) mi voz.
 
-9Mas Tú, Yahvé te ríes de ellos;
+[3](#c141-v3){:#c141-v3} [[1400]](#n-1400){:#rn-1400} En su presencia derramo mi ansiedad; ante Él expongo mi angustia.
 
-harás befa de todos los gentiles.
+[4](#c141-v4){:#c141-v4} [[1401]](#n-1401){:#rn-1401} Pues cuando en mí el espíritu está por desfallecer, eres Tú quien conoces mi rumbo. En el camino por donde voy me han escondido un lazo.
 
-10[4725]Oh fortaleza mía, a Ti cantaré.
+[5](#c141-v5){:#c141-v5} [[1402]](#n-1402){:#rn-1402} Miro hacia mi derecha, buscando, y no veo a nadie que me reconozca; no hay adonde huir, ni quien mire por mi vida.
 
-Verdaderamente mi alcázar es Dios.
+[6](#c141-v6){:#c141-v6} A Ti, pues, clamo, Yahvé, diciendo: "Mi refugio eres Tú, herencia mía en la tierra de los vivientes."
 
-11[4726]La misericordia de mi Dios se me anticipará
+[7](#c141-v7){:#c141-v7} Atiende a mi clamor, porque he caído en extrema desventura. Sálvame de los que me persiguen, porque son más fuertes que yo.
 
-y me hará mirar con alegría a mis enemigos.
+[8](#c141-v8){:#c141-v8} [[1403]](#n-1403){:#rn-1403} Sácame de esta cárcel, para que dé gracias a tu Nombre. Conmigo serán coronados los justos cuando Tú me hayas favorecido. 
 
-12[4727]No les des tregua, oh Dios;
+### Salmo [142 (143)](#c142) {#c142}
 
-no sean tropiezo para mi pueblo.
+### Para saber qué camino seguir 
 
-Confúndelos con tu poder y póstralos,
+[1](#c142-v1){:#c142-v1} [[1404]](#n-1404){:#rn-1404} Salmo de David. Yahvé, escucha mi oración, presta oído a mi súplica según tu fidelidad; óyeme por tu justicia,
 
-oh Señor, escudo nuestro.
+[2](#c142-v2){:#c142-v2} [[1405]](#n-1405){:#rn-1405} y no entres en juicio con tu siervo, porque ningún viviente es justo delante de Ti.
 
-13Pecado de su boca es
+[3](#c142-v3){:#c142-v3} El enemigo persigue mi alma, ha postrado en tierra mi vida; me ha encerrado en las tinieblas, como los ya difuntos.
 
-cuanto profieren sus labios;
+[4](#c142-v4){:#c142-v4} El espíritu ha desfallecido en mí, y mi corazón está helado en mi pecho.
 
-sean presa de su propia soberbia,
+[5](#c142-v5){:#c142-v5} [[1406]](#n-1406){:#rn-1406} Me acuerdo de los días antiguos, medito en todas tus obras, contemplo las hazañas de tus manos,
 
-de sus maldiciones y de sus mentiras.
+[6](#c142-v6){:#c142-v6} [[1407]](#n-1407){:#rn-1407} y extiendo hacia Ti las mías: como tierra falta de agua, mi alma tiene sed de Ti.
 
-14[4728]Destrúyelos en tu saña,
+[7](#c142-v7){:#c142-v7} [[1408]](#n-1408){:#rn-1408} Escúchame pronto, Yahvé, porque mi espíritu languidece. No quieras esconder de mí tu rostro: sería yo como los que bajaron a la tumba.
 
-destrúyelos hasta que ya no existan;
+[8](#c142-v8){:#c142-v8} [[1409]](#n-1409){:#rn-1409} Hazme sentir al punto tu misericordia, pues en Ti coloco mi confianza. Muéstrame el camino que debo seguir, ya que hacia Ti levanto mi alma.
 
-entonces se sabrá
+[9](#c142-v9){:#c142-v9} Líbrame de mis enemigos, Yahvé; a Ti me entrego.
 
-que Dios reina en Jacob
+[10](#c142-v10){:#c142-v10} [[1410]](#n-1410){:#rn-1410} Enséñame a hacer tu voluntad, porque Tú eres mi Dios. Tu Espíritu es bueno; guíame, pues, por camino llano.
 
-y hasta los confines del orbe.
+[11](#c142-v11){:#c142-v11} Por tu Nombre, Yahvé, guarda mi vida; por tu clemencia saca mi alma de la angustia.
 
-15[4729]Vuelvan al anochecer,
+[12](#c142-v12){:#c142-v12} [[1411]](#n-1411){:#rn-1411} Y por tu gracia acaba con mis enemigos, y disipa a cuantos atribulan mi alma, porque soy siervo tuyo. 
 
-aullando como perros,
+### Salmo [143 (144)](#c143) {#c143}
 
-y giren en torno de la ciudad;
+### Cántico de victoria 
 
-16vaguen buscando qué comer,
+[1](#c143-v1){:#c143-v1} [[1412]](#n-1412){:#rn-1412} De David. Bendito sea Yahvé, mi piedra; Él adiestra mis manos para la pelea, mis dedos para la guerra;
 
-y si no se sacian, den aullidos.
+[2](#c143-v2){:#c143-v2} [[1413]](#n-1413){:#rn-1413} Él es mi alcázar y mi libertador, el broquel con que me cubro; Él es quien me somete los pueblos.
 
-17Entretanto, yo cantaré tu potencia,
+[3](#c143-v3){:#c143-v3} [[1414]](#n-1414){:#rn-1414} Yahvé ¿qué es el hombre para que de él te ocupes, el hijo de hombre para que pienses en él?
 
-y desde la mañana saltaré de gozo
+[4](#c143-v4){:#c143-v4} El hombre es semejante al soplo del viento; sus días, como sombra que pasa.
 
-por tu misericordia;
+[5](#c143-v5){:#c143-v5} [[1415]](#n-1415){:#rn-1415} Oh Yahvé, inclina tus cielos y desciende; toca los montes y humearán.
 
-porque fuiste mi protector,
+[6](#c143-v6){:#c143-v6} Arroja tu rayo y dispérsalos, asesta tus flechas y desconciértalos.
 
-y mi refugio en el día de la tribulación.
+[7](#c143-v7){:#c143-v7} [[1416]](#n-1416){:#rn-1416} Extiende tu mano desde lo alto y arrebátame sálvame de las muchas aguas, del poder de gente extranjera,
 
-18[4730]Oh fortaleza mía, a Ti cantaré.
+[8](#c143-v8){:#c143-v8} que con la boca habla mentiras, y con la diestra jura en falso.
 
-Verdaderamente mi alcázar es Dios,
+[9](#c143-v9){:#c143-v9} [[1417]](#n-1417){:#rn-1417} Quiero cantarte, oh Dios, un cántico nuevo, con el salterio de diez cuerdas te cantaré:
 
-el Dios misericordiosísimo conmigo.
+[10](#c143-v10){:#c143-v10} [[1418]](#n-1418){:#rn-1418} "El que da la victoria a los reyes, que salvó a David, su siervo, de la fatal espada,
 
-SALMO 59 (60)
-Dolores y esperanzas de Israel
+[11](#c143-v11){:#c143-v11} me ha salvado y me ha librado de la mano de gente extranjera, que con la boca habla mentiras y con la diestra jura en falso.
 
-1[4731]Al maestro de coro. Por el tono de “El lirio del testimonio”. Miktam de David, para hacerlo aprender.
+[12](#c143-v12){:#c143-v12} [[1419]](#n-1419){:#rn-1419} Nuestros hijos son como plantas que crecen en la flor de su edad; nuestras hijas, como columnas de ángulo, talladas para adorno de un palacio.
 
-2[4732]Cuando hizo guerra contra Aram de Naharaim y Aram de Sobá, y Joab, ya de vuelta, batió a Edom en el valle de las Salinas (matándole) doce mil hombres.
+[13](#c143-v13){:#c143-v13} Nuestros graneros están llenos, rebosantes de toda clase de frutos. Nuestras ovejas, mil veces fecundas, se multiplican a miríadas en nuestros campos;
 
-3[4733]Oh Dios, nos has desechado,
+[14](#c143-v14){:#c143-v14} nuestros bueyes son robustos. No hay brechas ni salidas en nuestros muros ni llanto en nuestras plazas."
 
-quebrantaste nuestros ejércitos;
+[15](#c143-v15){:#c143-v15} [[1420]](#n-1420){:#rn-1420} Dichoso el pueblo que tanto tiene; dichoso el pueblo cuyo Dios es Yahvé. 
 
-estabas airado, ¡vuelve a nosotros!
+### Salmo [144 (145)](#c144) {#c144}
 
-4[4734]Has sacudido la tierra, la has hendido;
+### Bondad y majestad del Dios Rey 
 
-sana sus fracturas porque tambalea.
+[1](#c144-v1){:#c144-v1} [[1421]](#n-1421){:#rn-1421} Alabanza. De David. A Ti, mi Dios Rey, ensalzaré, y por los siglos de los siglos bendeciré tu Nombre.
 
-5[4735]Cosas duras le hiciste experimentar
+[2](#c144-v2){:#c144-v2} Te bendeciré cada día; y alabaré tu Nombre por los siglos de los siglos.
 
-a tu pueblo;
+[3](#c144-v3){:#c144-v3} [[1422]](#n-1422){:#rn-1422} Grande es Yahvé y digno de suma alabanza; su grandeza es insondable.
 
-nos diste de beber vino de vértigo.
+[4](#c144-v4){:#c144-v4} Una generación anuncia a la otra tus obras, y proclama tu poder.
 
-6Pusiste, empero, una señal
+[5](#c144-v5){:#c144-v5} Hablan de la magnífica gloria de tu Majestad, y divulgan tus maravillas.
 
-a los que te temen
+[6](#c144-v6){:#c144-v6} Cuentan el poderío terrible de tus hechos, y publican tus grandezas.
 
-de modo que huyeran del arco.
+[7](#c144-v7){:#c144-v7} Rememoran el elogio de tu inmensa bondad, y se gozan de tu justicia (diciendo):
 
-7[4736]Mas ahora; para que sean libertados
+[8](#c144-v8){:#c144-v8} [[1423]](#n-1423){:#rn-1423} "Yahvé es benigno y misericordioso, magnánimo y grande en clemencia.
 
-los que Tu amas,
+[9](#c144-v9){:#c144-v9} Yahvé es bueno con todos, y su misericordia se derrama sobre todas sus creaturas."
 
-socorre con tu diestra, y escúchanos.
+[10](#c144-v10){:#c144-v10} [[1424]](#n-1424){:#rn-1424} Todas tus obras te alabarán, Yahvé, y tus santos te bendecirán.
 
-8[4737]Dijo Dios en su santidad:
+[11](#c144-v11){:#c144-v11} [[1425]](#n-1425){:#rn-1425} Publicarán la gloria de tu reino, y pregonarán tu potestad,
 
-“Triunfaré; repartiré a Siquem,
+[12](#c144-v12){:#c144-v12} haciendo conocer a los hijos de los hombres tu poder y el magnífico esplendor de tu reino:
 
-y mediré el valle de Sucot.
+[13](#c144-v13){:#c144-v13} [[1426]](#n-1426){:#rn-1426} Tu reino es reino de todos los siglos; y tu imperio, de generación en generación. Yahvé es digno de confianza en todas sus palabras, y benévolo en todas sus obras.
 
-9[4738]Mío es Galaad,
+[14](#c144-v14){:#c144-v14} [[1427]](#n-1427){:#rn-1427} Yahvé sostiene a todos los que caen, y levanta a todos los agobiados.
 
-y mía la tierra de Manasés;
+[15](#c144-v15){:#c144-v15} [[1428]](#n-1428){:#rn-1428} Los ojos de todos te miran esperando, y Tú les das a su tiempo el alimento.
 
-Efraím es el yelmo de mi cabeza;
+[16](#c144-v16){:#c144-v16} Tú abres la mano y hartas de bondad a todo viviente.
 
-y Judá mi cetro;
+[17](#c144-v17){:#c144-v17} [[1429]](#n-1429){:#rn-1429} Yahvé es justo en todos sus caminos, y santo en todas sus obras.
 
-10[4739]Moab, la vasija de mi lavatorio;
+[18](#c144-v18){:#c144-v18} [[1430]](#n-1430){:#rn-1430} Yahvé cerca está de cuantos le invocan, de todos los que le invocan de veras.
 
-sobre Edom echaré mi calzado,
+[19](#c144-v19){:#c144-v19} [[1431]](#n-1431){:#rn-1431} Él hace la voluntad de los que le temen, oye su clamor y los salva.
 
-y Filistea será mi súbdito.”
+[20](#c144-v20){:#c144-v20} [[1432]](#n-1432){:#rn-1432} Yahvé conserva a todos los que le aman, y extermina a todos los impíos.
 
-11[4740] ¿Quién me conducirá
+[21](#c144-v21){:#c144-v21} Mi boca dirá la alabanza de Yahvé; y toda carne bendecirá su santo Nombre por los siglos de los siglos. 
 
-a la ciudad fortificada?
+### Salmo [145 (146)](#c145) {#c145}
 
-¿Quién me llevará hasta Edom?
+### Confiar en Dios y no en los hombres 
 
-12¿No serás Tú, oh Dios,
+[1](#c145-v1){:#c145-v1} [[1433]](#n-1433){:#rn-1433} ¡HalIelú Yah! Alaba a Yahvé, alma mía.
 
-que nos has rechazado
+[2](#c145-v2){:#c145-v2} [[1434]](#n-1434){:#rn-1434} Toda mi vida alabaré a Yahvé; cantaré salmos a mi Dios mientras yo viva.
 
-y que ya no sales con nuestros ejércitos?
+[3](#c145-v3){:#c145-v3} [[1435]](#n-1435){:#rn-1435} No pongáis vuestra confianza en los príncipes, en un hijo de hombre, que no puede salvar.
 
-13[4741]Ven en nuestro auxilio
+[4](#c145-v4){:#c145-v4} [[1436]](#n-1436){:#rn-1436} Apenas el soplo le abandona, él vuelve a su polvo, y entonces se acaban todos sus designios.
 
-contra el adversario,
+[5](#c145-v5){:#c145-v5} Dichoso en cambio quien tiene en su ayuda al Dios de Jacob, y pone su esperanza en Yahvé, su Dios,
 
-porque vano es el auxilio de los hombres.
+[6](#c145-v6){:#c145-v6} [[1437]](#n-1437){:#rn-1437} Creador del cielo y de la tierra, del mar y de cuanto contienen. Él conserva siempre su fidelidad;
 
-14Con Dios haremos proezas;
+[7](#c145-v7){:#c145-v7} hace justicia a los oprimidos, y da pan a los hambrientos. Es Yahvé quien desata a los cautivos;
 
-Él hollará a nuestros enemigos.
+[8](#c145-v8){:#c145-v8} es Yahvé quien abre los ojos de los ciegos; Yahvé levanta a los agobiados; Yahvé ama a los justos;
 
-SALMO 60 (61)
-Anhelo mesiánico de David
+[9](#c145-v9){:#c145-v9} Yahvé cuida de los peregrinos; sustenta al huérfano y a la viuda, y trastorna los caminos de los malvados.
 
-1[4742]Al maestro de coro. Para instrumentos de cuerda. De David.
+[10](#c145-v10){:#c145-v10} [[1438]](#n-1438){:#rn-1438} Reinará Yahvé para siempre, el Dios tuyo, oh Sión, de edad en edad. ¡HalIelú Yah! 
 
-2Escucha, oh Dios, mi grito,
+### Salmo [146 (147,1-11)](#c146) {#c146}
 
-atiende a mi oración.
+### Dios bendice al que cree en su bondad 
 
-3[4743]Desde los confines de la tierra
+[1](#c146-v1){:#c146-v1} [[1439]](#n-1439){:#rn-1439} ¡Hallelú Yah! Alabad a Yahvé porque es bueno; salmodiad al Dios nuestro porque es amable; bien le está a Él la alabanza.
 
-clamo a Ti,
+[2](#c146-v2){:#c146-v2} [[1440]](#n-1440){:#rn-1440} Es Yahvé quien reconstruye a Jerusalén, y congrega a los dispersos de Israel;
 
-con el corazón desfallecido;
+[3](#c146-v3){:#c146-v3} [[1441]](#n-1441){:#rn-1441} Él quien sana a los de corazón llagado, y venda sus heridas;
 
-Tú me alzarás hasta la roca,
+[4](#c146-v4){:#c146-v4} Él quien fija el número de las estrellas, y a cada una llama por su nombre.
 
-me darás el reposo.
+[5](#c146-v5){:#c146-v5} [[1442]](#n-1442){:#rn-1442} Grande es nuestro Señor, poderoso en fuerza; y su sabiduría no tiene medida.
 
-4[4744]Porque eres mi refugio,
+[6](#c146-v6){:#c146-v6} Yahvé levanta a los humildes, y abaja hasta la tierra a los impíos.
 
-la fuerte torre contra el enemigo.
+[7](#c146-v7){:#c146-v7} Ensalzad a Yahvé con acciones de gracias, cantad al son de la cítara salmos a nuestro Dios,
 
-5Habite yo para siempre
+[8](#c146-v8){:#c146-v8} que cubre el cielo de nubes, y prepara la lluvia para la tierra; que en los montes hace brotar hierba, y plantas para servir al hombre;
 
-en tu tabernáculo
+[9](#c146-v9){:#c146-v9} [[1443]](#n-1443){:#rn-1443} que da su alimento a los ganados, y a las crías de los cuervos que pían.
 
-y encuentre abrigo
+[10](#c146-v10){:#c146-v10} [[1444]](#n-1444){:#rn-1444} Él no se deleita en el vigor del caballo, ni le agradan los músculos del hombre.
 
-a la sombra de tus alas.
+[11](#c146-v11){:#c146-v11} [[1445]](#n-1445){:#rn-1445} La complacencia de Yahvé está en los que le temen, los que se fían en su bondad. 
 
-6[4745]Oíste mis votos, oh Dios,
+### Salmo [147](#c147) {#c147}
 
-y me has dado la herencia
+### Cántico de la nueva Jerusalén 
 
-de los que temen tu Nombre.
+[1](#c147-v1){:#c147-v1} [[1446]](#n-1446){:#rn-1446} Da gloria a Yahvé, oh Jerusalén; alaba, oh Sión, a tu Dios.
 
-7[4746]Añade días a los días del rey;
+[2](#c147-v2){:#c147-v2} [[1447]](#n-1447){:#rn-1447} Porque Él ha asegurado los cerrojos de tus puertas; ha bendecido tus hijos dentro de ti.
 
-sean iguales sus años
+[3](#c147-v3){:#c147-v3} [[1448]](#n-1448){:#rn-1448} Él ha puesto paz en tus fronteras, y te alimenta de la flor del trigo.
 
-a la multitud de generaciones.
+[4](#c147-v4){:#c147-v4} [[1449]](#n-1449){:#rn-1449} Él manda sus órdenes a la tierra; su palabra corre veloz.
 
-8Reine eternamente delante de Dios;
+[5](#c147-v5){:#c147-v5} Él derrama la nieve como copos de lana; esparce como ceniza la escarcha.
 
-que tu misericordia
+[6](#c147-v6){:#c147-v6} Él echa su hielo como bocados de pan; ¿quién resistiría su frío?
 
-y tu fidelidad lo conserven.
+[7](#c147-v7){:#c147-v7} [[1450]](#n-1450){:#rn-1450} Él envía su palabra y los derrite; hace soplar el viento, y las aguas corren.
 
-9[4747]Así cantaré tu Nombre para siempre,
+[8](#c147-v8){:#c147-v8} [[1451]](#n-1451){:#rn-1451} Él dio a conocer su palabra a Jacob; sus estatutos y sus mandatos a Israel.
 
-y cumpliré mis votos cada día.
+[9](#c147-v9){:#c147-v9} [[1452]](#n-1452){:#rn-1452} No hizo tal con ninguno de los otros pueblos; a ellos no les manifestó sus disposiciones. ¡Hallelú Yah! 
 
-SALMO 61 (62)
-No confiar más que en Dios
+### Salmo [148](#c148) {#c148}
 
-1[4748]Al maestro de coro. Según Iditún. Salmo de David.
+### Aleluya de las creaturas 
 
-2[4749]Solo en Dios se descansa, oh alma mía,
+[1](#c148-v1){:#c148-v1} [[1453]](#n-1453){:#rn-1453} ¡Hallelú Yah! Alabad a Yahvé desde los cielos, alabadlo en las alturas.
 
-porque la salud viene de Él.
+[2](#c148-v2){:#c148-v2} [[1454]](#n-1454){:#rn-1454} Ángeles suyos, alabadlo todos; alabadle todos, ejércitos suyos.
 
-3Él solo es mi roca, mi salvación,
+[3](#c148-v3){:#c148-v3} Alabadle, sol y luna; lucientes astros, alabadle todos.
 
-mi defensa: nunca seré conmovido.
+[4](#c148-v4){:#c148-v4} [[1455]](#n-1455){:#rn-1455} Alabadle, cielos de los cielos y aguas que estáis sobre los cielos:
 
-4[4750] ¿Hasta cuándo acometeréis
+[5](#c148-v5){:#c148-v5} [[1456]](#n-1456){:#rn-1456} alaben el Nombre de Yahvé, porque Él lo mandó, y fueron creados.
 
-a un solo hombre,
+[6](#c148-v6){:#c148-v6} [[1457]](#n-1457){:#rn-1457} Él los estableció para siempre y por los siglos; dio un decreto que no será transgredido.
 
-queriendo todos derribarlo,
+[7](#c148-v7){:#c148-v7} [[1458]](#n-1458){:#rn-1458} Alabad a Yahvé desde la tierra, monstruos marinos y todos los abismos;
 
-como muro inclinado,
+[8](#c148-v8){:#c148-v8} fuego y granizo, nieve y nieblas, vientos tempestuosos, que ejecutáis sus órdenes;
 
-como pared que se desploma?
+[9](#c148-v9){:#c148-v9} montes y collados todos, árboles frutales y todos los cedros;
 
-5[4751]De su lugar excelso intentan despeñarle,
+[10](#c148-v10){:#c148-v10} bestias salvajes y todos los ganados, reptiles y volátiles;
 
-ellos, que se deleitan con la mentira;
+[11](#c148-v11){:#c148-v11} [[1459]](#n-1459){:#rn-1459} reyes de la tierra y pueblos todos, príncipes y jueces todos de la tierra;
 
-bendicen con su boca,
+[12](#c148-v12){:#c148-v12} los jóvenes y también las doncellas, los ancianos junto con los niños.
 
-y en su corazón maldicen.
+[13](#c148-v13){:#c148-v13} [[1460]](#n-1460){:#rn-1460} Alaben el Nombre de Yahvé, porque solo su Nombre es digno de alabanza; su majestad domina la tierra y los cielos.
 
-6[4752]Solo en Dios se descansa, oh alma mía,
+[14](#c148-v14){:#c148-v14} [[1461]](#n-1461){:#rn-1461} Él ha encumbrado el cuerno de su pueblo. Para Él es la alabanza de todos sus santos, los hijos de Israel, el pueblo familiar suyo. ¡Hallelú Yah! 
 
-porque la salud viene de Él.
+### Salmo [149](#c149) {#c149}
 
-7Él solo es mi roca, mi salvación,
+### El cántico nuevo 
 
-mi defensa; nunca seré conmovido.
+[1](#c149-v1){:#c149-v1} [[1462]](#n-1462){:#rn-1462} ¡Hallelú Yah! Cantad a Yahvé el cántico nuevo; resuenen sus alabanzas en la reunión de los santos.
 
-8En Dios está mi salud y mi gloria;
+[2](#c149-v2){:#c149-v2} [[1463]](#n-1463){:#rn-1463} Alégrese Israel en su Hacedor, y los hijos de Sión regocíjense en su Rey.
 
-mi firme roca y mi refugio es Dios.
+[3](#c149-v3){:#c149-v3} Alaben su Nombre entre danzas; cántenle al son del tímpano y de la cítara.
 
-9[4753]Oh pueblo, espera en Él en todo tiempo;
+[4](#c149-v4){:#c149-v4} [[1464]](#n-1464){:#rn-1464} Porque Yahvé se deleita en su pueblo; y ha adornado con el triunfo a los humildes.
 
-en su presencia derramad vuestros corazones,
+[5](#c149-v5){:#c149-v5} [[1465]](#n-1465){:#rn-1465} Salten de alegría los santos por tal gloria, griten de júbilo desde sus triclinios.
 
-porque Dios es para nosotros el amparo.
+[6](#c149-v6){:#c149-v6} En su boca vibra el elogio de Dios, y en sus manos espadas de dos filos,
 
-10[4754]Los hijos de los hombres no son más que un soplo;
+[7](#c149-v7){:#c149-v7} [[1466]](#n-1466){:#rn-1466} para tomar venganza de las naciones, y castigar a los gentiles;
 
-los poderosos, una mentira;
+[8](#c149-v8){:#c149-v8} [[1467]](#n-1467){:#rn-1467} para atar a sus reyes con grillos, y a sus magnates con esposas de hierro;
 
-puestos en la balanza suben alto;
+[9](#c149-v9){:#c149-v9} [[1468]](#n-1468){:#rn-1468} para ejecutar en ellos la sentencia escrita. Gloria es esta para todos sus santos. ¡Hallelú Yah! 
 
-porque todos juntos pesan menos que el aire.
+### Salmo [150](#c150) {#c150}
 
-11[4755]No confiéis en la violencia,
+### Sinfonía de alabanzas 
 
-ni os gloriéis en la rapiña.
+[1](#c150-v1){:#c150-v1} [[1469]](#n-1469){:#rn-1469} ¡Hallelú Yah! Alabad al Señor en su Santuario, alabadlo en la sede de su majestad.
 
-Si vuestras riquezas aumentan,
+[2](#c150-v2){:#c150-v2} [[1470]](#n-1470){:#rn-1470} Alabadlo por las obras de su poder, alabadlo según su inmensa grandeza.
 
-no pongáis en ellas el corazón.
+[3](#c150-v3){:#c150-v3} [[1471]](#n-1471){:#rn-1471} Alabadlo al son de trompeta, alabadlo con salterio y cítara.
 
-12[4756]Una cosa dijo Dios, y otra segunda le oí:
+[4](#c150-v4){:#c150-v4} Alabadlo con tamboril y danza, alabadlo con cuerdas y flautas.
 
-13[4757]que el poder es de Dios,
+[5](#c150-v5){:#c150-v5} [[1472]](#n-1472){:#rn-1472} Alabadlo con címbalos sonoros, alabadlo con címbalos que atruenen.
 
-y la gracia, oh Señor, es tuya.
+[6](#c150-v6){:#c150-v6} [[1473]](#n-1473){:#rn-1473} ¡Todo lo que respira alabe al Señor! ¡Hallelú Yah!
 
-Porque Tú recompensas a cada uno
 
-según sus obras.
+## Comentarios de Mons. Straubinger
 
-SALMO 62 (63)
-El alma sedienta de Dios
 
-1[4758]Salmo de David. Mientras vagaba por el desierto de Judá.
+<!--Total de referencias: 1473-->
+<!--Rango original de referencias: 4212 - 5684-->
 
-2[4759]Oh Dios, Tú eres el Dios mío,
-
-a Ti te busco ansioso;
-
-mi alma tiene sed de Ti,
-
-y mi carne sin Ti languidece,
-
-como (esta) tierra árida y yerma,
-
-falta de agua.
-
-3[4760]Así vuelvo mis ojos
-
-hacia Ti en el santuario,
-
-para contemplar
-
-tu poder y tu gloria;
-
-4[4761]porque tu gracia
-
-vale más que la vida,
-
-por eso mis labios te alabarán.
-
-5[4762]Así te bendeciré toda mi vida
-
-y hacia tu Nombre levantaré mis manos.
-
-6[4763]Mi alma quedará saciada
-
-como de médula y gordura,
-
-y mi boca te celebrará
-
-con labios de exultación,
-
-7[4764]cada vez que me acuerde de Ti
-
-en mi lecho
-
-y en mis insomnios medite sobre Ti;
-
-8porque en verdad
-
-Tú te hiciste mi amparo,
-
-y a la sombra de tus alas
-
-me siento feliz.
-
-9[4765]Si mi alma se adhiere a Ti,
-
-tu diestra me sustenta.
-
-10Los que quieren quitarme la vida
-
-caerán en lo profundo de la tierra.
-
-11Serán entregados al poder de la espada,
-
-y formarán la porción de los chacales,
-
-12[4766]en tanto que el rey se alegrará en Dios
-
-y se gloriará todo el que jura por Él;
-
-pues será cerrada la boca
-
-a los que hablan iniquidad.
-
-SALMO 63 (64)
-Dios frustra los ardides
-
-1Al maestro de coro. Salmo de David.
-
-2[4767]Oye, oh Dios, mi voz en esta queja;
-
-libra mi vida del enemigo aterrador.
-
-3Ampárame contra la conspiración
-
-de los malvados;
-
-contra la turba de los malhechores,
-
-4[4768]que aguzan su lengua como espada,
-
-y lanzan su saeta: la palabra venenosa,
-
-5para herir a escondidas al inocente;
-
-para alcanzarlo de improviso, a mansalva.
-
-6[4769]Afirmados resueltamente
-
-en sus perversos designios,
-
-se conciertan
-
-para tender sus lazos ocultos,
-
-diciendo: “¿Quién nos verá?”
-
-7[4770]Fraguados los planes dolosos (dicen):
-
-“El golpe está bien preparado,
-
-procedamos.”
-
-¡Profundo es el pensamiento
-
-y el corazón del hombre!
-
-8[4771]Pero Dios les manda una saeta,
-
-quedan heridos de improviso;
-
-9su propia lengua los arruina,
-
-y cuantos los miran menean la cabeza.
-
-10[4772]Entonces todos temerán
-
-y proclamarán la obra de Dios,
-
-y reconocerán que es cosa suya.
-
-11Entretanto el justo se alegrará en Yahvé
-
-y en Él confiará;
-
-y se gloriarán todos los de corazón recto.
-
-SALMO 64 (65)
-La alabanza en Sión
-
-1[4773]Al maestro de coro. Salmo de David. Himno.
-
-2[4774]A Ti, oh Dios, es debida
-
-la alabanza en Sión,
-
-y a Ti se han de cumplir los votos.
-
-3[4775]A Ti, que oyes las plegarias,
-
-a Ti irá toda carne,
-
-a causa de los pecados.
-
-4Prevalecen contra nosotros
-
-nuestras iniquidades,
-
-mas Tú las perdonas.
-
-5[4776]Dichoso aquel
-
-a quien Tu elijas y atraigas,
-
-para que habite en tus atrios.
-
-Nos hartaremos de los bienes de tu casa
-
-y de la santidad de tu Templo.
-
-6[4777]En tu justicia nos escuchas
-
-con estupendas señales,
-
-oh Dios salvador nuestro,
-
-esperanza de todos los confines de la tierra
-
-y de los más lejanos mares.
-
-7[4778]Con tu fuerza consolidas los montes,
-
-revestido de poder.
-
-8Sosiegas el furor de los mares,
-
-el estruendo de sus ondas
-
-y el tumulto de las naciones.
-
-9[4779]Se estremecen ante tus portentos
-
-los que habitan los confines de la tierra.
-
-Tú llenas de alegría el Oriente y el Occidente.
-
-10[4780]Has visitado la tierra,
-
-la has embriagado
-
-y colmado de riquezas.
-
-El río de Dios rebosa de aguas;
-
-Tú preparas sus trigales,
-
-aparejando la tierra,
-
-11[4781]regando sus surcos,
-
-y allanando sus terrones;
-
-las ablandas con lluvias,
-
-y fecundas sus gérmenes.
-
-12Coronas de benignidad el año,
-
-y tus huellas destilan grosura.
-
-13Las praderas del desierto destilan,
-
-y los collados se visten de exultación.
-
-14Llenos están los campos de rebaños,
-
-y los valles se cubren de mieses;
-
-se alegran y cantan.
-
-SALMO 65 (66)
-Gratitud de Israel
-
-1[4782]Al maestro de coro. Cántico. Salmo.
-
-2Aclamad a Dios con júbilo, tierras todas;
-
-cantad salmos a la gloria de su Nombre;
-
-dadle el honor de la alabanza.
-
-3Decid a Dios:
-
-“¡Cuan asombrosas son tus obras!”
-
-Aun tus enemigos te lisonjean
-
-por la grandeza de tu poder.
-
-4[4783]Prostérnese ante Ti la tierra entera
-
-y cante tu Nombre.
-
-5[4784]Venid y contemplad las hazañas de Dios;
-
-sublime en sus designios sobre los hombres.
-
-6[4785]Trocó en tierra seca el mar;
-
-el río fue cruzado a pie enjuto.
-
-Alegrémonos en Él.
-
-7Reina con su poderío para siempre;
-
-sus ojos observan a las naciones,
-
-para que los rebeldes no levanten cabeza.
-
-8[4786]Bendecid, oh naciones, a nuestro Dios,
-
-y haced resonar su alabanza,
-
-9porque Él mantuvo en vida a nuestra alma,
-
-y no dejó que vacilara nuestro pie.
-
-10Pues Tú nos probaste, oh Dios,
-
-nos probaste por el fuego,
-
-como se hace con la plata.
-
-11Nos dejaste caer en el lazo;
-
-pusiste un peso aplastante
-
-sobre nuestras espaldas.
-
-12[4787]Hiciste pasar hombres
-
-sobre nuestra cabeza;
-
-atravesamos por fuego y por agua;
-
-mas nos sacaste a refrigerio.
-
-13Entraré en tu casa con holocausto,
-
-y te cumpliré mis votos,
-
-14los que mis labios pronunciaron
-
-y prometió mi boca
-
-en medio de mi tribulación.
-
-15[4788]Te ofreceré pingües holocaustos,
-
-con grosura de carneros;
-
-te inmolaré bueyes y cabritillos.
-
-16[4789]Venid, escuchad todos
-
-los que teméis a Dios;
-
-os contaré cuan grandes cosas
-
-ha hecho por mí.
-
-17[4790]Clamé hacia Él con mi boca,
-
-y su alabanza estaba pronta en mi lengua.
-
-18Si mi corazón
-
-hubiera tenido en vista la iniquidad,
-
-el Señor no me habría escuchado;
-
-19pero Dios oyó;
-
-atendió a la voz de mi plegaria.
-
-20[4791]Bendito sea Dios,
-
-que no despreció mi oración
-
-y no retiró de mí su misericordia.
-
-SALMO 66 (67)
-Anhelo del Israel de Dios
-
-1Al maestro de coro. Para instrumentos de cuerda. Salmo. Cántico.
-
-2[4792]Dios tenga misericordia de nosotros
-
-y bendíganos;
-
-vuelva hacia nosotros su rostro sereno,
-
-3[4793]para que sus caminos
-
-sean conocidos sobre la tierra,
-
-y su salvación entre todas las naciones.
-
-4Alábente los pueblos, oh Dios,
-
-te alaben los pueblos todos.
-
-5[4794]Alégrense y salten de gozo las naciones,
-
-viéndote gobernar los pueblos con justicia
-
-y regir en la tierra a las naciones.
-
-6Te alaben los pueblos, oh Dios,
-
-te alaben los pueblos todos.
-
-7[4795]La tierra ha dado su fruto;
-
-nos bendijo Dios, el Dios nuestro.
-
-¡Que Dios nos bendiga
-
-y que le reverencien
-
-hasta los últimos confines del universo!
-
-SALMO 67 (68)
-Triunfo de Dios
-
-1[4796]Al maestro de coro. Salmo de David. Cántico.
-
-2[4797]Alzase Dios; sus enemigos se dispersan,
-
-y huyen ante Él sus adversarios.
-
-3Como se desvanece el humo,
-
-así se disipan;
-
-como se derrite la cera junto al fuego,
-
-así perecen los impíos ante la faz de Dios.
-
-4Los justos están alegres,
-
-saltan de júbilo en la presencia de Dios,
-
-y se regocijan con deleite.
-
-5[4798]Celebrad a Dios,
-
-entonad salmos a su Nombre;
-
-abrid camino al que viene
-
-a través del desierto.
-
-“El Señor” es su nombre,
-
-gozaos delante de Él.
-
-6[4799]Padre de los huérfanos
-
-y defensor de las viudas,
-
-Dios está en su santa morada.
-
-7Dios prepara un hogar a los desamparados,
-
-saca a prosperidad a los cautivos,
-
-solo los rebeldes
-
-se quedan en el tórrido desierto.
-
-8[4800]Dios cuando Tú saliste
-
-a la cabeza de tu pueblo,
-
-cuando avanzabas por el desierto,
-
-9se estremeció la tierra;
-
-también los cielos destilaron
-
-a la vista de Dios,
-
-[el mismo Sinaí tembló delante de Dios]
-
-el Dios de Israel.
-
-10[4801]Lluvia generosa derramaste,
-
-oh Dios, sobre tu heredad;
-
-estaba agotada y la renovaste.
-
-11En ella habitó tu grey;
-
-en tu bondad, oh Dios,
-
-proveías a los necesitados.
-
-12[4802]El Señor cumple su palabra:
-
-las buenas nuevas llegan en tropel:
-
-13[4803] “Huyen reyes y ejércitos, huyen;
-
-y las mujeres de la casa reparten el botín.
-
-14Mientras vosotros descansabais
-
-recostados entre los apriscos,
-
-las alas de la paloma brillaban plateadas
-
-y las plumas de la misma
-
-atornasoladas de oro.
-
-15[4804]Cuando el Omnipotente
-
-dispersaba a los reyes
-
-parecía caer nieve sobre el Salmón.”
-
-16[4805]Montes grandes son los montes de Basan,
-
-montañas de altas cumbres
-
-son los montes de Basan.
-
-17¿Por qué, oh montes encumbrados,
-
-miráis con envidia
-
-el monte que Dios escogió para su morada?
-
-Sí, en él habitará Yahvé para siempre.
-
-18[4806]Millares y millares
-
-forman la carroza de Dios;
-
-en medio de ellos
-
-viene el Señor del Sinaí al Santuario.
-
-19[4807]Subiste a lo alto llevando cautivos;
-
-recibiste en don hombres;
-
-aun los rebeldes habitarán
-
-junto a Yah (nuestro) Dios.
-
-20¡Bendito sea el Señor, día tras día!
-
-Dios, salvación nuestra,
-
-lleva nuestras cargas.
-
-21El Dios nuestro es un Dios que salva;
-
-por el Señor Yahvé
-
-escapamos a la muerte.
-
-22[4808]Porque Dios quebrantará
-
-la cabeza de sus enemigos,
-
-el altivo penacho
-
-de los que se pasean en sus delitos.
-
-23[4809]El Señor dijo: “De Basan los sacaré,
-
-los sacaré de lo profundo del océano;
-
-24para que hundas tu pie
-
-en la sangre de tus enemigos
-
-y en ella tenga parte
-
-la lengua de los perros.”
-
-25Se ve tu entrada, oh Dios,
-
-la entrada de mi Dios,
-
-de mi Rey, en el Santuario.
-
-26[4810]Cantores van delante,
-
-en pos van los tañedores;
-
-en medio, las doncellas
-
-baten los címbalos (cantando):
-
-27“Bendecid a Dios con alegría,
-
-bendecid al Señor los hijos de Israel.”
-
-28Allí está Benjamín,
-
-el más joven, precediéndolos;
-
-los príncipes de Judá y su séquito,
-
-los príncipes de Zabulón,
-
-los príncipes de Neftalí.
-
-29[4811]Despliega, oh Dios, tu poderío;
-
-poderío que asumes,
-
-oh Dios, en favor nuestro.
-
-30[4812]A causa de tu templo que está en Jerusalén,
-
-te ofrezcan tributos los reyes.
-
-31[4813]lncrepa a la bestia del cañaveral
-
-y la multitud de los poderosos,
-
-dominadores de los pueblos.
-
-Suprime a los ávidos de plata.
-
-¡Dispersa a los pueblos,
-
-que se gozan en las guerras!
-
-32Vengan los magnates de Egipto,
-
-levante Etiopía sus manos a Dios,
-
-33[4814]Reinos de la tierra, celebrad a Dios,
-
-entonad salmos al Señor,
-
-34[4815]a Aquel que cabalga por los cielos,
-
-los antiguos cielos;
-
-al que hace resonar su voz,
-
-su voz poderosa.
-
-35Reconoced la potestad de Dios,
-
-su majestad es sobre Israel,
-
-y su poder en las nubes.
-
-36Terrible es Dios desde su Santuario,
-
-el Dios de Israel,
-
-el que da potestad y vigor a su pueblo.
-
-¡Bendito sea Dios!
-
-SALMO 68 (69)
-El lamento de Cristo
-
-1[4816]Al maestro de coro. Por el tono de “Los lirios”. De David.
-
-2[4817]¡Sálvame, oh Dios!
-
-porque las aguas me han llegado al cuello.
-
-3Estoy sumergido en lo hondo del fango,
-
-y no hay donde hacer pie;
-
-he caído en aguas profundas
-
-y me arrastra la corriente.
-
-4Me he cansado de llamar,
-
-mi garganta ha enronquecido,
-
-han desfallecido mis ojos
-
-esperando a mi Dios.
-
-5[4818]Más que los cabellos de mi cabeza
-
-son los que sin causa me odian.
-
-Son demasiado poderosos para mis fuerzas
-
-los que injustamente me hostilizan,
-
-y tengo que devolver
-
-lo que no he robado.
-
-6[4819]Tú, oh Dios, conoces mi insensatez
-
-y mis pecados no te están ocultos.
-
-7[4820]No sean confundidos por mi causa
-
-los que esperan en Ti,
-
-oh Señor, Yahvé de los ejércitos.
-
-Que no se avergüencen de mí
-
-quienes te buscan, oh Dios de Israel.
-
-8[4821]Es por tu causa si he sufrido oprobio
-
-y mi rostro se ha cubierto de confusión.
-
-9[4822]He venido a ser un extraño
-
-para mis hermanos;
-
-los hijos de mi madre no me conocen,
-
-10[4823]porque me devora el celo de tu casa,
-
-y los baldones de los que te ultrajan
-
-cayeron sobre mí.
-
-11[4824]Me afligí con ayuno,
-
-y se me convirtió en vituperio.
-
-12Me vestí de cilicio,
-
-y vine a ser la fábula de ellos.
-
-13[4825]Murmuran contra mí
-
-los que se sientan a la puerta,
-
-y los bebedores me hacen coplas.
-
-14[4826]Mas yo dirijo a Ti mi oración, oh Yahvé,
-
-en tiempo favorable, oh Dios,
-
-escúchame según la grandeza de tu bondad,
-
-según la fidelidad de tu socorro.
-
-15[4827]Sácame del lodo, no sea que me sumerja.
-
-Líbrame de los que me odian
-
-y de la hondura de las aguas.
-
-16No me arrastre la corriente de las aguas,
-
-ni me trague el abismo,
-
-ni el pozo cierre sobre mí su boca.
-
-17Escúchame, Yahvé,
-
-porque tu gracia es benigna;
-
-mírame con la abundancia
-
-de tu misericordia;
-
-18no escondas tu rostro a tu siervo,
-
-escúchame pronto
-
-porque estoy en angustias.
-
-19Acércate a mi alma y rescátala;
-
-por causa de mis enemigos, líbrame.
-
-20Bien conoces Tú mi afrenta,
-
-mi confusión y mi ignominia;
-
-a tu vista están todos los que me atribulan.
-
-21[4828]El oprobio me ha quebrantado
-
-el corazón y titubeo;
-
-esperé que alguien se compadeciera
-
-de mí, y no lo hubo;
-
-y que alguno me consolara,
-
-mas no le hallé.
-
-22[4829]Por comida me ofrecieron hiel;
-
-y para mi sed me dieron a beber vinagre.
-
-23[4830]Conviértaseles su mesa en lazo
-
-y su holocausto en tropiezo.
-
-24[4831]Obscurézcanse sus ojos
-
-para que no vean;
-
-y encorva siempre sus espaldas.
-
-25Vierte sobre ellos tu indignación,
-
-y alcánceles el ardor de tu ira.
-
-26[4832]Devastada quede su casa,
-
-y no haya quien habite en sus tiendas.
-
-27[4833]Por cuanto persiguieron
-
-a aquel que Tú heriste,
-
-aumentaron el dolor de aquel
-
-que Tú llagaste.
-
-28Añádeles iniquidad a su iniquidad,
-
-y no acierten con tu justicia.
-
-29[4834]Sean borrados del libro de la vida,
-
-y no estén escritos con los justos.
-
-30Yo soy miserable y doliente,
-
-mas tu auxilio, oh Dios,
-
-me defenderá.
-
-31[4835]Alabaré el nombre de Dios en un cántico,
-
-le ensalzaré en un himno de gratitud;
-
-32y agradará a Yahvé más que un toro,
-
-más que un novillo con sus cuernos y pezuñas.
-
-33Vedlo, oh humildes, y alegraos,
-
-y reviva el corazón
-
-de los que buscáis a Dios.
-
-34Porque Yahvé escucha a los pobres,
-
-y no desprecia a sus cautivos.
-
-35Alábenlo los cielos y la tierra,
-
-los mares y cuanto en ellos se mueve.
-
-36[4836]Porque Dios salvará a Sión,
-
-y reedificará las ciudades de Judá;
-
-y habitarán allí,
-
-y tomarán posesión de ella.
-
-37La heredarán
-
-los descendientes de sus siervos,
-
-y morarán en ella los que aman su Nombre.
-
-SALMO 69 (70)
-Apremiante pedido de auxilio
-
-1[4837]Al maestro de coro. De David. En memoria.
-
-2[4838]Ven a librarme, Dios mío,
-
-apresúrate, Yahvé, a socorrerme.
-
-3Confundidos y sonrojados queden
-
-los que buscan mi vida;
-
-vuelvan la espalda cubiertos de vergüenza
-
-los que se gozan de mis males.
-
-4Retrocedan llenos de confusión
-
-los que me dicen: “¡aja! ¡aja!”.
-
-5[4839]Mas alégrense en Ti
-
-y regocíjense todos los que te buscan;
-
-y los que aman tu auxilio digan siempre:
-
-“Dios es grande.”
-
-6[4840]Yo soy miserable y doliente;
-
-mas Tú, oh Dios, ven en mi socorro.
-
-Mi amparo y mi libertador eres Tú;
-
-oh Yahvé, no tardes.
-
-SALMO 70 (71)
-Confiada oración del anciano
-
-1[4841]En Ti, Yahvé, me refugio,
-
-no me vea nunca confundido.
-
-2[4842]Líbrame por obra de tu justicia
-
-y sácame del peligro;
-
-inclina a mí tu oído y sálvame.
-
-3Sé para mí la roca que me acoja,
-
-el baluarte seguro en que me salves,
-
-porque mi roca y mi alcázar eres Tú.
-
-4[4843]Líbrame, Dios mío,
-
-de las manos del inicuo,
-
-de las garras del impío y del opresor,
-
-5porque Tú, Señor, eres mi esperanza;
-
-Tú, Yahvé, el objeto de mi confianza
-
-desde mi niñez.
-
-6En Ti he descansado
-
-desde el seno materno,
-
-desde el vientre de mi madre
-
-Tú eres mi protector;
-
-mi esperanza ha estado siempre en Ti.
-
-7[4844]A muchos he aparecido como un portento,
-
-porque Tú eras mi poderoso auxiliador.
-
-8[4845]Llénese mi boca de tus alabanzas
-
-y de tu gloria todo el día.
-
-9[4846]No me deseches en el tiempo de la vejez;
-
-cuando me falten las fuerzas
-
-no me desampares;
-
-10[4847]pues ya hablan de mí mis enemigos,
-
-y espiándome se conciertan a una,
-
-11y dicen: “Dios lo ha abandonado;
-
-perseguidle y prendedle,
-
-pues no hay quien lo libre.”
-
-12Oh Dios, no quieras alejarte de mí;
-
-Dios mío, apresúrate a socorrerme.
-
-13[4848]Sean confundidos y aniquilados
-
-los que atentan contra mi vida;
-
-cúbranse de afrenta y rubor
-
-los que buscan mi daño.
-
-14Mas yo siempre esperaré,
-
-y te añadiré alabanzas cada día.
-
-15[4849]Mi boca anunciará, sin cesar,
-
-tu justicia y tus favores,
-
-bien que no conozco su medida.
-
-16Entraré a hablar de las gestas divinas;
-
-de Ti solo, oh Yahvé, proclamaré la justicia.
-
-17[4850]Desde mi mocedad
-
-me has enseñado Tú, oh Dios,
-
-y hasta el presente
-
-voy predicando tus maravillas.
-
-18[4851]En mi vejez y decrepitud
-
-no quieras tampoco desampararme,
-
-Dios mío, hasta que manifieste
-
-tu brazo a esta generación,
-
-tu poder a todas las venideras,
-
-19y tu justicia, oh Dios, que toca los cielos.
-
-En tan grandes cosas como hiciste, Dios
-
-¿quién es como Tú?
-
-20[4852]Con muchas y acerbas tribulaciones
-
-me probaste,
-
-mas volviste a darme la vida,
-
-y de nuevo me sacarás
-
-de los abismos de la tierra.
-
-21Multiplicarás tu magnificencia
-
-y continuarás consolándome.
-
-22Y yo, Dios mío,
-
-alabaré con salmos tu fidelidad;
-
-te cantaré con la cítara,
-
-oh Santo de Israel.
-
-23[4853]Y cuando te cante,
-
-de gozo temblarán mis labios,
-
-y mi alma que Tú redimiste.
-
-24Mi lengua hablará todo el día de tu justicia,
-
-porque han quedado confundidos
-
-y avergonzados
-
-cuantos buscaban mi mal.
-
-SALMO 71 (72)
-El reino mesiánico
-
-1[4854]Para Salomón.
-
-Oh Dios, entrega al Rey tu juicio,
-
-y tu justicia al Hijo del Rey;
-
-2[4855]para que Él gobierne a tu pueblo
-
-con justicia,
-
-y a los humildes tuyos
-
-con equidad.
-
-3[4856]Los montes traerán al pueblo la paz;
-
-y los collados, la justicia.
-
-4Él defenderá a los humildes del pueblo,
-
-Él salvará a los hijos de los pobres,
-
-y aplastará al opresor.
-
-5[4857]Permanecerá como el sol,
-
-y como la luna, de generación en generación.
-
-6[4858]Descenderá, como lluvia,
-
-sobre el prado segado,
-
-como las aguas que riegan la tierra.
-
-7[4859]En sus días florecerá la justicia,
-
-y abundará la paz
-
-mientras dure la luna.
-
-8[4860]Y Él dominará de mar a mar,
-
-y desde el Río hasta los confines de la tierra.
-
-9[4861]Ante Él se prosternarán sus enemigos,
-
-y sus adversarios lamerán el polvo.
-
-10[4862]Los reyes de Tarsis y de las islas
-
-le ofrecerán tributos;
-
-los reyes de Arabia y de Sabá
-
-le traerán presentes.
-
-11[4863]Y lo adorarán los reyes todos de la tierra;
-
-todas las naciones le servirán.
-
-12[4864]Pues Él librará al que clama desvalido,
-
-y al mísero que no tiene amparo.
-
-13Se compadecerá
-
-del necesitado y del pobre,
-
-y a los indigentes salvará la vida,
-
-14los libertará del daño
-
-y de la opresión,
-
-y la sangre de ellos
-
-será preciosa a sus ojos.
-
-15[4865]Por eso vivirá; y le darán del oro de Arabia,
-
-orarán siempre a causa de Él;
-
-sin cesar le bendecirán.
-
-16[4866]Habrá abundancia de trigo en la tierra;
-
-en las cumbres de los montes
-
-ondeará su fruto como el Líbano;
-
-y florecerán los habitantes de las ciudades
-
-como la grama del campo.
-
-17[4867]Su nombre será para siempre bendito,
-
-mientras dure el sol
-
-permanecerá el nombre suyo;
-
-y serán benditas en Él
-
-todas las tribus de la tierra;
-
-todas las naciones
-
-lo proclamarán bienaventurado.
-
-18Bendito sea Yahvé, Dios de Israel,
-
-único que hace maravillas;
-
-19y bendito sea por siempre
-
-su glorioso Nombre;
-
-llénese de su gloria toda la tierra.
-
-¡Así sea; así sea!
-
-20[4868]Fin de las oraciones de David, hijo de Jesé.
-TERCER LIBRO DE LOS SALMOS
-
-SALMO 72 (73)
-La misteriosa prosperidad de los impíos
-
-1[4869]De Asaf.
-
-¡Cuán bueno es Dios para Israel,
-
-el Señor para los que son rectos de corazón!
-
-2[4870]Pero, mis pies casi resbalaron,
-
-cerca estuve de dar un mal paso;
-
-3porque envidiaba a los jactanciosos
-
-al observar la prosperidad de los pecadores.
-
-4No hay para ellos tribulaciones;
-
-su cuerpo está sano y robusto.
-
-5No conocen las inquietudes de los mortales,
-
-ni son golpeados como los demás hombres.
-
-6[4871]Por eso la soberbia
-
-los envuelve como un collar;
-
-y la violencia los cubre como un manto.
-
-7De su craso corazón desborda su iniquidad;
-
-desfogan los caprichos de su ánimo.
-
-8Zahieren y hablan con malignidad,
-
-y altivamente amenazan con su opresión.
-
-9Su boca se abre contra el cielo,
-
-y su lengua se pasea por toda la tierra.
-
-10[4872]Así el pueblo se vuelve hacia ellos
-
-y encuentra sus días plenos;
-
-11[4873]y dice: “¿Acaso lo sabe Dios?
-
-¿Tiene conocimiento el Altísimo?
-
-12Ved cómo tales impíos
-
-están siempre tranquilos
-
-y aumentan su poder.
-
-13Luego, en vano he guardado puro mi corazón,
-
-y lavado mis manos en la inocencia,
-
-14pues padezco flagelos todo el tiempo
-
-y soy atormentado cada día.”
-
-15[4874]Si yo dijere: “Hablaré como ellos”,
-
-renegaría del linaje de tus hijos.
-
-16[4875]Me puse, pues, a reflexionar
-
-para comprender esto;
-
-pero me pareció demasiado difícil para mí.
-
-17Hasta que penetré
-
-en los santos arcanos de Dios,
-
-y consideré la suerte final
-
-de aquellos hombres.
-
-18En verdad Tú los pones
-
-en un camino resbaladizo
-
-y los dejas precipitarse en la ruina.
-
-19¡Cómo se deslizaron de golpe!
-
-Son arrebatados, consumidos por el terror,
-
-20[4876]son como quien despierta de un sueño;
-
-así Tú, Señor, al despertar
-
-despreciarás su ficción.
-
-21[4877]Cuando, pues, exasperaba mi mente
-
-y se torturaban mis entrañas,
-
-22era yo un estúpido que no entendía;
-
-fui delante de Ti como un jumento.
-
-23Mas yo estaré contigo siempre,
-
-Tú me has tomado de la mano derecha.
-
-24[4878]Por tu consejo me conducirás,
-
-y al fin me recibirás en la gloria.
-
-25[4879]¿Quién hay para mí en el cielo sino Tú?
-
-Y si contigo estoy
-
-¿qué podrá deleitarme en la tierra?
-
-26La carne y el corazón mío desfallecen,
-
-la roca de mi corazón es Dios,
-
-herencia mía para siempre.
-
-27[4880]Pues he aquí que cuantos de Ti
-
-se apartan perecerán;
-
-Tú destruyes a todos los que se prostituyen,
-
-alejándose de Ti.
-
-28[4881]Mas para mí la dicha consiste
-
-en estar unido a Dios.
-
-He puesto en el Señor Dios mi refugio
-
-para proclamar todas tus obras
-
-en las puertas de la hija de Sión.
-
-SALMO 73 (74)
-Contra los destructores del Santuario
-
-1[4882]Maskil de Asaf.
-
-¿Por qué, oh Dios, nos desechas para siempre?
-
-¿Por qué arde tu ira
-
-contra el rebaño de tu dehesa?
-
-2[4883]Acuérdate de tu grey
-
-que hiciste tuya desde antiguo,
-
-de la estirpe que rescataste
-
-para hacerla tu herencia;
-
-del monte Sión
-
-que elegiste para morada tuya.
-
-3[4884]Dirige tus pasos
-
-hacia esas perpetuas ruinas:
-
-todo lo ha devastado
-
-el enemigo en el Santuario.
-
-4[4885]Los que te odian
-
-rugieron en el recinto de tus asambleas;
-
-pusieron sus enseñas por trofeo.
-
-5Talaron allí como quien alza la segur
-
-en lo espeso de la selva;
-
-6[4886]y ya con hacha y martillo
-
-hacen pedazos sus puertas.
-
-7Entregaron al fuego tu Santuario,
-
-profanaron, arrasándolo,
-
-el tabernáculo de tu Nombre.
-
-8Decían en su corazón:
-
-“Destruyámoslos por completo;
-
-pegad fuego a todas las sinagogas
-
-de Dios en el país.”
-
-9[4887]Ya no vemos nuestras señales,
-
-ya no hay profeta,
-
-ni queda entre nosotros
-
-quien sepa hasta cuándo.
-
-10¿Hasta cuándo, oh Dios,
-
-nos afrentará el enemigo?
-
-¿Ha de blasfemar siempre
-
-tu Nombre el adversario?
-
-11¿Por qué retiras tu mano
-
-y retienes en tu seno tu diestra?
-
-12[4888]Porque Tú, Yahvé, eres nuestro Rey,
-
-el que de antiguo ha obrado la salvación
-
-en medio de la tierra.
-
-13[4889]Tú dividiste el mar con tu poder
-
-y quebrantaste la cabeza
-
-de los dragones en las aguas;
-
-14Tú aplastaste las cabezas de Leviatán,
-
-y lo diste por comida
-
-a las fieras que pueblan el desierto.
-
-15[4890]Tú hiciste brotar fuentes y torrentes,
-
-y secaste ríos perennes.
-
-16Tuyo es el día y tuya la noche;
-
-Tú pusiste los astros y el sol.
-
-17Tú trazaste todos los confines de la tierra;
-
-el verano y el invierno Tú los hiciste.
-
-18Recuérdalo Yahvé: el enemigo blasfema;
-
-un pueblo impío ultraja tu Nombre.
-
-19[4891]No entregues al buitre la vida de tu tórtola;
-
-no quieras olvidar
-
-perpetuamente a tus pobres.
-
-20[4892]Vuelve los ojos a tu alianza,
-
-pues todos los rincones del país
-
-son guaridas de violencia;
-
-21[4893]no sea que el oprimido,
-
-en su confusión, se vuelva atrás;
-
-puedan el pobre y el desvalido
-
-alabar tu Nombre.
-
-22Levántate, Dios, defiende tu causa;
-
-recuerda cómo el insensato
-
-te insulta continuamente.
-
-23No te olvides
-
-del vocerío de tus adversarios,
-
-porque crece el tumulto
-
-de los que se levantan contra Ti.
-
-SALMO 74 (75)
-El juicio de Yahvé
-
-1[4894]Al maestro de coro. Sobre la melodía “No dañes”. Salmo de Asaf. Cántico.
-
-2Te alabamos, Yahvé, te alabamos;
-
-invocamos tu Nombre
-
-y narramos tus maravillas.
-
-3[4895] “Cuando Yo fije la hora,
-
-juzgaré según la justicia.
-
-4Conmovida la tierra y todos sus habitantes,
-
-Yo sustentaré sus columnas.”
-
-5[4896]Por tanto, digo a los altaneros;
-
-“No os ensoberbezcáis”;
-
-y a los impíos:
-
-“Cesad de engreíros en vuestro poder”;
-
-6no levantéis vuestra cerviz
-
-frente al Altísimo,
-
-no digáis insolencias contra Dios.
-
-7Porque no del oriente ni del occidente,
-
-ni del desierto, ni de los montes,
-
-viene la justicia,
-
-8[4897]sino que es Dios mismo el Juez;
-
-a este lo abate y a aquel lo encumbra.
-
-9[4898]Porque en la mano del Señor hay un cáliz
-
-de vino espumoso, lleno de mixtura;
-
-y de él vierte:
-
-lo beberán hasta las heces
-
-todos los impíos de la tierra.
-
-10Mas yo me gozaré eternamente,
-
-cantando salmos al Dios de Jacob.
-
-11“Y Yo quebrantaré la cerviz
-
-de todos los impíos,
-
-y alzarán su cerviz los justos.”
-
-SALMO 75 (76)
-El triunfo de Dios en Jerusalén
-
-1[4899]Al maestro de coro. Para instrumentos de cuerda. Salmo de Asaf.
-
-2[4900]Dios se ha dado a conocer en Judá;
-
-grande es su Nombre en Israel.
-
-3Ha levantado en Salem su tabernáculo
-
-y su morada en Sión.
-
-4[4901]Allí quebró
-
-las fulmíneas saetas de los arcos
-
-y el escudo y la espada y la guerra.
-
-5[4902]Envuelto en luz Tú, Majestuoso, descendiste
-
-desde los montes eternos.
-
-6[4903]Despojados quedaron los de robusto corazón;
-
-duermen su sueño;
-
-no hallaron sus manos los hombres fuertes;
-
-7carros y caballos se paralizaron
-
-ante tu amenaza, oh Dios de Jacob.
-
-8Terrible eres Tú
-
-y ¿quién podrá estar de pie ante Ti
-
-cuando se encienda tu ira?
-
-9[4904]Desde el cielo hiciste oír tu juicio;
-
-la tierra tembló y quedó en silencio,
-
-10al levantarse Dios a juicio,
-
-para salvar a todos los humildes
-
-de la tierra.
-
-11[4905]Hasta la furia de Edom
-
-redundará en tu gloria,
-
-y los sobrevivientes de Emat
-
-te festejarán:
-
-12[4906]haced votos y cumplidlos
-
-a Yahvé, vuestro Dios,
-
-y todos los pueblos en derredor suyo
-
-traigan ofrendas al Temible;
-
-13a El, que quita el aliento a los príncipes;
-
-al Terrible para los reyes de la tierra.
-
-SALMO 76 (77)
-El amor de Dios no cambia
-
-1[4907]Al maestro de coro. A Iditún. Salmo de Asaf.
-
-2Mi voz sube hacia Dios y clama;
-
-mi voz va hasta Dios
-
-para que me oiga.
-
-3En el día de mi angustia busco al Señor;
-
-de noche, mis manos
-
-se extienden sin descanso,
-
-y mi alma rehúsa el consuelo.
-
-4[4908]Si pienso en Dios tengo que gemir;
-
-si cavilo, mi espíritu desfallece.
-
-5Tú mantienes insomnes mis ojos;
-
-estoy perturbado, incapaz de hablar.
-
-6[4909]Pienso en los días antiguos
-
-y considero los años eternos.
-
-7Por la noche medito en mi corazón,
-
-reflexiono y mi espíritu inquiere:
-
-8¿Es que nos desechará el Señor
-
-por todos los siglos?
-
-¿No volverá a sernos favorable?
-
-9¿Se habrá agotado para siempre su bondad?
-
-¿Será vana su promesa
-
-hecha para todas las generaciones?
-
-10[4910]¿Se habrá olvidado Dios de su clemencia?
-
-o ¿en su ira habrá contenido su misericordia?
-
-11[4911]Y dije: “Este es mi dolor:
-
-que la diestra del Altísimo haya cambiado.”
-
-12Recordaré los hechos de Yahvé;
-
-sí, me acuerdo de tus antiguas maravillas;
-
-13medito todas tus obras
-
-y peso tus hazañas.
-
-14Santo es tu camino, oh Dios,
-
-¿Qué Dios hay tan grande
-
-como el Dios nuestro?
-
-15Tú eres el Dios que obra prodigios,
-
-y has dado a conocer a los pueblos tu poder.
-
-16[4912]Redimiste con tu brazo a tu pueblo,
-
-a los hijos de Jacob y de José.
-
-17[4913]Las aguas te vieron, oh Dios,
-
-te vieron las aguas, y temblaron;
-
-hasta los abismos se estremecieron.
-
-18[4914]Aguas derramaron las nubes,
-
-los cielos hicieron oír su voz,
-
-y volaron tus dardos.
-
-19Tu trueno sonó en el torbellino,
-
-los relámpagos iluminaron el mundo;
-
-se conmovió y tembló la tierra.
-
-20Tu camino se abrió a través del mar,
-
-y tus sendas sobre inmensas aguas,
-
-sin que aparecieran las huellas de tus pisadas.
-
-21[4915]Y Tú mismo guiaste a tu pueblo
-
-como un rebaño,
-
-por mano de Moisés y de Aarón.
-
-SALMO 77 (78)
-Historia del ingrato Israel
-
-1[4916]Maskil de Asaf.
-
-Escucha, pueblo mío, mi enseñanza;
-
-presta oído a las palabras de mis labios.
-
-2Voy a abrir mi boca en un poema,
-
-y evocaré escondidas lecciones del pasado.
-
-3[4917]Lo que hemos oído y aprendido,
-
-lo que nos han contado nuestros padres,
-
-4no lo ocultaremos a sus hijos;
-
-relataremos a la generación venidera
-
-las glorias de Yahvé y su poderío,
-
-y las maravillas que Él hizo.
-
-5[4918]Porque Él, habiendo dado testimonio a Jacob,
-
-y establecido una ley en Israel,
-
-mandó a nuestros padres
-
-enseñarlo a sus hijos,
-
-6para que lo supiera la generación siguiente,
-
-y a su vez los hijos nacidos de esta
-
-lo narrasen a sus propios hijos;
-
-7de suerte que pongan en Dios su confianza,
-
-no olvidando los beneficios de Yahvé
-
-y observando sus mandamientos;
-
-8[4919]para que no vengan a ser como sus padres,
-
-una raza indócil y contumaz;
-
-generación que no tuvo el corazón sencillo
-
-ni el espíritu fiel a Dios.
-
-9[4920]Los hijos de Efraím,
-
-muy diestros arqueros,
-
-volvieron las espaldas en el día de la batalla;
-
-10no guardaron la alianza con Dios,
-
-rehusaron seguir su ley;
-
-11olvidaron sus obras y las maravillas
-
-que hizo ante los ojos de ellos.
-
-12[4921]A la vista de sus padres
-
-Él había hecho prodigios
-
-en el país de Egipto,
-
-en los campos de Tanis.
-
-13[4922]Dividió el mar por medio, y los hizo pasar,
-
-sosteniendo las aguas como un muro.
-
-14De día los guiaba con la nube
-
-y toda la noche con un resplandor de fuego.
-
-15[4923]Hendió la roca en el desierto,
-
-y les dio de beber aguas copiosísimas.
-
-16Sacó torrentes de la peña,
-
-hizo salir aguas como ríos.
-
-17[4924]Mas ellos continuaron pecando contra Él,
-
-resistiendo al Altísimo en el yermo;
-
-18[4925]tentaron a Dios en sus corazones,
-
-pidiendo comida según su antojo.
-
-19Y hablando mal de Dios, dijeron:
-
-“¿Podrá Dios prepararnos
-
-una mesa en el desierto?
-
-20Cierto es que hirió la peña,
-
-y brotaron aguas y corrieron torrentes;
-
-mas ¿podrá también dar pan
-
-y proveer de carne a su pueblo?”
-
-21[4926]Yahvé lo oyó y se indignó;
-
-su fuego se encendió contra Jacob,
-
-y subió de punto su ira contra Israel,
-
-22[4927]porque no creyeron a Dios,
-
-ni confiaron en su auxilio.
-
-23[4928]Con todo, ordenó a las nubes en lo alto,
-
-abrió las puertas del cielo,
-
-24y llovió sobre ellos maná para su sustento,
-
-dándoles trigo del cielo.
-
-25[4929]Pan de fuertes comió el hombre,
-
-les envió comida hasta hartarlos.
-
-26[4930]Después levantó el viento solano en el cielo,
-
-guio con su poder el ábrego,
-
-27y llovió sobre ellos carne
-
-tanta como el polvo;
-
-aves volátiles como arena del mar
-
-28cayeron en su campamento,
-
-en derredor de sus tiendas.
-
-29[4931]Y comieron y se hartaron.
-
-Así Él les dio lo que habían deseado.
-
-30[4932]Mas no bien satisfecho su apetito,
-
-y estando el manjar aún en su boca,
-
-31se alzó contra ellos la ira de Dios,
-
-e hizo estragos entre los más fuertes,
-
-y abatió a la flor de Israel.
-
-32Sin embargo, pecaron de nuevo,
-
-y no dieron crédito a sus milagros.
-
-33Y Él consumió sus días en un soplo,
-
-y sus años con repentinas calamidades.
-
-34[4933]Cuando les enviaba la muerte,
-
-entonces recurrían a Él,
-
-y volvían a convertirse a Dios,
-
-35recordando que Dios era su roca,
-
-y el Altísimo su Libertador.
-
-36[4934]Pero lo lisonjeaban con su boca,
-
-y con su lengua le mentían;
-
-37su corazón no era sincero para con Él,
-
-y no permanecieron fieles a su alianza.
-
-38[4935]Él, no obstante, en su misericordia,
-
-les perdonaba su culpa, y no los exterminaba.
-
-Muchas veces contuvo su ira,
-
-y no permitió que se desahogase toda su indignación,
-
-39[4936]acordándose de que eran carne,
-
-un soplo que se va y no vuelve.
-
-40¡Cuántas veces lo provocaron en el desierto;
-
-cuántas lo irritaron en aquella soledad!
-
-41[4937]Y no cesaban de tentar a Dios,
-
-de afligir al Santo de Israel.
-
-42[4938]No se acordaban ya de su mano,
-
-de aquel día en que los libertó
-
-del poder del opresor,
-
-43cuando Él ostentó sus prodigios en Egipto,
-
-y sus maravillas en los campos de Tanis,
-
-44[4939]trocando en sangre sus ríos
-
-y sus canales, para que no bebiesen;
-
-45enviando contra ellos
-
-unos tábanos que los devoraban,
-
-y ranas que los infectaron;
-
-46entregando sus cosechas a la oruga,
-
-y el fruto de su trabajo a la langosta;
-
-47destruyendo con el granizo sus viñas,
-
-y con heladas sus higueras;
-
-48[4940]librando a la peste sus manadas,
-
-y sus rebaños al contagio;
-
-49[4941]desatando contra ellos el ardor de su ira,
-
-su indignación, el furor, el castigo:
-
-un tropel de ejecutores de calamidad;
-
-50[4942]dando libre paso a su saña,
-
-y entregando a ellos mismos a la peste,
-
-sin perdonar sus propias vidas,
-
-51[4943]y matando a todo primogénito en Egipto,
-
-las primicias del vigor en las tiendas de Cam.
-
-52[4944]Ni recordaban cuando como ovejas
-
-sacó a los de su pueblo,
-
-y los guio como un rebaño por el desierto,
-
-53y los condujo con seguridad y sin temor,
-
-mientras sepultaba a sus enemigos en el mar.
-
-54[4945]Y los llevó a su tierra santa,
-
-a los montes que conquistó su diestra;
-
-55expulsó ante ellos a los gentiles,
-
-en suertes repartió la heredad de estos,
-
-y en sus pabellones hizo habitar
-
-a las tribus de Israel.
-
-56Pero ellos aun tentaron
-
-y provocaron al Dios Altísimo,
-
-y no guardaron sus mandamientos.
-
-57[4946]Apostataron y fueron traidores,
-
-como sus padres;
-
-fallaron como un arco torcido.
-
-58[4947]Lo movieron a ira
-
-con sus lugares altos,
-
-y con sus esculturas
-
-le excitaron los celos.
-
-59Ardió con esto el furor de Dios;
-
-acerbamente apartó de sí a Israel,
-
-60[4948]y abandonó el Tabernáculo de Silo,
-
-la morada que tenía entre los hombres.
-
-61Abandonó al cautiverio su fortaleza,
-
-y su gloria en manos del adversario.
-
-62Entregó su pueblo a la espada,
-
-y se irritó contra su herencia.
-
-63[4949]El fuego devoró a sus jóvenes,
-
-y sus doncellas no fueron desposadas.
-
-64A cuchillo cayeron sus sacerdotes,
-
-y sus viudas no los lloraron.
-
-65[4950]El Señor despertó entonces
-
-como de un sueño
-
--cual gigante adormecido por el vino-
-
-66[4951]e hirió a los enemigos en la zaga,
-
-cubriéndolos de ignominia para siempre.
-
-67[4952]Mas reprobó la tienda de José,
-
-y a la tribu de Efraím no la eligió,
-
-68y prefirió a la tribu de Judá,
-
-el monte Sión, su predilecto.
-
-69[4953]Y levantó, como cielo, su santuario,
-
-como la tierra, que fundó para siempre.
-
-70[4954]Y escogió a su siervo David,
-
-sacándolo de entre los rebaños de ovejas;
-
-71detrás de las que amamantaban lo llamó,
-
-para que apacentase a Jacob, su pueblo,
-
-y a Israel, su heredad.
-
-72Y él los apacentó con sencillez de corazón,
-
-y los guio con la destreza de sus manos.
-
-SALMO 78 (79)
-Elegía sobre la ruina de Jerusalén
-
-1[4955]Salmo de Asaf.
-
-Oh Dios, los gentiles
-
-han invadido tu heredad,
-
-han profanado el Templo de tu santidad,
-
-han hecho de Jerusalén un montón de ruinas.
-
-2Dieron los cadáveres de tus siervos
-
-por pasto a las aves del cielo;
-
-las carnes de tus santos
-
-a las bestias de la tierra.
-
-3Derramaron su sangre como agua,
-
-en rededor de Jerusalén,
-
-y no hubo quien les diera sepultura.
-
-4Hemos venido a ser
-
-el escarnio de nuestros vecinos,
-
-fábula y ludibrio de los que nos rodean.
-
-5[4956]¿Hasta cuándo, Señor?
-
-¿Ha de durar tu ira para siempre?
-
-¿Arderán tus celos como el fuego?
-
-6[4957]Derrama tu cólera sobre las gentes
-
-que no te conocen,
-
-y sobre los reinos que no invocan tu Nombre;
-
-7porque ellos han devorado a Jacob
-
-y han asolado su morada.
-
-8[4958]No quieras recordar contra nosotros
-
-las iniquidades de nuestros mayores;
-
-venga pronto a encontrarnos tu misericordia,
-
-porque estamos muy abatidos.
-
-9Acude a socorrernos,
-
-oh Dios, Salvador nuestro,
-
-por la gloria de tu Nombre.
-
-Líbranos y olvida nuestros pecados,
-
-a causa de tu Nombre.
-
-10[4959]¿Por qué han de decir los gentiles:
-
-“¿Dónde está el Dios de estos?”
-
-Sea manifiesta contra los gentiles,
-
-delante de nuestros ojos,
-
-la venganza por la sangre vertida de tus siervos.
-
-11Suba hasta Ti el gemido de los cautivos,
-
-según la potencia de tu brazo,
-
-salva a los destinados a la muerte.
-
-12Derrama en retorno,
-
-sobre el seno de nuestros vecinos,
-
-septuplicado el ultraje
-
-que arrojaron sobre Ti, Señor.
-
-13[4960]Y nosotros, tu pueblo, y ovejas de tu grey,
-
-te daremos gracias eternamente,
-
-y cantaremos tu alabanza,
-
-de generación en generación.
-
-SALMO 79 (80)
-Restauración de la viña del Señor
-
-1[4961]Para el maestro de coro. Por el tono de (como) azucenas (las palabras) de la Ley, Salmo de Asaf.
-
-2[4962]Pastor de Israel, escucha:
-
-Tú, que como un rebaño guías a José;
-
-Tú, que te sientas sobre querubines,
-
-3muéstrate a los ojos de Efraím,
-
-de Benjamín y de Manasés.
-
-Despierta tu potencia, y ven a salvarnos.
-
-4[4963]¡Oh Dios de los ejércitos, restáuranos!
-
-Haz resplandecer tu Rostro,
-
-y seremos salvos.
-
-5[4964]¡Oh Yahvé, Dios de los ejércitos!,
-
-¿hasta cuándo seguirás airado
-
-contra la oración de tu pueblo?
-
-6Lo has alimentado con pan de llanto;
-
-le has dado a beber lágrimas en abundancia.
-
-7Nos has hecho objeto de contienda
-
-entre nuestros vecinos;
-
-y nuestros enemigos se burlan de nosotros.
-
-8¡Oh Dios de los ejércitos, restáuranos!
-
-Haz resplandecer tu Rostro,
-
-y seremos salvos.
-
-9[4965]De Egipto trasladaste tu viña,
-
-arrojaste a los gentiles, y la plantaste;
-
-10preparaste el suelo para ella,
-
-y echó raíces y llenó la tierra.
-
-11Los montes se cubrieron con su sombra,
-
-y con sus ramas los cedros altísimos.
-
-12[4966]Hasta el mar extendió sus sarmientos
-
-y hasta el gran río sus vástagos.
-
-13¿Cómo es que derribaste sus vallados
-
-para que la vendimien
-
-cuantos pasan por el camino;
-
-14[4967]la devaste el jabalí salvaje
-
-y las bestias del campo la devoren?
-
-15Retorna, oh Dios de los ejércitos,
-
-inclínate desde el cielo, y mira, y visita esta viña,
-
-16[4968]la cepa que tu diestra plantó,
-
-y el retoño que para ti conformaste.
-
-17Perezcan ante la amenaza de tu Rostro
-
-quienes la quemaron y la cortaron.
-
-18[4969]Pósese tu mano sobre el Varón
-
-que está a tu diestra;
-
-sobre el Hijo del hombre
-
-que para Ti fortaleciste.
-
-19Entonces no volveremos a apartarnos de Ti;
-
-Tú nos vivificarás,
-
-y nosotros proclamaremos tu Nombre.
-
-20[4970]¡Oh Dios de los ejércitos, restáuranos!
-
-Haz resplandecer tu Rostro,
-
-y seremos salvos.
-
-SALMO 80 (81)
-Para la fiesta de los Tabernáculos
-
-1[4971]Al maestro de coro. Por el tono de Hagghittoth (los lagares). De Asaf.
-
-2Regocijémonos delante de Dios,
-
-nuestro Auxiliador;
-
-aclamad con júbilo al Dios de Jacob.
-
-3Entonad himnos al son del címbalo,
-
-la cítara armoniosa y el salterio.
-
-4[4972]Tocad la trompeta en el novilunio
-
-y en el plenilunio, nuestro día de fiesta.
-
-5[4973]Porque esta es ley en Israel,
-
-prescripción del Dios de Jacob.
-
-6[4974]Como rito recordatorio,
-
-la impuso Él a José,
-
-cuando salió (Él) contra la tierra de Egipto.
-
-Oyó entonces (este) lenguaje
-
-nunca escuchado:
-
-7[4975] “Libré sus hombros de la carga,
-
-y sus manos dejaron los cestos.
-
-8[4976]En la tribulación me llamaste,
-
-y Yo te saqué;
-
-te respondí escondido en la nube tempestuosa,
-
-te probé en las aguas de Meribá.
-
-9[4977]Oye, pueblo mío, quiero amonestarte.
-
-¡Ojalá me escucharas, oh Israel!
-
-10[4978]No haya en ti ningún otro Dios;
-
-no te encorves ante un dios ajeno.
-
-11Soy Yo Yahvé el Dios tuyo,
-
-que te saqué de la tierra de Egipto.
-
-Abre bien tu boca, y Yo la llenaré.
-
-12[4979]Pero mi pueblo no escuchó mi voz,
-
-e Israel no me obedeció.
-
-13[4980]Por eso los entregué
-
-a la dureza de su corazón:
-
-a que anduvieran según sus apetitos.
-
-14[4981] ¡Ah, si mi pueblo me oyera!
-
-¡Si Israel siguiera mis caminos!
-
-15Cuán pronto humillaría Yo a sus enemigos,
-
-y extendería mi mano
-
-contra sus adversarios.
-
-16[4982]Los que odian a Dios
-
-le rendirían homenaje,
-
-y su destino estaría fijado para siempre.
-
-17[4983]Yo le daría a comer la flor del trigo
-
-y lo saciaría con miel de la peña.”
-
-SALMO 81 (82)
-Dios juzga a los jueces
-
-1[4984]Salmo de Asaf.
-
-Dios se levanta
-
-en la reunión de los dioses;
-
-en medio de ellos va a juzgarlos.
-
-2“¿Hasta cuándo fallaréis injustamente
-
-y haréis acepción de personas con los inicuos?
-
-3Haced justicia
-
-al oprimido y al huérfano;
-
-amparad al afligido y al menesteroso;
-
-4[4985]librad al desvalido y al necesitado,
-
-arrancadlo de la mano de los impíos.”
-
-5[4986]Pero no saben, ni entienden;
-
-andan en tinieblas;
-
-por eso vacilan
-
-todos los fundamentos de la tierra.
-
-6[4987]Es cierto que Yo dije: “Dioses sois,
-
-e hijos todos del Altísimo.
-
-7[4988]Pero moriréis como hombres,
-
-y caeréis como cae cualquier príncipe.”
-
-8[4989]Levántate, Dios; juzga a la tierra,
-
-porque Tú has de dominar
-
-sobre todas las naciones.
-
-SALMO 82 (83)
-Imprecación de Israel contra los gentiles confabulados
-
-1[4990]Cántico. Salmo de Asaf.
-
-2Oh Dios, no permanezcas mudo;
-
-no estés sordo, oh Dios, ni te muestres pasivo.
-
-3Mira el tumulto que hacen tus enemigos,
-
-y cómo los que te odian yerguen su cabeza.
-
-4A tu pueblo le traman asechanzas;
-
-se confabulan contra los que Tú proteges.
-
-5“Venid (dicen), borrémoslos;
-
-que ya no sean pueblo;
-
-no quede ni memoria del nombre de Israel.”
-
-6[4991]Así conspiran todos a una
-
-y forman liga contra Ti:
-
-7[4992]las tiendas de Edom y los ismaelitas,
-
-Moab y los agarenos,
-
-8Gebal y Ammón y Amalec,
-
-Filistea y los habitantes de Tiro.
-
-9También los asirios se les han unido,
-
-y se han hecho auxiliares de los hijos de Lot.
-
-10[4993]Haz Tú con ellos como con Madián
-
-y con Sísara, y con Jabín,
-
-junto al torrente Cisón;
-
-11que perecieron en Endor,
-
-y vinieron a ser como estiércol para la tierra.
-
-12[4994]Trata a sus caudillos como a Oreb y a Zeb;
-
-a todos sus jefes, como a Zebee y a Salmaná,
-
-13pues han dicho:
-
-“Ocupemos para nosotros las tierras de Dios.”
-
-14[4995]Dios mío, hazlos como el polvo en un remolino
-
-y la hojarasca presa del viento.
-
-15Como fuego que consume la selva,
-
-como llama que abrasa los montes,
-
-16así persíguelos en tu tempestad,
-
-y atérralos en tu borrasca.
-
-17[4996]Haz que sus rostros
-
-se cubran de vergüenza,
-
-para que busquen tu nombre ¡oh Dios!
-
-18Queden para siempre en la ignominia
-
-y en la turbación;
-
-sean confundidos y perezcan.
-
-19Y sepan que tu Nombre es Yahvé;
-
-y que solo Tú eres el Altísimo
-
-sobre toda la tierra.
-
-SALMO 83 (84)
-Dichosa esperanza del peregrino
-
-1[4997]Al maestro de coro. Por el tono de Hagghittoth (Los lagares). De los hijos de Coré. Salmo.
-
-2¡Oh cuan amable es tu morada,
-
-Yahvé de los ejércitos!
-
-3[4998]Suspirando, desfalleciendo,
-
-anhela mi alma los atrios de Yahvé.
-
-Mi corazón y mi carne
-
-claman ansiosos hacia el Dios vivo.
-
-4[4999]Hasta el gorrión halla una casa,
-
-y la golondrina un nido
-
-para poner sus polluelos,
-
-junto a tus altares, Yahvé de los ejércitos,
-
-Rey mío y Dios mío.
-
-5[5000]Dichosos los que moran en tu casa
-
-y te alaban sin cesar.
-
-6[5001]Felices aquellos cuya fuerza viene de Ti,
-
-y tienen su corazón puesto en tu camino santo.
-
-7[5002]Atravesando el valle de lágrimas
-
-ellos lo convierten en lugar de manantiales,
-
-que la lluvia temprana
-
-cubrirá de bendiciones.
-
-8Y suben con vigor creciente
-
-hasta que Dios se hace ver de ellos en Sión.
-
-9Yahvé de los ejércitos,
-
-oye mi oración;
-
-escucha, oh Dios de Jacob.
-
-10[5003]Pon tus ojos, oh Dios, escudo nuestro,
-
-y mira el rostro de tu ungido.
-
-11Un día solo en tus atrios
-
-vale más que otros mil.
-
-Prefiero estar en el umbral
-
-de la Casa de mi Dios que habitar
-
-en los pabellones de los pecadores.
-
-12[5004]Porque sol y escudo es Yahvé Dios;
-
-Él da gracia y da gloria.
-
-Él no rehúsa ningún bien
-
-a los que caminan en inocencia.
-
-13Yahvé de los ejércitos,
-
-dichoso el hombre que confía en Ti.
-
-SALMO 84 (85)
-Súplica y profecía mesiánica
-
-1[5005]Para él maestro de coro. De los hijos de Coré. Salmo.
-
-2[5006]Oh Yahvé, has sido propicio a tu tierra,
-
-has trocado en bien la suerte de Jacob.
-
-3[5007]Has quitado la iniquidad de tu pueblo,
-
-cubierto todos sus pecados.
-
-4Has puesto fin a todo tu resentimiento,
-
-desistido del furor de tu ira.
-
-5[5008]Restáuranos, oh Dios, Salvador nuestro;
-
-aparta de nosotros tu indignación.
-
-6¿Acaso estarás siempre enojado con nosotros?
-
-¿Extenderás tu saña
-
-de generación en generación?
-
-7[5009] ¿No volverás Tú a darnos vida,
-
-para que tu pueblo se alegre en Ti?
-
-8Muéstranos, Yahvé, tu misericordia
-
-y envíanos tu salvación.
-
-9[5010]Quiero escuchar
-
-lo que dirá Yahvé mi Dios;
-
-sus palabras serán de paz
-
-para su pueblo y para sus santos,
-
-y para los que de corazón se vuelvan a Él.
-
-10[5011]Sí, cercana está su salvación
-
-para los que le temen;
-
-y la Gloria fijará su morada en nuestro país.
-
-11[5012]La misericordia y la fidelidad
-
-se saldrán al encuentro;
-
-se darán el ósculo la justicia y la paz.
-
-12[5013]La fidelidad germinará de la tierra
-
-y la justicia se asomará desde el cielo.
-
-13[5014]El mismo Yahvé dará el bien
-
-y nuestra tierra dará su fruto.
-
-14La justicia marchará ante Él
-
-y la salud sobre la huella de sus pasos.
-
-SALMO 85 (86)
-Ardiente súplica y alabanza
-
-1[5015]Oración de David.
-
-Inclina, Yahvé, tu oído y escúchame,
-
-porque soy desvalido y necesitado.
-
-2[5016]Preserva mi vida porque soy santo;
-
-salva a tu siervo que espera en Ti.
-
-3Tú eres mi Dios,
-
-ten misericordia de mí,
-
-pues a Ti clamo todo el día.
-
-4[5017]Alegra el alma de tu siervo,
-
-pues a Ti, Señor, elevo mi espíritu.
-
-5Porque Tú eres un Señor bueno
-
-y pronto a perdonar,
-
-lleno de gracia para todos los que te invocan.
-
-6Escucha, Yahvé, mi ruego;
-
-presta atención a la voz de mi súplica.
-
-7En el día de mi aflicción clamo a Ti
-
-porque Tú me oirás.
-
-8No hay Señor semejante a Ti
-
-entre los dioses;
-
-ni obras como las obras tuyas.
-
-9[5018]Todas las naciones que Tú hiciste vendrán
-
-a postrarse delante de Ti, Señor,
-
-y proclamarán tu Nombre.
-
-10Porque Tú eres grande y obras maravillas.
-
-Tú solo eres Dios
-
-11[5019]Enséñame, Yahvé, tu camino
-
-para que ande en tu verdad;
-
-que mi corazón se alegre
-
-en temer tu Nombre.
-
-12Te alabaré, Señor Dios mío,
-
-con todo mi corazón,
-
-y glorificaré tu Nombre
-
-por toda la eternidad.
-
-13[5020]Pues grande ha sido
-
-tu misericordia para conmigo;
-
-y libraste mi alma
-
-de lo más hondo del abismo.
-
-14Oh Dios, los soberbios se levantan contra mí,
-
-y la turba de los prepotentes amenaza mi vida;
-
-¡No te han tenido en cuenta!
-
-15[5021]Mas Tú, Señor,
-
-Dios de bondad y misericordia,
-
-tardo en airarte y clementísimo y leal,
-
-16[5022]vuelve hacia mí tu rostro
-
-y ten piedad de mí;
-
-pon tu fuerza en tu siervo,
-
-y salva al hijo de tu esclava.
-
-17[5023]Dame una señal de tu favor,
-
-para que los que me odian
-
-vean, confundidos, que eres Tú, Yahvé,
-
-quien me asiste y me consuela.
-
-SALMO 86 (87)
-Gloria de Sión
-
-1[5024]De los hijos de Coré. Salmo. Cántico.
-
-¡Él la fundó sobre los montes santos!
-
-2[5025]Yahvé ama las puertas de Sión
-
-más que todos los tabernáculos de Jacob.
-
-3[5026]¡Oh ciudad de Dios,
-
-de ti se dicen cosas gloriosas!
-
-4[5027] “Contaré a Rahab y a Babel
-
-entre los que me conocen;
-
-he aquí a Filistea y a Tiro
-
-y al pueblo de los etíopes:
-
-han nacido allí.”
-
-5[5028]Así se dirá de Sión:
-
-“Uno por uno,
-
-todos han nacido en ella,
-
-y es el mismo Altísimo
-
-quien la consolidó.”
-
-6Y en el libro de los pueblos,
-
-Yahvé escribirá:
-
-“Estos nacieron allí.”
-
-7[5029]Y cantarán danzando:
-
-“Todas mis fuentes están en Ti.”
-
-SALMO 87 (88)
-Lamento del hombre en extrema aflicción
-
-1[5030]Cántico. Salmo de los hijos de Coré. Al maestro de coro. Sobre el tono de “Mahalat”, para cantar. Maskil. De Hemán el ezrahita.
-
-2[5031]Yahvé, Dios de mi salud,
-
-día y noche clamo en tu presencia.
-
-3Llegue hasta Ti mi oración,
-
-inclina tu oído a mi clamor.
-
-4Pues mi alma está saciada de males,
-
-y mi vida al borde del sepulcro.
-
-5Me cuentan entre los que bajan a la tumba;
-
-he venido a ser como un hombre inválido,
-
-6[5032]abandonado a su propia suerte
-
-como los muertos;
-
-como las víctimas
-
-que yacen en el sepulcro,
-
-de quienes ya no te acuerdas,
-
-y que no son más objeto de tu cuidado.
-
-7Me has puesto en una profunda fosa,
-
-en tinieblas, en el abismo.
-
-8[5033]Sobre mí pesa tu indignación,
-
-y con todas tus olas me estás ahogando.
-
-9[5034]Has alejado de mí a los amigos,
-
-me has hecho objeto
-
-de abominación para ellos;
-
-me encuentro encerrado, sin poder salir.
-
-10Mis ojos flaquean de miseria;
-
-clamo a Ti, Yahvé, todo el día,
-
-hacia Ti extiendo mis manos.
-
-11[5035] ¿Es que para los muertos
-
-haces tus maravillas,
-
-o se levantan los difuntos para alabarte?
-
-12¿Acaso en las sepulturas
-
-se proclama tu bondad,
-
-en la tierra de los muertos tu fidelidad?
-
-13¿Se harán tus prodigios manifiestos
-
-en las tinieblas,
-
-y tu gracia en la tierra del olvido?
-
-14[5036]Yo en cambio, Yahvé,
-
-te expreso mi clamor,
-
-y desde temprano te llega mi ruego.
-
-15¿Por qué, Yahvé, rechazas mi alma
-
-y escondes de mí tu faz?
-
-16Soy miserable,
-
-y vivo muriendo desde niño;
-
-soporté tus terrores
-
-y ya no puedo más;
-
-17tus iras pasaron sobre mí,
-
-y tus espantos me han anonadado.
-
-18Me rodean como agua todo el día,
-
-me cercan todos juntos.
-
-19Has alejado de mí al amigo
-
-y al compañero,
-
-y mis familiares son las tinieblas.
-
-SALMO 88 (89)
-Promesa del reino mesiánico a David
-
-1[5037]Maskil de Etán ezrahita.
-
-2[5038]Quiero cantar eternamente
-
-las misericordias de Yahvé;
-
-que mi boca anuncie tu fidelidad
-
-de generación en generación.
-
-3[5039]Porque Tú dijiste: “La misericordia
-
-está afianzada para siempre”,
-
-y en el cielo afirmaste tu fidelidad:
-
-4“He hecho un pacto con mi escogido,
-
-he jurado a David, mi siervo:
-
-5[5040]Para siempre haré estable tu descendencia;
-
-daré firmeza a tu trono
-
-por todas las generaciones.”
-
-6Los cielos pregonan
-
-tus maravillas, oh Yahvé,
-
-y tu fidelidad la asamblea de los santos.
-
-7[5041]Porque ¿quién en los cielos
-
-se igualará a Yahvé,
-
-y quién entre los hijos de Dios
-
-será semejante a Él?
-
-8Dios es glorificado
-
-en la asamblea de los santos;
-
-grande y formidable sobre cuantos le rodean.
-
-9[5042]¡Yahvé, Dios de los ejércitos!
-
-¿Quién como Tú?
-
-Poderoso eres, oh Yah,
-
-y tu fidelidad te circunda.
-
-10[5043]Tú señoreas la soberbia del mar,
-
-Tú domas la altivez de sus olas.
-
-11[5044]Tú hollaste a Rahab como a un cadáver;
-
-con el poder de tu brazo dispersaste a tus enemigos.
-
-12[5045]Tuyos son los cielos
-
-y tuya es la tierra,
-
-Tú cimentaste el orbe
-
-y cuanto contiene.
-
-13[5046]Tú creaste el Septentrión
-
-y el Mediodía;
-
-el Tabor y el Hermón
-
-se estremecen al Nombre tuyo.
-
-14Tú tienes el brazo poderoso,
-
-fuerte es tu mano,
-
-sublime tu diestra.
-
-15[5047]Justicia y rectitud
-
-son las bases de tu trono;
-
-la misericordia y la fidelidad
-
-van delante de Ti.
-
-16[5048]¡Dichoso el pueblo
-
-que conoce el alegre llamado!
-
-Caminará, oh Yahvé,
-
-a la luz de tu rostro.
-
-17Continuamente se regocijará
-
-por tu Nombre,
-
-y saltará de exultación
-
-por tu justicia.
-
-18[5049]Porque Tú eres la gloria de su fortaleza,
-
-y por favor tuyo
-
-será exaltado nuestro poder.
-
-19Pues de Yahvé es nuestro socorro,
-
-del Santo de Israel, que es nuestro Rey.
-
-20[5050]Hablaste un día en visiones a tus santos, y dijiste:
-
-“He impuesto la corona a un héroe,
-
-he ensalzado al escogido de entre mi pueblo.
-
-21[5051]He descubierto a David, mi siervo,
-
-lo he ungido con mi óleo santo,
-
-22para que mi mano esté con él siempre
-
-y mi brazo le dé fortaleza.
-
-23No lo engañará el enemigo;
-
-ni el maligno lo humillará.
-
-24Pues Yo destrozaré delante de él
-
-a sus enemigos,
-
-y destruiré a los que le odian.
-
-25Mi fidelidad y mi gracia están con él;
-
-y en mi Nombre será exaltado su poderío.
-
-26Extenderé su mano sobre el mar,
-
-y su diestra sobre los ríos.
-
-27[5052]Él me invocará: “Tú eres mi Padre;
-
-Tú mi Dios y la roca, de mi salud.”
-
-28[5053]Y Yo lo haré primogénito;
-
-el más excelso entre los reyes de la tierra.
-
-29Le guardaré mi gracia eternamente,
-
-y para él será firme mi alianza.
-
-30Haré durar para siempre su descendencia,
-
-y su trono como los días de los cielos.
-
-31[5054]Si sus hijos abandonaren mi Ley
-
-y no caminaren en mis preceptos,
-
-32si violaren mis disposiciones
-
-y no guardaren mis mandamientos,
-
-33castigaré con la vara su delito,
-
-y con azotes su culpa;
-
-34pero no retiraré de él mi gracia,
-
-ni desmentiré mi fidelidad.
-
-35No violaré mi pacto,
-
-ni mudaré cuanto han dicho mis labios.
-
-36Juré una vez por mi santidad;
-
-¿acaso quebrantaré mi palabra a David?
-
-37[5055]Su descendencia durará eternamente,
-
-y su trono como el sol delante de Mí,
-
-38y como la luna, firme para siempre,
-
-testigo fiel en el cielo.
-
-39[5056]Sin embargo Tú (nos) has rechazado
-
-y echado fuera,
-
-te has irritado gravemente
-
-contra tu ungido;
-
-40has despreciado el pacto con tu siervo,
-
-profanaste su corona (echándola) a tierra.
-
-41Has destruido todas sus murallas,
-
-has reducido a ruinas sus fortificaciones.
-
-42Lo saquearon cuantos pasaron por el camino,
-
-ha venido a ser el ludibrio de sus vecinos.
-
-43Levantaste la diestra de sus adversarios,
-
-llenaste de regocijo a todos sus enemigos.
-
-44Le embotaste el filo de su espada,
-
-y no le sostuviste en el combate.
-
-45Apagaste su esplendor
-
-y derribaste por tierra su trono.
-
-46Abreviaste los días de su juventud,
-
-lo cubriste de ignominia.
-
-47[5057] ¿Hasta cuándo, Señor?
-
-¿Te esconderás para siempre?
-
-¿Arderá tu ira como el fuego?
-
-48[5058]Recuerda lo que es la vida;
-
-¿acaso habrías creado en vano a los hijos de los hombres?
-
-49[5059] ¿Qué hombre podrá sobrevivir
-
-sin ver la muerte,
-
-y sustraer su vida
-
-a las garras del sepulcro?
-
-50¿Dónde están, Señor,
-
-tus antiguas misericordias,
-
-las que a David juraste por tu fidelidad?
-
-51[5060]Señor, acuérdate
-
-del oprobio de tus siervos:
-
-llevo yo en mi pecho
-
-las hostilidades de los gentiles,
-
-52el insulto con que tus enemigos
-
-persiguen, oh Yahvé,
-
-persiguen los pasos de tu ungido.
-
-53[5061]Bendito sea el Señor eternamente.
-
-¡Así sea! ¡Así sea!
-CUARTO LIBRO DE LOS SALMOS
-
-SALMO 89 (90)
-Fugacidad de la vida humana
-
-1[5062]Oración de Moisés, varón de Dios.
-
-Oh Señor,
-
-Tú eres de generación en generación.
-
-2[5063]Antes que los montes fuesen engendrados,
-
-y naciesen la tierra y el orbe,
-
-y desde la eternidad hasta la eternidad,
-
-Tú, oh Dios, eres.
-
-3[5064]Tú reduces a los mortales al polvo,
-
-y les dices: “Reintegraos, hijos de Adán.”
-
-4[5065]Así como mil años son a tus ojos
-
-lo que el día de ayer,
-
-una vez que ha pasado,
-
-y lo que una vigilia de la noche,
-
-5[5066]así (a los hombres) los arrebatas,
-
-y son como un sueño matutino,
-
-como la hierba verde;
-
-6que a la mañana está en flor y crece,
-
-y a la tarde es cortada y se seca.
-
-7[5067]Así también nos consumimos
-
-a causa de tu ira,
-
-y estamos conturbados por tu indignación.
-
-8Has puesto ante tus ojos nuestros delitos,
-
-y a la luz de tu rostro
-
-nuestros pecados ocultos,
-
-9[5068]porque todos nuestros días declinan
-
-por efecto de tu ira,
-
-nuestros días pasan como un suspiro.
-
-10[5069]Los días de nuestra vida son en suma setenta años,
-
-y en los robustos, ochenta;
-
-y los más de ellos son pena y vanidad,
-
-porque pronto han pasado y nos volamos.
-
-11¿Quién pesa según el temor que te es debido
-
-la vehemencia de tu ira y tu indignación?
-
-12[5070]Enséñanos a contar nuestros días,
-
-para que lleguemos a la sabiduría del corazón.
-
-13Vuélvete, Yahvé —¿hasta cuándo?—
-
-y sé propicio a tus siervos.
-
-14Sácianos con tu misericordia desde temprano,
-
-para que nos gocemos
-
-y nos alegremos todos nuestros días.
-
-15[5071]Alégranos por los días en que nos humillaste,
-
-por los años en que conocimos la desventura.
-
-16Manifiéstese a tus siervos tu obra,
-
-y a sus hijos tu gloria.
-
-17[5072]Y la bondad del Señor, nuestro Dios,
-
-sea sobre nosotros;
-
-y conduce Tú las obras de nuestras manos,
-
-[para que prospere la obra de nuestras manos].
-
-SALMO 90 (91)
-Premio de la confianza
-
-1[5073]Tú que te abrigas
-
-en el retiro del Altísimo,
-
-y descansas a la sombra
-
-del Omnipotente,
-
-2di a Yahvé:
-
-“¡Refugio mío y fortaleza mía,
-
-mi Dios, en quien confío!”
-
-3Porque Él te librará
-
-del lazo de los cazadores
-
-y de la peste mortífera.
-
-4[5074]Con sus plumas te cubrirá,
-
-y tendrás refugio bajo sus alas;
-
-su fidelidad es escudo y broquel.
-
-5[5075]No temerás los terrores de la noche,
-
-ni las saetas disparadas de día,
-
-6ni la pestilencia que vaga en las tinieblas,
-
-ni el estrago que en pleno día devasta.
-
-7[5076]Aunque mil caigan junto a ti
-
-y diez mil a tu diestra,
-
-tú no serás alcanzado.
-
-8Antes bien, con tus propios ojos contemplarás,
-
-y verás la retribución de los pecadores.
-
-9[5077]Pues dijiste a Yahvé:
-
-“Tú eres mi refugio”,
-
-hiciste del Altísimo tu defensa.
-
-10No te llegará el mal
-
-ni plaga alguna se aproximará a tu tienda.
-
-11[5078]Pues Él te ha encomendado a sus ángeles,
-
-para que te guarden en todos tus caminos.
-
-12Ellos te llevarán en sus manos,
-
-no sea que lastimes tu pie contra una piedra.
-
-13[5079]Caminarás sobre el áspid y el basilisco;
-
-hollarás al león y al dragón.
-
-14[5080] “Por cuanto él se entregó a Mí,
-
-Yo lo preservaré;
-
-lo pondré en alto
-
-porque conoció mi Nombre.
-
-15[5081]Me invocará, y le escucharé;
-
-estaré con él en la tribulación,
-
-lo sacaré y lo honraré.
-
-16Lo saciaré de larga vida,
-
-y le haré ver mi salvación.”
-
-SALMO 91 (92)
-Grandezas de nuestro Dios
-
-1[5082]Salmo. Cántico. Para el día del sábado.
-
-2[5083]Bueno es alabar a Yahvé,
-
-y cantar a tu Nombre, oh Altísimo;
-
-3[5084]anunciar al alba tu misericordia
-
-y por las noches tu fidelidad;
-
-4[5085]con el salterio de diez cuerdas y el laúd,
-
-cantando al son de la cítara;
-
-5[5086]porque Tú, Yahvé,
-
-me deleitas con tus hechos,
-
-y me gozo en las obras de tus manos.
-
-6[5087]¡Cuan magníficas son tus obras, Yahvé!
-
-¡Cuán profundos tus pensamientos!
-
-7[5088]El hombre insensato no lo reconoce,
-
-y el necio no entiende esto.
-
-8Aunque broten impíos como hierba,
-
-y florezcan todos los artesanos del crimen,
-
-destinados están al exterminio
-
-para siempre;
-
-9mientras que Tú, Yahvé,
-
-eres eternamente el Altísimo.
-
-10[5089]Porque he aquí
-
-que tus enemigos, oh Yahvé,
-
-los enemigos tuyos perecerán,
-
-y todos los malhechores
-
-quedarán desbaratados.
-
-11[5090]Tú exaltaste mi fuerza
-
-como la de un bisonte,
-
-me has ungido con aceite nuevo.
-
-12[5091]Mis ojos se alegran
-
-al mirar a mis enemigos,
-
-y mis oídos oyen regocijados
-
-a los perversos que se levantan contra mí.
-
-13[5092]El justo florecerá como la palma
-
-y crecerá como el cedro del Líbano,
-
-14los cuales plantados en la casa de Yahvé
-
-florecerán en los atrios de nuestro Dios.
-
-15[5093]Aun en la vejez fructificarán todavía,
-
-llenos de savia y vigor,
-
-16[5094]para proclamar que Yahvé es recto,
-
-— ¡Roca mía!—
-
-y que no cabe iniquidad en Él.
-
-SALMO 92 (93)
-El Señor, Rey del orbe
-
-1[5095]Reina Yahvé;
-
-se ha revestido de majestad.
-
-El Señor se reviste de poder,
-
-se ciñe las armas;
-
-da estabilidad al orbe de la tierra,
-
-que no se moverá.
-
-2[5096]Fijado está tu trono desde ese tiempo;
-
-Tu eres desde la eternidad.
-
-3Alzan los ríos, Yahvé,
-
-alzan los ríos su voz;
-
-alzan las olas su fragor.
-
-4[5097]Pero, más poderoso
-
-que la voz de las muchas aguas,
-
-más poderoso que el oleaje del mar,
-
-es Yahvé en las alturas.
-
-5[5098]Tus testimonios, Yahvé, son segurísimos;
-
-corresponde a tu casa la santidad
-
-por toda la duración de los tiempos.
-
-SALMO 93 (94)
-Dios, vengador de los suyos
-
-1[5099]¡Oh Dios vengador, Yahvé,
-
-Dios de las venganzas, muéstrate!
-
-2Levántate, glorioso, oh Juez del mundo;
-
-da a los soberbios lo que merecen.
-
-3[5100]¿Hasta cuándo los malvados, Yahvé?
-
-¿Hasta cuándo los malvados triunfarán,
-
-4proferirán necedades con lenguaje arrogante,
-
-se jactarán todos de sus obras inicuas?
-
-5[5101]Oprimen a tu pueblo, Yahvé,
-
-y devastan tu heredad;
-
-6[5102]asesinan a la viuda y al extranjero,
-
-y matan a los huérfanos.
-
-7[5103]Y dicen: “El Señor no lo ve,
-
-el Dios de Jacob nada sabe.”
-
-8[5104]Entendedlo, oh necios entre todos;
-
-insensatos, sabedlo al fin:
-
-9Aquel que plantó el oído ¿no oirá Él mismo?
-
-Y el que formó el ojo ¿no verá?
-
-10[5105]El que castiga a las naciones
-
-¿no ha de pedir cuentas?
-
-Aquel que enseña al hombre
-
-¿(no tendrá) conocimiento?
-
-11[5106]Yahvé conoce los pensamientos de los hombres:
-
-¡son una cosa vana!
-
-12[5107]Dichoso el hombre
-
-a quien Tú educas, oh Yah,
-
-el que Tú instruyes mediante tu Ley,
-
-13[5108]para darle tranquilidad
-
-en los días aciagos,
-
-hasta que se cave la fosa para el inicuo.
-
-14[5109]Puesto que Yahvé no desechará a su pueblo,
-
-ni desamparará su heredad,
-
-15sino que volverá a imperar la justicia,
-
-y la seguirán todos los rectos de corazón.
-
-16[5110]¿Quién se levantará en mi favor
-
-contra los malhechores?
-
-¿Quién se juntará conmigo
-
-para oponerse a los malvados?
-
-17[5111]Si Yahvé no estuviese para ayudarme,
-
-ya el silencio sería mi morada.
-
-18[5112]Cuando pienso: “Mi pie va a resbalar”,
-
-tu misericordia, Yahvé, me sostiene.
-
-19[5113]Cuando las ansiedades se multiplican
-
-en mi corazón,
-
-tus consuelos deleitan mi alma.
-
-20[5114]¿Podrá tener comunidad contigo
-
-la sede de la iniquidad,
-
-que forja tiranía bajo apariencia legal?
-
-21Asalten ellos el alma del justo,
-
-y condenen la sangre inocente;
-
-22mas Yahvé será para mí una fortaleza,
-
-y el Dios mío la roca de mi refugio.
-
-23[5115]Él hará que su perversidad
-
-caiga sobre ellos mismos;
-
-y con su propia malicia los destruirá,
-
-los exterminará Yahvé, nuestro Dios.
-
-SALMO 94 (95)
-“Venite adoremus”
-
-1[5116] Venid, alegrémonos para Yahvé;
-
-aclamemos a la Roca de nuestra salvación.
-
-2Acerquémonos a Él con alabanzas,
-
-y con cantos gocémonos en su presencia.
-
-3[5117]Porque Yahvé es un gran Dios,
-
-y un rey más grande que todos los dioses.
-
-4[5118]En sus manos están
-
-las profundidades de la tierra
-
-y son suyas las cumbres de las montañas.
-
-5Suyo es el mar, pues Él lo hizo,
-
-y el continente, que plasmaron sus manos.
-
-6[5119]Venid, adoremos e inclinémonos;
-
-caigamos de rodillas ante Yahvé que nos creó.
-
-7[5120]Porque Él es nuestro Dios;
-
-nosotros somos el pueblo que Él alimenta,
-
-y las ovejas que Él cuida.
-
-Ojalá oyerais hoy aquella voz suya:
-
-8[5121] “No endurezcáis vuestros corazones
-
-como en Meribá,
-
-como en el día de Masá, en el desierto,
-
-9cuando vuestros padres me provocaron
-
-poniéndome a prueba
-
-aunque habían visto mis obras.
-
-10[5122]Durante cuarenta años me dio asco
-
-aquella generación y dije:
-
-“Son un pueblo de corazón extraviado,
-
-no han conocido mis caminos.”
-
-11[5123]Por eso, indignado, juré:
-
-“No entrarán en mi reposo.”
-
-SALMO 95 (96)
-Advenimiento y alabanza del divino Rey
-
-1[5124]Cantad a Yahvé un cántico nuevo,
-
-cantad a Yahvé, tierras todas.
-
-2Cantad a Yahvé, bendecid su nombre,
-
-proclamad día tras día su salvación.
-
-3[5125]Pregonad su gloria entre los gentiles;
-
-sus maravillas entre los pueblos todos.
-
-4Porque grande es Yahvé
-
-y digno de suma alabanza,
-
-temible, más que todos los dioses.
-
-5Pues todos los dioses de los gentiles son ficción
-
-en tanto que Yahvé hizo los cielos.
-
-6[5126]Majestad y belleza le preceden;
-
-en su santa morada están el poder y la gloria.
-
-7Reconoced a Yahvé,
-
-oh razas de los pueblos,
-
-reconoced a Yahvé la gloria y el poder.
-
-8[5127]Reconoced a Yahvé
-
-la gloria de su Nombre.
-
-Traedle oblaciones y venid a sus atrios.
-
-9[5128]Adorad a Yahvé en sacro esplendor,
-
-oh tierra toda, tiembla ante ÉL
-
-10[5129]Anunciad a las naciones: “Reina Yahvé;
-
-Él ha dado estabilidad al orbe,
-
-para que no vacile;
-
-rige a los pueblos con justicia.”
-
-11[5130]Alégrense los cielos,
-
-y regocíjese la tierra;
-
-retumbe el mar y cuanto lo llena;
-
-12salte de júbilo el campo
-
-con todo lo que hay en él.
-
-Rebosarán entonces de exultación
-
-todos los árboles de la selva,
-
-13ante la presencia de Yahvé,
-
-porque viene,
-
-porque viene para gobernar la tierra.
-
-Gobernará la redondez de la tierra
-
-con justicia,
-
-y a los pueblos con su fidelidad.
-
-SALMO 96 (97)
-Hazañas del Rey
-
-1[5131]Reina Yahvé; alégrese la tierra,
-
-muestre su júbilo la multitud de las islas.
-
-2[5132]Nubes y oscura niebla le rodean,
-
-justicia e imperio
-
-son el fundamento de su trono.
-
-3[5133]Delante de Él va el fuego
-
-y abrasa en derredor a sus enemigos.
-
-4Sus relámpagos iluminan el orbe,
-
-la tierra lo ve, y tiembla.
-
-5[5134]Los montes, como cera,
-
-se derriten ante Yahvé,
-
-ante el Dominador de toda la tierra.
-
-6[5135]Los cielos proclaman su justicia,
-
-y todos los pueblos ven su gloria.
-
-7[5136]Confundidos quedan
-
-todos los que adoran simulacros,
-
-y los que se glorían en los ídolos.
-
-“¡Adoradlo, ángeles todos de Dios!”
-
-8[5137]Lo oye Sión, y se llena de gozo;
-
-y las ciudades de Judá
-
-saltan de alegría,
-
-por tus juicios, oh Yahvé.
-
-9Pues Tú eres, Yahvé,
-
-excelso sobre toda la tierra,
-
-eminentísimo sobre toda deidad.
-
-10[5138]Yahvé ama a los que odian el mal;
-
-guarda las almas de sus santos,
-
-los arrebata de la mano de los impíos.
-
-11[5139]Ya despunta la luz para el justo,
-
-y la alegría para los de corazón recto.
-
-12Oh justos, regocijaos en Yahvé
-
-y celebrad su santo Nombre.
-
-SALMO 97 (98)
-Justicia del Rey
-
-1[5140]Cantad a Yahvé un cántico nuevo,
-
-porque ha hecho cosas admirables.
-
-Su diestra y su santo brazo
-
-le han dado la victoria.
-
-2Yahvé ha hecho manifiesta su salvación;
-
-ha mostrado su justicia
-
-delante de los gentiles,
-
-3[5141]se ha acordado de su misericordia
-
-y de su fidelidad
-
-en favor de la casa de Israel.
-
-Todos los confines de la tierra
-
-han visto la salud
-
-que viene de nuestro Dios.
-
-4[5142]Tierra entera, aclama a Yahvé,
-
-gozaos, alegraos y cantad.
-
-5Entonad himnos a Yahvé con la cítara,
-
-con la cítara y al son del salterio;
-
-6con trompetas y sonidos de bocina
-
-prorrumpid en aclamaciones al Rey Yahvé.
-
-7[5143]Retumbe el mar y cuanto lo llena,
-
-el orbe de la tierra y los que lo habitan.
-
-8Batan palmas los ríos,
-
-y los montes a una salten de gozo
-
-9ante la presencia de Yahvé porque viene,
-
-porque viene para gobernar la tierra.
-
-Gobernará la redondez de la tierra con justicia
-
-los pueblos con rectitud.
-
-SALMO 98 (99)
-Santidad del Rey
-
-1[5144]Reina Yahvé, tiemblan los pueblos.
-
-Sentado se ha sobre los querubines;
-
-se conmueve la tierra.
-
-2Grande es Yahvé en Sión,
-
-y excelso sobre todos los pueblos.
-
-3Celebrado sea tu Nombre, grande y tremendo:
-
-¡Santo es!
-
-4[5145]Y sea el honor para el Rey que ama la justicia.
-
-Tú has establecido lo que es recto;
-
-Tú ejerces la justicia y el imperio en Jacob.
-
-5[5146]Ensalzad a Yahvé nuestro Dios,
-
-y ante el escabel de sus pies, postraos:
-
-¡Santo es!
-
-6[5147]Moisés y Aarón
-
-están entre sus sacerdotes,
-
-y Samuel
-
-entre los que invocan su Nombre;
-
-invocaban a Yahvé
-
-y Él los escuchaba.
-
-7En la columna de nubes
-
-les hablaba;
-
-oían sus mandamientos,
-
-y la Ley que les dio.
-
-8[5148]Oh Yahvé Dios nuestro,
-
-Tú los escuchaste;
-
-fuiste para ellos un Dios propicio,
-
-bien que castigaste sus infracciones.
-
-9Ensalzad a Yahvé nuestro Dios,
-
-y postraos ante su santo monte,
-
-porque Santo es Yahvé, Dios nuestro.
-
-SALMO 99 (100)
-Himno de ingreso al Templo
-
-1 Salmo en acción de gracias.
-
-2[5149]Aclamad a Yahvé, tierras todas,
-
-servid a Yahvé con alegría,
-
-llegaos a su presencia con exultación.
-
-3[5150]Sabed que Yahvé es Dios.
-
-Él nos hizo y somos de Él,
-
-pueblo suyo y ovejas de su aprisco.
-
-4[5151]Entrad por sus puertas alabándole,
-
-en sus atrios, con himnos.
-
-Ensalzadle, bendecid su Nombre.
-
-5[5152]Porque Yahvé es bueno;
-
-su misericordia es eterna,
-
-y su fidelidad,
-
-de generación en generación.
-
-SALMO 100 (101)
-Modelo de príncipe
-
-1[5153]Salmo de David.
-
-Quiero cantar la bondad y la justicia,
-
-un Salmo para Ti, Yahvé.
-
-2[5154]Quiero seguir el camino recto.
-
-— ¡Oh, cuando vendrás a mí!—
-
-Procederé con recto corazón
-
-dentro de mi casa.
-
-3Jamás pondré la mira
-
-en cosa injusta;
-
-aborrezco la conducta
-
-del que prevarica;
-
-no andará conmigo.
-
-4El corazón perverso
-
-estará lejos de mí;
-
-lo malo no quiero ni conocerlo.
-
-5[5155]Al que solapadamente
-
-calumnia a su prójimo
-
-lo destruiré.
-
-Al de mirada altiva y corazón inflado
-
-no lo soportaré.
-
-6[5156]Mis ojos buscarán
-
-a los hombres fieles del país,
-
-para tenerlos cerca de mí.
-
-El que ande por el camino recto,
-
-ese será mi ministro.
-
-7[5157]No habitará dentro de mi casa
-
-el hombre doble,
-
-y el mentiroso
-
-no durará en mi presencia.
-
-8[5158]Exterminaré cada día
-
-a todos los pecadores del país,
-
-a fin de extirpar
-
-a todos los obradores de iniquidad
-
-en la ciudad de Yahvé.
-
-SALMO 101 (102)
-Plegaria por la restauración de Jerusalén
-
-1[5159]Oración de un afligido que desfallece y derrama su angustia ante el Señor.
-
-2[5160]Escucha, Yahvé, mi oración,
-
-y llegue a Ti mi clamor.
-
-3No quieras esconderme tu rostro
-
-en el día de mi desolación;
-
-inclina hacia mí tu oído;
-
-apresúrate a atenderme
-
-en el día de mi llamado.
-
-4[5161]Porque mis días se desvanecen como el humo,
-
-y mis huesos arden como fuego.
-
-5[5162]Abrasado, como la hierba,
-
-se seca mi corazón;
-
-me olvido de comer mi pan.
-
-6A fuerza de gemir y llorar
-
-se me pega la piel a los huesos.
-
-7[5163]Soy como el pelícano del desierto,
-
-hecho semejante al búho entre las ruinas.
-
-8No puedo conciliar el sueño, y me lamento
-
-como el ave solitaria sobre el tejado:
-
-9Mis enemigos me insultan sin cesar,
-
-y los que se enfurecen contra mí,
-
-toman mi nombre como imprecación.
-
-10[5164]Mi comida es ceniza en vez de pan,
-
-y mezclo mi bebida con las lágrimas,
-
-11[5165]a causa, de tu indignación y tu furor,
-
-porque me arrojaste
-
-después de levantarme en alto.
-
-12[5166]Mis días son como la sombra que se alarga;
-
-y, como la hierba, voy secándome,
-
-13[5167]mas Tú, Yahvé, permaneces siempre,
-
-y tu Nombre es de generación en generación.
-
-14[5168]Tú te levantarás y serás propicio a Sión,
-
-porque tiempo es ya de que te apiades de ella;
-
-a llegado la hora.
-
-15[5169]Ya tus siervos aman sus piedras,
-
-sienten compasión de sus ruinas.
-
-16[5170]Así, oh Yahvé, los gentiles
-
-reverenciarán tu Nombre,
-
-y tu gloria todos los reyes de la tierra,
-
-17porque Yahvé habrá restaurado a Sión,
-
-y Él se mostrará en su gloria.
-
-18[5171]Se volverá hacia la oración de los despojados,
-
-y no despreciará sus ruegos.
-
-19[5172]Escríbase esto para la generación venidera,
-
-para que el pueblo
-
-que va a nacer alabe a Yah.
-
-20Porque Yahvé se habrá inclinado
-
-desde su excelso santuario,
-
-desde el cielo habrá mirado a la tierra,
-
-21[5173]para escuchar el gemido de los cautivos
-
-y librar a los destinados a la muerte,
-
-22[5174]a fin de que en Sión sea pregonado
-
-el Nombre de Yahvé,
-
-y en Jerusalén su alabanza,
-
-23cuando allí se congreguen a una los pueblos
-
-y los reinos, para servir a Yahvé.
-
-24[5175]Él quebrantó mis fuerzas a medio camino;
-
-acortó mis días.
-
-25Y yo clamo: Oh Dios mío,
-
-no me quites de esta vida
-
-en la mitad de mis días,
-
-Tú, cuyos años duran
-
-por todas las generaciones.
-
-26[5176]En el principio cimentaste la tierra,
-
-y obra de tus manos es el cielo.
-
-27[5177]Ellos van pasando,
-
-mas Tú permanecerás;
-
-todo en ellos se envejece
-
-como una vestidura;
-
-Tú los mudarás
-
-como quien cambia de vestido,
-
-y quedarán cambiados.
-
-28Mas Tú eres siempre el mismo,
-
-y tus años no tienen fin.
-
-29[5178]Los hijos de tus siervos morarán seguros,
-
-y su posteridad será estable delante de Ti.
-
-SALMO 102 (103)
-Elogio del Padre de las misericordias
-
-1[5179]De David.
-
-Bendice a Yahvé, alma mía,
-
-y todo cuanto hay en mí
-
-bendiga su santo Nombre.
-
-2[5180]Bendice a Yahvé, alma mía,
-
-y no quieras olvidar todos sus favores.
-
-3Es Él quien perdona todas tus culpas,
-
-quien sana todas tus dolencias.
-
-4Él rescata de la muerte tu vida,
-
-Él te corona de bondad y misericordia.
-
-5[5181]Él harta de bienes tu vida;
-
-tu juventud se renueva
-
-como la del águila.
-
-6[5182]Yahvé practica la rectitud
-
-y a todos los oprimidos hace justicia.
-
-7[5183]Hizo conocer sus caminos a Moisés
-
-y a los hijos de Israel sus hazañas.
-
-8[5184]Misericordioso y benigno es Yahvé,
-
-tarde en airarse y lleno de clemencia.
-
-9No está siempre acusando,
-
-ni guarda rencor para siempre.
-
-10No nos trata conforme a nuestros pecados,
-
-ni nos paga según nuestras iniquidades.
-
-11[5185]Pues cuanto se alza el cielo sobre la tierra,
-
-tanto prevalece su misericordia
-
-para los que le temen.
-
-12[5186]Cuanto dista el Oriente del Occidente,
-
-tan lejos echa de nosotros nuestros delitos.
-
-13[5187]Como un padre que se apiada de sus hijos,
-
-así Yahvé se compadece
-
-de los que le temen.
-
-14[5188]Porque Él sabe de qué estamos formados:
-
-Él recuerda que somos polvo.
-
-15[5189]Los días del hombre son como el heno;
-
-como la flor del campo, así florece.
-
-16[5190]Apenas le roza el viento,
-
-y ya no existe;
-
-y ni siquiera se conoce el espacio que ocupó.
-
-17[5191]Mas la misericordia de Yahvé permanece
-
-[desde la eternidad y] hasta la eternidad,
-
-con los que le temen,
-
-y su protección, hasta los hijos de los hijos,
-
-18[5192]de los que conservan su alianza
-
-y recuerdan sus preceptos para cumplirlos.
-
-19[5193]Yahvé tiene establecido su trono en el cielo,
-
-y su Reino gobernará el universo.
-
-20Bendecid a Yahvé todos sus ángeles,
-
-héroes poderosos
-
-que ejecutáis sus mandatos
-
-en cumplimiento de su palabra.
-
-21[5194]Bendecid a Yahvé todos sus ejércitos,
-
-ministros suyos que hacéis su voluntad.
-
-22Bendecid a Yahvé todas sus obras,
-
-en todos los lugares de su imperio.
-
-Bendice tú, alma mía, a Yahvé.
-
-SALMO 103 (104)
-La obra de Dios en la creación
-
-1[5195] ¡Bendice a Yahvé, alma mía!
-
-¡Yahvé, Dios mío, cuán grande eres!
-
-Te has vestido de majestad y de belleza,
-
-2[5196]envuelto en luz como en un manto.
-
-Extendiste el cielo como un cortinaje;
-
-3[5197]construiste tu morada superior sobre las aguas,
-
-haces de las nubes tu carroza,
-
-cabalgas sobre las alas del viento.
-
-4[5198]A los vientos haces tus mensajeros,
-
-y ministros tuyos los relámpagos centellantes.
-
-5Cimentaste la tierra sobre sus bases
-
-de suerte que no vacile jamás.
-
-6[5199]La habías cubierto con el océano
-
-como de un manto;
-
-las aguas se posaban sobre los montes.
-
-7[5200]Mas huyeron a un grito tuyo,
-
-—temblaron a la voz de tu trueno,
-
-8surgieron los montes,
-
-bajaron los valles—,
-
-hasta el lugar que les habías destinado.
-
-9[5201]Les fijaste un límite que no traspasarán,
-
-para que no vuelvan a cubrir la tierra.
-
-10Haces correr en arroyos las fuentes
-
-que brotan entre los montes,
-
-11para que beban
-
-todas las bestias del campo
-
-y sacien su sed los asnos monteses.
-
-12[5202]A sus orillas posan las aves del cielo,
-
-que cantan entre el ramaje.
-
-13Desde tu morada riegas los montes;
-
-la tierra se sacia del fruto de tus obras.
-
-14[5203]Produces el heno para los ganados,
-
-y las plantas que sirven al hombre,
-
-para que saque pan de la tierra,
-
-15[5204]y vino que alegre el corazón del hombre;
-
-para que el aceite dé brillo a su rostro
-
-y el pan vigorice su corazón.
-
-16Satúranse los árboles de Yahvé,
-
-los cedros del Líbano que Él plantó.
-
-17Las aves anidan en ellos;
-
-en los abetos tiene su casa la cigüeña.
-
-18Los altos montes dan refugio a los antílopes,
-
-las peñas, a los conejos.
-
-19[5205]Para señalar los tiempos,
-
-hiciste la luna;
-
-el sol conoce la hora de su ocaso.
-
-20Mandas las tinieblas, y viene la noche;
-
-en ellas rondan
-
-todas las fieras de las selvas.
-
-21[5206]Los leoncillos rugen en pos de la presa,
-
-e imploran de Dios el sustento;
-
-22al salir el sol se retiran,
-
-y se tienden en sus madrigueras;
-
-23[5207]y el hombre acude a su trabajo,
-
-a su labranza, hasta la tarde.
-
-24[5208] ¡Cuán variadas son tus obras, oh Yahvé!
-
-Todo lo hiciste con sabiduría;
-
-llena está la tierra de tus riquezas.
-
-25Mira el mar, grande y anchuroso:
-
-allí un hormiguear sin número,
-
-de animales pequeños y grandes.
-
-26[5209]Allí transitan las naves,
-
-y ese leviatán que creaste
-
-para que en él juguetease.
-
-27[5210]Todos esperan de Ti
-
-que a su tiempo les des el alimento.
-
-28Se lo das y ellos lo toman;
-
-al abrir Tu la mano se hartan de bienes.
-
-29[5211]Si Tú escondes el rostro, desfallecen;
-
-si retiras Tú su aliento, expiran,
-
-y vuelven a su polvo.
-
-30Cuando envías tu soplo, son creados,
-
-y renuevas la faz de la tierra.
-
-31[5212]Sea eterna la gloria de Yahvé;
-
-gócese Yahvé en sus obras.
-
-32Mira Él a la tierra, y ella tiembla;
-
-toca Él los montes, y humean.
-
-33[5213]A Yahvé cantaré mientras viva;
-
-tañeré salmos a mi Dios
-
-mientras yo tenga el ser.
-
-34Séanle gratos mis acentos!
-
-Yo en Yahvé me gozaré.
-
-35[5214] ¡Sean quitados de la tierra los pecadores
-
-y no haya más impíos!
-
-36¡Bendice, alma mía, a Yahvé!
-
-¡Hallelú Yah!
-
-SALMO 104 (105)
-Yahvé, fiel con su pueblo ingrato
-
-1[5215]Celebrad a Yahvé,
-
-aclamad su Nombre,
-
-proclamad entre los gentiles sus proezas.
-
-2Cantadle, entonadle salmos,
-
-relatad todas sus obras maravillosas.
-
-3[5216]Gloriaos de su santo Nombre;
-
-alégrese el corazón
-
-de los que buscan a Yahvé.
-
-4Fijaos en Yahvé y su fortaleza,
-
-buscad sin cesar su rostro.
-
-5[5217]Acordaos de las maravillas que hizo,
-
-de sus prodigios
-
-y de las sentencias de su boca,
-
-6[5218]vosotros, descendencia de Abrahán, su siervo,
-
-hijos de Jacob, su escogido.
-
-7El mismo Yahvé es nuestro Dios;
-
-sus juicios prevalecen en toda la tierra.
-
-8[5219]Se acuerda siempre de su alianza,
-
-promesa que hizo por mil generaciones;
-
-9del pacto concertado con Abrahán,
-
-del juramento que hizo a Isaac,
-
-10que confirmó a Jacob, como firme decreto,
-
-y como testamento eterno a Israel,
-
-11diciendo:
-
-“A ti te daré la tierra de Canaán,
-
-como porción hereditaria vuestra.”
-
-12[5220]Cuando eran pocos en número,
-
-muy pocos, y peregrinos en aquella tierra,
-
-13y vagaban de nación en nación,
-
-y de este reino a aquel pueblo,
-
-14[5221]a nadie permitió que los oprimiese,
-
-y por causa de ellos castigó a reyes:
-
-15[5222] “Guardaos de tocar a mis ungidos,
-
-ni hacer mal a mis profetas.”
-
-16Atrajo el hambre sobre aquella tierra,
-
-y se retiró toda provisión de pan.
-
-17[5223]Envió delante de ellos a un varón:
-
-a José vendido como esclavo.
-
-18[5224]Le habían atado los pies con grillos,
-
-y encerrado en hierro su cuello,
-
-19hasta que se cumplió lo que él predijo,
-
-y la Palabra del Señor lo acreditó.
-
-20Mandó desatarlo el rey,
-
-el soberano de aquellos pueblos,
-
-y lo libertó.
-
-21[5225]Lo constituyó señor de su propia casa,
-
-y príncipe de todos sus dominios,
-
-22[5226]para que a su arbitrio
-
-instruyese a los magnates
-
-y enseñara sabiduría a los ancianos.
-
-23[5227]Entonces entró Israel en Egipto;
-
-Jacob fue peregrino en tierra de Cam.
-
-24[5228]Y Él multiplicó a su pueblo
-
-en gran manera,
-
-y le hizo más poderoso
-
-que sus adversarios.
-
-25Mudó a estos el corazón
-
-para que odiasen a su pueblo,
-
-y urdiesen tramas contra sus siervos.
-
-26[5229]Entonces envió a Moisés su siervo,
-
-a Aarón, el elegido,
-
-27quienes obraron entre ellos sus maravillas
-
-y prodigios en la tierra de Cam.
-
-28[5230]Mandó tinieblas, y se hizo oscuridad,
-
-mas se resistieron contra sus palabras.
-
-29Convirtió sus aguas en sangre
-
-e hizo morir sus peces.
-
-30Su tierra brotó ranas
-
-hasta en la cámara de sus reyes.
-
-31Habló, y vinieron enjambres de moscas
-
-y mosquitos por todos sus confines.
-
-32Por lluvia les mandó granizo,
-
-y fuego que inflamaba su tierra,
-
-33y destruyó sus viñas y sus higueras,
-
-y destrozó los árboles en su territorio.
-
-34A una orden suya vinieron langostas,
-
-y orugas sin número,
-
-35que devoraron toda la hierba de sus prados,
-
-y comieron los frutos de sus campos.
-
-36[5231]Y dio muerte
-
-a todo primogénito en su tierra,
-
-las primicias de todo su vigor.
-
-37[5232]Mas a ellos los sacó con oro y plata,
-
-sin un enfermo en todas sus tribus.
-
-38Alegráronse los egipcios de su salida,
-
-pues los había sobrecogido el terror.
-
-39[5233]Extendió Él una nube para cubrirlos,
-
-y un fuego que resplandeciese de noche.
-
-40Pidieron, y les envió codornices;
-
-y los sació con pan del cielo.
-
-41Hendió la peña, y brotaron aguas,
-
-que corrieron por el desierto
-
-como arroyos.
-
-42Porque se acordó de su santa palabra,
-
-que había dado a Abrahán, su siervo.
-
-43Así sacó a su pueblo con alegría,
-
-con júbilo a sus escogidos.
-
-44[5234]Y les dio las tierras de los gentiles
-
-y poseyeron los bienes de los pueblos,
-
-45[5235]para que guardaran sus mandamientos
-
-y obedecieran sus leyes.
-
-¡Hallelú Yah!
-
-SALMO 105 (106)
-Israel, ingrato con su Dios fiel
-
-1[5236]Hallelú Yah.
-
-Celebrad a Yahvé porque es bueno,
-
-porque su misericordia es para siempre.
-
-2[5237] ¿Quién dirá las hazañas de Yahvé?
-
-¿Pregonará todas sus alabanzas?
-
-3Bienaventurados
-
-los que conservan sus estatutos
-
-y practican la justicia en todo tiempo.
-
-4[5238]Señor, acuérdate de mí
-
-cuando muestres tu bondad
-
-para con tu pueblo;
-
-visítame cuando operes la salvación
-
-5[5239]para que yo vea la felicidad de tus escogidos,
-
-me goce del gozo de tu pueblo
-
-y me gloríe con tu herencia.
-
-6[5240]Hemos pecado lo mismo que nuestros padres;
-
-obramos el mal, fuimos impíos.
-
-7[5241]Nuestros padres en Egipto
-
-no tuvieron en cuenta tus prodigios;
-
-no se acordaron de la multitud de tus favores,
-
-sino que se rebelaron contra el Altísimo
-
-junto al Mar Rojo.
-
-8[5242]Pero Él los salvó a causa de su Nombre,
-
-para dar a conocer su poderío.
-
-9lncrepó al Mar Rojo y lo secó,
-
-y los condujo por entre las aguas
-
-como por un llano.
-
-10Los sacó de las manos de sus aborrecedores,
-
-y los rescató del poder del enemigo.
-
-11Las aguas cubrieron a sus adversarios,
-
-no quedó ni uno de ellos.
-
-12Entonces creyeron a Sus palabras
-
-y cantaron Sus alabanzas.
-
-13[5243]Pronto olvidaron las obras de Él,
-
-no aguardaron sus designios,
-
-14[5244]sino que en el desierto se entregaron
-
-a su propia concupiscencia
-
-y en la soledad provocaron a Dios.
-
-15[5245]Él les concedió lo que pedían,
-
-pero les envió la consunción.
-
-16[5246]Luego envidiaron a Moisés en el campamento,
-
-y a Aarón, el santo de Yahvé.
-
-17Y la tierra se abrió, y se tragó a Datan,
-
-y cubrió a la facción de Abirón.
-
-18Y se encendió contra su banda un fuego;
-
-la llama devoró a los inicuos.
-
-19[5247]Hicieron un becerro en Horeb,
-
-y adoraron una estatua de fundición;
-
-20trocando su Gloria
-
-por la figura del buey harto de heno,
-
-21olvidaron a Dios, que los había salvado
-
-y que había hecho portentos en Egipto,
-
-22[5248]cosas maravillosas en la tierra de Cam,
-
-cosas estupendas junto al Mar Rojo.
-
-23[5249]Los habría deshecho,
-
-si Moisés, escogido por Él,
-
-no se hubiese puesto en la brecha frente a Él,
-
-para apartar su furor
-
-a fin de que no los exterminase.
-
-24[5250]Y despreciaron la tierra codiciable,
-
-no dando crédito a su palabra;
-
-25y murmuraron en sus tiendas,
-
-no escucharon la voz de Yahvé.
-
-26Mas Él con mano alzada les juró
-
-que los haría caer en el desierto;
-
-27[5251]que haría caer a su descendencia
-
-entre los gentiles
-
-y los dispersaría por las tierras.
-
-28[5252]Y se consagraron a Baalfegor,
-
-y comieron de las víctimas
-
-inmoladas a dioses muertos.
-
-29[5253]Con tales delitos le provocaron a ira,
-
-y una plaga cayó sobre ellos.
-
-30[5254]Pero se irguió Fineés, y ejerció la venganza,
-
-y la plaga cesó.
-
-31Y esto le fue imputado a justicia
-
-por todas sus generaciones
-
-para siempre jamás.
-
-32[5255]Y lo irritaron
-
-juntó a las aguas de Meribá;
-
-y a Moisés le fue mal por culpa de ellos;
-
-33porque ellos exacerbaron su espíritu,
-
-y él dejó que sus labios
-
-hablaran inconsideradamente.
-
-34[5256]No destruyeron los pueblos
-
-que Dios les había señalado;
-
-35sino que se mezclaron con los gentiles,
-
-y aprendieron sus obras,
-
-36y adoraron sus ídolos,
-
-que fueron para ellos un lazo;
-
-37[5257]e inmolaron sus hijos
-
-y sus hijas a los demonios,
-
-38derramando sangre inocente,
-
-la sangre de sus hijos y de sus hijas,
-
-que sacrificaron a los ídolos de Canaán;
-
-y la tierra quedó profanada por la sangre.
-
-39[5258]Se contaminaron por sus actos
-
-y fornicaron con sus propias obras.
-
-40[5259]Se encendió entonces la ira de Yahvé
-
-contra su pueblo,
-
-y abominó de su herencia;
-
-41los entregó en manos de los gentiles,
-
-y fueron dominados por quienes los odiaban.
-
-42Oprimidos por sus enemigos,
-
-tuvieron que doblegarse ante ellos.
-
-43[5260]Muchas veces Él los salvó,
-
-mas ellos lo exasperaron por sus empeños,
-
-y se hundieron más en su iniquidad.
-
-44Con todo, al percibir sus lamentos,
-
-fijaba Él los ojos en sus tribulaciones;
-
-45en favor de ellos se acordaba de su alianza,
-
-y se arrepentía
-
-según la grandeza de su misericordia.
-
-46[5261]Y los hacía objeto de la compasión
-
-de aquellos que los tenían en cautiverio.
-
-47[5262]Sálvanos, Yahvé, Dios nuestro,
-
-y congréganos de en medio de las naciones,
-
-para que celebremos tu santo Nombre
-
-y nos gloriemos en tu alabanza.
-
-48[5263]Bendito sea Yahvé, Dios de Israel,
-
-de siglo en siglo.
-
-Y todo el pueblo diga: Amén.
-
-¡Hallelú Yah!
-QUINTO LIBRO DE LOS SALMOS
-
-SALMO 106 (107)
-Es eterna su misericordia
-
-1[5264]Celebrad a Yahvé porque es bueno,
-
-porque su misericordia
-
-permanece para siempre.
-
-2[5265]Así digan los rescatados de Yahvé,
-
-los que Él redimió
-
-de manos del enemigo,
-
-3[5266]y a quienes Él ha congregado de las tierras
-
-del Oriente y del Occidente,
-
-del Norte y del Mediodía.
-
-4[5267]Erraban por el desierto, en la soledad,
-
-sin hallar camino a una ciudad donde morar.
-
-5Sufrían hambre y sed;
-
-su alma desfallecía en ellos.
-
-6Y clamaron a Yahvé en su angustia,
-
-y Él los sacó de sus tribulaciones.
-
-7Y los condujo por camino derecho,
-
-para que llegasen a una ciudad
-
-donde habitar.
-
-8[5268]Den gracias a Yahvé
-
-por su misericordia,
-
-y por sus maravillas
-
-en favor de los hijos de los hombres.
-
-9Porque sació al alma sedienta,
-
-y a la hambrienta colmó de bienes.
-
-10[5269]Moraban en tinieblas y sombras,
-
-cautivos de la miseria y del hierro;
-
-11porque habían resistido a las palabras de Dios
-
-y despreciado el consejo del Altísimo.
-
-12Y Él humilló su corazón con trabajos;
-
-sucumbían y no había quien los socorriese.
-
-13Y clamaron a Yahvé en su angustia,
-
-y Él los sacó de sus tribulaciones.
-
-14Y los libró de las tinieblas y de las sombras,
-
-y rompió sus cadenas.
-
-15Den gracias a Yahvé
-
-por su misericordia,
-
-y por sus maravillas
-
-en favor de los hijos de los hombres;
-
-16porque Él rompió las puertas de bronce,
-
-e hizo pedazos los cerrojos de hierro.
-
-17[5270]Estaban enfermos a causa de su iniquidad,
-
-y afligidos a causa de sus delitos;
-
-18sintieron náuseas de todo alimento,
-
-y llegaron a las puertas de la muerte.
-
-19Y clamaron a Yahvé en su angustia,
-
-y Él los sacó de sus tribulaciones.
-
-20Envió su Palabra para sanarlos
-
-y arrancarlos de la perdición.
-
-21Den gracias a Yahvé
-
-por su misericordia,
-
-y por sus maravillas
-
-en favor de los hijos de los hombres,
-
-22[5271]y ofrezcan sacrificios de alabanza,
-
-y publiquen con júbilo sus obras.
-
-23[5272]Surcaban en naves el mar,
-
-traficando sobre las vastas ondas,
-
-24esos vieron las obras del Señor,
-
-y sus maravillas en el piélago.
-
-25Con Su palabra suscitó un viento borrascoso,
-
-que levantó las olas del mar;
-
-26subían hasta el cielo
-
-y descendían hasta el abismo,
-
-su alma desmayaba en medio de sus males.
-
-27Titubeaban y se tambaleaban como ebrios,
-
-y les fallaba toda su pericia.
-
-28Y clamaron a Yahvé en su angustia,
-
-y Él los sacó de sus tribulaciones.
-
-29Tornó el huracán en suave brisa,
-
-y las ondas del mar callaron.
-
-30Y se alegraron de que callasen,
-
-y los condujo al puerto deseado.
-
-31Den gracias a Yahvé por su misericordia,
-
-y por sus maravillas
-
-en favor de los hijos de los hombres.
-
-32Celébrenlo en la asamblea del pueblo,
-
-y en la reunión de los ancianos, cántenle.
-
-33[5273]Él convirtió los ríos en desierto,
-
-y los manantiales en árida tierra,
-
-34el suelo fructífero en un salobral,
-
-por la malicia de sus moradores.
-
-35[5274]Él mismo ha convertido el desierto en lago
-
-y la tierra árida en manantiales,
-
-36[5275]allí coloca a los hambrientos,
-
-y fundan una ciudad para habitarla.
-
-37Siembran los campos y plantan viñas,
-
-y obtienen de ellos los frutos.
-
-38Bendecidos por Él
-
-se multiplican en gran manera,
-
-y sus ganados no disminuyen nunca.
-
-39[5276]Aunque reducidos a pocos y despreciados,
-
-por el peso del infortunio y de la aflicción,
-
-40Aquel que derrama desprecio
-
-sobre los príncipes,
-
-y los hace errar por desiertos sin huellas,
-
-41ha levantado de la miseria al indigente,
-
-y hace las familias numerosas como rebaños.
-
-42[5277]Lo ven los justos y se alegran,
-
-y toda malicia cierra su boca.
-
-43[5278] ¿Quién es el sabio que considere estas cosas
-
-y comprenda las misericordias del Señor?
-
-SALMO 107 (108)
-Israel canta su esperanza
-
-1[5279]Cántico. Salmo. De David.
-
-2Mi corazón está pronto, oh Dios;
-
-quiero cantar y entonar salmos;
-
-mi alma está despierta.
-
-3Salterio y lira, despertaos;
-
-despiértese la aurora (a nuestro canto).
-
-4Te alabaré, Yahvé, entre los pueblos,
-
-te cantaré himnos ante las naciones.
-
-5[5280]Porque tu misericordia
-
-es más grande que los cielos,
-
-y tu fidelidad hasta las nubes.
-
-6[5281]Muéstrate excelso,
-
-oh Dios, sobre los cielos,
-
-y brille tu gloria sobre toda la tierra,
-
-7para que sean libertados los que Tú amas;
-
-socorre con tu diestra y escúchanos.
-
-8[5282]Lo dijo Dios por su santidad:
-
-“Triunfaré; repartiré a Siquem,
-
-y mediré el valle de Sucot.
-
-9Mía es la tierra de Galaad,
-
-mía la tierra de Manasés;
-
-Efraím es el yelmo de mi cabeza,
-
-y Judá, mi cetro;
-
-10Moab, la vasija de mi lavatorio;
-
-sobre Edom echaré mi calzado,
-
-sobre Filistea cantaré victoria.”
-
-11[5283] ¿Quién me conducirá a la ciudad inaccesible?
-
-¿Quién me llevará hasta Edom?
-
-12¿No serás Tú, oh Dios,
-
-que nos has rechazado
-
-y que ya no sales con nuestros ejércitos?
-
-13Ven en nuestro auxilio contra el adversario,
-
-porque vano es el concurso de los hombres.
-
-14Con Dios haremos proezas;
-
-Él hollará a nuestros enemigos.
-
-SALMO 108 (109)
-Oración imprecatoria contra los maldicientes
-
-1[5284]Al maestro de coro. De David. Salmo.
-
-Oh Dios, Gloria mía, no enmudezcas,
-
-2porque bocas impías y dolosas
-
-se han abierto contra mí
-
-y me hablan con lengua pérfida.
-
-3[5285]Me asedian con odiosos discursos,
-
-me combaten sin motivo.
-
-4[5286]Por lo que me debieran amar, me acusan,
-
-y yo hago oración.
-
-5[5287]Me devuelven mal por bien,
-
-y odio a cambio de mi amor.
-
-6[5288]Ponlo bajo la mano de un impío,
-
-con el acusador a su derecha.
-
-7[5289]Cuando se le juzgue, salga condenado,
-
-y su oración sea pecado.
-
-8[5290]Acórtense sus días,
-
-y otro reciba su ministerio.
-
-9Que sus hijos queden huérfanos
-
-y viuda su mujer.
-
-10Anden sus hijos mendigando, errantes,
-
-arrojados de sus casas destruidas.
-
-11El usurero aseche todos sus bienes,
-
-y sea presa de los extraños
-
-el fruto de su trabajo.
-
-12Nadie le muestre misericordia
-
-y ninguno se compadezca de sus huérfanos.
-
-13Sea su posteridad entregada al exterminio,
-
-extíngase su nombre
-
-en la primera generación.
-
-14[5291]La culpa de sus padres
-
-sea recordada [por Yahvé],
-
-y el pecado de su madre no se borre.
-
-15Estén siempre ante los ojos de Yahvé,
-
-para que Él quite de la tierra su memoria;
-
-16[5292]pues no pensó en usar de misericordia,
-
-sino que persiguió al infortunado, al pobre,
-
-al afligido de corazón,
-
-para darle el golpe de muerte.
-
-17[5293]Amó la maldición. ¡Cáigale encima!
-
-No quiso la bendición. ¡Apártese de él!
-
-18Se revistió de maldición como de una túnica;
-
-y le penetró como agua en sus entrañas,
-
-y como aceite en sus huesos.
-
-19Séale como manto que lo cubra,
-
-y como cinto con que siempre se ciña.
-
-20[5294]Tal pago tengan [de Yahvé]
-
-los que me acusan
-
-y los que profieren maldiciones contra mí.
-
-21[5295]Mas Tú, Yahvé, Señor mío, haz conmigo
-
-según la gloria de tu Nombre;
-
-sálvame,
-
-pues tu bondad es misericordiosa.
-
-22[5296]Porque yo soy un infortunado y pobre,
-
-y llevo en mí el corazón herido.
-
-23Como sombra que declina,
-
-me voy desvaneciendo;
-
-soy arrojado como la langosta.
-
-24Mis rodillas vacilan,
-
-debilitadas por el ayuno,
-
-y mi carne, enflaquecida, desfallece.
-
-25Y he venido a ser el escarnio de ellos;
-
-me miran, y hacen meneos de cabeza.
-
-26Ayúdame, Yahvé, Dios mío,
-
-sálvame conforme a tu misericordia.
-
-27Y sepan que aquí está tu mano,
-
-y que eres Tú, Yahvé, quien lo ha hecho.
-
-28[5297]Que ellos maldigan, pero Tú bendíceme.
-
-Véanse confundidos
-
-los que contra mí se levantan,
-
-mas alégrese tu siervo.
-
-29Sean cubiertos de ignominia
-
-los que me acusan,
-
-y envueltos en su confusión
-
-como en un manto.
-
-30[5298]Mi boca rebosará de alabanzas a Yahvé;
-
-en medio de la gran multitud
-
-cantaré sus glorias;
-
-31[5299]porque Él se mantuvo
-
-a la derecha de este pobre
-
-para salvarlo de sus jueces.
-
-SALMO 109 (110)
-Triunfo de Cristo rey y Sacerdote
-
-1[5300]Salmo de David.
-
-Oráculo de Yahvé a mi Señor:
-
-“Siéntate a mi diestra,
-
-hasta que Yo haga de tus enemigos
-
-el escabel de tus pies.”
-
-2[5301]El cetro de tu poder
-
-lo entregará Yahvé (diciéndote):
-
-“Desde Sión impera
-
-en medio de tus enemigos.”
-
-3[5302]Tuya será la autoridad
-
-en el día de tu poderío,
-
-en los resplandores de la santidad;
-
-Él te engendró del seno antes del lucero.
-
-4[5303]Yahvé lo juró y no se arrepentirá:
-
-“Tú eres Sacerdote para siempre
-
-a la manera de Melquisedec.”
-
-5[5304]Mi Señor está a la diestra de (Yahvé).
-
-En el día de su ira
-
-destrozará a los reyes.
-
-6[5305]Juzgará las naciones,
-
-amontonará cadáveres,
-
-aplastará la cabeza de un gran país.
-
-7[5306]Beberá del torrente en el camino;
-
-por eso erguirá la cabeza.
-
-SALMO 110 (111)
-Memorables son las obras del Señor
-
-1[5307]¡Hallelú Yah!
-
-Quiero honrar a Yahvé
-
-con todo mi corazón,
-
-en el coro de los justos y en la asamblea.
-
-2[5308]Grandes son las obras de Yahvé:
-
-escudríñenlas los que las disfrutan.
-
-3[5309]Su obrar es todo majestad y esplendor,
-
-y su justicia permanece para siempre.
-
-4Hizo sus maravillas
-
-para ser recordadas.
-
-Yahvé es benigno y compasivo;
-
-5[5310]Él da alimento a los que le temen;
-
-para siempre se acordará de su alianza.
-
-6[5311]A su pueblo ha mostrado
-
-el poder de sus obras,
-
-dándole la herencia de las naciones.
-
-7Fieles y justas son las obras de sus manos.
-
-Sus preceptos son todos infalibles,
-
-8establecidos por los siglos, para siempre,
-
-dictados con firmeza y justicia.
-
-9[5312]Él ha enviado la redención a su pueblo,
-
-ha ratificado su alianza para siempre;
-
-santo y terrible es su Nombre.
-
-10[5313]El principio de la sabiduría
-
-es el temor de Yahvé.
-
-Prudentes son todos los que lo adoran,
-
-Su alabanza permanece para siempre.
-
-SALMO 111 (112)
-Bienaventuranzas del justo
-
-1[5314]¡Hallelú Yah!
-
-Dichoso el hombre que teme a Yahvé,
-
-en sus preceptos halla el sumo deleite.
-
-2[5315]Su descendencia
-
-será poderosa sobre la tierra;
-
-la estirpe de los rectos es bendecida.
-
-3En su casa hay bienestar y abundancia,
-
-y su justicia permanece para siempre.
-
-4[5316]Para los rectos
-
-brilla una luz en las tinieblas:
-
-el Clemente, el Misericordioso, el Justo.
-
-5[5317]Bien le va al hombre
-
-que se compadece y presta;
-
-reglará sus negocios con discreción;
-
-6nunca resbalará;
-
-el justo quedará en memoria eterna.
-
-7[5318]No temerá malas nuevas;
-
-su corazón está firme,
-
-confiado en Yahvé.
-
-8Su ánimo es constante, impávido,
-
-hasta ver confundidos a sus adversarios.
-
-9[5319]Distribuye y da a los pobres largamente;
-
-su justicia permanece para siempre,
-
-su triunfo será exaltado con gloria.
-
-10Lo verá el impío y se enfurecerá,
-
-se consumirá rechinando los dientes.
-
-Estéril será la envidia de los pecadores.
-
-SALMO 112 (113)
-Cómo el Altísimo exalta a los humildes
-
-1[5320]¡Hallelú Yah!
-
-Alabad, siervos de Yahvé,
-
-alabad el Nombre de Yahvé.
-
-2Sea bendito el Nombre de Yahvé,
-
-desde ahora y para siempre.
-
-3[5321]Desde el nacimiento del sol hasta su ocaso
-
-sea ensalzado el Nombre de Yahvé.
-
-4[5322]Excelso es Yahvé
-
-sobre todas las naciones,
-
-sobre los cielos, su gloria.
-
-5¿Quién hay en los cielos y en la tierra,
-
-comparable al Señor Dios nuestro,
-
-que tiene su trono en las alturas
-
-6y se inclina para mirar?
-
-7[5323]Alza del polvo al desvalido
-
-y desde el estiércol exalta al pobre
-
-8para sentarlo con los nobles,
-
-entre los príncipes de su pueblo.
-
-9Él hace que la estéril viva en hogar,
-
-madre gozosa de hijos.
-
-SALMO 113A (114)
-Majestad del Libertador de Israel
-
-1[5324]¡Hallelú Yah!
-
-Cuando Israel salió de Egipto,
-
-—la casa de Jacob
-
-de entre un pueblo bárbaro—
-
-2[5325]Judá vino a ser su santuario,
-
-Israel su imperio.
-
-3[5326]El mar, al ver, huyó;
-
-el Jordán volvió atrás.
-
-4[5327]Los montes saltaron como carneros,
-
-los collados como corderillos.
-
-5¿Qué tienes, mar, para huir
-
-y tú, Jordán, para volver atrás?
-
-6¿Montes, para saltar como carneros;
-
-collados, como corderillos?
-
-7[5328]Tiembla, oh tierra,
-
-ante la faz del Señor,
-
-ante la faz del Dios de Jacob,
-
-8[5329]que convierte la peña en estanque,
-
-la roca en fuente de aguas.
-
-SALMO 113B (115)
-Israel alabe a su Dios
-
-1[5330]No a nosotros, Yahvé, no a nosotros,
-
-sino a tu Nombre da la gloria
-
-por tu misericordia y tu fidelidad.
-
-2Por qué habrían de decir los gentiles:
-
-“¿Dónde está el Dios de estos?”
-
-3[5331]El Dios nuestro está en el cielo;
-
-Él hace todo cuanto quiere.
-
-4[5332]Los ídolos de aquellos
-
-son plata y oro,
-
-hechura de mano de hombre:
-
-5tienen boca, pero no hablan;
-
-tienen ojos, mas no ven;
-
-6tienen orejas y no oyen;
-
-tienen narices y no huelen;
-
-7tienen manos y no palpan,
-
-tienen pies y no andan;
-
-y de su garganta no sale voz.
-
-8Semejantes a ellos serán quienes los hacen,
-
-quienquiera confía en ellos.
-
-9La casa de Israel confía en Yahvé;
-
-Él es su auxilio y su escudo.
-
-10[5333]La casa de Aarón confía en Yahvé;
-
-Él es su auxilio y su escudo.
-
-11Los temerosos de Yahvé confían en Yahvé;
-
-Él es su auxilio y su escudo.
-
-12[5334]Yahvé se acuerda de nosotros y nos bendecirá:
-
-bendecirá a la casa de Israel,
-
-bendecirá a la casa de Aarón.
-
-13Bendecirá a los que temen a Yahvé,
-
-tanto a pequeños como a grandes.
-
-14Yahvé os multiplicará
-
-a vosotros y a vuestros hijos.
-
-15Sois benditos del Señor
-
-que hizo el cielo y la tierra.
-
-16[5335]El cielo es cielo de Yahvé;
-
-mas dio la tierra a los hijos de los hombres.
-
-17[5336]Los muertos no alaban a Yahvé,
-
-ninguno de los que bajan al sepulcro.
-
-18Nosotros, en cambio, bendecimos a Yah,
-
-desde ahora y para siempre.
-
-SALMO 114 (116, 1-9)
-Acción de gracias del salmista
-
-1[5337]¡Hallelú Yah!
-
-Yo lo amo, porque Yahvé escucha
-
-mi voz, mi súplica;
-
-2porque inclinó hacia mí su oído
-
-el día en que lo invoqué.
-
-3[5338]Me habían rodeado
-
-los lazos de la muerte,
-
-vinieron sobre mí
-
-las angustias del sepulcro;
-
-caí en la turbación y en el temor.
-
-4[5339]Pero invoqué el Nombre de Yahvé:
-
-¡Oh Yahvé, salva mi vida!
-
-5Yahvé es benigno y justo;
-
-sí, nuestro Dios es misericordioso.
-
-6[5340]Yahvé cuida de los sencillos;
-
-yo era miserable y Él me salvó.
-
-7Vuelve, alma mía, a tu sosiego,
-
-porque Yahvé te ha favorecido.
-
-8[5341]Puesto que Él ha arrancado
-
-mi vida de la muerte,
-
-mis ojos del llanto, mis pies de la caída,
-
-9[5342]caminaré delante de Yahvé
-
-en la tierra de los vivientes.
-
-SALMO 115 (116, 10-19)
-¿Qué podemos dar al Señor?
-
-(10) 1[5343]Yo tenía confianza
-
-aun cuando hablé diciendo:
-
-“Grande es mi aflicción”,
-
-(11) 2[5344]y exclamando en mi angustia:
-
-“Todo hombre es mentira.”
-
-(12) 3[5345]¿Qué daré a Yahvé
-
-por todo lo que Él me ha dado?
-
-(13) 4[5346]Tomaré la copa de la salud
-
-y publicaré el Nombre de Yahvé.
-
-(14) 5[Cumpliré los votos hechos a Yahvé
-
-en presencia de todo su pueblo.]
-
-(15) 6[5347]Es cosa grave delante de Yahvé
-
-la muerte de sus fieles.
-
-(16) 7[5348]Oh Yahvé, yo soy tu siervo;
-
-siervo tuyo, hijo de tu esclava.
-
-Tú soltaste mis ataduras,
-
-(17) 8[5349]y yo te ofreceré un sacrificio de alabanza;
-
-publicaré el Nombre de Yahvé.
-
-(18) 9Cumpliré a Yahvé estos votos
-
-en presencia de todo su pueblo;
-
-(19) 10en los atrios de la casa de Yahvé,
-
-en medio de ti, oh Jerusalén.
-
-SALMO 116 (117)
-Alaben los gentiles al Señor
-
-1[5350]¡Hallelú Yah!
-
-Alabad a Yahvé, naciones todas,
-
-celebradle todos los pueblos;
-
-2[5351]pues su misericordia
-
-se ha confirmado sobre nosotros,
-
-y la fidelidad de Yahvé
-
-permanece para siempre.
-
-SALMO 117 (118)
-Júbilo y acción de gracias por la salvación
-
-1[5352]¡Hallelú Yah!
-
-Alabad a Yahvé porque es bueno,
-
-porque su misericordia
-
-permanece para siempre.
-
-2[5353]Diga ahora la casa de Israel:
-
-“Su misericordia permanece para siempre.”
-
-3Diga la casa de Aarón:
-
-“Su misericordia permanece para siempre.”
-
-4Digan los que temen a Yahvé:
-
-“Su misericordia permanece para siempre.”
-
-5[5354]En la estrechez invoqué a Yah;
-
-y Yah me escuchó
-
-y me sacó a la anchura.
-
-6[5355]Yahvé está en mi favor, nada temo.
-
-¿Qué podrá hacerme el hombre?
-
-7Yahvé, mi auxiliador, está conmigo
-
-y miraré (confundidos) a mis enemigos.
-
-8Mejor es acogerse a Yahvé
-
-que confiar en el hombre.
-
-9Mejor es acogerse a Yahvé
-
-que confiar en príncipes.
-
-10[5356]Todas las naciones me habían cercado;
-
-en el Nombre de Yahvé las hice pedazos.
-
-11Me envolvieron por todas partes;
-
-en el Nombre de Yahvé las hice pedazos.
-
-12Me rodeaban como abejas,
-
-ardían como fuego de espinas;
-
-en el Nombre de Yahvé las hice pedazos.
-
-13[5357]Empujado, empujado, estuve a punto de caer,
-
-pero Yahvé vino en mi ayuda.
-
-14Mi fuerza y mi valor es Yahvé,
-
-mi Salvador es Él.
-
-15[5358]Voz de exultación y de triunfo
-
-en las tiendas de los justos:
-
-“La diestra de Yahvé ha hecho proezas;
-
-16[5359]la diestra de Yahvé se alzó muy alto,
-
-la diestra de Yahvé ha hecho proezas.
-
-17No moriré, sino que viviré;
-
-y publicaré las hazañas de Yahvé.
-
-18[5360]Me castigó Yah, me castigó,
-
-pero no me entregó a la muerte.”
-
-19[5361]Abridme las puertas de la justicia,
-
-para que entre por ellas
-
-y dé gracias a Yah.
-
-20Esta es la puerta de Yahvé;
-
-entren los justos por ella.
-
-21Te daré gracias porque me escuchaste
-
-y te has hecho mi Salvador.
-
-22[5362]La piedra que rechazaron los constructores
-
-ha venido a ser la piedra angular.
-
-23Obra de Yahvé es esto,
-
-admirable ante nuestros ojos.
-
-24[5363]Este es el día que hizo Yahvé;
-
-alegrémonos por él y celebrémoslo.
-
-25[5364]Sí, oh Yahvé, ¡da la victoria!
-
-Sí, oh Yahvé, ¡da prosperidad!
-
-26Bendito el que viene
-
-en el nombre de Yahvé;
-
-desde la casa de Yahvé os bendecimos.
-
-27[5365]Yahvé es Dios y nos ha iluminado.
-
-Ordenad procesión con ramos frondosos
-
-hasta los cuernos del altar.
-
-28[5366]Mi Dios eres Tú y te doy gracias;
-
-mi Dios eres Tú, quiero alabarte;
-
-29Alabad a Yahvé porque es bueno;
-
-porque su misericordia
-
-permanece para siempre.
-
-SALMO 118 (119)
-Elogio de la palabra divina
-
-ALEF.
-
-1[5367]Dichosos aquellos
-
-cuyo camino es perfecto,
-
-que andan tras la Ley de Yahvé.
-
-2[5368]Bienaventurados
-
-los que observan sus instrucciones,
-
-de todo corazón lo buscan,
-
-3[5369]no cometen ninguna iniquidad,
-
-siguen los caminos de Él.
-
-4[5370]Tu diste tus preceptos,
-
-para que sean cuidadosamente guardados.
-
-5¡Ojalá se afirmen mis pasos
-
-hacia la guarda de tus palabras!
-
-6Entonces no quedaré confundido
-
-cuando contemple todos tus mandamientos.
-
-7[5371]Te alabaré por la rectitud de corazón,
-
-aprendiendo los decretos de tu justicia.
-
-8[5372]Tus estatutos guardaré,
-
-de ningún modo me desampares.
-
-BET.
-
-9[5373] ¿Cómo el joven mantendrá puro su camino?
-
-Conservando tus palabras.
-
-10[5374]Con toda mi alma te busco;
-
-no permitas que yo ande errante
-
-al margen de tus mandamientos.
-
-11[5375]En mi corazón escondo tus palabras,
-
-para no pecar contra Ti.
-
-12[5376]Bendito seas, oh Yahvé,
-
-enséñame tus decretos.
-
-13[5377]Con mis labios doy a conocer
-
-todos los oráculos de tu boca.
-
-14[5378]En el camino de tus testimonios me deleito
-
-como quien posee todas las riquezas.
-
-15Quiero meditar en tus preceptos
-
-y contemplar tus caminos;
-
-16[5379]gozarme en tus estatutos,
-
-no olvidar tus palabras.
-
-GUIMEL.
-
-17Haz merced a tu siervo que viva
-
-y guarde tus palabras.
-
-18[5380]Quita el velo a mis ojos,
-
-para que descubra las maravillas de tu Ley.
-
-19[5381]Peregrino soy en la tierra:
-
-no me ocultes tus preceptos.
-
-20[5382]Mi alma se consume
-
-anhelando en todo tiempo tus justificaciones.
-
-21[5383]Increpaste a los infatuados;
-
-malditos esos
-
-que se desvían de tus mandamientos.
-
-22[5384]Aparta de mí el oprobio y el desprecio,
-
-porque sigo tus instrucciones.
-
-23Aunque los príncipes se sientan
-
-y confabulan contra mí,
-
-tu siervo medita tus testimonios;
-
-24[5385]porque tus enseñanzas son mis delicias,
-
-y tus leyes mis consejeros.
-
-DALET.
-
-25[5386]Postrada está mi alma en el polvo;
-
-vuélveme la vida según tu palabra.
-
-26[5387]Te manifesté mis pasos y Tú me escuchaste;
-
-enséñame tus disposiciones.
-
-27[5388]Instrúyeme en el camino de tus designios,
-
-y contemplaré tus maravillas.
-
-28[5389] Mi alma vierte lágrimas de tristeza;
-
-confórtame según tu palabra.
-
-29[5390]Aléjame del camino del error,
-
-y favoréceme con tu Ley.
-
-30[5391]He deseado la senda de la verdad,
-
-he hallado rectos tus juicios.
-
-31[5392]Me apoyo en tus testimonios;
-
-no quieras confundirme, oh Yahvé.
-
-32[5393]Corro por el camino de tus mandamientos,
-
-porque Tú me ensanchas el corazón.
-
-HE.
-
-33Muéstrame, Yahvé,
-
-el camino de tus ordenaciones,
-
-para seguirlo hasta el fin.
-
-34[5394]Dame entendimiento
-
-para que observe tu Ley
-
-y la practique con todo mi corazón.
-
-35[5395]Hazme marchar
-
-por la senda de tus mandamientos,
-
-porque en ella me deleito.
-
-36[5396]Inclina mi corazón hacia tus enseñanzas
-
-y no vaya hacia el lucro.
-
-37[5397]Aparta mis ojos
-
-para que no miren la vanidad;
-
-dame la vida en tu camino.
-
-38[5398]Cumple en tu siervo tu promesa,
-
-hecha para los que te temen.
-
-39Aleja de mí el oprobio que me asusta,
-
-pues tus juicios son tan amables.
-
-40Mira cómo me he aficionado
-
-a tus decretos;
-
-hazme vivir por tu justicia.
-
-VAU.
-
-41[5399]Vengan sobre mí
-
-tus misericordias, oh Yahvé;
-
-y tu salud, según tus oráculos;
-
-42y podré responder
-
-a los que me reprochan
-
-por haber confiado en tus palabras.
-
-43[5400]No quites de mi boca
-
-la palabra de la verdad,
-
-porque en tus designios
-
-tengo puesta mi esperanza.
-
-44[5401]Y guardaré tu Ley para siempre,
-
-en el siglo y por los siglos de los siglos.
-
-45Ancho será el camino en que yo ande,
-
-porque busco tus preceptos.
-
-46[5402]Hablaré de tus enseñanzas
-
-delante de los reyes,
-
-y no me avergonzaré.
-
-47Y me deleitaré con las voluntades tuyas,
-
-que yo amo.
-
-48[5403]Y alzaré mis manos hacia tus mandatos
-
-y meditaré en tus enseñanzas.
-
-ZAIN.
-
-49[5404]Acuérdate de tu palabra a tu siervo,
-
-en la cual me hiciste poner mi esperanza.
-
-50[5405]Esto es lo que me consuela en mi aflicción:
-
-que tu palabra me da vida.
-
-51[5406]Los infatuados hacen burla de mí
-
-hasta el extremo,
-
-pero yo no me aparto de tu Ley.
-
-52[5407]Recuerdo tus antiguos juicios,
-
-oh Yahvé, y quedo consolado.
-
-53[5408]La indignación se enciende en mí
-
-a causa de esos malvados
-
-que abandonan tu Ley.
-
-54[5409]Tus decretos se han hecho cantos para mí
-
-en el lugar de mi destierro.
-
-55[5410]Durante la noche
-
-me acuerdo de tu nombre, oh Yahvé,
-
-y guardaré tu Ley.
-
-56Esta ha sido mi suerte: guardar tus preceptos.
-
-HET.
-
-57[5411]He dicho, oh Yahvé, que mi suerte
-
-es guardar tus palabras.
-
-58[5412]De todo corazón imploro tu rostro;
-
-apiádate de mí conforme a tu promesa.
-
-59Examiné mis caminos,
-
-y volví mis pies hacia tus enseñanzas.
-
-60Me apresuré, y no me he detenido
-
-en guardar tus mandamientos.
-
-61Los lazos de los pecadores me rodean,
-
-mas no he dado tu Ley al olvido.
-
-62A media noche me levanto para alabarte
-
-por tus justos decretos.
-
-63[5413]Estoy asociado a todos los que te temen
-
-y guardan tus preceptos.
-
-64La tierra está llena
-
-de tu misericordia, oh Yahvé,
-
-hazme conocer tus disposiciones.
-
-TET.
-
-65Conforme a tu palabra, oh Yahvé,
-
-has obrado bondadosamente con tu siervo.
-
-66[5414]Enséñame el juicio recto y el conocimiento,
-
-pues confío en tus preceptos.
-
-67Antes que me humillaras anduve descarriado,
-
-mas ahora me atengo a tu palabra.
-
-68[5415]Tú eres bueno y benéfico;
-
-instrúyeme, pues, en tus enseñanzas.
-
-69[5416]Fraguan engaños contra mí los infatuados,
-
-pero yo guardo tus preceptos
-
-con todo mi corazón.
-
-70[5417]El corazón de ellos está craso como sebo,
-
-mas yo tengo tu Ley como deleite.
-
-71[5418]Bueno me ha sido el ser maltratado,
-
-para conocer tus estatutos.
-
-72[5419]Mejor es para mí la Ley de tu boca
-
-que millares de oro y plata.
-
-YOD.
-
-73Tus manos me hicieron
-
-y me formaron;
-
-dame la inteligencia de tus disposiciones.
-
-74[5420]Los que te temen
-
-se alegrarán al verme,
-
-porque puse en tu palabra
-
-toda mi esperanza.
-
-75[5421]Reconozco, Yahvé,
-
-que tus juicios son justos
-
-y que justamente me has humillado.
-
-76Venga ahora tu misericordia a consolarme,
-
-según la promesa que diste a tu siervo.
-
-77[5422]Vengan a mí tus piedades
-
-para que tenga vida,
-
-porque tu Ley hace mis delicias.
-
-78[5423]Confundido quede el fatuo;
-
-mintiendo me ha deformado;
-
-pero yo meditaré en tus mandatos.
-
-79[5424]Diríjanse a mí los que te temen,
-
-los que conocen tus testimonios.
-
-80[5425]Sea mi corazón perfecto según tus leyes,
-
-para que no quede confundido.
-
-CAF.
-
-81[5426]Desfallece mi alma
-
-suspirando por la salud que de Ti viene;
-
-cuento con tu palabra.
-
-82[5427]Desfallecen mis ojos
-
-de tanto esperar tu promesa;
-
-¿cuándo vendrás a consolarme?
-
-83[5428]He venido a ser como pellejo
-
-expuesto al humo,
-
-mas no he olvidado tus estatutos.
-
-84[5429]¿Cuántos son los días de tu siervo?
-
-¿Cuándo juzgarás a los que me persiguen?
-
-85[5430]El infatuado cavó fosas para mí;
-
-él, que es contrario a la Ley.
-
-86[5431]Todos tus mandamientos son verdad;
-
-mas ellos sin causa me persiguen;
-
-ayúdame Tú.
-
-87[5432]Casi me han exterminado del país,
-
-pero yo no abandoné tus preceptos.
-
-88Según tu misericordia, consérvame la vida,
-
-y guardaré los oráculos de tu boca.
-
-LAMED.
-
-89[5433]Tu palabra, oh Yahvé, es eterna,
-
-permanece en el cielo.
-
-90[5434]Tu fidelidad, de generación en generación;
-
-Tú formaste la tierra, y perdura.
-
-91[5435]Como Tú lo dispusiste,
-
-así continúa en todo tiempo,
-
-pues todas las cosas están a tu servicio.
-
-92[5436]Si yo no hubiera puesto
-
-mis delicias en tu Ley,
-
-ya habría perecido en mi angustia.
-
-93No olvidaré nunca tus decretos,
-
-porque en ellos me das la vida.
-
-94[5437]Yo soy tuyo: sálvame,
-
-pues me empeño en hacer tu voluntad.
-
-95[5438]Los pecadores me espían para perderme;
-
-pero yo sigo atento a tus preceptos.
-
-96[5439]A toda perfección le he hallado el límite,
-
-mas tus estatutos no lo tienen.
-
-MEM.
-
-97[5440] ¡Oh Yahvé, cuánto amo tu Ley!
-
-Es mi meditación de todo el día.
-
-98[5441]Tu mandamiento me hace más sabio
-
-que mis enemigos,
-
-porque él está siempre conmigo.
-
-99[5442]Estoy más instruido
-
-que todos mis maestros,
-
-porque tus enseñanzas son mi meditación.
-
-100Entiendo más que los ancianos,
-
-porque observo tus prescripciones.
-
-101Aparto mis pies de toda senda mala,
-
-para ser fiel a tus palabras.
-
-102[5443]No me desvío de tus decretos,
-
-porque me enseñaste Tú.
-
-103¡Cuan dulces son a mi paladar tus palabras!
-
-Mas que la miel a mi boca.
-
-104[5444]Por tus preceptos me hago inteligente;
-
-por eso aborrezco todo camino de iniquidad.
-
-NUN.
-
-105[5445]Antorcha para mis pies es tu palabra,
-
-y luz para mi senda.
-
-106[5446]Juro, y me resuelvo
-
-a guardar tus justas disposiciones.
-
-107[5447]Abatido estoy en gran manera, oh Yahvé;
-
-dame vida según tu palabra.
-
-108[5448]Te sea grata, Yahvé,
-
-la ofrenda de mis labios,
-
-y enséñame tus designios.
-
-109[5449]Tengo constantemente mi vida en la mano,
-
-pero tu Ley no se aparta de mi memoria.
-
-110[5450]Los malvados me tendieron un lazo,
-
-mas yo no me desvié de tus preceptos.
-
-111[5451]Tus decretos son mi herencia para siempre,
-
-porque constituyen
-
-la alegría de mi corazón.
-
-112[5452]He inclinado mi corazón
-
-a cumplir tus estatutos,
-
-para siempre, hasta el fin.
-
-SAMEC.
-
-113[5453]Aborrezco a los de corazón doble
-
-y amo tu Ley.
-
-114Mi protector y mi escudo eres Tú;
-
-mi esperanza está en tu palabra.
-
-115[5454]Alejaos de mí los malvados;
-
-yo escrutaré las disposiciones de mi Dios.
-
-116Sosténme, como lo tienes prometido,
-
-y viviré;
-
-no desalientes mi esperanza.
-
-117[5455]Sé mi apoyo para que sea salvo y tenga
-
-constantemente mis ojos en tus decretos.
-
-118Tú desprecias
-
-a cuantos se apartan de tus órdenes,
-
-pues su pensamiento es engañoso.
-
-119[5456]Yo tengo por escoria
-
-a todos los impíos de la tierra;
-
-por esto amo tus enseñanzas.
-
-120[5457]Ante Ti se estremece de temor mi carne;
-
-tus juicios me llenan de espanto.
-
-AYIN.
-
-121He abrazado la rectitud y la justicia,
-
-no me entregues
-
-en manos de mis opresores.
-
-122[5458]Responde Tú del bien por tu siervo,
-
-no sea que me opriman los infatuados.
-
-123[5459]Mis ojos desfallecen
-
-de tanto desear tu salvación
-
-y la promesa de liberación.
-
-124Haz con tu siervo según tu benignidad,
-
-e instrúyeme en tus enseñanzas.
-
-125Siervo tuyo soy; dame inteligencia,
-
-a fin de que comprenda tus testimonios.
-
-126[5460]Tiempo es ya de obrar, oh Yahvé;
-
-han hecho escarnio de tu Ley.
-
-127Por eso amo yo tus mandamientos,
-
-por sobre el oro, aun el más puro.
-
-128[5461]Por eso he escogido para mí
-
-todos tus preceptos,
-
-y odio todo camino de impostura.
-
-PE.
-
-129[5462]Tus prescripciones son maravillas;
-
-por eso mi alma las observa.
-
-130[5463]La explicación de tus palabras ilumina,
-
-a los simples les da inteligencia.
-
-131[5464]Abro mi boca y suspiro,
-
-ansioso de tus órdenes.
-
-132Vuélvete hacia mí y seme propicio,
-
-como lo haces
-
-con los que aman tu Nombre.
-
-133[5465]Dirige mis pasos mediante tus palabras,
-
-para que no reine en mí
-
-injusticia alguna.
-
-134[5466]Rescátame de la opresión de los hombres,
-
-y seré obediente a tus preceptos.
-
-135Muestra a tu siervo tu Rostro sereno,
-
-y enséñame tus designios.
-
-136[5467]Ríos de agua han corrido de mis ojos,
-
-porque tu Ley no es observada.
-
-SADE.
-
-137Tú eres justo, Yahvé,
-
-y tu juicio es recto.
-
-138[5468]Con justicia has impuesto tus preceptos,
-
-y con gran benignidad.
-
-139[5469]Mi celo me consume,
-
-porque mis adversarios
-
-olvidan tus palabras.
-
-140[5470]Acendrada en extremo es tu palabra,
-
-y tu siervo la ama.
-
-141[5471]Yo soy pequeño, soy despreciado,
-
-mas no olvido tus preceptos.
-
-142Tu justicia es justicia eterna,
-
-y tu Ley es la verdad.
-
-143Angustia y tribulación vinieron sobre mí,
-
-mas tus sentencias son mis delicias.
-
-144[5472]La justicia de tus decretos es eterna;
-
-instrúyeme en ellos y viviré.
-
-QOF.
-
-145[5473]Clamo con todo mi corazón;
-
-escúchame, Yahvé;
-
-quiero obedecer tus voluntades.
-
-146Te he llamado; sálvame Tú,
-
-y cumpliré tus preceptos.
-
-147[5474]Me anticipo a la aurora y grito,
-
-pues tengo mi esperanza en tus palabras.
-
-148Mis ojos se adelantan
-
-a las vigilias de la noche,
-
-para meditar tu palabra.
-
-149Oh Yahvé, escucha mi voz
-
-según tu misericordia,
-
-y vivifícame conforme a tu justificación.
-
-150Se acercan los que me persiguen inicuamente,
-
-los que se alejan de tu Ley.
-
-151Tú, Yahvé, estás cerca;
-
-y todos tus caminos son verdad.
-
-152Desde antiguo tus preceptos me enseñaron
-
-que los estableciste para siempre.
-
-RESCH.
-
-153[5475]Mira mi aflicción y líbrame,
-
-pues no me he olvidado de tu Ley.
-
-154[5476]Defiende Tú mi causa y rescátame,
-
-guarda mi vida, conforme a tu promesa.
-
-155[5477]Lejos está de los impíos la salvación,
-
-porque no se interesan por tus disposiciones.
-
-156[5478]Tus misericordias son muchas, oh Yahvé,
-
-otórgame vida según tus designios.
-
-157Muchos me persiguen y me atribulan,
-
-pero yo no me aparto de tus preceptos.
-
-158[5479]A la vista de los impostores tuve asco;
-
-ellos no hacían caso de tus palabras.
-
-159Mira, Yahvé, que yo amo tus preceptos;
-
-por tu misericordia, consérvame la vida.
-
-160[5480]La suma de tu palabra es la verdad,
-
-y eternos son todos los decretos de tu justicia.
-
-SIN.
-
-161[5481]Me persiguen sin causa
-
-los que tienen poder;
-
-pero mi corazón teme a tus palabras.
-
-162[5482]Y tus oráculos me alegran tanto
-
-como quien halla copioso botín.
-
-163Odio la falsedad y le tengo horror;
-
-pero tu Ley la amo.
-
-164[5483]Siete veces al día te digo mi alabanza
-
-por tus justos juicios.
-
-165[5484]Mucha es la paz de los que aman tu Ley;
-
-para ellos no hay piedra de escándalo.
-
-166Aguardo, Yahvé, tu socorro,
-
-mientras practico tus mandamientos.
-
-167[5485]Mi alma conserva tus enseñanzas,
-
-y las ama sin medida.
-
-168[5486]Sigo tus preceptos y disposiciones,
-
-porque Tú tienes en vista todos mis caminos.
-
-TAU.
-
-169[5487]Llegue a Ti, Yahvé, mi clamor,
-
-adiéstrame según tu palabra.
-
-170Penetre mi súplica hasta llegar a Ti,
-
-y líbrame conforme a tu palabra.
-
-171[5488]Un himno brotará de mis labios
-
-cuando Tú me hayas enseñado
-
-tus justificaciones.
-
-172Cante mi lengua tu palabra,
-
-porque todos tus preceptos son justos.
-
-173[5489]Que tu mano esté cerca para ayudarme,
-
-pues he preferido tus mandamientos.
-
-174[5490]Ansío la salud
-
-que de Ti viene, oh Yahvé,
-
-y en tu Ley he puesto mis delicias.
-
-175[5491]Viva, pues, mi alma para alabarte,
-
-y tus decretos sean mi apoyo.
-
-176[5492]Si me he descarriado,
-
-busca Tú a tú siervo
-
-como oveja perdida,
-
-porque no me he olvidado de tus leyes.
-
-SALMO 119 (120)
-Contra la lengua calumniadora
-
-1[5493]Cántico gradual.
-
-A Yahvé clamé
-
-en medio de mi tribulación
-
-y Él me escuchó.
-
-2Yahvé, libra mi alma del labio engañoso,
-
-de la lengua astuta.
-
-3[5494]¿Qué te dará o qué te añadirá (Yahvé),
-
-oh lengua astuta?
-
-4Saetas de un potente
-
-aguzadas en ascuas de retama.
-
-5[5495]¡Ay de mí, advenedizo en Mósoc,
-
-alojado en las tiendas de Cedar!
-
-6Demasiado tiempo ha habitado mi alma
-
-entre los que odian la paz.
-
-7[5496]Yo soy hombre de paz; apenas hablo,
-
-y ellos mueven la guerra.
-
-SALMO 120 (121)
-El custodio de Israel
-
-1[5497]Cántico gradual.
-
-Alzo mis ojos hacia los montes:
-
-¿De dónde me vendrá el socorro?
-
-2Mi socorro viene de Yahvé
-
-que creó el cielo y la tierra.
-
-3[5498]¿Permitirá Él que resbale tu pie?
-
-¿O se dormirá el que te guarda?
-
-4No por cierto: no dormirá,
-
-ni siquiera dormitará,
-
-el Custodio de Israel.
-
-5[5499]Es Yahvé quien te custodia;
-
-Yahvé es tu umbráculo
-
-y se mantiene a tu derecha.
-
-6De día no te dañará el sol,
-
-ni de noche la luna.
-
-7Presérvete Yahvé de todo mal;
-
-Él guarde tu alma.
-
-8[5500]Yahvé custodiará tu salida y tu llegada,
-
-ahora y para siempre.
-
-SALMO 121 (122)
-Cántico de los peregrinos
-
-1[5501]Cántico gradual. De David.
-
-Me llené de gozo cuando me dijeron:
-
-“Iremos a la Casa de Yahvé.”
-
-2Ya se posan nuestros pies
-
-ante tus puertas, ¡oh Jerusalén!
-
-3[5502]Jerusalén, que estás edificada,
-
-como la ciudad
-
-cuya comunidad le está bien unida.
-
-4[5503]Allá suben las tribus, las tribus de Yah;
-
-es ley para Israel
-
-celebrar allí el Nombre de Yahvé.
-
-5[5504]Allí se han establecido
-
-los tronos para el juicio,
-
-los tronos de la casa de David.
-
-6[5505]Saludad a Jerusalén:
-
-“Gocen de seguridad los que te aman;
-
-7reine la paz dentro de tus muros,
-
-la felicidad en tus palacios.”
-
-8Por amor a mis hermanos y amigos
-
-exclamo: Paz sobre ti.
-
-9[5506]A causa del Templo de Yahvé nuestro Dios
-
-te auguro todo bien.
-
-SALMO 122 (123)
-Los ojos fijos en Dios
-
-1[5507]Cántico gradual.
-
-Levanto mis ojos a Ti
-
-que habitas en los cielos.
-
-2[5508]Como los ojos de los siervos
-
-están fijos en las manos de sus señores;
-
-como los ojos de la sierva
-
-en las manos de su señora,
-
-así nuestros ojos están fijos
-
-en Yahvé nuestro Dios,
-
-hasta que se apiade de nosotros.
-
-3Apiádate, Yahvé, senos propicio,
-
-porque estamos colmados de desprecio.
-
-4Nuestra alma está muy harta
-
-del escarnio de los saciados,
-
-del oprobio de los soberbios.
-
-SALMO 123 (124)
-El lazo roto
-
-1[5509]Cántico gradual. De David.
-
-Si Yahvé no hubiera estado con nosotros
-
-—dígalo ahora Israel—
-
-2si no hubiera estado Yahvé de nuestra parte
-
-cuando los hombres
-
-se levantaron contra nosotros,
-
-3nos habrían tragado vivos
-
-al inflamarse contra nosotros su furor;
-
-4entonces nos habrían sumergido las aguas,
-
-el torrente habría pasado sobre nosotros
-
-5[5510]y nuestra alma habría caído
-
-bajo las aguas tumultuosas.
-
-6Bendito sea Yahvé que no nos dio
-
-por presa de sus dientes.
-
-7[5511]Nuestra vida escapó como un pájaro
-
-del lazo de los cazadores.
-
-El lazo se ha roto
-
-y hemos quedado libres.
-
-8[5512]Nuestro socorro está
-
-en el Nombre de Yahvé,
-
-el que hizo el cielo y la tierra.
-
-SALMO 124 (125)
-Firmeza del monte Sión
-
-1[5513]Cántico gradual.
-
-Los que confían en Yahvé
-
-son como el monte Sión,
-
-que no será conmovido
-
-y permanecerá eternamente.
-
-2[5514]Como Jerusalén está rodeada de montes,
-
-así Yahvé rodea a su pueblo,
-
-ahora y para siempre.
-
-3[5515]No permanecerá, pues,
-
-el cetro de los impíos
-
-sobre la heredad de los justos;
-
-no sea que también los justos
-
-extiendan sus manos hacia la iniquidad.
-
-4Oh Yahvé, derrama tus favores
-
-sobre los buenos y rectos de corazón.
-
-5Pero a los que se desvían
-
-por senderos tortuosos
-
-échelos Yahvé con los obradores de iniquidad.
-
-¡Paz sobre Israel!
-
-SALMO 125 (126)
-Oración por la plena restauración del pueblo
-
-1[5516]Cántico gradual.
-
-Cuando Yahvé trajo de nuevo
-
-a los cautivos de Sión,
-
-fue para nosotros como un sueño.
-
-2[5517]Se llenó nuestra boca de risas,
-
-y nuestra lengua de exultación.
-
-Entonces dijeron entre los gentiles:
-
-“Es grande lo que Yahvé ha hecho por ellos.”
-
-3[5518]Sí, Yahvé ha obrado con magnificencia
-
-en favor nuestro;
-
-por eso nos llenamos de gozo.
-
-4[5519]Oh Yahvé, cambia nuestro destino
-
-como los torrentes en el Négueb.
-
-5Los que siembran con lágrimas
-
-segaran con júbilo.
-
-6[5520]Yendo, iban llorosos,
-
-llevando la semilla para la siembra;
-
-volviendo, vendrán con exultación,
-
-trayendo sus gavillas.
-
-SALMO 126 (127)
-El esfuerzo humano y el regalo divino
-
-1[5521]Cántico gradual. De Salomón.
-
-Si Yahvé no edifica la casa,
-
-en vano trabajan los que la construyen.
-
-Si Yahvé no guarda la ciudad,
-
-el centinela se desvela en vano.
-
-2[5522]Vano es que os levantéis antes del alba,
-
-que os recojáis tarde a descansar,
-
-que comáis pan de dolores;
-
-porque Él regala a sus amigos
-
-(aun) durante el sueño.
-
-3[5523]Vedlo: don de Yahvé son los hijos,
-
-el fruto del seno es un regalo.
-
-4Como flechas en manos del guerrero,
-
-así son los hijos de la juventud.
-
-5Dichoso el varón
-
-que tiene su aljaba llena de ellos;
-
-no será confundido cuando, en la puerta,
-
-litigue con sus adversarios.
-
-SALMO 127 (128)
-El justo bendecido en su hogar
-
-1[5524]Cántico gradual.
-
-Dichoso tú que temes a Yahvé,
-
-que andas en sus caminos.
-
-2Pues comerás del trabajo de tus manos;
-
-serás bendito, te irá bien:
-
-3tu esposa, parra fecunda
-
-en el interior de tu casa;
-
-tus hijos, retoños de olivo
-
-alrededor de tu mesa.
-
-4Así será bendecido el hombre
-
-que teme a Yahvé.
-
-5[5525]Te bendiga Yahvé desde Sión,
-
-para que veas la prosperidad de Jerusalén
-
-todos los días de tu vida;
-
-6para que veas a los hijos de tus hijos.
-
-¡Paz sobre Israel!
-
-SALMO 128 (129)
-Contra los enemigos de Israel
-
-1[5526]Cántico gradual.
-
-Mucho me han combatido
-
-desde mi mocedad,
-
-exclame ahora Israel;
-
-2[5527]mucho me combatieron desde mi mocedad,
-
-mas no concluyeron conmigo.
-
-3Sobre mis espaldas araron los aradores;
-
-abrieron largos surcos;
-
-4[5528]mas Yahvé, el Justo,
-
-ha cortado las coyundas de los impíos.
-
-5[5529]Retrocedan confundidos cuantos odian a Sión.
-
-6[5530]Sean como la hierba de los tejados,
-
-que se seca antes de crecer.
-
-7No llena de ella su mano el segador,
-
-ni su regazo el que hace gavillas.
-
-8[5531]No dicen los transeúntes:
-
-“La bendición de Yahvé sea sobre vosotros.”
-
-“Os bendecimos en el Nombre de Yahvé.”
-
-SALMO 129 (130)
-“De profundis”
-
-1[5532]Cántico gradual.
-
-Desde lo más profundo clamo a Ti, Yahvé,
-
-2Señor, oye mi voz.
-
-Estén tus oídos atentos al grito de mi súplica.
-
-3[5533]Si Tú recordaras las iniquidades, oh Yah,
-
-Señor ¿quién quedaría en pie?
-
-4[5534]Mas en Ti esta el perdón de los pecados,
-
-a fin de que se te venere.
-
-5[5535]Espero en Yahvé,
-
-mi alma confía en su palabra.
-
-Aguardando está
-
-6[5536]mi alma al Señor,
-
-más que los centinelas el alba.
-
-Más que los centinelas con la aurora
-
-7[5537]cuenta Israel con Yahvé,
-
-porque en Yahvé está la misericordia,
-
-y con Él copiosa redención.
-
-8Y Él mismo redimirá a Israel
-
-de todas sus iniquidades.
-
-SALMO 130 (131)
-Infancia espiritual
-
-1[5538]Cántico gradual. De David.
-
-Yahvé, mi corazón (ya) no se engríe
-
-ni son altaneros mis ojos.
-
-No ando tras de grandezas
-
-ni en planes muy difíciles para mí;
-
-2[5539]lejos de eso, he hecho a mi alma
-
-quieta y apaciguada
-
-como un niño que se recuesta
-
-sobre el pecho de su madre;
-
-como ese niño, está mi alma en mí.
-
-3[5540]Oh Israel, espera en Yahvé,
-
-desde ahora y para siempre.
-
-SALMO 131 (132)
-La promesa hecha a David
-
-1[5541]Cántico gradual.
-
-Acuérdate, Yahvé, en favor de David,
-
-de toda su solicitud;
-
-2cómo juró a Yahvé,
-
-e hizo al Fuerte de Jacob este voto:
-
-3“No entraré yo a morar en mi casa,
-
-ni subiré al estrado de mi lecho;
-
-4no concederé sueño a mis ojos
-
-ni descanso a mis párpados,
-
-5hasta que halle un sitio para Yahvé,
-
-una morada para el Fuerte de Jacob.”
-
-6[5542]He aquí que le oímos mencionar en Efrata,
-
-encontrámosle en los campos de Yáar.
-
-7Entrábamos en la morada,
-
-para postrarnos
-
-ante el escabel de sus pies.
-
-8[5543]Oh Yahvé, sube a tu mansión estable,
-
-Tú y el Arca de tu majestad.
-
-9Revístanse de justicia tus sacerdotes
-
-y tus santos rebosen de exultación.
-
-10[5544]Por amor de David tu siervo
-
-no rechaces el rostro de tu ungido.
-
-11[5545]Yahvé juró a David
-
-una firme promesa que no retractará:
-
-“Vástago de tu raza pondré sobre tu trono.
-
-12[5546]Si tus hijos guardaren mi alianza,
-
-y los mandamientos que Yo les enseñare,
-
-también los hijos de ellos
-
-se sentarán sobre tu trono perpetuamente.”
-
-13[5547]Porque Yahvé escogió a Sión;
-
-la ha querido para morada suya:
-
-14[5548]“Este es mi reposo para siempre;
-
-aquí habitaré porque la he elegido.
-
-15[5549]Colmaré su mesa de bendiciones,
-
-saciaré de pan a sus pobres.
-
-16[5550]A sus sacerdotes los vestiré de salud,
-
-y sus santos rebosarán de exultación.
-
-17[5551]Allí haré reflorecer el cuerno de David,
-
-allí preparo una lámpara para mi ungido.
-
-18A sus enemigos vestiré de confusión;
-
-mas sobre él refulgirá mi diadema.”
-
-SALMO 132 (133)
-El rebaño reunido
-
-1[5552]Cántico gradual. De David.
-
-¡Mirad cuan bueno es y cuan deleitoso
-
-para los hermanos el estar reunidos!
-
-2[5553]Es como el precioso ungüento
-
-sobre la cabeza,
-
-que desciende a la barba,
-
-la barba de Aarón,
-
-y que baja hasta la orla de su vestido.
-
-3[5554]Es como el rocío del Hermón,
-
-que desciende sobre el monte Sión.
-
-Porque allí Yahvé derrama bendición,
-
-vida para siempre.
-
-SALMO 133 (134)
-Alabanza perpetua
-
-1[5555]Cántico gradual.
-
-Ea, bendecid a Yahvé,
-
-todos los siervos de Yahvé,
-
-los que estáis en la casa de Yahvé,
-
-en las horas de la noche.
-
-2Alzad vuestras manos
-
-hacia el Santuario,
-
-y bendecid a Yahvé.
-
-3Desde Sión te bendiga Yahvé,
-
-el que hizo el cielo y la tierra.
-
-SALMO 134 (135)
-Alabanza de Israel a su Dios
-
-1[5556]¡HalIelú Yah!
-
-Alabad el Nombre de Yahvé;
-
-alabadle vosotros, ciervos de Yahvé,
-
-2los que estáis en la casa de Yahvé,
-
-en los atrios del Templo de nuestro Dios.
-
-3Alabad a Yah
-
-porque es un Señor bueno;
-
-cantad salmos a su Nombre,
-
-porque es suave.
-
-4Porque Yah se eligió a Jacob,
-
-a Israel como su bien propio.
-
-5Porque yo sé esto:
-
-que Yahvé es grande,
-
-y que nuestro Señor es más
-
-que todas las divinidades.
-
-6[5557]Todo cuanto Yahvé quiere lo hace
-
-en el cielo y en la tierra,
-
-en el mar y en todos los abismos.
-
-7[5558]Él trae las nubes
-
-desde el extremo de la tierra,
-
-hace la lluvia con los relámpagos,
-
-saca los vientos de sus depósitos.
-
-8[5559]Él hirió a los primogénitos de Egipto,
-
-desde el hombre hasta el ganado.
-
-9[5560]Envió signos y prodigios
-
-a ti, oh Egipto,
-
-contra Faraón y contra todos sus vasallos.
-
-10[5561]Hirió a muchas naciones,
-
-y mató a reyes poderosos:
-
-11[5562] a Sehón, rey de los amorreos;
-
-y a Og, rey de Basan,
-
-y a todos los reyes de Canaán.
-
-12Y dio en herencia la tierra de ellos,
-
-en herencia a Israel, su pueblo.
-
-13[5563]Yahvé es tu Nombre para siempre;
-
-Yahvé, tu memorial
-
-de generación en generación;
-
-14pues Yahvé protege a su pueblo
-
-y tiene compasión de sus siervos.
-
-15[5564]Los ídolos de los gentiles son plata y oro,
-
-hechuras de manos de hombre:
-
-16tienen boca y no hablan;
-
-tienen ojos y no ven;
-
-17tienen orejas y no oyen,
-
-y no hay aliento en su boca.
-
-18[5565]Semejantes a ellos son quienes los hacen,
-
-quienquiera confía en ellos.
-
-19[5566]Casa de Israel, bendecid a Yahvé;
-
-casa de Aarón, bendecid a Yahvé.
-
-20Casa de Leví, bendecid a Yahvé,
-
-los que adoráis a Yahvé, bendecid a Yahvé.
-
-21[5567]Bendito sea Yahvé desde Sión,
-
-el que mora en Jerusalén.
-
-SALMO 135 (136)
-Letanía de la misericordia
-
-1[5568]¡Hallelú Yah!
-
-Alabad a Yahvé porque es bueno,
-
-porque su misericordia es para siempre.
-
-2Alabad al Dios de los dioses,
-
-porque su misericordia es para siempre.
-
-3Alabad al Señor de los señores,
-
-porque su misericordia es para siempre.
-
-4Al que, solo, obra grandes maravillas,
-
-porque su misericordia es para siempre.
-
-5Al que creó los cielos con sabiduría,
-
-porque su misericordia es para siempre.
-
-6Al que afirmó la tierra sobre las aguas,
-
-porque su misericordia es para siempre.
-
-7Al que hizo los grandes luminares,
-
-porque su misericordia es para siempre;
-
-8el sol para presidir el día,
-
-porque su misericordia es para siempre;
-
-9[5569]la luna y las estrellas para presidir la noche,
-
-porque su misericordia es para siempre.
-
-10Al que hirió a los egipcios
-
-en sus primogénitos,
-
-porque su misericordia es para siempre,
-
-11y sacó a Israel de en medio de ellos,
-
-porque su misericordia es para siempre;
-
-12con mano fuerte y brazo extendido,
-
-porque su misericordia es para siempre.
-
-13Al que partió en dos el Mar Rojo,
-
-porque su misericordia es para siempre;
-
-14y llevó a Israel a cruzarlo en el medio,
-
-porque su misericordia es para siempre;
-
-15y precipitó a Faraón y su ejército
-
-en el Mar Rojo,
-
-porque su misericordia es para siempre.
-
-16Al que guió a su pueblo por el desierto,
-
-porque su misericordia es para siempre.
-
-17Al que destrozó a grandes reyes,
-
-porque su misericordia es para siempre;
-
-18y mató a reyes poderosos,
-
-porque su misericordia es para siempre;
-
-19a Sehón, rey de los amorreos,
-
-porque su misericordia es para siempre;
-
-20y a Og, rey de Basan,
-
-porque su misericordia es para siempre;
-
-21[5570]y dio en herencia su tierra,
-
-porque su misericordia es para siempre;
-
-22en herencia a Israel, su siervo,
-
-porque su misericordia es para siempre.
-
-23Al que en nuestro abatimiento
-
-se acordó de nosotros,
-
-porque su misericordia es para siempre;
-
-24y nos libró de nuestros enemigos,
-
-porque su misericordia es para siempre.
-
-25Al que alimenta a toda carne,
-
-porque su misericordia es para siempre.
-
-26Alabad al Dios del cielo,
-
-porque su misericordia es para siempre.
-
-SALMO 136 (137)
-Imprecación contra Babilonia
-
-1[5571]Junto a los ríos de Babilonia,
-
-allí nos sentábamos y llorábamos,
-
-acordándonos de Sión.
-
-2En los sauces de aquella tierra
-
-colgábamos nuestras cítaras;
-
-3[5572]porque allí nuestros raptores
-
-nos pedían cánticos,
-
-y nuestros atormentadores alegría:
-
-“Cantadnos de los cantares de Sión.”
-
-4[5573] ¿Cómo cantar un cántico de Yahvé
-
-en tierra extraña?
-
-5Si yo te olvido, oh Jerusalén,
-
-olvídese de sí mi diestra.
-
-6Péguese mi lengua a mi paladar,
-
-si no me acordare de ti;
-
-si no pusiese a Jerusalén
-
-por encima de toda alegría.
-
-7[5574]Acuérdate, Yahvé,
-
-contra los hijos de Edom,
-
-del día de Jerusalén.
-
-Ellos decían: “¡Arrasad,
-
-arrasadla hasta los cimientos!”
-
-8[5575]Hija de Babilonia, la devastada:
-
-dichoso aquel que ha de pagarte
-
-el precio de lo que nos hiciste.
-
-9¡Dichoso el que tomará tus pequeñuelos
-
-y los estrellará contra la peña!
-
-SALMO 137 (138)
-La alabanza de los reyes
-
-1[5576]De David.
-
-Quiero celebrarte, Yahvé,
-
-con todo mi corazón,
-
-porque oíste las palabras de mi boca;
-
-quiero cantarte delante de los reyes.
-
-2[5577]Me postraré ante tu santo Templo,
-
-y alabaré tu Nombre
-
-por tu misericordia y tu fidelidad;
-
-porque has engrandecido tu Palabra
-
-sobre todas las cosas.
-
-3[5578]El día en que (te) invoqué Tú me oíste
-
-y multiplicaste la fuerza en mi alma.
-
-4[5579]Te alabarán, Yahvé,
-
-todos los reyes de la tierra
-
-cuando hayan oído los oráculos de tu boca;
-
-5[5580]y cantarán los caminos de Yahvé:
-
-“Grande es ciertamente la gloria de Yahvé.
-
-6Sí, Yahvé, siendo excelso,
-
-pone los ojos en el humilde
-
-y mira como lejos de sí al soberbio.”
-
-7Cuando camino en medio de la tribulación,
-
-Tú conservas mi vida;
-
-tiendes tu mano
-
-contra la ira de mis enemigos,
-
-y tu diestra me salva.
-
-8[5581]Yahvé acabará para mí lo que ha comenzado.
-
-Yahvé, tu misericordia
-
-permanece eternamente;
-
-no abandones la obra de tus manos.
-
-SALMO 138 (139)
-Himno a la omnisciencia divina
-
-1[5582]Al maestro de coro. Salmo de David.
-
-Yahvé, Tú me penetras y me conoces.
-
-2Sabes cuando me siento
-
-y cuando me levanto;
-
-de lejos disciernes mis pensamientos.
-
-3Si ando y si descanso Tú lo percibes,
-
-y todos mis caminos te son familiares.
-
-4[5583]No está todavía en mi lengua la palabra,
-
-y Tú, Yahvé, ya la sabes toda.
-
-5Tú me rodeas por detrás y por delante,
-
-y pones tu mano sobre mí.
-
-6[5584]Maravillosa sobremanera
-
-es para mí tal ciencia,
-
-demasiado sublime,
-
-superior a mi alcance.
-
-7[5585]¿Adónde iré que me sustraiga a tu espíritu,
-
-adónde huiré de tu rostro?
-
-8[5586]Si subiere al cielo, allí estás Tú;
-
-si bajare al abismo, Tú estás presente.
-
-9[5587]Si tomare las alas de la aurora,
-
-y me posare en el extremo del mar,
-
-10también allí me conducirá tu mano,
-
-y me tendrá asido tu diestra.
-
-11[5588]Si dijera:
-
-“Al menos las tinieblas me esconderán”,
-
-y a modo de luz me envolviese la noche.
-
-12las mismas tinieblas
-
-no serían oscuras para Ti,
-
-y la noche resplandecería como el día,
-
-la oscuridad como la luz.
-
-13[5589]Tú formaste mis entrañas;
-
-me tejiste en el seno de mi madre.
-
-14Te alabo
-
-porque te has mostrado maravilloso,
-
-porque tus obras son admirables;
-
-largamente conoces mi alma,
-
-15y mi cuerpo no se te ocultaba,
-
-aunque lo plasmabas en la oscuridad,
-
-tejiéndolo bajo la tierra.
-
-16[5590]Tus ojos veían ya mis actos,
-
-y todos están escritos en tu libro;
-
-los días (míos) estaban determinados
-
-antes de que ninguno de ellos fuese.
-
-17[5591]Oh Dios ¡cuán difíciles de comprender
-
-tus designios!
-
-¡Cuán ingente es su número!
-
-18[5592]Si quisiera contarlos,
-
-son más que las arenas;
-
-si llegara al fin,
-
-mi duración sería como la tuya.
-
-19[5593] ¡Oh, si quitaras la vida,
-
-oh Dios, al impío,
-
-y se apartasen de mí
-
-los hombres perversos!
-
-20Porque con disimulo
-
-se rebelan contra Ti;
-
-siendo tus enemigos,
-
-asumen tu Nombre en vano.
-
-21[5594] ¿Acaso no debo odiar, Yahvé,
-
-a los que te odian,
-
-y aborrecer a los que contra Ti se enaltecen?
-
-22Los odio con odio total;
-
-se han hecho mis propios enemigos.
-
-23[5595]Escudríñame, oh Dios, y explora mi corazón,
-
-examíname y observa mi intimidad;
-
-24[5596]mira si ando por el falso camino,
-
-y condúceme por la senda antigua.
-
-SALMO 139 (140)
-Oración contra los lazos de la perfidia
-
-1[5597]Al maestro de coro. Salmo de David.
-
-2Líbrame, Yahvé, del hombre malo;
-
-defiéndeme del hombre violento,
-
-3de esos que en su corazón
-
-maquinan cosas perversas,
-
-que provocan contiendas cada día;
-
-4[5598]afilan su lengua como la serpiente,
-
-tienen veneno de áspid bajo sus labios.
-
-5[5599]Sálvame, Yahvé, de las manos del inicuo,
-
-guárdame del impío,
-
-de los que intentan hacerme caer.
-
-6Los soberbios me esconden lazos,
-
-y tienen mallas como red;
-
-me colocan trampas junto al camino.
-
-7[5600]Yo digo a Yahvé: Tú eres mi Dios;
-
-escucha, Yahvé, la voz de mi súplica.
-
-8Señor Yahvé, poderoso auxilio mío,
-
-Tú cubres mi cabeza
-
-en el día de la batalla.
-
-9No satisfagas, Yahvé, los deseos del inicuo,
-
-ni cumplas sus designios.
-
-10[5601]No levanten cabeza los que me asedian;
-
-caiga sobre ellos la malicia de sus lenguas.
-
-11[5602]Lluevan sobre ellos carbones encendidos,
-
-precipítalos en abismos,
-
-para no levantarse más.
-
-12El hombre de mala lengua
-
-no durará en la tierra;
-
-los infortunios caerán de golpe
-
-sobre el violento.
-
-13[5603]Sé que Yahvé tomará la defensa del desvalido,
-
-hará justicia a los pobres.
-
-14Ciertamente los justos celebrarán tu Nombre;
-
-los rectos habitarán en tu presencia.
-
-SALMO 140 (141)
-Oración del justo paciente
-
-1[5604]Salmo de David.
-
-Te he invocado, Yahvé,
-
-socórreme pronto;
-
-escucha mi voz cuando te llamo.
-
-2[5605]Como el incienso,
-
-suba hacia Ti mi oración;
-
-sea la elevación de mis manos
-
-el sacrificio vespertino.
-
-3[5606]Pon, Yahvé, una guardia ante mi boca,
-
-un cerrojo en la puerta de mis labios.
-
-4[5607]No dejes inclinar mi corazón a lo malo,
-
-para consumar acciones impías
-
-con hombres que obran la iniquidad;
-
-ni me dejes tener parte en sus delicias.
-
-5[5608]Golpéeme el justo y me corrija:
-
-esto es amor;
-
-mas nunca el óleo del pecador
-
-unja mi cabeza,
-
-y aun se elevará mi oración
-
-en sus prosperidades.
-
-6[5609]Fueron precipitados sus príncipes
-
-junto a la roca,
-
-y habían oído
-
-cuan suaves eran mis palabras.
-
-7Como la tierra
-
-que se trabaja rompiéndola,
-
-mis huesos han sido dislocados,
-
-y la tumba se ha abierto.
-
-8Mas a Ti, Señor Yahvé,
-
-se dirigen mis ojos;
-
-a Ti recurro,
-
-no derrames mi vida.
-
-9Guárdame del lazo
-
-que me han tendido
-
-y de las emboscadas
-
-de los malhechores.
-
-10Caigan juntos los impíos
-
-en sus propias redes
-
-al mismo tiempo que yo me salvare.
-
-SALMO 141 (142)
-Oración del abandonado
-
-1[5610]Maskil. De David. Cuando estaba en la cueva. Oración.
-
-2Con (toda) mi voz clamo hacia Yahvé,
-
-a Yahvé imploro con (toda) mi voz.
-
-3[5611]En su presencia derramo mi ansiedad;
-
-ante Él expongo mi angustia.
-
-4[5612]Pues cuando en mí el espíritu
-
-está por desfallecer,
-
-eres Tú quien conoces mi rumbo.
-
-En el camino por donde voy
-
-me han escondido un lazo.
-
-5[5613]Miro hacia mi derecha, buscando,
-
-y no veo a nadie que me reconozca;
-
-no hay adonde huir,
-
-ni quien mire por mi vida.
-
-6A Ti, pues, clamo, Yahvé, diciendo:
-
-“Mi refugio eres Tú,
-
-herencia mía en la tierra de los vivientes.”
-
-7Atiende a mi clamor,
-
-porque he caído en extrema desventura.
-
-Sálvame de los que me persiguen,
-
-porque son más fuertes que yo.
-
-8[5614]Sácame de esta cárcel,
-
-para que dé gracias a tu Nombre.
-
-Conmigo serán coronados los justos
-
-cuando Tú me hayas favorecido.
-
-SALMO 142 (143)
-Para saber qué camino seguir
-
-1[5615]Salmo de David.
-
-Yahvé, escucha mi oración,
-
-presta oído a mi súplica según tu fidelidad;
-
-óyeme por tu justicia,
-
-2[5616]y no entres en juicio con tu siervo,
-
-porque ningún viviente
-
-es justo delante de Ti.
-
-3El enemigo persigue mi alma,
-
-ha postrado en tierra mi vida;
-
-me ha encerrado en las tinieblas,
-
-como los ya difuntos.
-
-4El espíritu ha desfallecido en mí,
-
-y mi corazón está helado en mi pecho.
-
-5[5617]Me acuerdo de los días antiguos,
-
-medito en todas tus obras,
-
-contemplo las hazañas de tus manos,
-
-6[5618]y extiendo hacia Ti las mías:
-
-como tierra falta de agua,
-
-mi alma tiene sed de Ti.
-
-7[5619]Escúchame pronto, Yahvé,
-
-porque mi espíritu languidece.
-
-No quieras esconder de mí tu rostro:
-
-sería yo como los que bajaron a la tumba.
-
-8[5620]Hazme sentir al punto tu misericordia,
-
-pues en Ti coloco mi confianza.
-
-Muéstrame el camino que debo seguir,
-
-ya que hacia Ti levanto mi alma.
-
-9Líbrame de mis enemigos, Yahvé;
-
-a Ti me entrego.
-
-10[5621]Enséñame a hacer tu voluntad,
-
-porque Tú eres mi Dios.
-
-Tu Espíritu es bueno;
-
-guíame, pues, por camino llano.
-
-11Por tu Nombre, Yahvé, guarda mi vida;
-
-por tu clemencia
-
-saca mi alma de la angustia.
-
-12[5622]Y por tu gracia acaba con mis enemigos,
-
-y disipa a cuantos atribulan mi alma,
-
-porque soy siervo tuyo.
-
-SALMO 143 (144)
-Cántico de victoria
-
-1[5623]De David.
-
-Bendito sea Yahvé, mi piedra;
-
-Él adiestra mis manos para la pelea,
-
-mis dedos para la guerra;
-
-2[5624]Él es mi alcázar y mi libertador,
-
-el broquel con que me cubro;
-
-Él es quien me somete los pueblos.
-
-3[5625]Yahvé ¿qué es el hombre
-
-para que de él te ocupes,
-
-el hijo de hombre para que pienses en él?
-
-4El hombre es semejante al soplo del viento;
-
-sus días, como sombra que pasa.
-
-5[5626]Oh Yahvé, inclina tus cielos y desciende;
-
-toca los montes y humearán.
-
-6Arroja tu rayo y dispérsalos,
-
-asesta tus flechas y desconciértalos.
-
-7[5627]Extiende tu mano desde lo alto y arrebátame
-
-sálvame de las muchas aguas,
-
-del poder de gente extranjera,
-
-8que con la boca habla mentiras,
-
-y con la diestra jura en falso.
-
-9[5628]Quiero cantarte, oh Dios, un cántico nuevo,
-
-con el salterio de diez cuerdas te cantaré:
-
-10[5629] “El que da la victoria a los reyes,
-
-que salvó a David, su siervo,
-
-de la fatal espada,
-
-11me ha salvado y me ha librado
-
-de la mano de gente extranjera,
-
-que con la boca habla mentiras
-
-y con la diestra jura en falso.
-
-12[5630]Nuestros hijos son como plantas
-
-que crecen en la flor de su edad;
-
-nuestras hijas, como columnas de ángulo,
-
-talladas para adorno de un palacio.
-
-13Nuestros graneros están llenos,
-
-rebosantes de toda clase de frutos.
-
-Nuestras ovejas, mil veces fecundas,
-
-se multiplican a miríadas
-
-en nuestros campos;
-
-14nuestros bueyes son robustos.
-
-No hay brechas ni salidas
-
-en nuestros muros
-
-ni llanto en nuestras plazas.”
-
-15[5631]Dichoso el pueblo que tanto tiene;
-
-dichoso el pueblo cuyo Dios es Yahvé.
-
-SALMO 144 (145)
-Bondad y majestad del Dios Rey
-
-1[5632]Alabanza. De David.
-
-A Ti, mi Dios Rey, ensalzaré,
-
-y por los siglos de los siglos
-
-bendeciré tu Nombre.
-
-2Te bendeciré cada día;
-
-y alabaré tu Nombre
-
-por los siglos de los siglos.
-
-3[5633]Grande es Yahvé
-
-y digno de suma alabanza;
-
-su grandeza es insondable.
-
-4Una generación anuncia a la otra tus obras,
-
-y proclama tu poder.
-
-5Hablan de la magnífica gloria
-
-de tu Majestad,
-
-y divulgan tus maravillas.
-
-6Cuentan el poderío terrible de tus hechos,
-
-y publican tus grandezas.
-
-7Rememoran el elogio de tu inmensa bondad,
-
-y se gozan de tu justicia (diciendo):
-
-8[5634]“Yahvé es benigno y misericordioso,
-
-magnánimo y grande en clemencia.
-
-9Yahvé es bueno con todos,
-
-y su misericordia se derrama
-
-sobre todas sus creaturas.”
-
-10[5635]Todas tus obras te alabarán, Yahvé,
-
-y tus santos te bendecirán.
-
-11[5636]Publicarán la gloria de tu reino,
-
-y pregonarán tu potestad,
-
-12haciendo conocer a los hijos de los hombres
-
-tu poder
-
-y el magnífico esplendor de tu reino:
-
-13[5637]Tu reino es reino de todos los siglos;
-
-y tu imperio, de generación en generación.
-
-Yahvé es digno de confianza
-
-en todas sus palabras,
-
-y benévolo en todas sus obras.
-
-14[5638]Yahvé sostiene a todos los que caen,
-
-y levanta a todos los agobiados.
-
-15[5639]Los ojos de todos te miran esperando,
-
-y Tú les das a su tiempo el alimento.
-
-16Tú abres la mano
-
-y hartas de bondad a todo viviente.
-
-17[5640]Yahvé es justo en todos sus caminos,
-
-y santo en todas sus obras.
-
-18[5641]Yahvé cerca está de cuantos le invocan,
-
-de todos los que le invocan de veras.
-
-19[5642]Él hace la voluntad de los que le temen,
-
-oye su clamor y los salva.
-
-20[5643]Yahvé conserva a todos los que le aman,
-
-y extermina a todos los impíos.
-
-21Mi boca dirá la alabanza de Yahvé;
-
-y toda carne bendecirá su santo Nombre
-
-por los siglos de los siglos.
-
-SALMO 145 (146)
-Confiar en Dios y no en los hombres
-
-1[5644]¡HalIelú Yah!
-
-Alaba a Yahvé, alma mía.
-
-2[5645]Toda mi vida alabaré a Yahvé;
-
-cantaré salmos a mi Dios
-
-mientras yo viva.
-
-3[5646]No pongáis vuestra confianza
-
-en los príncipes,
-
-en un hijo de hombre,
-
-que no puede salvar.
-
-4[5647]Apenas el soplo le abandona,
-
-él vuelve a su polvo,
-
-y entonces se acaban todos sus designios.
-
-5Dichoso en cambio
-
-quien tiene en su ayuda al Dios de Jacob,
-
-y pone su esperanza en Yahvé, su Dios,
-
-6[5648]Creador del cielo y de la tierra,
-
-del mar y de cuanto contienen.
-
-Él conserva siempre su fidelidad;
-
-7hace justicia a los oprimidos,
-
-y da pan a los hambrientos.
-
-Es Yahvé quien desata a los cautivos;
-
-8es Yahvé quien abre los ojos de los ciegos;
-
-Yahvé levanta a los agobiados;
-
-Yahvé ama a los justos;
-
-9Yahvé cuida de los peregrinos;
-
-sustenta al huérfano y a la viuda,
-
-y trastorna los caminos de los malvados.
-
-10[5649]Reinará Yahvé para siempre,
-
-el Dios tuyo, oh Sión, de edad en edad.
-
-¡HalIelú Yah!
-
-SALMO 146 (147, 1-11)
-Dios bendice al que cree en su bondad
-
-1[5650]¡Hallelú Yah!
-
-Alabad a Yahvé porque es bueno;
-
-salmodiad al Dios nuestro
-
-porque es amable;
-
-bien le está a Él la alabanza.
-
-2[5651]Es Yahvé quien reconstruye a Jerusalén,
-
-y congrega a los dispersos de Israel;
-
-3[5652]Él quien sana a los de corazón llagado,
-
-y venda sus heridas;
-
-4Él quien fija el número de las estrellas,
-
-y a cada una llama por su nombre.
-
-5[5653]Grande es nuestro Señor,
-
-poderoso en fuerza;
-
-y su sabiduría no tiene medida.
-
-6Yahvé levanta a los humildes,
-
-y abaja hasta la tierra a los impíos.
-
-7Ensalzad a Yahvé con acciones de gracias,
-
-cantad al son de la cítara
-
-salmos a nuestro Dios,
-
-8que cubre el cielo de nubes,
-
-y prepara la lluvia para la tierra;
-
-que en los montes hace brotar hierba,
-
-y plantas para servir al hombre;
-
-9[5654]que da su alimento a los ganados,
-
-y a las crías de los cuervos que pían.
-
-10[5655]Él no se deleita en el vigor del caballo,
-
-ni le agradan los músculos del hombre.
-
-11[5656]La complacencia de Yahvé
-
-está en los que le temen,
-
-los que se fían en su bondad.
-
-SALMO 147
-Cántico de la nueva Jerusalén
-
-1[5657]Da gloria a Yahvé, oh Jerusalén;
-
-alaba, oh Sión, a tu Dios.
-
-2[5658]Porque Él ha asegurado
-
-los cerrojos de tus puertas;
-
-ha bendecido tus hijos dentro de ti.
-
-3[5659]Él ha puesto paz en tus fronteras,
-
-y te alimenta de la flor del trigo.
-
-4[5660]Él manda sus órdenes a la tierra;
-
-su palabra corre veloz.
-
-5Él derrama la nieve como copos de lana;
-
-esparce como ceniza la escarcha.
-
-6Él echa su hielo como bocados de pan;
-
-¿quién resistiría su frío?
-
-7[5661]Él envía su palabra
-
-y los derrite;
-
-hace soplar el viento,
-
-y las aguas corren.
-
-8[5662]Él dio a conocer su palabra a Jacob;
-
-sus estatutos y sus mandatos a Israel.
-
-9[5663]No hizo tal con ninguno de los otros pueblos;
-
-a ellos no les manifestó sus disposiciones.
-
-¡Hallelú Yah!
-
-SALMO 148
-Aleluya de las creaturas
-
-1[5664]¡Hallelú Yah!
-
-Alabad a Yahvé desde los cielos,
-
-alabadlo en las alturas.
-
-2[5665]Ángeles suyos, alabadlo todos;
-
-alabadle todos, ejércitos suyos.
-
-3Alabadle, sol y luna;
-
-lucientes astros, alabadle todos.
-
-4[5666]Alabadle, cielos de los cielos
-
-y aguas que estáis sobre los cielos:
-
-5[5667]alaben el Nombre de Yahvé,
-
-porque Él lo mandó, y fueron creados.
-
-6[5668]Él los estableció
-
-para siempre y por los siglos;
-
-dio un decreto que no será transgredido.
-
-7[5669]Alabad a Yahvé desde la tierra,
-
-monstruos marinos y todos los abismos;
-
-8fuego y granizo, nieve y nieblas,
-
-vientos tempestuosos,
-
-que ejecutáis sus órdenes;
-
-9montes y collados todos,
-
-árboles frutales y todos los cedros;
-
-10bestias salvajes y todos los ganados,
-
-reptiles y volátiles;
-
-11[5670]reyes de la tierra y pueblos todos,
-
-príncipes y jueces todos de la tierra;
-
-12los jóvenes y también las doncellas,
-
-los ancianos junto con los niños.
-
-13[5671]Alaben el Nombre de Yahvé,
-
-porque solo su Nombre
-
-es digno de alabanza;
-
-su majestad domina la tierra y los cielos.
-
-14[5672]Él ha encumbrado
-
-el cuerno de su pueblo.
-
-Para Él es la alabanza de todos sus santos,
-
-los hijos de Israel,
-
-el pueblo familiar suyo.
-
-¡Hallelú Yah!
-
-SALMO 149
-El cántico nuevo
-
-1[5673] ¡Hallelú Yah!
-
-Cantad a Yahvé el cántico nuevo;
-
-resuenen sus alabanzas
-
-en la reunión de los santos.
-
-2[5674]Alégrese Israel en su Hacedor,
-
-y los hijos de Sión regocíjense en su Rey.
-
-3Alaben su Nombre entre danzas;
-
-cántenle al son del tímpano y de la cítara.
-
-4[5675]Porque Yahvé se deleita en su pueblo;
-
-y ha adornado con el triunfo
-
-a los humildes.
-
-5[5676]Salten de alegría los santos por tal gloria,
-
-griten de júbilo desde sus triclinios.
-
-6En su boca vibra el elogio de Dios,
-
-y en sus manos espadas de dos filos,
-
-7[5677]para tomar venganza de las naciones,
-
-y castigar a los gentiles;
-
-8[5678]para atar a sus reyes con grillos,
-
-y a sus magnates con esposas de hierro;
-
-9[5679]para ejecutar en ellos la sentencia escrita.
-
-Gloria es esta para todos sus santos.
-
-¡Hallelú Yah!
-
-SALMO 150
-Sinfonía de alabanzas
-
-1[5680]¡Hallelú Yah!
-
-Alabad al Señor en su Santuario,
-
-alabadlo en la sede de su majestad.
-
-2[5681]Alabadlo por las obras de su poder,
-
-alabadlo según su inmensa grandeza.
-
-3[5682]Alabadlo al son de trompeta,
-
-alabadlo con salterio y cítara.
-
-4Alabadlo con tamboril y danza,
-
-alabadlo con cuerdas y flautas.
-
-5[5683]Alabadlo con címbalos sonoros,
-
-alabadlo con címbalos que atruenen.
-
-6[5684]¡Todo lo que respira alabe al Señor!
-
-¡Hallelú Yah!
