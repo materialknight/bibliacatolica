@@ -985,9 +985,9 @@ S. Jerónimo resume, en la carta al presbítero Paulino, su juicio sobre este di
 
 [28](#c11-v28){:#c11-v28} y levantándose uno de ellos, por nombre Agabo, profetizaba por medio del Espíritu Santo que un hambre grande había de venir sobre la tierra, como en efecto sucedió bajo Claudio [[174]](#n-174){:#rn-174}.
 
-[29](#c11-v29){:#c11-v29} Determinaron, pues, los discípulos, enviar socorro a los hermanos que habitaban en Judea, cada uno según sus facultades.
+[29](#c11-v29){:#c11-v29} Determinaron, pues, los discípulos, enviar socorro a los hermanos que habitaban en Judea, cada uno según sus facultades;
 
-[30](#c11-v30){:#c11-v30} Lo que hicieron efectivamente, enviándolo a los ancianos por mano de Bernabé y Saulo [[175]](#n-175){:#rn-175}.
+[30](#c11-v30){:#c11-v30} lo que hicieron efectivamente, enviándolo a los ancianos por mano de Bernabé y Saulo [[175]](#n-175){:#rn-175}.
 
 ### Hechos [12](#c12) {#c12}
 
