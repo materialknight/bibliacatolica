@@ -1,6 +1,6 @@
 ---
 layout: page
-title: III REYES (3 SAMUEL)
+title: III REYES (1 REYES)
 permalink: /1-reyes
 ---
 
