@@ -3476,7 +3476,7 @@ Cuando José tenía diez y siete años, apacentaba con sus hermanos los rebaños
 
 [[1]](#rn-1){:#n-1} [1, 1](#c1-v1) **Al principio**, es decir, cuando no existía aún nada de lo que se encierra en las palabras "cielo y tierra".
 
-Desde antiguo se ha observado la semejanza de este pasaje con Juan [1, 1](juan#c1-v1): "En el principio era el Verbo". De ahí que algunos Padres y Teólogos sostengan que el autor sagrado se refiere aquí al Hijo por el cual todo fue hecho (Juan [1, 3](juan#c1-v3)). Cf. Proverbios [8, 22](proverbios#c8-v22). A favor de esta opinión pueden alegarse otros pasajes, por ejemplo: Hebreos [1, 2](hebreos#c1-v2); Apocalipsis [3, 14](apocalipsis#c3-v14); [22, 13](apocalipsis#c22-v13) y especialmente Colosenses [1, 18](colosenses#c1-v18), donde el Apóstol llama a Cristo "el principio" y dice que "por Él fueron hechas todas las cosas, las de los cielos y las que están sobre la tierra, las visibles y las invisibles, sean dominaciones, sean principados, sean potestades. Todas las cosas fueron creadas por medio de Él y para Él (Colosenses [1, 16](colosenses#c1-v16)). Es de notar que el mismo Jesús se llama "el principio" en Juan [8, 25](juan#c8-v25) (Vulgata).
+Desde antiguo se ha observado la semejanza de este pasaje con Juan [1, 1](juan#c1-v1): "En el principio era el Verbo". De ahí que algunos Padres y Teólogos sostengan que el autor sagrado se refiere aquí al Hijo por el cual todo fue hecho (Juan [1, 3](juan#c1-v3)). Cf. Proverbios [8, 22](proverbios#c8-v22). A favor de esta opinión pueden alegarse otros pasajes, por ejemplo: Hebreos [1, 2](hebreos#c1-v2); Apocalipsis [3, 14](apocalipsis#c3-v14); [22, 13](apocalipsis#c22-v13) y especialmente Colosenses [1, 18](colosenses#c1-v18), donde el Apóstol llama a Cristo "el principio" y dice que "por Él fueron hechas todas las cosas, las de los cielos y las que están sobre la tierra, las visibles y las invisibles, sean dominaciones, sean principados, sean potestades. Todas las cosas fueron creadas por medio de Él y para Él (Colosenses [1, 16](colosenses#c1-v16)). Es de notar que el mismo Jesús se llama "el principio" en Juan [8, 25](juan#c8-v25) (*Vulgata*).
 
 **Creó**: de la nada; no de alguna materia preexistente, como se lee en las cosmogonías paganas. El verbo hebreo *bará* se usa específicamente para señalar la actividad divina y la creación *ex nihilo*.
 
@@ -3537,7 +3537,7 @@ Son de admirar estas luces que Dios nos hace ver desde el Antiguo Testamento sob
 
 **La lumbrera mayor** (v. [16](#c1-v16)) es tipo de Cristo que en Malaquías [4, 2](malaquias#c4-v2) es llamado "Sol de Justicia". Cf. Isaías [60, 19](isaias#c60-v19); Zacarías [3, 8](zacarias#c3-v8); Lucas [1, 78](lucas#c1-v78); Apocalipsis [21, 23](apocalipsis#c21-v23), y especialmente el Prólogo del Evangelio de San Juan (Juan [1](juan#c1)). Esta denominación ha sido trasplantada a la Liturgia, en donde sirve para ordenar el año litúrgico. El "Sol de Justicia", Cristo, es el centro del movimiento cíclico de todas las solemnidades místicas de la Iglesia.
 
-[[11]](#rn-11){:#n-11} [1, 20](#c1-v20) **Seres vivientes**, literalmente: almas. El sentido primitivo de la palabra es aliento, hálito, vida. De ahí que se use en el sentido de alma en todo el Antiguo Testamento y también en el Nuevo (Cf. Mateo [10, 39](mateo#c10-v39) y nota). La Vulgata vierte: "produzcan las aguas reptiles de alma viviente y aves que vuelen sobre la tierra debajo del firmamento del cielo". El término "produzcan" dio lugar a la creencia de que los peces y también las aves fuesen productos del agua. Así lo interpretan, entre otros, San Cirilo de Alejandría, San Juan Damasceno, muchos escolásticos y el autor del himno de vísperas del jueves:
+[[11]](#rn-11){:#n-11} [1, 20](#c1-v20) **Seres vivientes**, literalmente: almas. El sentido primitivo de la palabra es aliento, hálito, vida. De ahí que se use en el sentido de alma en todo el Antiguo Testamento y también en el Nuevo (Cf. Mateo [10, 39](mateo#c10-v39) y nota). La *Vulgata* vierte: "produzcan las aguas reptiles de alma viviente y aves que vuelen sobre la tierra debajo del firmamento del cielo". El término "produzcan" dio lugar a la creencia de que los peces y también las aves fuesen productos del agua. Así lo interpretan, entre otros, San Cirilo de Alejandría, San Juan Damasceno, muchos escolásticos y el autor del himno de vísperas del jueves:
 
 > *Magnae Deus potentiae*,<br>
 > *qui fertili natos aqua*<br>
@@ -3621,7 +3621,7 @@ La expresión antropomórfica "**insufló en sus narices**" (cf. Isaías [2, 22]
 
 **Aliento de vida**: ¿No se puede ver también aquí una alusión al Espíritu Santo, como en [1, 2](#c1-v2)? Cf. Job [33, 4](job#c33-v4): "El Espíritu de Dios me ha hecho, y el soplo del Todopoderoso me da vida", y en Salmo [32, 6](salmos#c32-v6): "Por la palabra del Señor se hicieron los cielos, y sus huestes todas por el aliento de su boca."
 
-[[23]](#rn-23){:#n-23} [2, 8](#c2-v8) **Edén**, palabra antigua sumeria. Los sumerios fueron los antecesores de los babilonios, a los cuales dejaron su cultura y la escritura cuneiforme. Edén significa en sumerio campo abierto, llanura donde prosperan todos los frutos; de ahí que en hebreo tenga el significado de delicias. La Vulgata traduce "jardín de delicias", y en vez de "al oriente" vierte "desde el principio", pues en hebreo las dos cosas se expresan por la misma palabra.
+[[23]](#rn-23){:#n-23} [2, 8](#c2-v8) **Edén**, palabra antigua sumeria. Los sumerios fueron los antecesores de los babilonios, a los cuales dejaron su cultura y la escritura cuneiforme. Edén significa en sumerio campo abierto, llanura donde prosperan todos los frutos; de ahí que en hebreo tenga el significado de delicias. La *Vulgata* traduce "jardín de delicias", y en vez de "al oriente" vierte "desde el principio", pues en hebreo las dos cosas se expresan por la misma palabra.
 
 [[24]](#rn-24){:#n-24} [2, 9](#c2-v9) **El árbol de la vida** servía para contrarrestar la natural caducidad del cuerpo. Según San Tomás, el fruto de ese árbol libraba el cuerpo de la muerte solamente por algún tiempo, y para evitar la muerte Adán tenía que comer siempre de nuevo.
 
@@ -3749,7 +3749,7 @@ La nueva versión italiana explicada por el P. Vaccari, profesor del Pontificio 
 
 > "La descendencia de la mujer vencerá al demonio de la misma manera que el hombre aplasta la cabeza de una serpiente. La descendencia de la mujer es, en general, el género humano; más principalmente, el Salvador Jesucristo, que es la Cabeza de toda la humanidad (Colosenses [1, 15](colosenses#c1-v15), 18). Él venció por propia virtud al demonio, lo que los otros hacen en virtud de Él. Contiene, pues, este versículo el primer anuncio del futuro Redentor. Se le da por ello el nombre de 'Protoevangelio' ('primera Buena Nueva'). Al triunfo del Salvador va asociada su madre, la magna Señora, que se contrapone a Eva (Lucas [1, 26](lucas#c1-v26)-38)."
 
-En vez de "**éste**" (el linaje) dice la Vulgata "**ésta**" (la mujer), lo que dio lugar a muchas discusiones, porque el texto hebreo y todas las versiones antiguas se oponen a esta traducción. El mismo San Jerónimo atestigua que también la primera versión latina, la Itala, traía igualmente el pronombre masculino, y no el femenino.
+En vez de "**éste**" (el linaje) dice la *Vulgata* "**ésta**" (la mujer), lo que dio lugar a muchas discusiones, porque el texto hebreo y todas las versiones antiguas se oponen a esta traducción. El mismo San Jerónimo atestigua que también la primera versión latina, la Itala, traía igualmente el pronombre masculino, y no el femenino.
 
 **Le aplastarás el calcañar**: Cristo fue clavado en la Cruz, por obra de la serpiente (Satanás) y sus cooperadores, y así obtuvo Satanás una aparente victoria, mas el verdadero vencedor fue Cristo, que con la muerte de Cruz aplastó al enemigo del género humano, el cual al fin (Apocalipsis 20,10) será precipitado en el "lago de fuego y azufre." Entretanto, "ronda como león rugiente, buscando a quien pueda devorar" (1 Pedro [2, 4](1-pedro#c2-v4); cf. Judas v. [5](judas#v5)). Así se explica la misteriosa palabra de San Pablo en 1 Corintios [6, 3](1-corintios#c6-v3):
 
@@ -3843,7 +3843,7 @@ San Crisóstomo combina las palabras de este versículo de otra manera, y ve aqu
 
 > "Sabrá vengarse ampliamente si uno lo hiere, no sólo 'siete veces' -con lo cual impíamente alude a la palabra divina (v. [15](#c4-v15))- sino 'setenta veces siete'. Su brazo le bastará, no tendrá necesidad de Dios como Caín." (Fillion)
 
-Preferimos la lección de la Vulgata en vez del hebreo, que dice "setenta y siete veces".
+Preferimos la lección de la *Vulgata* en vez del hebreo, que dice "setenta y siete veces".
 
 [[63]](#rn-63){:#n-63} [4, 25](#c4-v25) **Set** significa "sustituto" o "reemplazante", a saber, de Abel. Set es el primer eslabón del linaje de los justos elegidos para conservar la revelación divina y el ideal del Reino de Dios sobre la tierra. Le siguen los patriarcas Noé ([6, 8](#c6-v8) ss.), Sem ([9, 26](#c9-v26) s.), Abraham ([12, 1](#c12-v1)), Isaac, Jacob, etc.
 
@@ -3851,7 +3851,7 @@ Preferimos la lección de la Vulgata en vez del hebreo, que dice "setenta y siet
 
 [[65]](#rn-65){:#n-65} [5, 1](#c5-v1) **Adán**, como padre del género humano según la carne, es figura o tipo de Cristo, el restaurador del género humano en sentido espiritual. Cf. Romanos [5, 12](romanos#c5-v12) ss.; 1 Corintios [15, 21](1-corintios#c15-v21) s. y 45-47; Efesios [1, 10](efesios#c1-v10).
 
-[[66]](#rn-66){:#n-66} [5, 5](#c5-v5) **La longevidad de los patriarcas** es un problema no explicado aún suficientemente, porque conocemos muy poco los antiguos sistemas cronológicos. Sabemos, p. ej., que los babilonios adjudicaban a sus primeros reyes muchos más años que la Biblia a los patriarcas, p. ej., a Enmeduranna, rey de Sipar, 72.000 años, según otra versión, 21.000. Mas ante todo hay que tomar en cuenta que, antes del diluvio, las condiciones de vida eran diversas de las actuales, y que en la tradición del texto de este capítulo hay muchas diferencias entre el hebreo, el samaritano, el de los Setenta y de la Vulgata, lo que prueba que no tenemos seguridad sobre el valor exacto de los números. Entre los modernos muchos invocan el carácter simbólico de los números, muy usado en la Antigüedad, otros recurren a la posibilidad de lagunas en esta genealogía, dando al verbo "engendrar" el significado de varias generaciones, como sucede también en la genealogía de Cristo. Cf. Mateo [1, 1](mateo#c1-v1) ss. y nota.
+[[66]](#rn-66){:#n-66} [5, 5](#c5-v5) **La longevidad de los patriarcas** es un problema no explicado aún suficientemente, porque conocemos muy poco los antiguos sistemas cronológicos. Sabemos, p. ej., que los babilonios adjudicaban a sus primeros reyes muchos más años que la Biblia a los patriarcas, p. ej., a Enmeduranna, rey de Sipar, 72.000 años, según otra versión, 21.000. Mas ante todo hay que tomar en cuenta que, antes del diluvio, las condiciones de vida eran diversas de las actuales, y que en la tradición del texto de este capítulo hay muchas diferencias entre el hebreo, el samaritano, el de los Setenta y de la *Vulgata*, lo que prueba que no tenemos seguridad sobre el valor exacto de los números. Entre los modernos muchos invocan el carácter simbólico de los números, muy usado en la Antigüedad, otros recurren a la posibilidad de lagunas en esta genealogía, dando al verbo "engendrar" el significado de varias generaciones, como sucede también en la genealogía de Cristo. Cf. Mateo [1, 1](mateo#c1-v1) ss. y nota.
 
 Interesante es el modo como San Jerónimo explica la longevidad de los patriarcas:
 
@@ -3859,7 +3859,7 @@ Interesante es el modo como San Jerónimo explica la longevidad de los patriarca
 
 [[67]](#rn-67){:#n-67} [5, 24](#c5-v24) Del patriarca Enoc, que desapareció sin haber visto la muerte, dice la Sagrada Escritura en otro lugar:
 
-> "Enoc agradó a Dios y fue trasladado al paraíso para predicar a los pueblos la penitencia" (Eclesiástico [44, 16](eclesiastico#c44-v16), Vulgata; cf. Eclesiástico [49, 16](eclesiastico#c49-v16))
+> "Enoc agradó a Dios y fue trasladado al paraíso para predicar a los pueblos la penitencia" (Eclesiástico [44, 16](eclesiastico#c44-v16), *Vulgata*; cf. Eclesiástico [49, 16](eclesiastico#c49-v16))
 
 En la carta de San Judas leemos que el patriarca Enoc anunció a los impíos el castigo, y San Pablo lo alaba como ejemplo de fe (Hebreos [11, 5](hebreos#c11-v5)). Muchos Padres sostienen que Enoc ha de venir por segunda vez, como Elías, para combatir al Anticristo, y la exégesis tradicional toma a Enoc y a Elías por los dos testigos de Apocalipsis [11, 3](apocalipsis#c11-v3), ss. Hay un libro que lleva el nombre de Enoc, pero por ser apócrifo no ha sido recibido como canónico, aunque gozaba de mucho prestigio en la era patrística.
 
@@ -3913,9 +3913,9 @@ Aducen asimismo el testimonio de los Padres y antiguos intérpretes que se han p
 
 [[82]](#rn-82){:#n-82} [8, 4](#c8-v4) **Ararat**: Armenia, cuyo nombre babilónico es *Urartu*.
 
-**El día diecisiete**: La Vulgata de San Jerónimo vierte: "del día veintisiete".
+**El día diecisiete**: La *Vulgata* de San Jerónimo vierte: "del día veintisiete".
 
-[[83]](#rn-83){:#n-83} [8, 7](#c8-v7) **Salía y retornaba**: La Vulgata dice "Salió y no volvió". Se ha probado que la Vulgata antigua traía un texto igual al hebreo, por lo cual la Comisión Pontificia, a cuyo cuidado está la revisión de la Vulgata, ha restaurado en este lugar la forma primitiva del texto.
+[[83]](#rn-83){:#n-83} [8, 7](#c8-v7) **Salía y retornaba**: La *Vulgata* dice "Salió y no volvió". Se ha probado que la *Vulgata* antigua traía un texto igual al hebreo, por lo cual la Comisión Pontificia, a cuyo cuidado está la revisión de la *Vulgata*, ha restaurado en este lugar la forma primitiva del texto.
 
 [[84]](#rn-84){:#n-84} [8, 11](#c8-v11)
 
@@ -4037,7 +4037,7 @@ Sobre **Magog**, un país situado al norte, véase Ezequiel [38, 2](ezequiel#c38
 
 > "De este cuadro quedan excluidos todos los pueblos que moraban fuera del ámbito geográfico del autor sagrado, que era el de sus contemporáneos. La divina inspiración no ampliaba los conocimientos de los autores sagrados, que por otra parte, no interesaban al fin que se proponía." (Nácar-Colunga)
 
-[[111]](#rn-111){:#n-111} [11, 2](#c11-v2) **Sinear**: Babilonia (cf. [10, 10](#c10-v10)). Parece que el nombre de Sinear o Senaar (Vulgata) es idéntico con el nombre del pueblo de los sumerios, los más antiguos pobladores de Babilonia, quienes transmitieron su cultura y la escritura cuneiforme a los pueblo semíticos que invadieron el país en el tercer milenio a. C. En aquellos tiempos la tierra de Babilonia no tenía la extensión geográfica de hoy, porque el golfo Pérsico se extendía hacia el norte más allá de la actual juntura del Tigris y Éufrates. Esta parte del golfo se llamaba el Mar Maratu.
+[[111]](#rn-111){:#n-111} [11, 2](#c11-v2) **Sinear**: Babilonia (cf. [10, 10](#c10-v10)). Parece que el nombre de *Sinear* o *Senaar* (*Vulgata*) es idéntico con el nombre del pueblo de los sumerios, los más antiguos pobladores de Babilonia, quienes transmitieron su cultura y la escritura cuneiforme a los pueblo semíticos que invadieron el país en el tercer milenio a. C. En aquellos tiempos la tierra de Babilonia no tenía la extensión geográfica de hoy, porque el golfo Pérsico se extendía hacia el norte más allá de la actual juntura del Tigris y Éufrates. Esta parte del golfo se llamaba el Mar *Maratu*.
 
 [[112]](#rn-112){:#n-112} [11, 3](#c11-v3) En aquella región no hay piedras ni cal; por eso se sirven del barro para fabricar ladrillos y del betún en lugar de argamasa.
 
@@ -4091,7 +4091,7 @@ Los cananeos vivían en ciudades y lugares fortificados y permitían que las tri
 
 [[123]](#rn-123){:#n-123} [12, 6](#c12-v6) **Siquem**, situada en el centro de Palestina, idéntica con la actual Balata, a dos kilómetros al sudeste de Nablús.
 
-**Encina de Moré**: la Vulgata vierte: "valle ilustre".
+**Encina de Moré**: la *Vulgata* vierte: "valle ilustre".
 
 [[124]](#rn-124){:#n-124} [12, 7](#c12-v7) **A tu descendencia**: Cf. [13, 15](#c13-v15); [17, 8](#c17-v8); [22, 18](#c22-v18); [24, 7](#c24-v7). El sentido espiritual de esta promesa nos lo revela San Pablo en Gálatas [3, 16](galatas#c3-v16), refiriéndolo al Descendiente por excelencia, el Mesías.
 
@@ -4123,7 +4123,7 @@ Cuando uno obra sin caridad tendrá que arrepentirse. Dentro de poco Lot habrá 
 
 [[134]](#rn-134){:#n-134} [13, 18](#c13-v18) **Hebrón**, cuyo nombre más antiguo fue Kiryat Arbá (Josué [14, 15](josue#c14-v15)) y hoy se llama El Chalil, se halla situada a unos 40 kilómetros al sur de Jerusalén.
 
-El **encinar de Mamré** (Vulgata: "valle de Mambré"), es el lugar clásico de la historia de Abrahán. El P. Mader tiene el mérito de haber investigado la primitiva residencia del gran Patriarca, la cual lleva hoy el nombre de *Haram Ramet el-Chalil* (= santuario de la colina del Amigo (de Dios)). Había allí un pozo y un altar. En Mamré hospedó Abrahán a los tres varones del capítulo [18](#c18).
+El **encinar de Mamré** (*Vulgata*: "valle de Mambré"), es el lugar clásico de la historia de Abrahán. El P. Mader tiene el mérito de haber investigado la primitiva residencia del gran Patriarca, la cual lleva hoy el nombre de *Haram Ramet el-Chalil* (= santuario de la colina del Amigo (de Dios)). Había allí un pozo y un altar. En Mamré hospedó Abrahán a los tres varones del capítulo [18](#c18).
 
 [[135]](#rn-135){:#n-135} [14, 1](#c14-v1) El capítulo 14 es de singular importancia por los nombres y datos históricos en él contenidos.
 
@@ -4147,7 +4147,7 @@ El **encinar de Mamré** (Vulgata: "valle de Mambré"), es el lugar clásico de 
 
 **Hazazón-Tamar**, o sea Engaddí (2 Crónicas [20, 2](2-cronicas#c20-v2)), situada en la costa occidental del Mar Muerto, donde vivía la tribu de los *amorreos* (canaanitas).
 
-[[139]](#rn-139){:#n-139} [14, 13](#c14-v13) **Abram el hebreo**: Aparece aquí, por primera vez en la historia, la palabra "hebreo". Su origen y significado es oscuro. Abram lleva este nombre, o por ser descendiente de Eber ([10, 25](#c10-v25)) o por haber venido de la otra parte (en hebreo "eber") del Éufrates. El nombre parece ser idéntico con el de los Habiru de las tablas del Tell el Amarna.
+[[139]](#rn-139){:#n-139} [14, 13](#c14-v13) **Abram el hebreo**: Aparece aquí, por primera vez en la historia, la palabra "hebreo". Su origen y significado es oscuro. Abram lleva este nombre, o por ser descendiente de Eber ([10, 25](#c10-v25)) o por haber venido de la otra parte (en hebreo *eber*) del Éufrates. El nombre parece ser idéntico con el de los Habiru de las tablas del Tell el Amarna.
 
 [[140]](#rn-140){:#n-140} [14, 14](#c14-v14) Su hermano, en realidad sobrino (Véase v. [12](#c14-v12)). Entre los hebreos la palabra "hermano" significaba "pariente". Cf. [13, 8](#c13-v8) y nota.
 
@@ -4155,13 +4155,13 @@ El **encinar de Mamré** (Vulgata: "valle de Mambré"), es el lugar clásico de 
 
 [[141]](#rn-141){:#n-141} [14, 18](#c14-v18) **Melquisedec, rey de Salem** (Jerusalén: cf. Salmo [75, 3](salmos#c75-v3) donde Jerusalén lleva este mismo nombre), bendice a Abrahán, recibe diezmos de su mano y ofrece pan y vino al Altísimo. Se refieren al misterioso rey-sacerdote el Salmo [109, 4](salmos#c109-v4) y San Pablo (Hebreos [7, 1](hebreos#c7-v1) ss.) haciéndonos ver que Melquisedec, sacerdote y rey, es figura de Cristo, el sumo sacerdote y sumo rey, y que su sacrificio de pan y vino es figura del Sacrificio del Nuevo Testamento (véase el Canon de la Misa y Catecismo Romano II, 4, 78).
 
-Hasta los nombres prefiguran la misión de Cristo. *Melquisedec* significa "rey de justicia", y *Salem* significa "paz". Sobre este pasaje se han suscitado muchas discusiones entre los exégetas católicos y protestantes. Según los primeros, Melquisedec ofreció allí un sacrificio de pan y vino en honor a Dios, como figura profética del sacrificio incruento que hoy se ofrece en la misa (cf. Denz. 938), mientras que los segundos pretenden que simplemente trajo pan y vino para agasajar a Abrahán como huésped. El texto de la Vulgata favorece claramente la primera interpretación, pues dice: "ofreciendo pan y vino porque era sacerdote del Dios Altísimo". La reciente edición de la Biblia italiana auspiciada por el Pontificio Instituto Bíblico, vierte "Aportó pan y vino siendo sacerdote", etc. y pone la siguiente nota:
+Hasta los nombres prefiguran la misión de Cristo. **Melquisedec** significa "rey de justicia", y **Salem** significa "paz". Sobre este pasaje se han suscitado muchas discusiones entre los exégetas católicos y protestantes. Según los primeros, Melquisedec ofreció allí un sacrificio de pan y vino en honor a Dios, como figura profética del sacrificio incruento que hoy se ofrece en la misa (cf. Denz. 938), mientras que los segundos pretenden que simplemente trajo pan y vino para agasajar a Abrahán como huésped. El texto de la *Vulgata* favorece claramente la primera interpretación, pues dice: "ofreciendo pan y vino porque era sacerdote del Dios Altísimo". La reciente edición de la Biblia italiana auspiciada por el Pontificio Instituto Bíblico, vierte "Aportó pan y vino siendo sacerdote", etc. y pone la siguiente nota:
 
 > "Aportó (explica San Juan Crisóstomo, Homilía 36 N° 4), para refacción de las tropas de Abrahán, el cual en consideración al sagrado carácter de Melquisedec, figura de Cristo (cf. Salmo [109, 4](salmos#c109-v4); Hebreos [7](hebreos#c7)), aceptó los dones, figura de la Eucaristía, y en cambio dio al sacerdote la décima parte de todo el botín (v. [20](#c14-v20)). Es obvio que Melquisedec haya ofrecido primero esos dones según el uso, al Altísimo, de quien era sacerdote".
 
 [[142]](#rn-142){:#n-142} [14, 20](#c14-v20) **Le dio** (Abram) **el diezmo**: San Pablo cita este pasaje en Hebreos [7, 4](hebreos#c7-v4), para mostrar la superioridad del Sacerdocio de Cristo.
 
-[[143]](#rn-143){:#n-143} [14, 21](#c14-v21) **Dame gente**: es decir, los prisioneros rescatados en la batalla. La Vulgata dice: "Da mihi animas" que Scío traduce muy exactamente: "dame las personas", pues, "alma" significa en hebreo vida, todo el hombre, persona. Sin embargo, muchos autores de libros ascéticos usan esta palabra en el sentido de alma, y la aplican al celo de los misioneros y predicadores. El Cardenal Gomá pregunta con razón:
+[[143]](#rn-143){:#n-143} [14, 21](#c14-v21) **Dame gente**: es decir, los prisioneros rescatados en la batalla. La *Vulgata* dice: "Da mihi animas" que Scío traduce muy exactamente: "dame las personas", pues, "alma" significa en hebreo vida, todo el hombre, persona. Sin embargo, muchos autores de libros ascéticos usan esta palabra en el sentido de alma, y la aplican al celo de los misioneros y predicadores. El Cardenal Gomá pregunta con razón:
 
 >"¿Vale el texto para ponderar el valor de un alma y significar el ardor del celo apostólico?" (La Biblia y la Predicación, pág. 268)
 
@@ -4317,7 +4317,7 @@ Es verdad que entre gente culta no se habla de cosas sucias o hediondas por raz�
 
 > "**Expiatorio**, o lo que es lo mismo, este presente va hecho para ti, con el fin de cerrar los ojos a los que te rodean sobre cuánto ha pasado, y restablecer tu honor, acreditando tu honestidad."
 
-**Así quedas justificada**: La Vulgata vierte: "Acuérdate que has sido aprehendida". Otros: "Con esto todo está arreglado".
+**Así quedas justificada**: La *Vulgata* vierte: "Acuérdate que has sido aprehendida". Otros: "Con esto todo está arreglado".
 
 [[186]](#rn-186){:#n-186} [21, 6](#c21-v6) Véase [17, 19](#c17-v19). El nombre de Isaac significa risa (cf. [18, 10](#c18-v10) ss.). Este nombre se relaciona con la risa que tuvo Sara (y que después negó) cuando se le dijo que iba a ser madre. El nombre puede expresar también la alegría que sintió Sara en el nacimiento de Isaac.
 
@@ -4369,7 +4369,7 @@ Como Isaac tomó sobre sus espaldas la leña, así Cristo cargó con el madero d
 
 > "Abrahán", comenta San Ireneo, "no recibió su herencia en aquella tierra, ni siquiera un palmo, sino que siempre fue en ella peregrino y extranjero. Y cuando murió Sara, su esposa, queriendo voluntariamente los heteos darle lugar para sepultarla, no quiso recibirlo, sino que compró un monumento a Efrón, hijo de Seor heteo, por cuatrocientos siclos de plata, prefiriendo atenerse a la promesa de Dios y no queriendo aparecer como que recibía de los hombres lo prometido por Dios".
 
-[[203]](#rn-203){:#n-203} [23, 9](#c23-v9) **Macpelá**: La Vulgata vierte: "cueva doble", pues éste es el significado del nombre. Era costumbre enterrar a los muertos en cuevas naturales o artificiales, cavadas horizontalmente en la ladera de la roca. El interior era ordinariamente abovedado, y a veces sostenido por columnas. No siempre se colocaban los cadáveres en los nichos de las paredes laterales, sino en fosas cavadas en el suelo y, más tarde, a veces en sarcófagos. La entrada era angosta y cerrada por una piedra.
+[[203]](#rn-203){:#n-203} [23, 9](#c23-v9) **Macpelá**: La *Vulgata* vierte: "cueva doble", pues éste es el significado del nombre. Era costumbre enterrar a los muertos en cuevas naturales o artificiales, cavadas horizontalmente en la ladera de la roca. El interior era ordinariamente abovedado, y a veces sostenido por columnas. No siempre se colocaban los cadáveres en los nichos de las paredes laterales, sino en fosas cavadas en el suelo y, más tarde, a veces en sarcófagos. La entrada era angosta y cerrada por una piedra.
 
 [[204]](#rn-204){:#n-204} [23, 18](#c23-v18) Las formalidades de la compra del campo y aun los cumplidos que se hacen mutuamente el vendedor y el comprador, corresponden exactamente a las costumbres orientales, atestiguadas por otros documentos y observadas en parte aun hoy día, El precio de 400 siclos de plata equivale a 1.500 pesos argentinos, suma extraordinariamente grande para aquella época.
 
@@ -4611,11 +4611,11 @@ San Ireneo refiere esta bendición al Reino que ha de venir, diciendo:
 
 [[295]](#rn-295){:#n-295} [33, 17](#c33-v17) **Sucot**, más tarde ciudad, situada a 10 kilómetros de la desembocadura del Yaboc en el Jordán.
 
-[[296]](#rn-296){:#n-296} [33, 18](#c33-v18) La ciudad de **Siquem**, esto es, el punto céntrico de Palestina. En el campo que Jacob allí compró, abrió un pozo, llamado más tarde pozo de Jacob, famoso por la conversación de Jesús con la samaritana (Juan 4). La Vulgata traduce: "llegó a Salem, ciudad de los siquemitas".
+[[296]](#rn-296){:#n-296} [33, 18](#c33-v18) La ciudad de **Siquem**, esto es, el punto céntrico de Palestina. En el campo que Jacob allí compró, abrió un pozo, llamado más tarde pozo de Jacob, famoso por la conversación de Jesús con la samaritana (Juan 4). La *Vulgata* traduce: "llegó a Salem, ciudad de los siquemitas".
 
-[[297]](#rn-297){:#n-297} [33, 19](#c33-v19) **Cien kesitas**: cien monedas de plata. La Vulgata dice: "cien corderos".
+[[297]](#rn-297){:#n-297} [33, 19](#c33-v19) **Cien kesitas**: cien monedas de plata. La *Vulgata* dice: "cien corderos".
 
-[[298]](#rn-298){:#n-298} [33, 20](#c33-v20) **El-Elohé-Israel**: El significado de este nombre es: Él (nombre de Dios) es el Dios de Israel, o: el fuerte Dios de Israel. Vulgata: "Dios fortísimo de Israel".
+[[298]](#rn-298){:#n-298} [33, 20](#c33-v20) **El-Elohé-Israel**: El significado de este nombre es: Él (nombre de Dios) es el Dios de Israel, o: el fuerte Dios de Israel. *Vulgata*: "Dios fortísimo de Israel".
 
 [[299]](#rn-299){:#n-299} [34, 2](#c34-v2) Los **heveos**, un pueblo cananeo ([10, 17](#c10-v17); Éxodo [3, 8](exodo#c3-v8); Josué [9, 7](josue#c9-v7)).
 
@@ -4645,7 +4645,7 @@ San Ireneo refiere esta bendición al Reino que ha de venir, diciendo:
 
 [[312]](#rn-312){:#n-312} [35, 16](#c35-v16) **Efrata**: ciudad y región de Belén, denominada así por su fertilidad; pues *Efrata* significa "fértil", y *Belén* (*Betlehem*), "casa del pan", cf. Rut [1, 2](rut#c1-v2); Miqueas [4, 2](miqueas#c4-v2).
 
-[[313]](#rn-313){:#n-313} [35, 18](#c35-v18) **Benoní**: hijo de mi dolor. **Benjamín**: hijo de la diestra o hijo de buen augurio; corresponde al nombre de Buenaventura (en griego Eustaquio).
+[[313]](#rn-313){:#n-313} [35, 18](#c35-v18) **Benoní**: hijo de mi dolor. **Benjamín**: hijo de la diestra o hijo de buen augurio; corresponde al nombre de *Buenaventura* (en griego *Eustaquio*).
 
 [[314]](#rn-314){:#n-314} [35, 20](#c35-v20) Los judíos y mahometanos veneran la tumba de Raquel, en un monumento sepulcral erigido en el camino de Jerusalén a Belén. Véase [48, 9](#c48-v9).
 
@@ -4669,9 +4669,9 @@ El "Testamento de Isaac", un libro difundido en los primeros siglos del Cristian
 
 [[323]](#rn-323){:#n-323} [36, 31](#c36-v31) Las palabras: **antes que los hijos de Israel tuvieran rey**, que presuponen la existencia de reyes de Israel en tiempos del autor, han de tenerse como glosa añadida por un redactor posterior a Moisés. Cf. 1 Samuel [8](1-samuel#c8)-10.
 
-[[324]](#rn-324){:#n-324} [37, 2](#c37-v2) **Diez y siete años**: Vulgata: "dieciséis".
+[[324]](#rn-324){:#n-324} [37, 2](#c37-v2) **Diez y siete años**: *Vulgata*: "dieciséis".
 
-[[325]](#rn-325){:#n-325} [37, 3](#c37-v3) ss. **Un traje talar**: Otros: "una túnica de varios colores". Así también la Vulgata. Los hermanos de José no comprendían el cariño de su padre hacia el hijo predilecto, que era mejor educado que ellos y no participaba en sus fechorías (cf. v. [2](#c37-v2)). En sentido espiritual Jacob es figura del Padre Eterno, y José figura de Jesucristo, el "Hijo amado" (Marcos [12, 6](marcos#c12-v6)).
+[[325]](#rn-325){:#n-325} [37, 3](#c37-v3) ss. **Un traje talar**: Otros: "una túnica de varios colores". Así también la *Vulgata*. Los hermanos de José no comprendían el cariño de su padre hacia el hijo predilecto, que era mejor educado que ellos y no participaba en sus fechorías (cf. v. [2](#c37-v2)). En sentido espiritual Jacob es figura del Padre Eterno, y José figura de Jesucristo, el "Hijo amado" (Marcos [12, 6](marcos#c12-v6)).
 
 [[326]](#rn-326){:#n-326} [37, 7](#c37-v7) Los sueños con que Dios favoreció a José aumentaron la envidia y el odio de los hermanos, porque los miraban como una expresión de ambición de reinar y tomar el mando sobre toda la casa de Jacob. De ahí que tramen su ruina, sin saber que con ello serán la causa de su elevación y gloria. Pues los designios de Dios deben cumplirse; cumplirse al pie de la letra. Tenemos en esta narración un ejemplo clásico de los caminos de la divina Providencia, que sabe convertir en bien las maquinaciones de la malicia humana, como lo dice el mismo José en [50, 20](#c50-v20).
 
@@ -4689,7 +4689,7 @@ El "Testamento de Isaac", un libro difundido en los primeros siglos del Cristian
 
 [[332]](#rn-332){:#n-332} [37, 34](#c37-v34) El rasgar los vestidos y cubrirse de saco eran señales de dolor y de luto, no sólo entre los judíos sino también en otros pueblos del Oriente.
 
-[[333]](#rn-333){:#n-333} [37, 35](#c37-v35) **Scheol** llamaban los israelitas el lugar donde moraban las almas de los difuntos. Aquí se manifiesta la fe del patriarca en la inmortalidad, que en el pueblo de Israel se desarrollará hasta llegar a la fe en la resurrección (Job [19, 25](job#c19-v25); Proverbios [7, 27](proverbios#c7-v27); Isaías [14, 15](isaias#c14-v15); Ezequiel [32, 21](ezequiel#c32-v21)). Generalmente, la Vulgata traduce *Scheol* por infierno, y da a esta palabra su significado antiguo, que se ha perdido en las lenguas modernas. El "infierno" de la Vulgata se refiere, por consiguiente, no al lugar de los condenados, sino al "limbo de los padres" o "seno de Abrahán". Cf. el *descendit ad inferos* del Credo.
+[[333]](#rn-333){:#n-333} [37, 35](#c37-v35) **Scheol** llamaban los israelitas el lugar donde moraban las almas de los difuntos. Aquí se manifiesta la fe del patriarca en la inmortalidad, que en el pueblo de Israel se desarrollará hasta llegar a la fe en la resurrección (Job [19, 25](job#c19-v25); Proverbios [7, 27](proverbios#c7-v27); Isaías [14, 15](isaias#c14-v15); Ezequiel [32, 21](ezequiel#c32-v21)). Generalmente, la *Vulgata* traduce *Scheol* por infierno, y da a esta palabra su significado antiguo, que se ha perdido en las lenguas modernas. El "infierno" de la *Vulgata* se refiere, por consiguiente, no al lugar de los condenados, sino al "limbo de los padres" o "seno de Abrahán". Cf. el *descendit ad inferos* del Credo.
 
 [[334]](#rn-334){:#n-334} [37, 36](#c37-v36) **Eunuco**, no en sentido propio, pues no lo fue, sino en sentido de oficial o funcionario.
 
@@ -4813,7 +4813,7 @@ Encontramos aquí el rasgo principal de la fisonomía espiritual del privilegiad
 
 [[382]](#rn-382){:#n-382} [45, 19](#c45-v19) **Llevaos carros**: Siendo pastores nómadas los patriarcas no tenían carros ni caballos; tampoco se dedicaban a la agricultura. Por eso el Faraón los provee de carros.
 
-[[383]](#rn-383){:#n-383} [45, 20](#c45-v20) **Vuestros ojos no miren**, etc.: La Vulgata traduce: "No dejéis nada de vuestro equipaje".
+[[383]](#rn-383){:#n-383} [45, 20](#c45-v20) **Vuestros ojos no miren**, etc.: La *Vulgata* traduce: "No dejéis nada de vuestro equipaje".
 
 [[384]](#rn-384){:#n-384} [45, 22](#c45-v22) **Vestidos de fiesta**: literalmente: vestidos para cambiar, o sea, vestidos que no se usan todos los días, sino sólo para las fiestas.
 
@@ -4873,7 +4873,7 @@ Encontramos aquí el rasgo principal de la fisonomía espiritual del privilegiad
 
 [[408]](#rn-408){:#n-408} [48, 20](#c48-v20) **Por ti**, es decir, por Efraím. Algunos traducen, a título de conjetura: "por vosotros". El sentido es: en adelante se citará esta bendición como tipo de felicidad y prosperidad.
 
-[[409]](#rn-409){:#n-409} [48, 22](#c48-v22) **Una porción**: El texto griego dice "Sikima", que, según San Jerónimo, sería idéntica con la ciudad de Siquem o Sicar. De ahí la opinión de algunos expositores que dicen que Jacob aquí regala a José la ciudad de Siquem; opinión que parece apoyada por el Evangelio, que habla de una heredad situada cerca de Siquem, la que Jacob dio a José (Juan [4, 5](juan#c4-v5)).
+[[409]](#rn-409){:#n-409} [48, 22](#c48-v22) **Una porción**: El texto griego dice "*Sikima*", que, según San Jerónimo, sería idéntica con la ciudad de Siquem o Sicar. De ahí la opinión de algunos expositores que dicen que Jacob aquí regala a José la ciudad de Siquem; opinión que parece apoyada por el Evangelio, que habla de una heredad situada cerca de Siquem, la que Jacob dio a José (Juan [4, 5](juan#c4-v5)).
 
 [[410]](#rn-410){:#n-410} [49, 1](#c49-v1) Este capítulo es una perla de la literatura hebrea, poesía y profecía a la vez. Antes de morir, el venerable patriarca, iluminado por Dios, da a conocer los futuros destinos de sus hijos y del pueblo de Israel, fundándose, como observa Vigouroux, ora en el carácter y en los nombres de sus hijos, ora en las promesas divinas dadas a los patriarcas.
 
@@ -4911,7 +4911,7 @@ Algunos protestantes ven aquí, sin suficiente motivo, una alusión a la ciudad 
 
 [[423]](#rn-423){:#n-423} [49, 21](#c49-v21) El **ciervo** es símbolo de la rapidez. De la tribu de Neftalí procede el héroe Barac, que a manera de un rayo derrotó a los enemigos.
 
-[[424]](#rn-424){:#n-424} [49, 22](#c49-v22) Texto dudoso. La Vulgata vierte: Hijo que crece, José, hijo que crece y de hermoso aspecto; las doncellas corrieron sobre el muro (para verle).
+[[424]](#rn-424){:#n-424} [49, 22](#c49-v22) Texto dudoso. La *Vulgata* vierte: "Hijo que crece, José, hijo que crece y de hermoso aspecto; las doncellas corrieron sobre el muro (para verle)".
 
 [[425]](#rn-425){:#n-425} [49, 23](#c49-v23) Alusión a los hermanos de José que le calumniaron -esto significan las saetas- o a los enemigos con los cuales habrán de luchar las tribus de José en la conquista de Canaán.
 
@@ -4923,11 +4923,11 @@ Algunos protestantes ven aquí, sin suficiente motivo, una alusión a la ciudad 
 
 [[427]](#rn-427){:#n-427} [49, 25](#c49-v25) Profecía acerca de la fertilidad del futuro país de José (Efraím).
 
-[[428]](#rn-428){:#n-428} [49, 26](#c49-v26) **Los tesoros de los collados perennes**: La Vulgata viere: "hasta que viniese el deseo (o Deseado) de los montes eternos": Los antiguos veían en los montes eternos a los Santos y Patriarcas del Antiguo Testamento, cuyo deseo era ver al Deseado (Cristo). La aplicación a Cristo tropieza, sin embargo, como observa Scío, con la dificultad de que las tribus de José no vieron la venida del Mesías, ya que fueron llevadas al cautiverio de Asiria (722 a. C.) y no volvieron más. Los modernos ven en la "bendiciones de los montes" el rocío y los frutos de la tierra.
+[[428]](#rn-428){:#n-428} [49, 26](#c49-v26) **Los tesoros de los collados perennes**: La *Vulgata* viere: "hasta que viniese el deseo (o Deseado) de los montes eternos": Los antiguos veían en los montes eternos a los Santos y Patriarcas del Antiguo Testamento, cuyo deseo era ver al Deseado (Cristo). La aplicación a Cristo tropieza, sin embargo, como observa Scío, con la dificultad de que las tribus de José no vieron la venida del Mesías, ya que fueron llevadas al cautiverio de Asiria (722 a. C.) y no volvieron más. Los modernos ven en la "bendiciones de los montes" el rocío y los frutos de la tierra.
 
 **Eternos** se llaman porque han sido creados hace muchos siglos y resisten a la destrucción de los tiempos (Simón-Prado). Cf. Deuteronomio [33, 15](deuteronomio#c33-v15); Ezequiel [36, 2](ezequiel#c36-v2); Habacuc [3, 6](habacuc#c3-v6).
 
-**Príncipe entre sus hermanos**: La Vulgata dice: "El Nazareo", o sea el consagrado a Dios, de entre sus hermanos.
+**Príncipe entre sus hermanos**: La *Vulgata* dice: "El Nazareo", o sea el consagrado a Dios, de entre sus hermanos.
 
 [[429]](#rn-429){:#n-429} [49, 27](#c49-v27) Se refiere este versículo a la valentía y al carácter indómito de los "benjaminitas", de cuya tribu procederá el primer rey Saúl, no menos indómito. De la misma tribu saldrá también San Pablo, "lobo rapaz" en doble sentido, primero como perseguidor de la Iglesia, y después de su conversión como intrépido misionero.
 
